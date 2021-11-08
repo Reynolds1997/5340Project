@@ -1,0 +1,1534 @@
+LABEL,WORD,CAP,NUM
+ACQUIRED,Castone Development Corp,1,0
+PURCHASER,Meridian Energy Inc,1,0
+STATUS,terminate the letter of intent,0,0
+ACQUIRED,Users Inc,1,0
+ACQBUS,credit union data processing,0,0
+PURCHASER,Security Pacific Corp,1,0
+STATUS,agreed to withdraw,0,0
+ACQUIRED,American Adventure Inc,1,0
+DLRAMT,83 mln dlrs,0,1
+PURCHASER,Americanture Inc,1,0
+STATUS,purchased,0,0
+ACQUIRED,Arsenal Acquiring Corp,1,0
+PURCHASER,Viacom International Inc,1,0
+SELLER,Arsenal Holdings Inc,1,0
+STATUS,record date,0,0
+ACQUIRED,Capital Food Services Ltd,1,0
+ACQBUS,food services,0,0
+ACQLOC,Ottawa,1,0
+PURCHASER,Scott's Hospitality Inc,1,0
+STATUS,acquired,0,0
+ACQUIRED,cable television business,0,0
+DLRAMT,undisclosed,0,0
+SELLER,Video Display Corfp,1,0
+STATUS,tentiative agreement,0,0
+ACQUIRED,Noblee und Thoerl GmbH,1,0
+ACQBUS,OIL AND FATS,1,0
+ACQLOC,HAMBURG,1,0
+PURCHASER,Oelmuehle Hamburg AG,1,0
+SELLER,Henkel KGaA,1,0
+STATUS,selling,0,0
+ACQUIRED,Pancontinental Mining Ltd,1,0
+ACQBUS,gold and coal mines,0,0
+ACQBUS,natural gas and oil fields,0,0
+ACQLOC,Australia,1,0
+ACQLOC,Canada,1,0
+DLRAMT,1.2 billion Belgian francs,0,1
+PURCHASER,Union Miniere SA,1,0
+STATUS,acquired,0,0
+ACQUIRED,Honeywell Information Systems,1,0
+ACQBUS,computer,0,0
+DLRAMT,527 mln dlrs,0,1
+PURCHASER,Compagnie des Machines Bull,1,0
+PURCHASER,NEC Corp,1,0
+SELLER,Honeywell Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Northwest Federal Savings and Loan Association,1,0
+ACQLOC,"Woodward, Oklahoma",1,0
+PURCHASER,LSB Industries Inc,1,0
+STATUS,entered into an agreement,0,0
+ACQUIRED,Flyfaire International Inc,1,0
+PURCHASER,Shefra Inc,1,0
+SELLER,PLAZA GROUP,1,0
+STATUS,completed,0,0
+ACQUIRED,Borg-Warner (Australia) Ltd,1,0
+ACQBUS,diversified auto parts manufacturer,0,0
+DLRAMT,202.2 mln dlrs,0,1
+PURCHASER,BTR Nylex Ltd,1,0
+SELLER,Borg-Warner Corp,1,0
+STATUS,increase its takeover offer,0,0
+ACQUIRED,Superdrug Stores Plc,1,0
+ACQBUS,retail chemist,0,0
+DLRAMT,244 MLN STG,0,1
+PURCHASER,Woolworth Holdings Plc,1,0
+STATUS,bid,0,0
+ACQUIRED,Hillards Plc,1,0
+PURCHASER,Tesco Plc,1,0
+ACQUIRED,Telefon AB L.M. Ericsson,1,0
+ACQBUS,telecommunications,0,0
+PURCHASER,Knut and Alice Wallenberg Foundation,1,0
+STATUS,raised its holding,0,0
+ACQUIRED,Coastal Bancorp,1,0
+ACQLOC,"Portland, Maine",1,0
+PURCHASER,Suffield Financial Corp,1,0
+STATUS,received approval,0,0
+ACQUIRED,Triton Petroleum Ltd,1,0
+PURCHASER,Canadian Worldwide Energy Ltd,1,0
+SELLER,Triton Energy Corp,1,0
+STATUS,acquired,0,0
+ACQUIRED,Bow Valley Industries Ltd,1,0
+SELLER,Bowcan Holdings Inc,1,0
+STATUS,offering to sell,0,0
+ACQUIRED,Santa Fe Southern Pacific Corp,1,0
+PURCHASER,Henley Group,1,0
+ACQUIRED,Cyclops Corp,1,0
+PURCHASER,OPPENHEIMER,1,0
+ACQUIRED,gypsum wallboard plant,0,0
+ACQLOC,Seattle,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Louisiana Pacific Corp,1,0
+SELLER,Norwest Gypsum,1,0
+STATUS,reached a non-binding agreement in principle,0,0
+ACQUIRED,Quaker State Oil Refining Corp,1,0
+SELLER,Kaufman and Board Inc,1,0
+ACQUIRED,Allegheny International,1,0
+PURCHASER,Mario Gabelli,1,0
+ACQUIRED,Don Lowe Foods Inc,1,0
+ACQBUS,food distributor,0,0
+ACQLOC,"Pompano Beach, Fla.",1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,golden Poultry Co Inc,0,0
+STATUS,letter of intent,0,0
+ACQUIRED,Norton co Pty Ltd,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Global Mining and Industrial Corp,1,0
+SELLER,Norton co,1,0
+STATUS,agreed to sell,0,0
+ACQUIRED,group of mineral properties,0,0
+ACQBUS,gold,0,0
+ACQLOC,southwest Pacific,0,0
+DLRAMT,30 mln Canadian dlrs,0,1
+SELLER,City Resources Ltd,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Portsmouth Savings Bank,1,0
+PURCHASER,Amoskeag Bank Shares Inc,1,0
+STATUS,overturned,0,0
+ACQUIRED,plastic container business,0,0
+PURCHASER,Ball Corp,1,0
+SELLER,Monsanto Co,1,0
+STATUS,unable to complete negotiations,0,0
+ACQUIRED,Atwell Fleming Printing Ltd,1,0
+ACQBUS,financial printer,0,0
+ACQLOC,Canadian,1,0
+DLRAMT,3.2 mln dlrs,0,1
+PURCHASER,Chas. P. Young Co,1,0
+STATUS,agreed to acquire,0,0
+ACQUIRED,Fairfield Manufacturing Co,1,0
+ACQBUS,custom gears for industrial use,0,0
+DLRAMT,70.5 mln dlrs,0,1
+PURCHASER,Neoax Inc,1,0
+SELLER,Rexnord Inc,1,0
+ACQUIRED,GENCORP,1,0
+PURCHASER,General Acquisition Co,1,0
+STATUS,reject,0,0
+ACQUIRED,Rogers and Cowan Inc,1,0
+ACQBUS,Public Relations,1,0
+ACQLOC,LOS ANGELES,1,0
+DLRAMT,2.25 mln dlrs,0,1
+PURCHASER,Shandwick Plc,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,Delhi Australia Fund,1,0
+ACQBUS,oil and gas interests,0,0
+ACQLOC,Australia,1,0
+DLRAMT,almost a billion dlrs,0,0
+PURCHASER,Esso Exploration and Production Australia Inc,1,0
+SELLER,CSR Ltd,1,0
+ACQUIRED,Pioneer Sugar Mills Ltd,1,0
+ACQBUS,raw sugar mills and building materials,0,0
+PURCHASER,CSR Ltd,1,0
+STATUS,offer,0,0
+ACQUIRED,Thies Cos Inc,1,0
+ACQBUS,"poultry, beef and pork products",0,0
+ACQLOC,midwest,0,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Hudson Foods Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,KMG MAIN HURDMAN,1,0
+ACQBUS,public account and consulting,0,0
+ACQLOC,U.S.,1,0
+PURCHASER,PEAT MARWICK,1,0
+STATUS,completed,0,0
+ACQUIRED,NECO Enterprises Inc,1,0
+PURCHASER,David LaRoche,1,0
+STATUS,extended his cash offer,0,0
+ACQUIRED,AirCal,1,0
+PURCHASER,AMR Corp's American Airlines,1,0
+STATUS,plans to complete,0,0
+ACQUIRED,Image Video Inc,1,0
+ACQBUS,produces and distributes videos for the home market,0,0
+DLRAMT,undisclosed sum,0,0
+PURCHASER,Tradestar Corp,1,0
+STATUS,acquired,0,0
+PURCHASER,Alza Corp,1,0
+SELLER,Quest Biotechnology Inc,1,0
+STATUS,agreement,0,0
+ACQUIRED,Pizza Inn Inc,1,0
+PURCHASER,Pantera's Corp,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Gulf Coast Newspapers Inc,1,0
+ACQBUS,community papers,0,0
+ACQLOC,Tampa,1,0
+ACQLOC,St. Petersburg,1,0
+PURCHASER,Tribune Co,1,0
+SELLER,E.W. Scripps Co,1,0
+ACQUIRED,Nippon Lace Co Ltd,1,0
+DLRAMT,16.5 mln dlrs,0,1
+PURCHASER,Lifetime Corp,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,Lucht Engineering Inc,1,0
+PURCHASER,Innovex Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Cyclops Corp,1,0
+SELLER,OPPENHEIMER,1,0
+ACQUIRED,Sociedade de Iniciativa e Aproveitamentos Florestais Sarl,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Sonae Group,1,0
+SELLER,Swedish Match AB,1,0
+STATUS,selling,0,0
+ACQUIRED,Georgia International Life Insurance Co,1,0
+DLRAMT,85 mln dlrs,0,1
+PURCHASER,Southmark Corp,1,0
+SELLER,Capital Holding Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,The Vons Companies,1,0
+ACQBUS,"supermarket, combination store operator",0,0
+PURCHASER,Allied Supermarkets Inc,1,0
+ACQUIRED,a branch in Clinton Township,0,0
+DLRAMT,not disclosed,0,0
+PURCHASER,FIRST NATIONAL BANK CORP,1,0
+STATUS,agreement to buy,0,0
+ACQUIRED,Medicontrol Corp,1,0
+DLRAMT,"500,000 dlr",0,1
+PURCHASER,Searle and Co,1,0
+SELLER,Biotechnology Development Corp,1,0
+ACQUIRED,Johnson Matthey Commodities,1,0
+ACQBUS,precious metals and wholesale non-ferrous metals,0,0
+ACQLOC,New York,1,0
+DLRAMT,14.8 mln dlrs,0,1
+PURCHASER,Deak International,1,0
+SELLER,Minories Finance Limited,1,0
+ACQUIRED,Johnson Matthey Commodities,1,0
+ACQBUS,precious metals and wholesale non-ferrous metals trading,0,0
+ACQLOC,New York,1,0
+DLRAMT,14.8 mln dlrs,0,1
+PURCHASER,Deak International,1,0
+SELLER,Minories Finance Limited,1,0
+STATUS,announced,0,0
+ACQUIRED,Nucell Inc,1,0
+ACQBUS,nuclear battery technology,0,0
+PURCHASER,Peripheral Systems Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,National Bank of North Evanston,1,0
+ACQUIRED,Elgin National bank,1,0
+ACQUIRED,First National Bank of Schiller Park,1,0
+ACQUIRED,Merchants and Manufacturers State Bank in Melrose Park,1,0
+PURCHASER,American National Bank,1,0
+STATUS,completed,0,0
+ACQUIRED,coal properties,0,0
+ACQBUS,mines,0,0
+ACQBUS,coal preparation,0,0
+ACQLOC,West Va.,1,0
+PURCHASER,Peabody Holding Co Inc,1,0
+SELLER,Eastern Gas and Fuel Associate,1,0
+STATUS,completed,0,0
+ACQUIRED,leasehold rights to its aircraft modification and maintenance facility,0,0
+ACQLOC,"Phoenix, Ariz",1,0
+DLRAMT,not released,0,0
+PURCHASER,Dynalectron Corp,1,0
+SELLER,Standard Aero Inc,1,0
+ACQUIRED,Consolidated Brazilian Mines International Inc,1,0
+ACQBUS,diamond and gold,0,0
+ACQLOC,BRAZIL,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Upland Minerals and Chemicals Corp,1,0
+STATUS,agreed to acquire,0,0
+ACQUIRED,Wyona Water Flood Oil and Gas,1,0
+ACQBUS,oil and gas,0,0
+ACQLOC,Oklahoma,1,0
+SELLER,Crown Resources Corp,1,0
+STATUS,plans to sell,0,0
+ACQUIRED,Peabody Holding Co Inc,1,0
+ACQBUS,coal,0,0
+DLRAMT,116.8 mln dlrs,0,1
+SELLER,NEWMONT MINING CORP,1,0
+STATUS,completed,0,0
+ACQUIRED,Retirement Housing Corp,1,0
+PURCHASER,LIfetime Corp,1,0
+STATUS,accepted,0,0
+ACQUIRED,ALOHA INC,1,0
+PURCHASER,AQ Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,Robertsons Pty Ltd,1,0
+ACQLOC,South African,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,a consortium of European and South African investors,0,0
+SELLER,CPC International Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,coal supply agreements and substantially all assets at its two coal mines,0,0
+ACQLOC,Ohio,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Peabody Coal Co,1,0
+SELLER,American Barrick Resources Corp,1,0
+STATUS,sold,0,0
+ACQUIRED,First Presidential Savings and Loan Association,1,0
+ACQLOC,"Sarasota, Fla.",1,0
+DLRAMT,"8,500,000 dlrs",0,1
+PURCHASER,First Federal Savings and Loan Association of Fort Myers,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,Elizabeth Arden Inc,1,0
+ACQBUS,cosmetics and fine fragrance products,0,0
+SELLER,Eli Lilly and Co,1,0
+STATUS,decided to sell,0,0
+ACQUIRED,Union Bancorp of West Virginia Inc,1,0
+ACQUIRED,Wayne Bancorp Inc,1,0
+PURCHASER,Key Centurion Bancshares Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Vernitron Corp,1,0
+PURCHASER,SB Holding Corp,1,0
+STATUS,proposed,0,0
+ACQUIRED,Unitek Corp,1,0
+ACQBUS,orthodontic products,0,0
+ACQLOC,"Monrovia, Calif.",1,0
+PURCHASER,Minnesota Mining and Mfg Co,1,0
+SELLER,Bristol-Myers Co,1,0
+STATUS,completed,0,0
+ACQUIRED,Norddeutsche Affinerie AG,1,0
+PURCHASER,MIM Holdings Ltd,1,0
+SELLER,Preussag AG,1,0
+STATUS,complete,0,0
+ACQUIRED,Nevi Baltic Plc,1,0
+ACQBUS,property and financial services,0,0
+ACQLOC,London,1,0
+PURCHASER,Skandia International Holding AB,1,0
+ACQUIRED,Integrated Management Data Systems Inc,1,0
+ACQBUS,computer retail,0,0
+ACQBUS,accounting software systems,0,0
+ACQBUS,micro-computer products,0,0
+ACQLOC,Denver,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Altex Industries Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Measurement Systems Division,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Canrad Inc,1,0
+SELLER,Page-Wilson Corp,1,0
+ACQUIRED,GenCorp Inc,1,0
+PURCHASER,GENERAL PARTNERS,1,0
+STATUS,prepared to raise its bid,0,0
+ACQUIRED,Bell Industries Inc,1,0
+SELLER,Harris Associates L.P.,1,0
+ACQUIRED,Lake States Transportation Division,1,0
+ACQBUS,rail operations,0,0
+ACQLOC,"Minnesota, Wisconsin, Michigan and Illinois",1,0
+PURCHASER,Wisconsin Central Ltd,1,0
+SELLER,Soo Line Corp,1,0
+STATUS,agreed to sell,0,0
+ACQUIRED,650 video centers,0,1
+ACQBUS,video cassette rental,0,0
+PURCHASER,Stars to Go Inc,1,0
+SELLER,CVS International Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Consumer Packaging Division,1,0
+DLRAMT,175 mln dlrs,0,1
+PURCHASER,Sonoco Products Co,1,0
+SELLER,Boise Cascade Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,Sage Drilling Co Inc,1,0
+DLRAMT,"116,554 dlrs",0,1
+PURCHASER,Arthur Appleton,1,0
+STATUS,acquired,0,0
+ACQUIRED,First Federal Savings and Loan Association of Brooksville,1,0
+PURCHASER,Mid-State Federal Savings and Loan Association,1,0
+STATUS,definitive merger agreement,0,0
+ACQUIRED,FCS LABORATORIES,1,0
+ACQBUS,health care,0,0
+STATUS,ended without agreement,0,0
+ACQUIRED,WOR-TV,1,0
+ACQLOC,"Secaucus, N.J.",1,0
+DLRAMT,387 mln dlrs,0,1
+PURCHASER,MCA Inc,1,0
+SELLER,GENCORP,1,0
+STATUS,completed,0,0
+ACQUIRED,L.E. Myers Co Group,1,0
+PURCHASER,Leonard Chavin,1,0
+STATUS,raised his stake,0,0
+ACQUIRED,Central National Bank of Buckhannon,1,0
+ACQLOC,W. Virginia,1,0
+DLRAMT,16.2 mln dlrs,0,1
+PURCHASER,Key Centurion Bancshares Inc,1,0
+STATUS,agreement in principle,0,0
+ACQUIRED,Hillards Plc,1,0
+DLRAMT,151 mln stg,0,1
+PURCHASER,Tesco Plc,1,0
+STATUS,extending,0,0
+ACQBUS,pipeline and terminal operations,0,0
+DLRAMT,12.2 mln dlrs,0,1
+SELLER,Gulf Applied Technologies Inc,1,0
+ACQUIRED,Sanivan Group Inc,1,0
+ACQBUS,hazardous waste management,0,0
+ACQLOC,Canada,1,0
+PURCHASER,Noranda Inc,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,Plainwell Paper Co Inc,1,0
+ACQBUS,premium coated and uncoated printing papers and technical specialty papers,0,0
+SELLER,Chesapeake Corp,1,0
+ACQUIRED,cable television systems,0,0
+ACQLOC,"Wildwood, N.J.",1,0
+ACQLOC,"Ramapo and Warwick, N.Y.",1,0
+PURCHASER,TKR Cable Co,1,0
+SELLER,TELE-COMMUNICATIONS,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,Allegheny International Inc,1,0
+PURCHASER,"Spear, Leeds and Kellogg",1,0
+STATUS,increased its preferred stock,0,0
+ACQUIRED,Professional Care Inc,1,0
+PURCHASER,CarePlus Inc,1,0
+STATUS,proposed,0,0
+ACQUIRED,Intermedics Inc,1,0
+DLRAMT,30 mln dlrs,0,1
+PURCHASER,Bessemer Securities Corp,1,0
+PURCHASER,Cilluffo Associates,1,0
+STATUS,clearance,0,0
+ACQUIRED,American Dynamics Corp,1,0
+ACQBUS,"gas gathering, transmission and liquids extraction",0,0
+ACQLOC,Columbus,1,0
+PURCHASER,Meridian Reserve Inc,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,San Miguel Corp,1,0
+ACQBUS,food and beverage maker,0,0
+ACQLOC,Philippines,1,0
+PURCHASER,Anheuser-Busch Companies Inc,1,0
+STATUS,joined several other foreign bidders,0,0
+ACQUIRED,Standard Chartered Plc,1,0
+PURCHASER,Bell Group Ltd,1,0
+ACQUIRED,Conrac Corp,1,0
+ACQBUS,computer-related information display and communications equipment,0,0
+STATUS,started negotiations,0,0
+ACQUIRED,Canadian Bashaw Leduc Oil and Gas Ltd,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Erskine Resources Ltd,1,0
+STATUS,agreed,0,0
+ACQUIRED,28 long-term care facilities,0,1
+ACQLOC,seven western states,0,0
+DLRAMT,70 mln dlrs,0,1
+PURCHASER,Southmark Corp,1,0
+ACQUIRED,C.S.C. Security Gaurd Service,1,0
+ACQUIRED,Guard Services Division,1,0
+ACQUIRED,Capital Investigations and Protective Agency,1,0
+ACQUIRED,Meyer Detective Agency Inc,1,0
+ACQUIRED,Certified Security Services Inc,1,0
+ACQUIRED,Custom Security Services,1,0
+ACQUIRED,A-T-E Security Group Inc,1,0
+ACQUIRED,"Louisville, Kent and Nashville, Tenn, offices",1,0
+ACQBUS,security services,0,0
+ACQLOC,"Paramus, N.J.",1,0
+ACQLOC,"Wayne, N.J.",1,0
+ACQLOC,"Hackensack, N.J.",1,0
+ACQLOC,"National Park, N.J.",1,0
+ACQLOC,"Key West, Fla.",1,0
+ACQLOC,"Myrtle Beach, S.C.",1,0
+ACQLOC,Houston,1,0
+DLRAMT,"2,700,000 dlrs",0,1
+PURCHASER,National Guardian Corp,1,0
+SELLER,Cartel Security Consultants Inc,1,0
+SELLER,Security Services of America,1,0
+SELLER,Wells Fargo Alarm Services,1,0
+ACQUIRED,Plaid Pantries Inc,1,0
+ACQBUS,convenience stores,0,0
+ACQLOC,Oregon and Washington,1,0
+PURCHASER,Convenient Food Mart Inc,1,0
+STATUS,tentatively agreed,0,0
+ACQUIRED,Delhi Petroleum Pty Ltd,1,0
+ACQBUS,oil and gas,0,0
+DLRAMT,985 mln dlrs,0,1
+PURCHASER,Exxon Corp,1,0
+SELLER,CSR Ltd,1,0
+STATUS,sold,0,0
+ACQUIRED,British Printing and Communication Corp Plc,1,0
+ACQUIRED,Hollis Plc,1,0
+SELLER,Pergamon Holdings Ltd,1,0
+STATUS,sold,0,0
+ACQUIRED,Clevite Industries Inc,1,0
+PURCHASER,J.P. Industries Inc,1,0
+STATUS,received a written proposal,0,0
+ACQUIRED,Waccamaw State Bank,1,0
+ACQLOC,"Surfside Beach, S.C.",1,0
+PURCHASER,Anchor Financial Corp,1,0
+STATUS,agreed to acquire,0,0
+ACQUIRED,Spectrum Holding Corp,1,0
+ACQBUS,asbestos abatement,0,0
+DLRAMT,13 mln dlrs,0,1
+PURCHASER,LVI Group Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Builders Transport Inc,1,0
+PURCHASER,Harris Associates L.P.,1,0
+STATUS,raised its stake,0,0
+ACQUIRED,COMPUTER ACCESS CORP,1,0
+ACQBUS,full-text search and retrieval software,0,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Lotus Development Corp,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,Faygo Beverages Inc,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,National Beverage Corp,1,0
+STATUS,agreed to acquire,0,0
+ACQUIRED,Hawaiian dairy operations,1,0
+DLRAMT,13 mln dlrs,0,1
+PURCHASER,Foremost Foods Inc,1,0
+SELLER,Knudsen Foods Inc,1,0
+STATUS,agreement to sell,0,0
+ACQUIRED,Broussard oil and gas field,1,0
+ACQBUS,natural gas,0,0
+ACQLOC,southern Louisiana,0,0
+DLRAMT,22.5 mln dlrs,0,1
+PURCHASER,Nerco Inc,1,0
+SELLER,Davis Oil Co,1,0
+ACQUIRED,Atcor Inc,1,0
+DLRAMT,6.1 mln dlrs,0,1
+PURCHASER,Great American Management and Investment Inc,1,0
+STATUS,acquired,0,0
+ACQUIRED,IPCO Corp,1,0
+DLRAMT,4.9 mln dlrs,0,1
+PURCHASER,MP Co,1,0
+ACQUIRED,Cadillac Fairview Corp Ltd,1,0
+STATUS,received proposals,0,0
+ACQUIRED,Western Plastics Corp,1,0
+ACQBUS,polystyrene foam and container products,0,0
+DLRAMT,16.25 mln dlrs,0,1
+PURCHASER,Globe Machine Manufacturing Co,1,0
+SELLER,Hepworth Ceramic Holdings Plc,1,0
+ACQUIRED,Dome Petroleum Ltd,1,0
+ACQBUS,oil and gas,0,0
+ACQLOC,Canada,1,0
+DLRAMT,4.3 billion dlr,0,1
+PURCHASER,TransCanada PipeLines Ltd,1,0
+STATUS,takeover battle,0,0
+ACQUIRED,South Atlantic Financial Corp,1,0
+ACQBUS,insurance,0,0
+PURCHASER,Independence Holding Co,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Salt Lake City Division,1,0
+ACQBUS,supermarkets,0,0
+ACQLOC,"Utah, Idaho and Wyoming",1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Borman's Inc,1,0
+SELLER,Safeway Stores Inc,1,0
+STATUS,agreed to sell,0,0
+ACQUIRED,"Huron, South Dakota, pork plant",1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Huron Dressed Beef,1,0
+SELLER,Swift Independent Packing Co,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Borg-Warner Corp,1,0
+DLRAMT,4.23 billion dlr,0,1
+PURCHASER,Merrill Lynch Capital Partners,1,0
+SELLER,GAF Corp,1,0
+STATUS,studying an agreement,0,0
+ACQUIRED,San/Bar Corp,1,0
+PURCHASER,Resdel Industries,1,0
+ACQUIRED,Revlon Group Inc,1,0
+DLRAMT,782 mln dlrs,0,1
+PURCHASER,MacAndrews and Forbes Group,1,0
+STATUS,entered into a definitive mergewr agreement,0,0
+ACQUIRED,Celeron Corp,1,0
+ACQBUS,oil and gas,0,0
+DLRAMT,two billion dlrs,0,0
+SELLER,Goodyear Tire and Rubber Co,1,0
+STATUS,expects to sell,0,0
+ACQUIRED,Centurion Savings and Loan Association,1,0
+ACQLOC,Los Angeles,1,0
+PURCHASER,ATLANTIC FINANCIAL,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,MCC-Presidential Inc,1,0
+PURCHASER,First Montauk Securities Corp,1,0
+ACQUIRED,computer systems division,0,0
+PURCHASER,Rotan Mosle Technology Partners Ltd,1,0
+SELLER,Digicon Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Sobeys Stores Ltd,1,0
+PURCHASER,Empire Co Ltd,1,0
+ACQUIRED,Cincinnati non-wireline cellular system,1,0
+ACQLOC,Cincinnati,1,0
+PURCHASER,Cellular Communications Inc,1,0
+ACQUIRED,Borg-Warner Corp,1,0
+DLRAMT,4.23 billion dlr,0,1
+PURCHASER,Merrill Lynch Capital Partners,1,0
+ACQUIRED,Allied Research Inc,1,0
+ACQUIRED,Consolidated Insurance Services Inc,1,0
+ACQBUS,underwriting information services,0,0
+ACQLOC,"Salem, Ore.",1,0
+ACQLOC,"Springfield, Va.",1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Policy Management Systems Corp,1,0
+ACQUIRED,Holleb and Co,1,0
+ACQBUS,foodservice distributor,0,0
+ACQLOC,"Bensenville, Ill",1,0
+DLRAMT,withheld,0,0
+PURCHASER,Kraft Inc,1,0
+ACQUIRED,Dome Petroleum Ltd,1,0
+PURCHASER,Amoco Corp,1,0
+ACQUIRED,CalMat Co,1,0
+DLRAMT,10.5 mln dlrs,0,1
+PURCHASER,Industrial Equity (Pacific) Ltd,1,0
+ACQUIRED,Hal Roach Studios Inc,1,0
+DLRAMT,6.3 mln U.S. dlrs,0,1
+PURCHASER,Qintex America (Media) Ltd,1,0
+SELLER,International H.R.S. Industries Inc,1,0
+STATUS,would reduce,0,0
+ACQUIRED,Flagship Cleaning Services Inc,1,0
+ACQBUS,domestic carpet and upholstery cleaning,0,0
+ACQLOC,Philadelphia,1,0
+DLRAMT,24 MLN DLRS,0,1
+PURCHASER,Best Co Inc,1,0
+SELLER,Northserv Inc,1,0
+STATUS,agreed to sell,0,0
+ACQUIRED,Carling O'Keefe Ltd,1,0
+PURCHASER,Elders IXL Ltd,1,0
+SELLER,Rothmans International Plc,1,0
+STATUS,approved,0,0
+ACQUIRED,Sun Co,1,0
+SELLER,Glenmede Trust Co,1,0
+STATUS,plans to sell,0,0
+ACQUIRED,a privately-held company,0,0
+PURCHASER,Molecular Genetics Inc,1,0
+STATUS,preliminary discussions,0,0
+ACQUIRED,Allegheny International,1,0
+PURCHASER,An investor group led by New York money manager Mario Gabelli,1,0
+STATUS,raised its stake,0,0
+ACQUIRED,CTS Corp,1,0
+PURCHASER,Dynamics Corp of America,1,0
+STATUS,reached an agreement,0,0
+ACQUIRED,Northern Engineering and Testing Inc,1,0
+ACQLOC,northwestern United States,0,0
+PURCHASER,Huntingdon International Holdings plc,1,0
+ACQUIRED,Kurt A. Becher GmbH and Co KG,1,0
+ACQBUS,feedstuff and grain,0,0
+ACQLOC,West Germany,1,0
+PURCHASER,ConAgra Inc,1,0
+ACQUIRED,North Sea blocks,1,0
+PURCHASER,Midland and Scottish Resources Ltd,1,0
+SELLER,Chevron Petroleum (U.K.) Ltd,1,0
+ACQUIRED,Nutone,1,0
+ACQUIRED,Yale,1,0
+ACQBUS,built-in electric products for the housing market,0,0
+ACQBUS,door locks and electronic security products,0,0
+DLRAMT,400 mln dlrs,0,1
+PURCHASER,Valor PLC,1,0
+SELLER,First City Industries Inc,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,Society for Savings Bancorp Inc,1,0
+ACQLOC,Conneticut,1,0
+PURCHASER,Delaware-chartered bank holding company,1,0
+STATUS,completed,0,0
+ACQUIRED,Pizza Inn Inc,1,0
+DLRAMT,1.75 mln dlrs,0,1
+PURCHASER,Saul Steinberg,1,0
+STATUS,acquired,0,0
+ACQUIRED,Piezo Electric Products Inc,1,0
+PURCHASER,Corporate Life Insurance Co,1,0
+STATUS,acquired,0,0
+ACQUIRED,Video Monitors Inc,1,0
+ACQBUS,video display and and video monitor devices,0,0
+ACQLOC,Wisconsin,1,0
+DLRAMT,3.92 mln dlrs,0,1
+PURCHASER,Dotronix Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,BresLube Enterprises,1,0
+ACQBUS,collects used lubricating oils,0,0
+ACQLOC,Toronto,1,0
+DLRAMT,12 mln dlrs,0,1
+PURCHASER,Safety-Kleen Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,USAir Group Inc,1,0
+PURCHASER,Trans World Airlines,1,0
+STATUS,offer,0,0
+ACQUIRED,Alliance Semiconductor Corp,1,0
+ACQLOC,"Santa Clara, Calif",1,0
+PURCHASER,Piosec Technology Ltd,1,0
+ACQUIRED,Link Technologies Inc,1,0
+ACQBUS,computer terminals,0,0
+PURCHASER,Wyse Technology,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Burlington Industries Inc,1,0
+SELLER,Asher Edelman,1,0
+SELLER,Dominion Textile Inc,1,0
+SELLER,Samjens Acqusition Corp,1,0
+STATUS,lowered their stake,0,0
+ACQUIRED,North Port Bank,1,0
+ACQUIRED,City Commerical Bank,1,0
+ACQBUS,banks,0,0
+ACQLOC,North Port,1,0
+ACQLOC,Sarasota,1,0
+PURCHASER,First Union Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,Monier Ltd,1,0
+ACQBUS,building products,0,0
+PURCHASER,Equiticorp Tasman Ltd,1,0
+STATUS,will offer,0,0
+ACQUIRED,Europeesche Verzekering Maatschappij N.V.,1,0
+ACQBUS,travel and recreation insurance,0,0
+ACQLOC,Swiss,1,0
+PURCHASER,Stad Rotterdam Anno 1720 N.V.,1,1
+ACQUIRED,Total Exploration Australia Pty Ltd,1,0
+PURCHASER,Santos Ltd,1,0
+SELLER,Total Holdings (Australia) Pty Ltd,1,0
+ACQUIRED,Automatic Toll Systems Inc,1,0
+DLRAMT,26 mln dlrs,0,1
+PURCHASER,Cubic Corp,1,0
+SELLER,BASIX CORP,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,water properties,0,0
+ACQLOC,Kansas,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Central Kansas Utility Co,1,0
+SELLER,Centel Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,Virginia Federal Savings and Loan Association,1,0
+ACQBUS,mortgage and lending services,0,0
+ACQLOC,Virginia,1,0
+DLRAMT,20 mln dlrs,0,1
+PURCHASER,Montrose Holding Co,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,Clayton steel plate mill,1,0
+DLRAMT,eight mln dlrs,0,0
+SELLER,Phoenix Steel Corp,1,0
+STATUS,offered to buy,0,0
+ACQUIRED,"First National Bank of Bloomington, Ind",1,0
+ACQLOC,INDIANA,1,0
+PURCHASER,Banc One Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,coffee roasting plant,0,0
+ACQBUS,coffee,0,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Superior Coffee and Foods,1,0
+SELLER,Stewart Sandwiches Inc,1,0
+ACQUIRED,Thomas Nationwide Computer Corp,1,0
+ACQBUS,new and used International Business Machines Corp equipment,0,0
+PURCHASER,PACIFICORP,1,0
+ACQUIRED,Pay 'N Pak Stores Inc,1,0
+PURCHASER,a leveraged buyout firm,0,0
+STATUS,revision,0,0
+ACQUIRED,Rexnord Inc,1,0
+PURCHASER,Banner Industries Inc,1,0
+ACQUIRED,Air New Zealand Ltd,1,0
+PURCHASER,the public,0,0
+SELLER,New Zealand Government,1,0
+ACQUIRED,S.And W. Berisford Plc,1,0
+ACQBUS,"commodities, property, financial services and food",0,0
+STATUS,making every possible effort to remain independent,0,0
+ACQUIRED,Piedmont Aviation Inc,1,0
+PURCHASER,USAir Group Inc,1,0
+STATUS,proposed,0,0
+ACQUIRED,Dey Brothers Stores,1,0
+ACQLOC,"Syracuse, N.Y.",1,0
+PURCHASER,May Department Stores Co,1,0
+SELLER,Allied Stores Corp,1,0
+STATUS,terminated an agreement,0,0
+ACQUIRED,Balzec Investments Inc,1,0
+ACQBUS,battery charger product,0,0
+ACQLOC,Dallas,1,0
+DLRAMT,not disclose,0,0
+PURCHASER,Magellan Corp,1,0
+STATUS,approved,0,0
+ACQUIRED,CBC Bancorp Inc,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Union Planters Corp,1,0
+STATUS,will be acquired,0,0
+ACQUIRED,Chemetron Railway Products,1,0
+ACQUIRED,True Temper Railway Appliances Inc,1,0
+ACQUIRED,Allegheny Axle Co,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Chemetron Railway Products Inc,1,0
+SELLER,Allegheny International Inc,1,0
+STATUS,sold,0,0
+ACQUIRED,Cetus Corp,1,0
+PURCHASER,Squibb Corp,1,0
+STATUS,not interested in buying,0,0
+ACQUIRED,Zoran Corp,1,0
+ACQBUS,large scale integrated circuits,0,0
+ACQLOC,California,1,0
+DLRAMT,1.5 mln dlrs,0,1
+PURCHASER,Mitsui and Co Ltd,1,0
+ACQUIRED,Commercial Resources Corp in,1,0
+PURCHASER,MTech Corp,1,0
+ACQUIRED,Chaparral Airlines inc,1,0
+ACQLOC,Dallas/Fort Worth,1,0
+DLRAMT,"5,700,000 dlrs",0,1
+PURCHASER,Metro Airlines Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,RB Industries Inc,1,0
+SELLER,Jeffrey Neuman,1,0
+STATUS,sold,0,0
+ACQUIRED,Energy Factors Inc,1,0
+DLRAMT,100 mln dlrs,0,1
+PURCHASER,Sithe-Energies LP,1,0
+STATUS,signed an agreement,0,0
+ACQUIRED,VR Business Brokers Inc,1,0
+PURCHASER,VR Acquisition Corp,1,0
+STATUS,closed the sale,0,0
+ACQUIRED,Silicon Systems Inc,1,0
+SELLER,A group of Boston investors and investment partnerships,1,0
+STATUS,sold,0,0
+ACQUIRED,Anderson Clayton Foods Division,1,0
+DLRAMT,235 mln dlrs,0,1
+PURCHASER,Kraft Inc,1,0
+SELLER,Quaker Oats Co,1,0
+STATUS,completed,0,0
+ACQUIRED,Westwood Energy Properties Limited Partnership,1,0
+ACQBUS,electric generation,0,0
+ACQLOC,"Schuykill County, Penn.",1,0
+DLRAMT,10 mln dlrs,0,1
+PURCHASER,UtilCo Group,1,0
+SELLER,Westwood Funding Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,New Generation Inc,1,0
+ACQBUS,consumer electronics specialty retailer,0,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Federal Resources Corp,1,0
+ACQUIRED,Crazy Eddie Inc,1,0
+ACQBUS,electronics,0,0
+ACQLOC,"Edison, N.J.",1,0
+PURCHASER,Enetertainment Marketing Inc,1,0
+STATUS,may pursue a merger,0,0
+ACQUIRED,Western Kentucky Gas Co,1,0
+ACQBUS,gas distribution,0,0
+ACQLOC,Kentucky,1,0
+DLRAMT,61.5 mln dlrs,0,1
+PURCHASER,Energas Co,1,0
+SELLER,Texas American Energy Corp,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Unicoa Corp,1,0
+PURCHASER,United Insurance Co of America,1,0
+STATUS,agreed,0,0
+ACQUIRED,CARDIS CORP,1,0
+ACQBUS,auto parts,0,0
+ACQLOC,Los Angeles,1,0
+PURCHASER,Brookehill Partners Inc,1,0
+ACQUIRED,Universal Communication Systems Inc,1,0
+DLRAMT,79 mln dlrs,0,1
+STATUS,tentatively agreed,0,0
+ACQUIRED,TecSyn International Inc,1,0
+PURCHASER,U.S.-based investors group,1,0
+STATUS,terminated,0,0
+ACQUIRED,D and K Financial Corp,1,0
+ACQBUS,leasing of fleets of cars,0,0
+DLRAMT,not disclosed,0,0
+PURCHASER,GE Credit Corp,1,0
+SELLER,Kraft Inc,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,JAPAN FUND,1,0
+PURCHASER,Sterling Grace Capital Management L.P.,1,0
+ACQUIRED,Trans World Airlines Inc,1,0
+PURCHASER,Carl C. Icahn,1,0
+STATUS,withdrawn his proposal,0,0
+ACQUIRED,Irving Bank Corp,1,0
+PURCHASER,Bank of New York Corp,1,0
+STATUS,reaffirmed the terms,0,0
+ACQUIRED,Telex Corp,1,0
+PURCHASER,TLX Partners,1,0
+ACQUIRED,Citizens Bank of Roseville,1,0
+PURCHASER,First Commercial Bancorp,1,0
+STATUS,will acquire,0,0
+ACQUIRED,Caledonian Airmotive Ltd,1,0
+ACQBUS,repairs and rebuilds aircraft engines,0,0
+PURCHASER,Ryder System Inc,1,0
+SELLER,British Caledonian Group PLC,1,0
+STATUS,acquired,0,0
+ACQUIRED,firm that performs interior cleaning services for tank-trailers,0,0
+PURCHASER,Allwaste Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Southern Pacific Transportation Co,1,0
+PURCHASER,Henley Group Inc,1,0
+SELLER,Sante Fe Southern Pacific Corp,1,0
+STATUS,ended talks,0,0
+ACQUIRED,PMS CONSOLIDATED,1,0
+ACQBUS,colorants for the plastics industry,0,0
+PURCHASER,M.A. HANNA CO,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,a shrimp packing plant,0,0
+ACQLOC,Ecuador,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Baltek Corp,1,0
+STATUS,acquired,0,0
+ACQUIRED,Hal Roach Studios Inc,1,0
+DLRAMT,115 mln dlrs,0,1
+PURCHASER,Robert Halmi Inc,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,Atomika Technische Physik,1,0
+ACQBUS,surface science instruments,0,0
+ACQLOC,"Munich, West Germany",1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Perkin-Elmer Corp,1,0
+STATUS,acquired,0,0
+ACQUIRED,Northview Corp,1,0
+PURCHASER,Calmark Financial Corp,1,0
+STATUS,agreement in principal,0,0
+ACQUIRED,Triton Oil Corp,1,0
+PURCHASER,Industrial Equity (Pacific) Ltd,1,0
+STATUS,acquired,0,0
+ACQUIRED,plant,0,0
+ACQLOC,"Napa, Calif",1,0
+DLRAMT,16 mln dlrs,0,1
+PURCHASER,Oregon Steel Mills,1,0
+SELLER,Kaiser Steel Corp,1,0
+STATUS,purchased,0,0
+ACQUIRED,IDC Services Inc,1,0
+DLRAMT,62.4 mln dlrs,0,1
+PURCHASER,IDC Acquisition Corp,1,0
+STATUS,begin a cash tender offer,0,0
+STATUS,definitive agreement,0,0
+ACQUIRED,Pneumo Abex,1,0
+ACQBUS,aerospace and defense,0,0
+SELLER,IC Industries Inc,1,0
+ACQUIRED,Cental Soya Co Inc,1,0
+DLRAMT,370 mln dlrs,0,1
+PURCHASER,Ferruzzi Agricola Finanziaria,1,0
+SELLER,Shamrock Capital LP,1,0
+STATUS,completed,0,0
+ACQUIRED,Cental Soya Co Inc,1,0
+PURCHASER,Ferruzzi Agricola Finanziaria,1,0
+SELLER,Shamrock Capital LP,1,0
+STATUS,completed,0,0
+ACQUIRED,GAF Corp,1,0
+PURCHASER,Samuel J. Heyman,1,0
+STATUS,reconsider,0,0
+ACQUIRED,Bell Petroleum Services Inc,1,0
+PURCHASER,Regal International Inc,1,0
+STATUS,doubled its offer,0,0
+ACQUIRED,"Rigolleau, S.A.",1,0
+ACQBUS,glass manufacturer,0,0
+ACQLOC,Argentine,1,0
+PURCHASER,Camillo Gancia,1,0
+SELLER,Corning International Corp,1,0
+STATUS,agreed to transfer,0,0
+ACQUIRED,Bankhaus Centrale Credit AG,1,0
+ACQLOC,West German,1,0
+PURCHASER,Banco Santander,1,0
+SELLER,Bank of America,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,Entrepo Financial Resources Inc,1,0
+ACQBUS,high technology equipment,0,0
+ACQLOC,Philadelphia,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,AMOSKEAG BANK,1,0
+STATUS,agreement,0,0
+ACQUIRED,Baker International Corp,1,0
+ACQBUS,oil field service,0,0
+PURCHASER,Hughes Tool Co,1,0
+STATUS,under consideration,0,0
+ACQUIRED,Enzon Inc,1,0
+ACQBUS,pharmaceutical,0,0
+PURCHASER,Eastman Kodak Co,1,0
+ACQUIRED,privately-held specialty plastics manufacturing company,0,0
+PURCHASER,Texon Energy Corp,1,0
+STATUS,preliminary agreement,0,0
+ACQUIRED,Lincoln Savings Bank,1,0
+PURCHASER,Unicorp American Corp,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,Acme Holding corp,1,0
+ACQUIRED,Plan-A-Flex Designer Co,1,0
+ACQBUS,sliding and folding door hardware,0,0
+ACQBUS,kits for home design and remodeling projects,0,0
+DLRAMT,not disclosed,0,0
+PURCHASER,STANLEY WORKS,1,0
+STATUS,acquired,0,0
+ACQUIRED,ready-mixed concrete and aggregates businesses,0,0
+ACQBUS,CONCRETE,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Lone Star Industries Inc,1,0
+SELLER,Riedel International Inc,1,0
+ACQUIRED,Republic Health Corp,1,0
+DLRAMT,not been disclosed,0,0
+PURCHASER,Pesch and Co,1,0
+SELLER,REPH Acquisition Co,1,0
+STATUS,negotiate the terms,0,0
+ACQUIRED,USAir Group Inc,1,0
+ACQBUS,airline,0,0
+PURCHASER,Trans World Airlines Inc,1,0
+STATUS,filed suit,0,0
+ACQUIRED,IMRE Corp,1,0
+PURCHASER,group of European institutions,0,0
+ACQUIRED,Westfiar Funding Corp,1,0
+ACQLOC,"Armonk, N.Y.",1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Commonwealth Mortgage Co,1,0
+ACQUIRED,Southwest Forest Industries Inc,1,0
+PURCHASER,Stone Container Corp,1,0
+STATUS,completed all waiting period requirements,0,0
+ACQUIRED,Southwest Forest Industries,1,0
+PURCHASER,Stone Container Corp,1,0
+ACQUIRED,Taft Broadcasting Co,1,0
+PURCHASER,Narragansett Capital Inc,1,0
+PURCHASER,Dudley S. Taft,1,0
+STATUS,requested a response,0,0
+ACQUIRED,railroad assets,0,0
+ACQBUS,railroad,0,0
+PURCHASER,Santa Fe Southern Pacific Corp,1,0
+PURCHASER,Southern Pacific Railroads,1,0
+STATUS,rejection,0,0
+ACQUIRED,Fermenta AB,1,0
+SELLER,NORDBANKEN,1,0
+ACQUIRED,The First Women's Bank,1,0
+PURCHASER,investor group,0,0
+STATUS,expired,0,0
+ACQUIRED,Bench Craft Inc,1,0
+PURCHASER,Universal Furniture Ltd,1,0
+ACQUIRED,Hughes Tool Co,1,0
+PURCHASER,Baker International Corp,1,0
+ACQUIRED,Star Oil and Gas Ltd,1,0
+DLRAMT,57 mln dlrs cash,0,1
+PURCHASER,United Coal (Canada) Ltd,1,0
+SELLER,Carling O'Keefe Ltd,1,0
+STATUS,sold,0,0
+ACQUIRED,DTD ENTERPRISES INC,1,0
+PURCHASER,EaglesLair Development Corp,1,0
+STATUS,assumed control,0,0
+ACQUIRED,certain producing and non-producing natural gas properties,0,0
+ACQLOC,southwestern Saskatchewan,0,0
+SELLER,Canadian Natural Resources Ltd,1,0
+ACQUIRED,WTRK Inc,1,0
+ACQBUS,radio station,0,0
+ACQLOC,Philadelphia,1,0
+DLRAMT,13.8 mln dlrs,0,1
+PURCHASER,Malrite Guaranteed Broadcast Partners L.P.,1,0
+SELLER,Cox Enterprises Inc,1,0
+ACQUIRED,Rubbertech Inc,1,0
+PURCHASER,Broker's Choice Capital Inc,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,United Asian Bank Bhd,1,0
+PURCHASER,Malaysia's central bank,1,0
+STATUS,acquired,0,0
+ACQUIRED,South Bay Savings and Loan Association,1,0
+ACQLOC,Newport Beach,1,0
+PURCHASER,Standard Pacific LP,1,0
+STATUS,acquired,0,0
+ACQUIRED,Caesars World Inc,1,0
+ACQBUS,casino hotels,0,0
+ACQBUS,honeymoon resorts,0,0
+ACQLOC,Nevada,1,0
+ACQLOC,Pennsylvania's Pocono Mountains,1,0
+PURCHASER,MTS Acquisition Corp,1,0
+STATUS,started a tender offer,0,0
+ACQUIRED,Imperial Continental Gas Association,1,0
+DLRAMT,one billion stg,0,0
+PURCHASER,SHV (United Kingdom) Holding Co Ltd,1,0
+STATUS,making a tender offer,0,0
+DLRAMT,500 mln dlrs,0,1
+PURCHASER,First Boston Corp,1,0
+SELLER,Allegheny International Inc,1,0
+ACQUIRED,American Motors Corp,1,0
+DLRAMT,757 mln dlr,0,1
+PURCHASER,Chrysler Corp,1,0
+ACQUIRED,Technology Development Corp,1,0
+DLRAMT,"350,000 dlrs",0,1
+PURCHASER,Leon Greenblatt,1,0
+STATUS,acquired,0,0
+ACQUIRED,American Motors Corp,1,0
+DLRAMT,757 MLN DLRS,0,1
+PURCHASER,Chrysler Corp,1,0
+SELLER,Renault,1,0
+STATUS,proposed,0,0
+ACQUIRED,All Ticket Group PLC,1,0
+ACQBUS,special events travel company,0,0
+ACQLOC,London,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Consolidated Grandview Inc,1,0
+ACQUIRED,Imperial Continental Gas Association,1,0
+PURCHASER,Tractebel SA,1,0
+PURCHASER,Groupe Bruxelles Lambert SA,1,0
+ACQUIRED,five rural hospitals,0,0
+DLRAMT,18 mln dlrs,0,1
+PURCHASER,a private corporation,0,0
+SELLER,National Heathcare Inc,1,0
+STATUS,signed an agreement,0,0
+ACQUIRED,Beatrice U.S. Food Corp,1,0
+ACQBUS,bottled water,0,0
+ACQLOC,"Monterey Park, Calif.",1,0
+SELLER,BCI Holdings Corp,1,0
+ACQUIRED,Viacom International Inc,1,0
+DLRAMT,3.4 billion dlrs,0,1
+PURCHASER,National Amusements Inc,1,0
+STATUS,agreed to work together,0,0
+ACQUIRED,Taft Broadcasting Co,1,0
+PURCHASER,Carl Lindner,1,0
+STATUS,discussed,0,0
+ACQUIRED,Hausereman Inc,1,0
+PURCHASER,Bahamas-based firm,1,0
+ACQUIRED,Goodyear Aerospace Corp,1,0
+DLRAMT,588 MLN DLRS,0,1
+PURCHASER,Loral Corp,1,0
+SELLER,Goodyear Tire and Rubber Co,1,0
+ACQUIRED,Kaiser Cement's Northwest Terminals and Montana City plant,1,0
+ACQBUS,cement producer,0,0
+DLRAMT,50.2 mln dlrs,0,1
+PURCHASER,Lone Star Industries Inc,1,0
+PURCHASER,Ash Grove Cement West Inc,1,0
+SELLER,Hanson Industries,1,0
+ACQUIRED,Marketech Inc,1,0
+ACQBUS,patient-ready home infusion therapy products and services,0,0
+ACQLOC,New Jersery,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Continental Health Affiliates Inc,1,0
+STATUS,acquired,0,0
+ACQUIRED,Gleason Securities Service Inc,1,0
+ACQUIRED,Gleason Plant Security Inc,1,0
+ACQBUS,security guard services,0,0
+ACQLOC,New York,1,0
+ACQLOC,Connecticut,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Sahlen and Associates Inc,1,0
+ACQUIRED,Triplett Electrical Instrument Corp,1,0
+ACQUIRED,Alltest,1,0
+ACQLOC,"Bluffton, Ohio",1,0
+ACQLOC,"Hoffman Estates, Ill.",1,0
+SELLER,Penril Corp,1,0
+STATUS,seeking to sell,0,0
+ACQUIRED,Biltmore Hotel,1,0
+ACQLOC,Santa Barbara,1,0
+DLRAMT,undisclosed amount,0,0
+PURCHASER,Four Seasons Hotels,1,0
+PURCHASER,VMS Realty Partners,1,0
+SELLER,Marriott Corp,1,0
+STATUS,agreed to purchase,0,0
+ACQUIRED,American Video Group Inc,1,0
+ACQBUS,video rental concessions,0,0
+PURCHASER,Paralax Video Enterprises Inc,1,0
+STATUS,agreeed to acquire,0,0
+ACQUIRED,South Western Engineering Co,1,0
+ACQBUS,heat transfer equipment,0,0
+DLRAMT,12.5 MLN DLR,0,1
+PURCHASER,Senior Engineering Group Plc,1,0
+SELLER,Cronus Industries Inc,1,0
+STATUS,reached agreement,0,0
+ACQUIRED,Trico Industries Inc,1,0
+PURCHASER,Paccar Inc,1,0
+STATUS,proposed,0,0
+ACQUIRED,Hughes Tool Co,1,0
+PURCHASER,Baker International Corp,1,0
+STATUS,approved,0,0
+ACQUIRED,Taft Braodacasting Co,1,0
+PURCHASER,Theta Corp,1,0
+STATUS,decided not to accept,0,0
+ACQUIRED,Taft Broadcasting Co,1,0
+PURCHASER,Dudley Taft,1,0
+PURCHASER,Narragansett Capital Inc,1,0
+STATUS,intend to pursue,0,0
+ACQUIRED,Winley Inc,1,0
+ACQBUS,homebuilder,0,0
+ACQLOC,"Englewood, Colo.",1,0
+PURCHASER,CONCORDE VENTURES INC,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,Princeville Development Corp,1,0
+PURCHASER,Qintex America Ltd,1,0
+STATUS,extending its offer,0,0
+ACQUIRED,industrial products group,0,0
+ACQBUS,standard and custom engineered centrifugal pumps and mechanical seals,0,0
+ACQBUS,advanced controls,0,0
+ACQLOC,"Long Beach, California",1,0
+DLRAMT,240 MLN DLRS,0,1
+PURCHASER,Clayton and Dubilier Inc,1,0
+SELLER,Borg-Warner Corp,1,0
+STATUS,agreed to sell,0,0
+PURCHASER,Merrill Lynch Canada Inc,1,0
+STATUS,considering,0,0
+ACQUIRED,High Technology,1,0
+ACQBUS,publishes information about emerging technologies and their impact on business,0,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Biotech Capital Corp,1,0
+SELLER,Goldhirsh Group,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,Instinet Corp,1,0
+PURCHASER,Reuters Holdings PLC,1,0
+STATUS,proposed,0,0
+ACQUIRED,Bancroft Convertible Fund Inc,1,0
+PURCHASER,Zico INvestment Holdings INc,1,0
+ACQUIRED,Protein Databases Inc,1,0
+PURCHASER,Millipore Corp,1,0
+STATUS,acquired,0,0
+ACQUIRED,Biopool AB,1,0
+ACQBUS,cardiovascular and fibrinolytic products,0,0
+ACQLOC,"Umea, Sweden",1,0
+DLRAMT,undisclosed terms,0,0
+PURCHASER,CytRx Biopool Ltd,1,0
+ACQUIRED,Golden Nugget Casino Hotel,1,0
+ACQLOC,"Atlantic City, New Jersey",1,0
+PURCHASER,Bally Manufacturing Corp,1,0
+SELLER,Golden Nugget Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Sanchez Computer Associates Inc,1,0
+ACQBUS,computer software,0,0
+ACQLOC,"Malvern, Pa",1,0
+DLRAMT,2.5 mln dlr,0,1
+PURCHASER,Safeguard Scientifics Inc,1,0
+ACQUIRED,Princeville Airways Inc,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Aloha Inc,1,0
+SELLER,Princeville Development Corp,1,0
+STATUS,agreed to terms,0,0
+ACQUIRED,Seashore Bankshares Inc,1,0
+PURCHASER,New Hampshire Savings Bank Corp,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,HOUSTON CHRONICLE,1,0
+ACQBUS,paper,0,0
+DLRAMT,400 MLN DLRS,0,1
+PURCHASER,Hearst Corp,1,0
+SELLER,Houston Endowment Inc,1,0
+ACQUIRED,Cheetham Ltd,1,0
+ACQBUS,"salt, animal feed and seeds",0,0
+DLRAMT,110 mln dlrs,0,1
+PURCHASER,Acmex Holdings Ltd,1,0
+STATUS,proposed,0,0
+ACQUIRED,Hillards Plc,1,0
+ACQBUS,supermarket chain,0,0
+PURCHASER,County Ltd,1,0
+PURCHASER,Tesco Plc,1,0
+STATUS,purchased,0,0
+ACQUIRED,Heinl's Nursery Inc,1,0
+ACQLOC,Miami,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,American Nursery Products Inc,1,0
+STATUS,purchased,0,0
+ACQUIRED,Caesars World Inc,1,0
+PURCHASER,Martin T. Sosnoff,1,0
+STATUS,rejected,0,0
+ACQUIRED,Walter-Richter Labels Inc,1,0
+ACQBUS,woven labels,0,0
+ACQLOC,"Paterson, N.J.",1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Packaging Systems Corp,1,0
+STATUS,agreed to acquire,0,0
+ACQUIRED,Cenergy Corp,1,0
+PURCHASER,Bryson Oil and Gas plc,1,0
+ACQUIRED,Antibioticos SA,1,0
+ACQBUS,pharmaceuticals,0,0
+ACQLOC,Spanish,1,0
+DLRAMT,500 billion lire,0,1
+PURCHASER,Montedison Spa,1,0
+STATUS,concluded its negotiations,0,0
+ACQUIRED,Valley Cable TV,1,0
+ACQBUS,cable television systems,0,0
+ACQLOC,west San Fernando Valley area of Los Angeles,0,0
+DLRAMT,100 MLN DLR,0,1
+PURCHASER,Cablevision Industries Corp,1,0
+SELLER,Hollinger Inc,1,0
+STATUS,entered into an agreement,0,0
+ACQUIRED,industrial products division,0,0
+ACQLOC,"Long Beach, California",1,0
+DLRAMT,about 240 mln dlrs,0,1
+PURCHASER,Clayton and Dubilier Inc,1,0
+SELLER,Borg-Warner Corp,1,0
+STATUS,approved,0,0
+ACQUIRED,retail store division,0,0
+PURCHASER,Handy Andy Home Improvement Centers Inc,1,0
+SELLER,Forest City Enterprises Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Resorts INternational Inc,1,0
+PURCHASER,PH Acquisition Co,1,0
+ACQUIRED,Harper and Row Publishers Inc,1,0
+PURCHASER,Theodore Cross,1,0
+PURCHASER,Harcourt Brace Jovanovich Inc,1,0
+STATUS,take no action,0,0
+ACQUIRED,Home Savings and Loan Association,1,0
+ACQLOC,"Seattle, Washington",1,0
+PURCHASER,InterWest Savings Bank,1,0
+ACQUIRED,Symbion Inc,1,0
+PURCHASER,"Warburg, Pincus Capital Corp",1,0
+STATUS,started a tender offer,0,0
+ACQUIRED,Woolworth Holdings Plc,1,0
+SELLER,Dixons Group Plc,1,0
+STATUS,sold,0,0
+ACQUIRED,Peter Pan Restaurant,1,0
+ACQLOC,"Urbana, Md",1,0
+DLRAMT,"1,100,000 dlrs",0,1
+SELLER,Kapok Corp,1,0
+STATUS,agreed,0,0
+ACQUIRED,Gates Learjet Corp,1,0
+PURCHASER,AVAQ International Inc,1,0
+ACQUIRED,Rexnord Inc,1,0
+PURCHASER,Banner Industries Inc,1,0
+STATUS,tendered,0,0
+ACQUIRED,retirement living centers,0,0
+PURCHASER,Forum Group Inc,1,0
+SELLER,Beverly Enterprises,1,0
+STATUS,terminated,0,0
+ACQUIRED,Southwestern Engineering Co,1,0
+ACQBUS,heat transfer equipment,0,0
+PURCHASER,Senior Engineering Group PLC,1,0
+SELLER,CRONUS INDUSTRIES INC,1,0
+STATUS,agreed to sell,0,0
+ACQUIRED,DNA Medical Inc,1,0
+ACQBUS,medical development,0,0
+PURCHASER,Walter G. Mize,1,0
+ACQUIRED,South West Advocate,1,0
+ACQUIRED,South Bend Advocate,1,0
+ACQBUS,community newspapers,0,0
+ACQLOC,"Houston, Texas",1,0
+DLRAMT,undisclosed sum,0,0
+PURCHASER,Independent Newspapers Ltd,1,0
+PURCHASER,Houston Community Newspapers Inc,1,0
+SELLER,The Advocate Communications Corp Inc,1,0
+STATUS,bought,0,0
+ACQUIRED,Finlays,1,0
+ACQBUS,"confectionery, tobacco and newsagent",0,0
+DLRAMT,16.9 MLN STG,0,1
+PURCHASER,Finlays Plc,1,0
+SELLER,Hanson Trust Plc,1,0
+STATUS,will sell,0,0
+ACQUIRED,Popsicle Industries,1,0
+ACQBUS,frozen novelty products,0,0
+ACQLOC,Canada,1,0
+DLRAMT,37 mln Canadian dlrs,0,1
+PURCHASER,Ambrit Inc,1,0
+SELLER,Sara Lee Corp of Canada Ltd,1,0
+STATUS,agreed,0,0
+ACQUIRED,Hermetronics PLC,1,0
+ACQBUS,hermetic integrated circuit packages,0,0
+DLRAMT,"600,000 dlrs",0,1
+PURCHASER,Adams-Russell Electronics Co Inc,1,0
+STATUS,acquired,0,0
+ACQUIRED,Macedon Resources Ltd,1,0
+SELLER,Canadian Foremost Ltd,1,0
+STATUS,negotiations are continuing,0,0
+ACQUIRED,DEVELOPMENT CORP OF AMERICA,1,0
+DLRAMT,90 mln dlrs,0,1
+PURCHASER,Lennar Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,Kresge variety stores,1,0
+PURCHASER,F.W. Woolworth Co,1,0
+SELLER,K Mart Corp,1,0
+STATUS,ended,0,0
+ACQUIRED,CooperVision Inc,1,0
+PURCHASER,Siebel Capital Management Inc,1,0
+ACQUIRED,Gelco Corp,1,0
+PURCHASER,An investor group including New York-based Mutual Shares Corp and Mutual Qualified Income Fund Inc,1,0
+ACQUIRED,TEMCO SERVICE INDUSTRIES INC,1,0
+PURCHASER,Herman J. Hellman,1,0
+PURCHASER,Harvey Newwman,1,0
+STATUS,terminated,0,0
+ACQUIRED,Service America Corp,1,0
+ACQBUS,foodservice,0,0
+SELLER,Allegheny Beverage Corp,1,0
+STATUS,approached,0,0
+ACQUIRED,Frost and Sullivan Inc,1,0
+PURCHASER,Theodore Cross,1,0
+STATUS,boosted its stake,0,0
+ACQUIRED,Eastwood Hospital,1,0
+ACQBUS,medical complex,0,0
+ACQLOC,Memphis,1,0
+DLRAMT,50 mln dlrs cash,0,1
+PURCHASER,HEALTHVEST,1,0
+SELLER,Healthcare International Inc,1,0
+ACQUIRED,Goodwood Park Hotel Ltd,1,0
+DLRAMT,82 mln dlrs,0,1
+PURCHASER,Singapore government,1,0
+ACQUIRED,VEBA AG,1,0
+ACQLOC,West German,1,0
+SELLER,Finance Ministry,1,0
+STATUS,still expected,0,0
+ACQUIRED,CYCLOPS CORP,1,0
+ACQLOC,U.S.,1,0
+PURCHASER,Dixons Group Plc,1,0
+ACQUIRED,Progressive Savings and Loan Association,1,0
+ACQLOC,Southern California,1,0
+PURCHASER,Far West Financial Corp,1,0
+STATUS,agreement in principle,0,0
+ACQUIRED,Grant Industries Inc,1,0
+PURCHASER,Mobex Corp,1,0
+ACQUIRED,KREZMAR GOLD PROPERTY,1,0
+ACQBUS,gold,0,0
+ACQLOC,"Wawa, Ontario",1,0
+DLRAMT,nine mln dlrs,0,0
+PURCHASER,Canamax Resources Inc,1,0
+SELLER,Algoma Steel Corp Ltd,1,0
+STATUS,agreed,0,0
+ACQUIRED,Gelco Express Ltd,1,0
+ACQBUS,courier,0,0
+ACQLOC,Canadian,1,0
+DLRAMT,54 mln dlrs,0,1
+PURCHASER,Air Canada,1,0
+SELLER,Gelco Corp,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,Ranco Inc,1,0
+PURCHASER,Siebe PLC,1,0
+STATUS,approved,0,0
+ACQUIRED,Dashwood Industries Ltd,1,0
+ACQBUS,wood window and patio door manufacturer,0,0
+ACQLOC,Canadian,1,0
+DLRAMT,undisclosed amount,0,0
+PURCHASER,Trus Joist Corp,1,0
+ACQUIRED,"Sunrise, Fla., branch",1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Fortune Financial Group Inc,1,0
+SELLER,Financial Security Savings and Loan Association,1,0
+STATUS,agreed to sell,0,0
+ACQUIRED,Fleet Financial Group,1,0
+PURCHASER,Norstar Bancorp,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,Norstar Bancorp,1,0
+ACQBUS,bank holding,0,0
+ACQLOC,Albany N.y.,1,0
+PURCHASER,Fleet Financial Group,1,0
+STATUS,agreed,0,0
+ACQUIRED,Trilogy Resource Corp,1,0
+PURCHASER,Teck Corp,1,0
+STATUS,agreed to purchase,0,0
+ACQUIRED,Bard International Associates Inc,1,0
+ACQBUS,tennis and squash racquets and accessories,0,0
+PURCHASER,AMOUR INC,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,ISL Life Insurance Co,1,0
+ACQLOC,Dallas,1,0
+DLRAMT,"400,000 dlrs",0,1
+PURCHASER,American Travellers Corp,1,0
+STATUS,entered into an agreement,0,0
+ACQUIRED,Fairchild Semiconductor Corp,1,0
+PURCHASER,Donald Brooks,1,0
+SELLER,Schlumberger Ltd,1,0
+STATUS,management buyout proposal,0,0
+ACQUIRED,Medicom Inc,1,0
+ACQBUS,heart monitor for use in diagnosing heart disorders,0,0
+PURCHASER,Puritan-Bennedtt Corp,1,0
+STATUS,acquired,0,0
+ACQUIRED,Union Flonetics Corp,1,0
+ACQBUS,valves and marine specialty equipment,0,0
+PURCHASER,Irvin Kaplan,1,0
+SELLER,Union Corp,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Ranco Inc,1,0
+ACQBUS,automatic control devices and power controls,0,0
+PURCHASER,Siebe Plc,1,0
+STATUS,completed,0,0
+ACQUIRED,Marketing Technologies Group Inc,1,0
+ACQBUS,computer-based advertising system,0,0
+ACQLOC,"Rockville Center, N.Y.",1,0
+PURCHASER,Pilgrim Venture Corp,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,GenCorp Inc,1,0
+PURCHASER,General Partners,1,0
+STATUS,will study,0,0
+ACQUIRED,RentCo Trailer Corp,1,0
+DLRAMT,70 mln dlrs,0,1
+PURCHASER,XTRA Corp,1,0
+SELLER,Fruehauf Corp,1,0
+STATUS,agreed,0,0
+ACQUIRED,Cenergy Corp,1,0
+DLRAMT,"2,725,500 dlrs",0,1
+PURCHASER,Snyder Oil Partners L.P.,1,0
+SELLER,L.D. Brinkman,1,0
+ACQUIRED,Cenergy Corp,1,0
+PURCHASER,Snyder Oil Partners LP,1,0
+STATUS,acquired,0,0
+ACQUIRED,Greyhound Lines,1,0
+DLRAMT,350 mln dlrs,0,1
+PURCHASER,GLI Holdings Inc,1,0
+SELLER,GREYHOUND CORP,1,0
+STATUS,completed,0,0
+ACQUIRED,GenCorp Inc,1,0
+ACQBUS,aerospace and soft drink bottling,0,0
+ACQLOC,"Akron, Ohio",1,0
+DLRAMT,2.5 billion dlrs,0,1
+PURCHASER,General Partners,1,0
+ACQUIRED,Banco Portugues de Investmento Sarl,1,0
+ACQBUS,BANK,1,0
+ACQLOC,Oporto,1,0
+DLRAMT,351 mln yen,0,1
+PURCHASER,Sanwa Bank Ltd,1,0
+SELLER,International Finance Corp,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,Shearson Lehman Brothers Inc,1,0
+DLRAMT,530 mln dlrs,0,1
+PURCHASER,Nippon Life Insurance Co,1,0
+SELLER,American Express Co,1,0
+STATUS,holding talks,0,0
+ACQUIRED,Rospatch Corp,1,0
+DLRAMT,53 mln dlrs,0,1
+PURCHASER,Diagnostic Retrieval Systems Inc,1,0
+ACQUIRED,Rank Xerox South Africa Pty Ltd,1,0
+ACQBUS,copiers and duplicators,0,0
+ACQLOC,South African,1,0
+PURCHASER,Altron Group,1,0
+SELLER,Rank Xerox Ltd,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Newman Division,1,0
+ACQBUS,gray iron castings,0,0
+ACQLOC,"Kendallville, Indiana",1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Newman Manufacturing Inc,1,0
+SELLER,Amcast Industrial Corp,1,0
+ACQUIRED,FCS Laboratories,1,0
+ACQBUS,healthcare,0,0
+STATUS,preliminary merger proposal,0,0
+ACQUIRED,King World Productions Inc,1,0
+PURCHASER,George Soros,1,0
+ACQUIRED,assets and inventories of its Dominion Bridge steel service center operations,0,0
+ACQBUS,steel service centers,0,0
+ACQLOC,"Toronto and Edmonton, Alberta",1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Federal Industries Ltd,1,0
+SELLER,AMCA International Ltd,1,0
+STATUS,finalized agreement,0,0
+ACQUIRED,Harris Pine Sawmill,1,0
+ACQBUS,lumber,0,0
+ACQLOC,"Pendleton, Ore.",1,0
+DLRAMT,"3,475,000 dlrs",0,1
+PURCHASER,Louisiana Pacific Corp,1,0
+STATUS,agreed,0,0
+ACQUIRED,Purolator Courier Corp,1,0
+DLRAMT,265 mln dlr,0,1
+PURCHASER,E.F. Hutton LBO Inc,1,0
+ACQUIRED,Computer Transceiver Systems Inc,1,0
+PURCHASER,Vertex Industries Inc,1,0
+STATUS,agreement,0,0
+ACQUIRED,Willms Trucking Co Inc,1,0
+ACQBUS,"transports hazardous waste, sand and gravel",0,0
+DLRAMT,12.5 mln dlrs,0,1
+PURCHASER,Enviropact Inc,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,American Motors Corp,1,0
+PURCHASER,Chrysler Corp,1,0
+STATUS,took no action,0,0
+ACQUIRED,Eskey's Yale E. Key Inc,1,0
+DLRAMT,15.5 mln dlrs,0,1
+PURCHASER,new concern,0,0
+SELLER,Eskey Inc,1,0
+ACQUIRED,Price Communications Corp,1,0
+SELLER,John Hancock Mutual Life Insurance Co,1,0
+ACQUIRED,Munford Inc,1,0
+DLRAMT,"7,659,000 dlrs",0,1
+PURCHASER,Bradbury Dyer,1,0
+STATUS,acquired,0,0
+ACQUIRED,Manhattan Cable Television Inc,1,0
+PURCHASER,American Television and Communications Corp,1,0
+SELLER,Time Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Air Atlanta Inc,1,0
+ACQBUS,airline,0,0
+ACQLOC,"Atlanta, Ga",1,0
+PURCHASER,KLM Royal Dutch Airlines,1,0
+STATUS,not seeking to take a stake,0,0
+ACQUIRED,Neo-Tech Inc,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Seismic Holdings Inc,1,0
+PURCHASER,Energy Holdings Inc,1,0
+SELLER,Principal Neo-Tech Inc,1,0
+STATUS,completed,0,0
+ACQUIRED,Wendy's International,1,0
+PURCHASER,Coca Cola Co,1,0
+STATUS,not true,0,0
+ACQUIRED,Dataserv Inc,1,0
+PURCHASER,BellSouth Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,Rexham Corp,1,0
+ACQBUS,packaging materials and machinery,0,0
+PURCHASER,Nortek Inc,1,0

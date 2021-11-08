@@ -1,0 +1,161 @@
+LABEL,WORD,CAP,NUM
+ACQUIRED,Caesars World Inc,1,0
+PURCHASER,MTS Acquisition Corp,1,0
+STATUS,preliminary talks,0,0
+ACQUIRED,Harper and Row Publishers Inc,1,0
+PURCHASER,Harcourt Brace Jovanovich Inc,1,0
+STATUS,no negotiations,0,0
+ACQUIRED,Vernell's Fine Candies Inc,1,0
+ACQLOC,"Bellevue, Wash",1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Keystone Partners Inc,1,0
+SELLER,Quaker Oats Co,1,0
+STATUS,purchased,0,0
+ACQUIRED,Avalon Corp,1,0
+SELLER,Deltec Panamerica SA,1,0
+ACQUIRED,Shearson Lehman Brothers Inc,1,0
+ACQBUS,brokerage,0,0
+DLRAMT,538 mln dlr,0,1
+PURCHASER,Nippon Life Insurance Co,1,0
+ACQUIRED,Triangle Microwave Inc,1,0
+ACQBUS,microwave components,0,0
+PURCHASER,KDI Corp,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Champion Products Inc,1,0
+PURCHASER,Claremont Group Ltd,1,0
+STATUS,intends to boost,0,0
+ACQUIRED,Astrotech International Corp,1,0
+PURCHASER,Kent Rockwell,1,0
+ACQUIRED,Cyclops Corp,1,0
+PURCHASER,Dixons Group PLC,1,0
+STATUS,does not plan to extend the expiration date of its tender offer,0,0
+ACQUIRED,National Heritage Inc,1,0
+ACQBUS,nursing care facilities,0,0
+SELLER,Southmark Corp,1,0
+ACQUIRED,Greens Creek Joint Venture,1,0
+PURCHASER,Hecla Minging Co,1,0
+SELLER,British Petroleum Co PLC,1,0
+STATUS,agreed to purchase,0,0
+ACQUIRED,"Club, Melrose, Dickson",1,0
+ACQUIRED,Chase and Sanborn,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Nestle Enterprises Ltd,1,0
+SELLER,Nabisco Brands Ltd,1,0
+STATUS,letter of intent,0,0
+ACQUIRED,Conrac Corp,1,0
+PURCHASER,Mark IV Industries Inc,1,0
+ACQUIRED,DWG Corp's Texun Inc's line of regional juice products,1,0
+DLRAMT,not disclosed,0,0
+PURCHASER,Sundor Group Inc,1,0
+ACQUIRED,Hayes-Albion Corp,1,0
+ACQBUS,auto supplies,0,0
+ACQLOC,"Jackson, Mich.",1,0
+PURCHASER,Harvard Industries Inc,1,0
+STATUS,approved,0,0
+ACQUIRED,Sceptre Resources Ltd,1,0
+SELLER,Noverco Inc,1,0
+ACQUIRED,American Aggregates Corp,1,0
+ACQLOC,Ohio,1,0
+DLRAMT,242 mln dlrs,0,1
+PURCHASER,Consolidated Goldfields Plc,1,0
+STATUS,agreed to buy,0,0
+ACQUIRED,Engineered Magnetics,1,0
+ACQBUS,custom power conversion systems,0,0
+PURCHASER,Fleet Aerospace Corp,1,0
+SELLER,Gulton Industries Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,Pacific Southwest Airlines,1,0
+PURCHASER,USAir Group,1,0
+SELLER,PS Group Inc,1,0
+STATUS,move up the completion date,0,0
+ACQUIRED,European corn wet milling business,1,0
+DLRAMT,630 MLN DLRS,0,1
+PURCHASER,Agricola Finanziara SpA,1,0
+SELLER,CPC International Inc,1,0
+STATUS,agreement reached in principle,0,0
+ACQUIRED,Valtek Inc,1,0
+PURCHASER,Duriron Co Inc,1,0
+STATUS,completed the acquisition,0,0
+ACQUIRED,Air U.K. Ltd,1,0
+DLRAMT,two mln stg,0,0
+PURCHASER,KLM Royal Dutch Airlines,1,0
+SELLER,British and Commonwealth Shipping Plc,1,0
+STATUS,agreed,0,0
+ACQUIRED,Surface Combustion Division,1,0
+PURCHASER,Thermo Process Systems Inc,1,0
+SELLER,Midland-Ross Corp,1,0
+STATUS,terminated,0,0
+ACQUIRED,Software Concepts Inc,1,0
+ACQBUS,"software for check processing, mortgage application processing and safe deposit box accounting",0,0
+PURCHASER,Stockholder Systems Inc,1,0
+STATUS,agreed in principle,0,0
+ACQUIRED,two subsidiaries,0,0
+ACQUIRED,Equitable Relocation Management Corp,1,0
+ACQUIRED,Equitable Realty Network Inc,1,0
+PURCHASER,Travelers Corp's Travelers Mortgage Services,1,0
+SELLER,Equitable Life Assurance Society of the U.S.,1,0
+STATUS,signed a letter of intent,0,0
+ACQUIRED,Blackman Uhler Chemical Division,1,0
+PURCHASER,Intex Products Inc,1,0
+SELLER,Synalloy Corp,1,0
+STATUS,ended talks,0,0
+ACQUIRED,Tricil Ltd,1,0
+ACQBUS,waste management,0,0
+ACQLOC,"Mississauga, Ontario",1,0
+DLRAMT,91 mln dlrs,0,1
+PURCHASER,C-I-L Inc,1,0
+SELLER,Trimac Ltd,1,0
+STATUS,exercise its right to acquire,0,0
+ACQUIRED,ten pizza restaurants,0,0
+ACQBUS,PIZZA,1,0
+ACQLOC,southeastern Colorado,0,0
+DLRAMT,1.25 mln dlrs,0,1
+PURCHASER,Pantera's Corp,1,0
+SELLER,creditors foreclosing on the facilities,0,0
+ACQUIRED,Linotype Group,1,0
+ACQBUS,type and graphics composition systems,0,0
+ACQLOC,"Eschborn, West Germany",1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,Commerzbank AG,1,0
+SELLER,Allied-Signal Inc,1,0
+STATUS,agreed to sell,0,0
+ACQUIRED,Husky Oil Ltd,1,0
+PURCHASER,Hutchison Whampoa Ltd,1,0
+PURCHASER,Hongkong Electric Holdings Ltd,1,0
+STATUS,shareholders to vote,0,0
+ACQUIRED,Bamberger Polymers INc,1,0
+SELLER,Helm Resources Inc,1,0
+ACQUIRED,CENERGY CORP,1,0
+ACQBUS,Oil and gas exploration and production,1,0
+ACQLOC,U.S.,1,0
+DLRAMT,5.4 MLN DLRS,0,1
+PURCHASER,Bryson Oil and Gas Plc,1,0
+ACQUIRED,AmBrit Corp,1,0
+PURCHASER,Clabir Corp,1,0
+STATUS,called off their plans,0,0
+ACQUIRED,Genova Inc,1,0
+PURCHASER,Genova Products Inc,1,0
+STATUS,definitive agreement,0,0
+ACQUIRED,Standard Oil Co,1,0
+DLRAMT,7.4 BILLION DLRS,0,1
+PURCHASER,British Petroleum Co Plc,1,0
+STATUS,intended to make a tender offer,0,0
+ACQUIRED,C and W Group,1,0
+DLRAMT,undisclosed,0,0
+PURCHASER,N W Ayer Inc,1,0
+SELLER,Mickelberry Corp,1,0
+STATUS,completed,0,0
+ACQUIRED,Guinness PLC,1,0
+ACQBUS,brewery,0,0
+ACQLOC,"Dublin, London, Nigerian and Malaysian",1,0
+PURCHASER,H.J. Heinz,1,0
+STATUS,interested in buying,0,0
+ACQUIRED,MAXXAM Group Inc,1,0
+PURCHASER,MCO Holdings Inc,1,0
+STATUS,approved,0,0
+ACQUIRED,Alliance Automation Systems division,1,0
+ACQBUS,automated assembly and test systems,0,0
+DLRAMT,undisclosed amount of cash,0,0
+PURCHASER,Cross and Trecker,1,0
+SELLER,Gleason Corp,1,0
+STATUS,agreed to acquire,0,0

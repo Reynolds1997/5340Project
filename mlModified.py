@@ -73,7 +73,9 @@ if __name__ == '__main__':
     print('Running Logistic Regression classification algorithm...')
 
     assert 'WORD' in features_set, 'WORD is a mandatory feature'
-    assert features_set.issubset({'CAP', 'ABBR', 'SUFF', 'PREF', 'WORD', 'GLOBSUFF', 'GLOBPREF', 'POS+1', 'POS-1', 'WORD-1', 'WORD+1', 'POS', 'LOC', 'GLOBCAP'}), 'There is an invalid feature name'
+    #assert features_set.issubset({'CAP', 'ABBR', 'SUFF', 'PREF', 'WORD', 'GLOBSUFF', 'GLOBPREF', 'POS+1', 'POS-1', 'WORD-1', 'WORD+1', 'POS', 'LOC', 'GLOBCAP'}), 'There is an invalid feature name'
+
+    #Here we put the features set!
 
     # reading the csv files into pandas data frames separating the instances from the labels as an numpy array
     train_df, train_labels = read_csv_for_ml(training_csv, list(features_set))
@@ -97,7 +99,11 @@ if __name__ == '__main__':
     #classes = np.unique(train_labels.tolist()+test_labels.tolist())
     #print(classes)
     #classes = classes.tolist()
-    classes = ['B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'O']
+
+    #classes = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
+
+    classes = ['ACQUIRED','ACQBUS','ACQLOC','DLRAMT','PURCHASER','SELLER','STATUS']
+    #classes = ['B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'O'] 
     print(classification_report(y_pred=model.predict(vec_test_data), y_true=test_labels, labels=classes))
     
 

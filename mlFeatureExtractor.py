@@ -1,7 +1,8 @@
 from os import read
+import os
 import sys
 import csv
-
+import re
 
 def isAbbreviation(word):
     if(word[-1] == '.'):
@@ -56,6 +57,11 @@ def isLoc(word):
                     return 1
         return 0
 
+def containsNumber(word):
+    for character in word:
+        if character.isdigit():
+            return 1
+    return 0
 
 def produceVectorList(wordsList):
    #CHECK #WORD: the word w itself. 
@@ -78,40 +84,86 @@ def produceVectorList(wordsList):
 
         if(len(wordEntry) > 0):
             #print(wordEntry)
-            labelVal = wordEntry[0]
-            posVal = wordEntry[1]
-            wordVal = wordEntry[2]
-            abbrVal = isAbbreviation(wordVal)
-            capVal = isCap(wordVal)
 
-            nextWord = wordsList[i+1]
-            if(len(nextWord) >0):
-                wordPlusOne = nextWord[2]
-                posPlusOne = nextWord[1]
-                suffVal = isSuff(nextWord[2])
-            else:
-                wordPlusOne = "OMEGA"
-                posPlusOne = "OMEGAPOS"
-                suffVal = 0
-
-            prevWord = wordsList[i-1]
-            if(len(prevWord) >0):
-                wordMinusOne = prevWord[2]
-                posMinusOne = prevWord[1]
-                prefVal = isPref(prevWord[2])
-            else:
-                wordMinusOne = "PHI"
-                posMinusOne = "PHIPOS"
-                prefVal = 0
-
-            locVal = isLoc(wordVal)
+            #Here is where we call the methods that create features.
             
-            vector = [labelVal,abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
-            vectorList.append(vector)
+            labelVal = wordEntry[0]
+
+            labelVal = labelVal.replace(":","") #Strip off colon
+            
+            wordVal = wordEntry[1]
+            wordVal = wordVal.replace("\"","") #Strip off quotation marks from beginning and end
+            
+            if labelVal != "TEXT" and wordVal != "---": 
+
+                capVal = isCap(wordVal) #If the string starts with a capital
+                numberVal = containsNumber(wordVal) #If the string contains a number
+                
+
+                vector = [labelVal,wordVal,capVal,numberVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
+                vectorList.append(vector)
+           # posVal = wordEntry[1]
+           # 
+           # abbrVal = isAbbreviation(wordVal)
+           # capVal = isCap(wordVal)
+
+            # https://stackoverflow.com/questions/6173118/shortcut-to-comment-out-multiple-lines-with-python-tools-for-visual-studio
+            # nextWord = wordsList[i+1]
+            # if(len(nextWord) >0):
+            #     wordPlusOne = nextWord[2]
+            #     posPlusOne = nextWord[1]
+            #     suffVal = isSuff(nextWord[2])
+            # else:
+            #     wordPlusOne = "OMEGA"
+            #     posPlusOne = "OMEGAPOS"
+            #     suffVal = 0
+
+            # prevWord = wordsList[i-1]
+            # if(len(prevWord) >0):
+            #     wordMinusOne = prevWord[2]
+            #     posMinusOne = prevWord[1]
+            #     prefVal = isPref(prevWord[2])
+            # else:
+            #     wordMinusOne = "PHI"
+            #     posMinusOne = "PHIPOS"
+            #     prefVal = 0
+
+            #locVal = isLoc(wordVal)
+            
+            
 
         i += 1
     
     return vectorList
+
+
+#What we do here is we take every doc in a directory, turn a ratio of them into training data, and then another set of them into test data.
+def produceFiles(directory,trainingDecimalPercent):
+
+    fileList = os.listdir(directory)
+
+    #print(fileList)
+
+    fileCount = len(fileList)
+
+    trainingCount = trainingDecimalPercent * fileCount
+
+    i = 0
+
+    with open('trainingFile.txt', 'w') as outfile:
+        while i < trainingCount:
+            with open(directory + "\\" + fileList[i]) as infile:
+                for line in infile:
+                    outfile.write(line)
+            i+=1
+    
+    with open('testFile.txt', 'w') as outfile:
+        while i < fileCount:
+            with open(directory + "\\" + fileList[i]) as infile:
+                for line in infile:
+                    outfile.write(line)
+            i+=1
+
 
 
 
@@ -119,14 +171,32 @@ def produceVectorList(wordsList):
 
 def readFile(inputFile):
 
-    lines = inputFile.readlines()
-    lines = [line.rstrip() for line in lines]
-    lines = [line.split() for line in lines]
+    initialLines = inputFile.readlines()
+    initialLines = [line.rstrip() for line in initialLines]
+
+    finalLines = []
+    for line in initialLines:
+        if len(line) > 0:
+            #print(line)
+            lineList = line.split()
+            #print(lineList)
+            secondPhraseList = re.findall(r'"([^"]*)"', line)
+
+            if(len(secondPhraseList) >0):
+                secondPhrase = secondPhraseList[0]
+            else:
+                secondPhrase = "---"
+            firstPhrase = lineList[0]
+            line = [firstPhrase,secondPhrase]
+            #print(line)
+            finalLines.append(line)
+
+    #print(finalLines)
 
     blank = []
-    lines.insert(0,blank)
+    finalLines.insert(0,blank)
 
-    return lines
+    return finalLines
 
 def writeToCSV(fileName, fields, vectorList):
     with open(fileName, 'w') as csvfile:
@@ -144,14 +214,23 @@ def main():
     testSentencesList = []
     testSentencesStringList = []
 
-    #Read the training file
-    with open(sys.argv[1], 'r') as trainingFile:
+    #inputFileDirectory = "C:\\Users\\bearl\\Documents\\Fall 2021\\CS 5340\\Final Project\\5340Project\\development-anskeys"
+
+    inputFileDirectory = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-anskeys"
+    trainingPercentageDecimal = 0.9
+    produceFiles(inputFileDirectory,trainingPercentageDecimal)
+
+    # #Read the training file
+    # with open(sys.argv[1], 'r') as trainingFile:
+    #     trainingFileList = readFile(trainingFile)
+
+    # #Read the test file    
+    # with open(sys.argv[2], 'r') as testFile:
+    #     testFileList = readFile(testFile)
+
+    with open('trainingFile.txt','r') as trainingFile:
         trainingFileList = readFile(trainingFile)
-
-
-    #Read the test file    
-    with open(sys.argv[2], 'r') as testFile:
-
+    with open('testFile.txt','r') as testFile:
         testFileList = readFile(testFile)
 
     trainingFileVectorList = produceVectorList(trainingFileList)
@@ -162,11 +241,15 @@ def main():
     #print(testSentencesList)
     #print(trainingSentencesList)
 
-    fields = ['LABEL','ABBR','CAP','LOC','POS','POS+1','POS-1','PREF','SUFF','WORD','WORD+1','WORD-1']
+    fields = ['LABEL','WORD','CAP','NUM']
+    #fields = ['LABEL','ABBR','CAP','LOC','POS','POS+1','POS-1','PREF','SUFF','WORD','WORD+1','WORD-1']
 
-    trainingFileName = sys.argv[1].rsplit('.',1)[0] + '_ft.csv'
-    testFileName = sys.argv[2].rsplit('.',1)[0] + '_ft.csv'
+   # trainingFileName = sys.argv[1].rsplit('.',1)[0] + '_ft.csv'
+   # testFileName = sys.argv[2].rsplit('.',1)[0] + '_ft.csv'
 
+
+    trainingFileName = "trainingFt.csv"
+    testFileName = "testFt.csv"
     writeToCSV(trainingFileName,fields,trainingFileVectorList)
     writeToCSV(testFileName,fields,testFileVectorList)
     
