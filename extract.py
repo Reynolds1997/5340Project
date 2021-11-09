@@ -16,6 +16,8 @@ from sklearn.linear_model import Perceptron
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
+import mlModified
+
 #Input Processing
 def main():
 
@@ -31,8 +33,18 @@ def main():
         pathList.append(os.path.dirname(line) + "/")
         fileList.append(os.path.basename(line))
 
+    analyzeFileList(pathList, fileList)
     #print(pathList)
     #print(fileList)
+
+
+def analyzeFileList(pathList,fileList):
+    print(pathList)
+    print(fileList)
+
+def analyzeFile(filePath):
+    print("DO STUFF")
+
 
 
 #def makeTemplates():
@@ -48,4 +60,4 @@ def main():
 #STATUS: status description of the acquisition event
 
 
-readInput()
+#readInput()

@@ -1,3 +1,7 @@
+"""
+The ML system we use to build a model
+"""
+
 import sys
 import pandas as pd
 import numpy as np
@@ -60,6 +64,7 @@ def logistic(train_data, train_labels):
     #filename = 'logistic_regression_model.joblib'
     #pickle.dump(logistic, open(filename, 'wb'))
     # return trained model
+
     return logistic
 
 
@@ -100,11 +105,16 @@ if __name__ == '__main__':
     #print(classes)
     #classes = classes.tolist()
 
+
+
+#Testing stuff
     #classes = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
 
-    classes = ['ACQUIRED','ACQBUS','ACQLOC','DLRAMT','PURCHASER','SELLER','STATUS']
+    #classes = ['ACQUIRED','ACQBUS','ACQLOC','DLRAMT','PURCHASER','SELLER','STATUS']
     #classes = ['B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'O'] 
-    print(classification_report(y_pred=model.predict(vec_test_data), y_true=test_labels, labels=classes))
+    
+    
+    #print(classification_report(y_pred=model.predict(vec_test_data), y_true=test_labels, labels=classes))
     
 
 

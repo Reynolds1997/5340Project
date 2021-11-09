@@ -1,1534 +1,4341 @@
 LABEL,WORD,CAP,NUM
-ACQUIRED,Castone Development Corp,1,0
-PURCHASER,Meridian Energy Inc,1,0
-STATUS,terminate the letter of intent,0,0
-ACQUIRED,Users Inc,1,0
-ACQBUS,credit union data processing,0,0
-PURCHASER,Security Pacific Corp,1,0
-STATUS,agreed to withdraw,0,0
-ACQUIRED,American Adventure Inc,1,0
-DLRAMT,83 mln dlrs,0,1
-PURCHASER,Americanture Inc,1,0
-STATUS,purchased,0,0
-ACQUIRED,Arsenal Acquiring Corp,1,0
-PURCHASER,Viacom International Inc,1,0
-SELLER,Arsenal Holdings Inc,1,0
-STATUS,record date,0,0
-ACQUIRED,Capital Food Services Ltd,1,0
-ACQBUS,food services,0,0
-ACQLOC,Ottawa,1,0
-PURCHASER,Scott's Hospitality Inc,1,0
-STATUS,acquired,0,0
-ACQUIRED,cable television business,0,0
-DLRAMT,undisclosed,0,0
-SELLER,Video Display Corfp,1,0
-STATUS,tentiative agreement,0,0
-ACQUIRED,Noblee und Thoerl GmbH,1,0
-ACQBUS,OIL AND FATS,1,0
-ACQLOC,HAMBURG,1,0
-PURCHASER,Oelmuehle Hamburg AG,1,0
-SELLER,Henkel KGaA,1,0
-STATUS,selling,0,0
-ACQUIRED,Pancontinental Mining Ltd,1,0
-ACQBUS,gold and coal mines,0,0
-ACQBUS,natural gas and oil fields,0,0
-ACQLOC,Australia,1,0
-ACQLOC,Canada,1,0
-DLRAMT,1.2 billion Belgian francs,0,1
-PURCHASER,Union Miniere SA,1,0
-STATUS,acquired,0,0
-ACQUIRED,Honeywell Information Systems,1,0
-ACQBUS,computer,0,0
-DLRAMT,527 mln dlrs,0,1
-PURCHASER,Compagnie des Machines Bull,1,0
-PURCHASER,NEC Corp,1,0
-SELLER,Honeywell Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Northwest Federal Savings and Loan Association,1,0
-ACQLOC,"Woodward, Oklahoma",1,0
-PURCHASER,LSB Industries Inc,1,0
-STATUS,entered into an agreement,0,0
-ACQUIRED,Flyfaire International Inc,1,0
-PURCHASER,Shefra Inc,1,0
-SELLER,PLAZA GROUP,1,0
-STATUS,completed,0,0
-ACQUIRED,Borg-Warner (Australia) Ltd,1,0
-ACQBUS,diversified auto parts manufacturer,0,0
-DLRAMT,202.2 mln dlrs,0,1
-PURCHASER,BTR Nylex Ltd,1,0
-SELLER,Borg-Warner Corp,1,0
-STATUS,increase its takeover offer,0,0
-ACQUIRED,Superdrug Stores Plc,1,0
-ACQBUS,retail chemist,0,0
-DLRAMT,244 MLN STG,0,1
-PURCHASER,Woolworth Holdings Plc,1,0
-STATUS,bid,0,0
-ACQUIRED,Hillards Plc,1,0
-PURCHASER,Tesco Plc,1,0
-ACQUIRED,Telefon AB L.M. Ericsson,1,0
-ACQBUS,telecommunications,0,0
-PURCHASER,Knut and Alice Wallenberg Foundation,1,0
-STATUS,raised its holding,0,0
-ACQUIRED,Coastal Bancorp,1,0
-ACQLOC,"Portland, Maine",1,0
-PURCHASER,Suffield Financial Corp,1,0
-STATUS,received approval,0,0
-ACQUIRED,Triton Petroleum Ltd,1,0
-PURCHASER,Canadian Worldwide Energy Ltd,1,0
-SELLER,Triton Energy Corp,1,0
-STATUS,acquired,0,0
-ACQUIRED,Bow Valley Industries Ltd,1,0
-SELLER,Bowcan Holdings Inc,1,0
-STATUS,offering to sell,0,0
-ACQUIRED,Santa Fe Southern Pacific Corp,1,0
-PURCHASER,Henley Group,1,0
-ACQUIRED,Cyclops Corp,1,0
-PURCHASER,OPPENHEIMER,1,0
-ACQUIRED,gypsum wallboard plant,0,0
-ACQLOC,Seattle,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Louisiana Pacific Corp,1,0
-SELLER,Norwest Gypsum,1,0
-STATUS,reached a non-binding agreement in principle,0,0
-ACQUIRED,Quaker State Oil Refining Corp,1,0
-SELLER,Kaufman and Board Inc,1,0
-ACQUIRED,Allegheny International,1,0
-PURCHASER,Mario Gabelli,1,0
-ACQUIRED,Don Lowe Foods Inc,1,0
-ACQBUS,food distributor,0,0
-ACQLOC,"Pompano Beach, Fla.",1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,golden Poultry Co Inc,0,0
-STATUS,letter of intent,0,0
-ACQUIRED,Norton co Pty Ltd,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Global Mining and Industrial Corp,1,0
-SELLER,Norton co,1,0
-STATUS,agreed to sell,0,0
-ACQUIRED,group of mineral properties,0,0
-ACQBUS,gold,0,0
-ACQLOC,southwest Pacific,0,0
-DLRAMT,30 mln Canadian dlrs,0,1
-SELLER,City Resources Ltd,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Portsmouth Savings Bank,1,0
-PURCHASER,Amoskeag Bank Shares Inc,1,0
-STATUS,overturned,0,0
-ACQUIRED,plastic container business,0,0
-PURCHASER,Ball Corp,1,0
-SELLER,Monsanto Co,1,0
-STATUS,unable to complete negotiations,0,0
-ACQUIRED,Atwell Fleming Printing Ltd,1,0
-ACQBUS,financial printer,0,0
-ACQLOC,Canadian,1,0
-DLRAMT,3.2 mln dlrs,0,1
-PURCHASER,Chas. P. Young Co,1,0
-STATUS,agreed to acquire,0,0
-ACQUIRED,Fairfield Manufacturing Co,1,0
-ACQBUS,custom gears for industrial use,0,0
-DLRAMT,70.5 mln dlrs,0,1
-PURCHASER,Neoax Inc,1,0
-SELLER,Rexnord Inc,1,0
-ACQUIRED,GENCORP,1,0
-PURCHASER,General Acquisition Co,1,0
-STATUS,reject,0,0
-ACQUIRED,Rogers and Cowan Inc,1,0
-ACQBUS,Public Relations,1,0
-ACQLOC,LOS ANGELES,1,0
-DLRAMT,2.25 mln dlrs,0,1
-PURCHASER,Shandwick Plc,1,0
-STATUS,agreed to buy,0,0
-ACQUIRED,Delhi Australia Fund,1,0
-ACQBUS,oil and gas interests,0,0
-ACQLOC,Australia,1,0
-DLRAMT,almost a billion dlrs,0,0
-PURCHASER,Esso Exploration and Production Australia Inc,1,0
-SELLER,CSR Ltd,1,0
-ACQUIRED,Pioneer Sugar Mills Ltd,1,0
-ACQBUS,raw sugar mills and building materials,0,0
-PURCHASER,CSR Ltd,1,0
-STATUS,offer,0,0
-ACQUIRED,Thies Cos Inc,1,0
-ACQBUS,"poultry, beef and pork products",0,0
-ACQLOC,midwest,0,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Hudson Foods Inc,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,KMG MAIN HURDMAN,1,0
-ACQBUS,public account and consulting,0,0
-ACQLOC,U.S.,1,0
-PURCHASER,PEAT MARWICK,1,0
-STATUS,completed,0,0
-ACQUIRED,NECO Enterprises Inc,1,0
-PURCHASER,David LaRoche,1,0
-STATUS,extended his cash offer,0,0
-ACQUIRED,AirCal,1,0
-PURCHASER,AMR Corp's American Airlines,1,0
-STATUS,plans to complete,0,0
-ACQUIRED,Image Video Inc,1,0
-ACQBUS,produces and distributes videos for the home market,0,0
-DLRAMT,undisclosed sum,0,0
-PURCHASER,Tradestar Corp,1,0
-STATUS,acquired,0,0
-PURCHASER,Alza Corp,1,0
-SELLER,Quest Biotechnology Inc,1,0
-STATUS,agreement,0,0
-ACQUIRED,Pizza Inn Inc,1,0
-PURCHASER,Pantera's Corp,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Gulf Coast Newspapers Inc,1,0
-ACQBUS,community papers,0,0
-ACQLOC,Tampa,1,0
-ACQLOC,St. Petersburg,1,0
-PURCHASER,Tribune Co,1,0
-SELLER,E.W. Scripps Co,1,0
-ACQUIRED,Nippon Lace Co Ltd,1,0
-DLRAMT,16.5 mln dlrs,0,1
-PURCHASER,Lifetime Corp,1,0
-STATUS,agreed to buy,0,0
-ACQUIRED,Lucht Engineering Inc,1,0
-PURCHASER,Innovex Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Cyclops Corp,1,0
-SELLER,OPPENHEIMER,1,0
-ACQUIRED,Sociedade de Iniciativa e Aproveitamentos Florestais Sarl,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Sonae Group,1,0
-SELLER,Swedish Match AB,1,0
-STATUS,selling,0,0
-ACQUIRED,Georgia International Life Insurance Co,1,0
-DLRAMT,85 mln dlrs,0,1
-PURCHASER,Southmark Corp,1,0
-SELLER,Capital Holding Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,The Vons Companies,1,0
-ACQBUS,"supermarket, combination store operator",0,0
-PURCHASER,Allied Supermarkets Inc,1,0
-ACQUIRED,a branch in Clinton Township,0,0
-DLRAMT,not disclosed,0,0
-PURCHASER,FIRST NATIONAL BANK CORP,1,0
-STATUS,agreement to buy,0,0
-ACQUIRED,Medicontrol Corp,1,0
-DLRAMT,"500,000 dlr",0,1
-PURCHASER,Searle and Co,1,0
-SELLER,Biotechnology Development Corp,1,0
-ACQUIRED,Johnson Matthey Commodities,1,0
-ACQBUS,precious metals and wholesale non-ferrous metals,0,0
-ACQLOC,New York,1,0
-DLRAMT,14.8 mln dlrs,0,1
-PURCHASER,Deak International,1,0
-SELLER,Minories Finance Limited,1,0
-ACQUIRED,Johnson Matthey Commodities,1,0
-ACQBUS,precious metals and wholesale non-ferrous metals trading,0,0
-ACQLOC,New York,1,0
-DLRAMT,14.8 mln dlrs,0,1
-PURCHASER,Deak International,1,0
-SELLER,Minories Finance Limited,1,0
-STATUS,announced,0,0
-ACQUIRED,Nucell Inc,1,0
-ACQBUS,nuclear battery technology,0,0
-PURCHASER,Peripheral Systems Inc,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,National Bank of North Evanston,1,0
-ACQUIRED,Elgin National bank,1,0
-ACQUIRED,First National Bank of Schiller Park,1,0
-ACQUIRED,Merchants and Manufacturers State Bank in Melrose Park,1,0
-PURCHASER,American National Bank,1,0
-STATUS,completed,0,0
-ACQUIRED,coal properties,0,0
-ACQBUS,mines,0,0
-ACQBUS,coal preparation,0,0
-ACQLOC,West Va.,1,0
-PURCHASER,Peabody Holding Co Inc,1,0
-SELLER,Eastern Gas and Fuel Associate,1,0
-STATUS,completed,0,0
-ACQUIRED,leasehold rights to its aircraft modification and maintenance facility,0,0
-ACQLOC,"Phoenix, Ariz",1,0
-DLRAMT,not released,0,0
-PURCHASER,Dynalectron Corp,1,0
-SELLER,Standard Aero Inc,1,0
-ACQUIRED,Consolidated Brazilian Mines International Inc,1,0
-ACQBUS,diamond and gold,0,0
-ACQLOC,BRAZIL,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Upland Minerals and Chemicals Corp,1,0
-STATUS,agreed to acquire,0,0
-ACQUIRED,Wyona Water Flood Oil and Gas,1,0
-ACQBUS,oil and gas,0,0
-ACQLOC,Oklahoma,1,0
-SELLER,Crown Resources Corp,1,0
-STATUS,plans to sell,0,0
-ACQUIRED,Peabody Holding Co Inc,1,0
-ACQBUS,coal,0,0
-DLRAMT,116.8 mln dlrs,0,1
-SELLER,NEWMONT MINING CORP,1,0
-STATUS,completed,0,0
-ACQUIRED,Retirement Housing Corp,1,0
-PURCHASER,LIfetime Corp,1,0
-STATUS,accepted,0,0
-ACQUIRED,ALOHA INC,1,0
-PURCHASER,AQ Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,Robertsons Pty Ltd,1,0
-ACQLOC,South African,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,a consortium of European and South African investors,0,0
-SELLER,CPC International Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,coal supply agreements and substantially all assets at its two coal mines,0,0
-ACQLOC,Ohio,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Peabody Coal Co,1,0
-SELLER,American Barrick Resources Corp,1,0
-STATUS,sold,0,0
-ACQUIRED,First Presidential Savings and Loan Association,1,0
-ACQLOC,"Sarasota, Fla.",1,0
-DLRAMT,"8,500,000 dlrs",0,1
-PURCHASER,First Federal Savings and Loan Association of Fort Myers,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,Elizabeth Arden Inc,1,0
-ACQBUS,cosmetics and fine fragrance products,0,0
-SELLER,Eli Lilly and Co,1,0
-STATUS,decided to sell,0,0
-ACQUIRED,Union Bancorp of West Virginia Inc,1,0
-ACQUIRED,Wayne Bancorp Inc,1,0
-PURCHASER,Key Centurion Bancshares Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Vernitron Corp,1,0
-PURCHASER,SB Holding Corp,1,0
-STATUS,proposed,0,0
-ACQUIRED,Unitek Corp,1,0
-ACQBUS,orthodontic products,0,0
-ACQLOC,"Monrovia, Calif.",1,0
-PURCHASER,Minnesota Mining and Mfg Co,1,0
-SELLER,Bristol-Myers Co,1,0
-STATUS,completed,0,0
-ACQUIRED,Norddeutsche Affinerie AG,1,0
-PURCHASER,MIM Holdings Ltd,1,0
-SELLER,Preussag AG,1,0
-STATUS,complete,0,0
-ACQUIRED,Nevi Baltic Plc,1,0
-ACQBUS,property and financial services,0,0
-ACQLOC,London,1,0
-PURCHASER,Skandia International Holding AB,1,0
-ACQUIRED,Integrated Management Data Systems Inc,1,0
-ACQBUS,computer retail,0,0
-ACQBUS,accounting software systems,0,0
-ACQBUS,micro-computer products,0,0
-ACQLOC,Denver,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Altex Industries Inc,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Measurement Systems Division,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Canrad Inc,1,0
-SELLER,Page-Wilson Corp,1,0
-ACQUIRED,GenCorp Inc,1,0
-PURCHASER,GENERAL PARTNERS,1,0
-STATUS,prepared to raise its bid,0,0
-ACQUIRED,Bell Industries Inc,1,0
-SELLER,Harris Associates L.P.,1,0
-ACQUIRED,Lake States Transportation Division,1,0
-ACQBUS,rail operations,0,0
-ACQLOC,"Minnesota, Wisconsin, Michigan and Illinois",1,0
-PURCHASER,Wisconsin Central Ltd,1,0
-SELLER,Soo Line Corp,1,0
-STATUS,agreed to sell,0,0
-ACQUIRED,650 video centers,0,1
-ACQBUS,video cassette rental,0,0
-PURCHASER,Stars to Go Inc,1,0
-SELLER,CVS International Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Consumer Packaging Division,1,0
-DLRAMT,175 mln dlrs,0,1
-PURCHASER,Sonoco Products Co,1,0
-SELLER,Boise Cascade Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,Sage Drilling Co Inc,1,0
-DLRAMT,"116,554 dlrs",0,1
-PURCHASER,Arthur Appleton,1,0
-STATUS,acquired,0,0
-ACQUIRED,First Federal Savings and Loan Association of Brooksville,1,0
-PURCHASER,Mid-State Federal Savings and Loan Association,1,0
-STATUS,definitive merger agreement,0,0
-ACQUIRED,FCS LABORATORIES,1,0
-ACQBUS,health care,0,0
-STATUS,ended without agreement,0,0
-ACQUIRED,WOR-TV,1,0
-ACQLOC,"Secaucus, N.J.",1,0
-DLRAMT,387 mln dlrs,0,1
-PURCHASER,MCA Inc,1,0
-SELLER,GENCORP,1,0
-STATUS,completed,0,0
-ACQUIRED,L.E. Myers Co Group,1,0
-PURCHASER,Leonard Chavin,1,0
-STATUS,raised his stake,0,0
-ACQUIRED,Central National Bank of Buckhannon,1,0
-ACQLOC,W. Virginia,1,0
-DLRAMT,16.2 mln dlrs,0,1
-PURCHASER,Key Centurion Bancshares Inc,1,0
-STATUS,agreement in principle,0,0
-ACQUIRED,Hillards Plc,1,0
-DLRAMT,151 mln stg,0,1
-PURCHASER,Tesco Plc,1,0
-STATUS,extending,0,0
-ACQBUS,pipeline and terminal operations,0,0
-DLRAMT,12.2 mln dlrs,0,1
-SELLER,Gulf Applied Technologies Inc,1,0
-ACQUIRED,Sanivan Group Inc,1,0
-ACQBUS,hazardous waste management,0,0
-ACQLOC,Canada,1,0
-PURCHASER,Noranda Inc,1,0
-STATUS,agreed to buy,0,0
-ACQUIRED,Plainwell Paper Co Inc,1,0
-ACQBUS,premium coated and uncoated printing papers and technical specialty papers,0,0
-SELLER,Chesapeake Corp,1,0
-ACQUIRED,cable television systems,0,0
-ACQLOC,"Wildwood, N.J.",1,0
-ACQLOC,"Ramapo and Warwick, N.Y.",1,0
-PURCHASER,TKR Cable Co,1,0
-SELLER,TELE-COMMUNICATIONS,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,Allegheny International Inc,1,0
-PURCHASER,"Spear, Leeds and Kellogg",1,0
-STATUS,increased its preferred stock,0,0
-ACQUIRED,Professional Care Inc,1,0
-PURCHASER,CarePlus Inc,1,0
-STATUS,proposed,0,0
-ACQUIRED,Intermedics Inc,1,0
-DLRAMT,30 mln dlrs,0,1
-PURCHASER,Bessemer Securities Corp,1,0
-PURCHASER,Cilluffo Associates,1,0
-STATUS,clearance,0,0
-ACQUIRED,American Dynamics Corp,1,0
-ACQBUS,"gas gathering, transmission and liquids extraction",0,0
-ACQLOC,Columbus,1,0
-PURCHASER,Meridian Reserve Inc,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,San Miguel Corp,1,0
-ACQBUS,food and beverage maker,0,0
-ACQLOC,Philippines,1,0
-PURCHASER,Anheuser-Busch Companies Inc,1,0
-STATUS,joined several other foreign bidders,0,0
-ACQUIRED,Standard Chartered Plc,1,0
-PURCHASER,Bell Group Ltd,1,0
-ACQUIRED,Conrac Corp,1,0
-ACQBUS,computer-related information display and communications equipment,0,0
-STATUS,started negotiations,0,0
-ACQUIRED,Canadian Bashaw Leduc Oil and Gas Ltd,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Erskine Resources Ltd,1,0
-STATUS,agreed,0,0
-ACQUIRED,28 long-term care facilities,0,1
-ACQLOC,seven western states,0,0
-DLRAMT,70 mln dlrs,0,1
-PURCHASER,Southmark Corp,1,0
-ACQUIRED,C.S.C. Security Gaurd Service,1,0
-ACQUIRED,Guard Services Division,1,0
-ACQUIRED,Capital Investigations and Protective Agency,1,0
-ACQUIRED,Meyer Detective Agency Inc,1,0
-ACQUIRED,Certified Security Services Inc,1,0
-ACQUIRED,Custom Security Services,1,0
-ACQUIRED,A-T-E Security Group Inc,1,0
-ACQUIRED,"Louisville, Kent and Nashville, Tenn, offices",1,0
-ACQBUS,security services,0,0
-ACQLOC,"Paramus, N.J.",1,0
-ACQLOC,"Wayne, N.J.",1,0
-ACQLOC,"Hackensack, N.J.",1,0
-ACQLOC,"National Park, N.J.",1,0
-ACQLOC,"Key West, Fla.",1,0
-ACQLOC,"Myrtle Beach, S.C.",1,0
-ACQLOC,Houston,1,0
-DLRAMT,"2,700,000 dlrs",0,1
-PURCHASER,National Guardian Corp,1,0
-SELLER,Cartel Security Consultants Inc,1,0
-SELLER,Security Services of America,1,0
-SELLER,Wells Fargo Alarm Services,1,0
-ACQUIRED,Plaid Pantries Inc,1,0
-ACQBUS,convenience stores,0,0
-ACQLOC,Oregon and Washington,1,0
-PURCHASER,Convenient Food Mart Inc,1,0
-STATUS,tentatively agreed,0,0
-ACQUIRED,Delhi Petroleum Pty Ltd,1,0
-ACQBUS,oil and gas,0,0
-DLRAMT,985 mln dlrs,0,1
-PURCHASER,Exxon Corp,1,0
-SELLER,CSR Ltd,1,0
-STATUS,sold,0,0
-ACQUIRED,British Printing and Communication Corp Plc,1,0
-ACQUIRED,Hollis Plc,1,0
-SELLER,Pergamon Holdings Ltd,1,0
-STATUS,sold,0,0
-ACQUIRED,Clevite Industries Inc,1,0
-PURCHASER,J.P. Industries Inc,1,0
-STATUS,received a written proposal,0,0
-ACQUIRED,Waccamaw State Bank,1,0
-ACQLOC,"Surfside Beach, S.C.",1,0
-PURCHASER,Anchor Financial Corp,1,0
-STATUS,agreed to acquire,0,0
-ACQUIRED,Spectrum Holding Corp,1,0
-ACQBUS,asbestos abatement,0,0
-DLRAMT,13 mln dlrs,0,1
-PURCHASER,LVI Group Inc,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Builders Transport Inc,1,0
-PURCHASER,Harris Associates L.P.,1,0
-STATUS,raised its stake,0,0
-ACQUIRED,COMPUTER ACCESS CORP,1,0
-ACQBUS,full-text search and retrieval software,0,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Lotus Development Corp,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,Faygo Beverages Inc,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,National Beverage Corp,1,0
-STATUS,agreed to acquire,0,0
-ACQUIRED,Hawaiian dairy operations,1,0
-DLRAMT,13 mln dlrs,0,1
-PURCHASER,Foremost Foods Inc,1,0
-SELLER,Knudsen Foods Inc,1,0
-STATUS,agreement to sell,0,0
-ACQUIRED,Broussard oil and gas field,1,0
-ACQBUS,natural gas,0,0
-ACQLOC,southern Louisiana,0,0
-DLRAMT,22.5 mln dlrs,0,1
-PURCHASER,Nerco Inc,1,0
-SELLER,Davis Oil Co,1,0
-ACQUIRED,Atcor Inc,1,0
-DLRAMT,6.1 mln dlrs,0,1
-PURCHASER,Great American Management and Investment Inc,1,0
-STATUS,acquired,0,0
-ACQUIRED,IPCO Corp,1,0
-DLRAMT,4.9 mln dlrs,0,1
-PURCHASER,MP Co,1,0
-ACQUIRED,Cadillac Fairview Corp Ltd,1,0
-STATUS,received proposals,0,0
-ACQUIRED,Western Plastics Corp,1,0
-ACQBUS,polystyrene foam and container products,0,0
-DLRAMT,16.25 mln dlrs,0,1
-PURCHASER,Globe Machine Manufacturing Co,1,0
-SELLER,Hepworth Ceramic Holdings Plc,1,0
-ACQUIRED,Dome Petroleum Ltd,1,0
-ACQBUS,oil and gas,0,0
-ACQLOC,Canada,1,0
-DLRAMT,4.3 billion dlr,0,1
-PURCHASER,TransCanada PipeLines Ltd,1,0
-STATUS,takeover battle,0,0
-ACQUIRED,South Atlantic Financial Corp,1,0
-ACQBUS,insurance,0,0
-PURCHASER,Independence Holding Co,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Salt Lake City Division,1,0
-ACQBUS,supermarkets,0,0
-ACQLOC,"Utah, Idaho and Wyoming",1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Borman's Inc,1,0
-SELLER,Safeway Stores Inc,1,0
-STATUS,agreed to sell,0,0
-ACQUIRED,"Huron, South Dakota, pork plant",1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Huron Dressed Beef,1,0
-SELLER,Swift Independent Packing Co,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Borg-Warner Corp,1,0
-DLRAMT,4.23 billion dlr,0,1
-PURCHASER,Merrill Lynch Capital Partners,1,0
-SELLER,GAF Corp,1,0
-STATUS,studying an agreement,0,0
-ACQUIRED,San/Bar Corp,1,0
-PURCHASER,Resdel Industries,1,0
-ACQUIRED,Revlon Group Inc,1,0
-DLRAMT,782 mln dlrs,0,1
-PURCHASER,MacAndrews and Forbes Group,1,0
-STATUS,entered into a definitive mergewr agreement,0,0
-ACQUIRED,Celeron Corp,1,0
-ACQBUS,oil and gas,0,0
-DLRAMT,two billion dlrs,0,0
-SELLER,Goodyear Tire and Rubber Co,1,0
-STATUS,expects to sell,0,0
-ACQUIRED,Centurion Savings and Loan Association,1,0
-ACQLOC,Los Angeles,1,0
-PURCHASER,ATLANTIC FINANCIAL,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,MCC-Presidential Inc,1,0
-PURCHASER,First Montauk Securities Corp,1,0
-ACQUIRED,computer systems division,0,0
-PURCHASER,Rotan Mosle Technology Partners Ltd,1,0
-SELLER,Digicon Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Sobeys Stores Ltd,1,0
-PURCHASER,Empire Co Ltd,1,0
-ACQUIRED,Cincinnati non-wireline cellular system,1,0
-ACQLOC,Cincinnati,1,0
-PURCHASER,Cellular Communications Inc,1,0
-ACQUIRED,Borg-Warner Corp,1,0
-DLRAMT,4.23 billion dlr,0,1
-PURCHASER,Merrill Lynch Capital Partners,1,0
-ACQUIRED,Allied Research Inc,1,0
-ACQUIRED,Consolidated Insurance Services Inc,1,0
-ACQBUS,underwriting information services,0,0
-ACQLOC,"Salem, Ore.",1,0
-ACQLOC,"Springfield, Va.",1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Policy Management Systems Corp,1,0
-ACQUIRED,Holleb and Co,1,0
-ACQBUS,foodservice distributor,0,0
-ACQLOC,"Bensenville, Ill",1,0
-DLRAMT,withheld,0,0
-PURCHASER,Kraft Inc,1,0
-ACQUIRED,Dome Petroleum Ltd,1,0
-PURCHASER,Amoco Corp,1,0
-ACQUIRED,CalMat Co,1,0
-DLRAMT,10.5 mln dlrs,0,1
-PURCHASER,Industrial Equity (Pacific) Ltd,1,0
-ACQUIRED,Hal Roach Studios Inc,1,0
-DLRAMT,6.3 mln U.S. dlrs,0,1
-PURCHASER,Qintex America (Media) Ltd,1,0
-SELLER,International H.R.S. Industries Inc,1,0
-STATUS,would reduce,0,0
-ACQUIRED,Flagship Cleaning Services Inc,1,0
-ACQBUS,domestic carpet and upholstery cleaning,0,0
-ACQLOC,Philadelphia,1,0
-DLRAMT,24 MLN DLRS,0,1
-PURCHASER,Best Co Inc,1,0
-SELLER,Northserv Inc,1,0
-STATUS,agreed to sell,0,0
-ACQUIRED,Carling O'Keefe Ltd,1,0
-PURCHASER,Elders IXL Ltd,1,0
-SELLER,Rothmans International Plc,1,0
-STATUS,approved,0,0
-ACQUIRED,Sun Co,1,0
-SELLER,Glenmede Trust Co,1,0
-STATUS,plans to sell,0,0
-ACQUIRED,a privately-held company,0,0
-PURCHASER,Molecular Genetics Inc,1,0
-STATUS,preliminary discussions,0,0
-ACQUIRED,Allegheny International,1,0
-PURCHASER,An investor group led by New York money manager Mario Gabelli,1,0
-STATUS,raised its stake,0,0
-ACQUIRED,CTS Corp,1,0
-PURCHASER,Dynamics Corp of America,1,0
-STATUS,reached an agreement,0,0
-ACQUIRED,Northern Engineering and Testing Inc,1,0
-ACQLOC,northwestern United States,0,0
-PURCHASER,Huntingdon International Holdings plc,1,0
-ACQUIRED,Kurt A. Becher GmbH and Co KG,1,0
-ACQBUS,feedstuff and grain,0,0
-ACQLOC,West Germany,1,0
-PURCHASER,ConAgra Inc,1,0
-ACQUIRED,North Sea blocks,1,0
-PURCHASER,Midland and Scottish Resources Ltd,1,0
-SELLER,Chevron Petroleum (U.K.) Ltd,1,0
-ACQUIRED,Nutone,1,0
-ACQUIRED,Yale,1,0
-ACQBUS,built-in electric products for the housing market,0,0
-ACQBUS,door locks and electronic security products,0,0
-DLRAMT,400 mln dlrs,0,1
-PURCHASER,Valor PLC,1,0
-SELLER,First City Industries Inc,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,Society for Savings Bancorp Inc,1,0
-ACQLOC,Conneticut,1,0
-PURCHASER,Delaware-chartered bank holding company,1,0
-STATUS,completed,0,0
-ACQUIRED,Pizza Inn Inc,1,0
-DLRAMT,1.75 mln dlrs,0,1
-PURCHASER,Saul Steinberg,1,0
-STATUS,acquired,0,0
-ACQUIRED,Piezo Electric Products Inc,1,0
-PURCHASER,Corporate Life Insurance Co,1,0
-STATUS,acquired,0,0
-ACQUIRED,Video Monitors Inc,1,0
-ACQBUS,video display and and video monitor devices,0,0
-ACQLOC,Wisconsin,1,0
-DLRAMT,3.92 mln dlrs,0,1
-PURCHASER,Dotronix Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,BresLube Enterprises,1,0
-ACQBUS,collects used lubricating oils,0,0
-ACQLOC,Toronto,1,0
-DLRAMT,12 mln dlrs,0,1
-PURCHASER,Safety-Kleen Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,USAir Group Inc,1,0
-PURCHASER,Trans World Airlines,1,0
-STATUS,offer,0,0
-ACQUIRED,Alliance Semiconductor Corp,1,0
-ACQLOC,"Santa Clara, Calif",1,0
-PURCHASER,Piosec Technology Ltd,1,0
-ACQUIRED,Link Technologies Inc,1,0
-ACQBUS,computer terminals,0,0
-PURCHASER,Wyse Technology,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Burlington Industries Inc,1,0
-SELLER,Asher Edelman,1,0
-SELLER,Dominion Textile Inc,1,0
-SELLER,Samjens Acqusition Corp,1,0
-STATUS,lowered their stake,0,0
-ACQUIRED,North Port Bank,1,0
-ACQUIRED,City Commerical Bank,1,0
-ACQBUS,banks,0,0
-ACQLOC,North Port,1,0
-ACQLOC,Sarasota,1,0
-PURCHASER,First Union Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,Monier Ltd,1,0
-ACQBUS,building products,0,0
-PURCHASER,Equiticorp Tasman Ltd,1,0
-STATUS,will offer,0,0
-ACQUIRED,Europeesche Verzekering Maatschappij N.V.,1,0
-ACQBUS,travel and recreation insurance,0,0
-ACQLOC,Swiss,1,0
-PURCHASER,Stad Rotterdam Anno 1720 N.V.,1,1
-ACQUIRED,Total Exploration Australia Pty Ltd,1,0
-PURCHASER,Santos Ltd,1,0
-SELLER,Total Holdings (Australia) Pty Ltd,1,0
-ACQUIRED,Automatic Toll Systems Inc,1,0
-DLRAMT,26 mln dlrs,0,1
-PURCHASER,Cubic Corp,1,0
-SELLER,BASIX CORP,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,water properties,0,0
-ACQLOC,Kansas,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Central Kansas Utility Co,1,0
-SELLER,Centel Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,Virginia Federal Savings and Loan Association,1,0
-ACQBUS,mortgage and lending services,0,0
-ACQLOC,Virginia,1,0
-DLRAMT,20 mln dlrs,0,1
-PURCHASER,Montrose Holding Co,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,Clayton steel plate mill,1,0
-DLRAMT,eight mln dlrs,0,0
-SELLER,Phoenix Steel Corp,1,0
-STATUS,offered to buy,0,0
-ACQUIRED,"First National Bank of Bloomington, Ind",1,0
-ACQLOC,INDIANA,1,0
-PURCHASER,Banc One Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,coffee roasting plant,0,0
-ACQBUS,coffee,0,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Superior Coffee and Foods,1,0
-SELLER,Stewart Sandwiches Inc,1,0
-ACQUIRED,Thomas Nationwide Computer Corp,1,0
-ACQBUS,new and used International Business Machines Corp equipment,0,0
-PURCHASER,PACIFICORP,1,0
-ACQUIRED,Pay 'N Pak Stores Inc,1,0
-PURCHASER,a leveraged buyout firm,0,0
-STATUS,revision,0,0
-ACQUIRED,Rexnord Inc,1,0
-PURCHASER,Banner Industries Inc,1,0
-ACQUIRED,Air New Zealand Ltd,1,0
-PURCHASER,the public,0,0
-SELLER,New Zealand Government,1,0
-ACQUIRED,S.And W. Berisford Plc,1,0
-ACQBUS,"commodities, property, financial services and food",0,0
-STATUS,making every possible effort to remain independent,0,0
-ACQUIRED,Piedmont Aviation Inc,1,0
-PURCHASER,USAir Group Inc,1,0
-STATUS,proposed,0,0
-ACQUIRED,Dey Brothers Stores,1,0
-ACQLOC,"Syracuse, N.Y.",1,0
-PURCHASER,May Department Stores Co,1,0
-SELLER,Allied Stores Corp,1,0
-STATUS,terminated an agreement,0,0
-ACQUIRED,Balzec Investments Inc,1,0
-ACQBUS,battery charger product,0,0
-ACQLOC,Dallas,1,0
-DLRAMT,not disclose,0,0
-PURCHASER,Magellan Corp,1,0
-STATUS,approved,0,0
-ACQUIRED,CBC Bancorp Inc,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Union Planters Corp,1,0
-STATUS,will be acquired,0,0
-ACQUIRED,Chemetron Railway Products,1,0
-ACQUIRED,True Temper Railway Appliances Inc,1,0
-ACQUIRED,Allegheny Axle Co,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Chemetron Railway Products Inc,1,0
-SELLER,Allegheny International Inc,1,0
-STATUS,sold,0,0
-ACQUIRED,Cetus Corp,1,0
-PURCHASER,Squibb Corp,1,0
-STATUS,not interested in buying,0,0
-ACQUIRED,Zoran Corp,1,0
-ACQBUS,large scale integrated circuits,0,0
-ACQLOC,California,1,0
-DLRAMT,1.5 mln dlrs,0,1
-PURCHASER,Mitsui and Co Ltd,1,0
-ACQUIRED,Commercial Resources Corp in,1,0
-PURCHASER,MTech Corp,1,0
-ACQUIRED,Chaparral Airlines inc,1,0
-ACQLOC,Dallas/Fort Worth,1,0
-DLRAMT,"5,700,000 dlrs",0,1
-PURCHASER,Metro Airlines Inc,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,RB Industries Inc,1,0
-SELLER,Jeffrey Neuman,1,0
-STATUS,sold,0,0
-ACQUIRED,Energy Factors Inc,1,0
-DLRAMT,100 mln dlrs,0,1
-PURCHASER,Sithe-Energies LP,1,0
-STATUS,signed an agreement,0,0
-ACQUIRED,VR Business Brokers Inc,1,0
-PURCHASER,VR Acquisition Corp,1,0
-STATUS,closed the sale,0,0
-ACQUIRED,Silicon Systems Inc,1,0
-SELLER,A group of Boston investors and investment partnerships,1,0
-STATUS,sold,0,0
-ACQUIRED,Anderson Clayton Foods Division,1,0
-DLRAMT,235 mln dlrs,0,1
-PURCHASER,Kraft Inc,1,0
-SELLER,Quaker Oats Co,1,0
-STATUS,completed,0,0
-ACQUIRED,Westwood Energy Properties Limited Partnership,1,0
-ACQBUS,electric generation,0,0
-ACQLOC,"Schuykill County, Penn.",1,0
-DLRAMT,10 mln dlrs,0,1
-PURCHASER,UtilCo Group,1,0
-SELLER,Westwood Funding Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,New Generation Inc,1,0
-ACQBUS,consumer electronics specialty retailer,0,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Federal Resources Corp,1,0
-ACQUIRED,Crazy Eddie Inc,1,0
-ACQBUS,electronics,0,0
-ACQLOC,"Edison, N.J.",1,0
-PURCHASER,Enetertainment Marketing Inc,1,0
-STATUS,may pursue a merger,0,0
-ACQUIRED,Western Kentucky Gas Co,1,0
-ACQBUS,gas distribution,0,0
-ACQLOC,Kentucky,1,0
-DLRAMT,61.5 mln dlrs,0,1
-PURCHASER,Energas Co,1,0
-SELLER,Texas American Energy Corp,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Unicoa Corp,1,0
-PURCHASER,United Insurance Co of America,1,0
-STATUS,agreed,0,0
-ACQUIRED,CARDIS CORP,1,0
-ACQBUS,auto parts,0,0
-ACQLOC,Los Angeles,1,0
-PURCHASER,Brookehill Partners Inc,1,0
-ACQUIRED,Universal Communication Systems Inc,1,0
-DLRAMT,79 mln dlrs,0,1
-STATUS,tentatively agreed,0,0
-ACQUIRED,TecSyn International Inc,1,0
-PURCHASER,U.S.-based investors group,1,0
-STATUS,terminated,0,0
-ACQUIRED,D and K Financial Corp,1,0
-ACQBUS,leasing of fleets of cars,0,0
-DLRAMT,not disclosed,0,0
-PURCHASER,GE Credit Corp,1,0
-SELLER,Kraft Inc,1,0
-STATUS,agreed to buy,0,0
-ACQUIRED,JAPAN FUND,1,0
-PURCHASER,Sterling Grace Capital Management L.P.,1,0
-ACQUIRED,Trans World Airlines Inc,1,0
-PURCHASER,Carl C. Icahn,1,0
-STATUS,withdrawn his proposal,0,0
-ACQUIRED,Irving Bank Corp,1,0
-PURCHASER,Bank of New York Corp,1,0
-STATUS,reaffirmed the terms,0,0
-ACQUIRED,Telex Corp,1,0
-PURCHASER,TLX Partners,1,0
-ACQUIRED,Citizens Bank of Roseville,1,0
-PURCHASER,First Commercial Bancorp,1,0
-STATUS,will acquire,0,0
-ACQUIRED,Caledonian Airmotive Ltd,1,0
-ACQBUS,repairs and rebuilds aircraft engines,0,0
-PURCHASER,Ryder System Inc,1,0
-SELLER,British Caledonian Group PLC,1,0
-STATUS,acquired,0,0
-ACQUIRED,firm that performs interior cleaning services for tank-trailers,0,0
-PURCHASER,Allwaste Inc,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Southern Pacific Transportation Co,1,0
-PURCHASER,Henley Group Inc,1,0
-SELLER,Sante Fe Southern Pacific Corp,1,0
-STATUS,ended talks,0,0
-ACQUIRED,PMS CONSOLIDATED,1,0
-ACQBUS,colorants for the plastics industry,0,0
-PURCHASER,M.A. HANNA CO,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,a shrimp packing plant,0,0
-ACQLOC,Ecuador,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Baltek Corp,1,0
-STATUS,acquired,0,0
-ACQUIRED,Hal Roach Studios Inc,1,0
-DLRAMT,115 mln dlrs,0,1
-PURCHASER,Robert Halmi Inc,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,Atomika Technische Physik,1,0
-ACQBUS,surface science instruments,0,0
-ACQLOC,"Munich, West Germany",1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Perkin-Elmer Corp,1,0
-STATUS,acquired,0,0
-ACQUIRED,Northview Corp,1,0
-PURCHASER,Calmark Financial Corp,1,0
-STATUS,agreement in principal,0,0
-ACQUIRED,Triton Oil Corp,1,0
-PURCHASER,Industrial Equity (Pacific) Ltd,1,0
-STATUS,acquired,0,0
-ACQUIRED,plant,0,0
-ACQLOC,"Napa, Calif",1,0
-DLRAMT,16 mln dlrs,0,1
-PURCHASER,Oregon Steel Mills,1,0
-SELLER,Kaiser Steel Corp,1,0
-STATUS,purchased,0,0
-ACQUIRED,IDC Services Inc,1,0
-DLRAMT,62.4 mln dlrs,0,1
-PURCHASER,IDC Acquisition Corp,1,0
-STATUS,begin a cash tender offer,0,0
-STATUS,definitive agreement,0,0
-ACQUIRED,Pneumo Abex,1,0
-ACQBUS,aerospace and defense,0,0
-SELLER,IC Industries Inc,1,0
-ACQUIRED,Cental Soya Co Inc,1,0
-DLRAMT,370 mln dlrs,0,1
-PURCHASER,Ferruzzi Agricola Finanziaria,1,0
-SELLER,Shamrock Capital LP,1,0
-STATUS,completed,0,0
-ACQUIRED,Cental Soya Co Inc,1,0
-PURCHASER,Ferruzzi Agricola Finanziaria,1,0
-SELLER,Shamrock Capital LP,1,0
-STATUS,completed,0,0
-ACQUIRED,GAF Corp,1,0
-PURCHASER,Samuel J. Heyman,1,0
-STATUS,reconsider,0,0
-ACQUIRED,Bell Petroleum Services Inc,1,0
-PURCHASER,Regal International Inc,1,0
-STATUS,doubled its offer,0,0
-ACQUIRED,"Rigolleau, S.A.",1,0
-ACQBUS,glass manufacturer,0,0
-ACQLOC,Argentine,1,0
-PURCHASER,Camillo Gancia,1,0
-SELLER,Corning International Corp,1,0
-STATUS,agreed to transfer,0,0
-ACQUIRED,Bankhaus Centrale Credit AG,1,0
-ACQLOC,West German,1,0
-PURCHASER,Banco Santander,1,0
-SELLER,Bank of America,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,Entrepo Financial Resources Inc,1,0
-ACQBUS,high technology equipment,0,0
-ACQLOC,Philadelphia,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,AMOSKEAG BANK,1,0
-STATUS,agreement,0,0
-ACQUIRED,Baker International Corp,1,0
-ACQBUS,oil field service,0,0
-PURCHASER,Hughes Tool Co,1,0
-STATUS,under consideration,0,0
-ACQUIRED,Enzon Inc,1,0
-ACQBUS,pharmaceutical,0,0
-PURCHASER,Eastman Kodak Co,1,0
-ACQUIRED,privately-held specialty plastics manufacturing company,0,0
-PURCHASER,Texon Energy Corp,1,0
-STATUS,preliminary agreement,0,0
-ACQUIRED,Lincoln Savings Bank,1,0
-PURCHASER,Unicorp American Corp,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,Acme Holding corp,1,0
-ACQUIRED,Plan-A-Flex Designer Co,1,0
-ACQBUS,sliding and folding door hardware,0,0
-ACQBUS,kits for home design and remodeling projects,0,0
-DLRAMT,not disclosed,0,0
-PURCHASER,STANLEY WORKS,1,0
-STATUS,acquired,0,0
-ACQUIRED,ready-mixed concrete and aggregates businesses,0,0
-ACQBUS,CONCRETE,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Lone Star Industries Inc,1,0
-SELLER,Riedel International Inc,1,0
-ACQUIRED,Republic Health Corp,1,0
-DLRAMT,not been disclosed,0,0
-PURCHASER,Pesch and Co,1,0
-SELLER,REPH Acquisition Co,1,0
-STATUS,negotiate the terms,0,0
-ACQUIRED,USAir Group Inc,1,0
-ACQBUS,airline,0,0
-PURCHASER,Trans World Airlines Inc,1,0
-STATUS,filed suit,0,0
-ACQUIRED,IMRE Corp,1,0
-PURCHASER,group of European institutions,0,0
-ACQUIRED,Westfiar Funding Corp,1,0
-ACQLOC,"Armonk, N.Y.",1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Commonwealth Mortgage Co,1,0
-ACQUIRED,Southwest Forest Industries Inc,1,0
-PURCHASER,Stone Container Corp,1,0
-STATUS,completed all waiting period requirements,0,0
-ACQUIRED,Southwest Forest Industries,1,0
-PURCHASER,Stone Container Corp,1,0
-ACQUIRED,Taft Broadcasting Co,1,0
-PURCHASER,Narragansett Capital Inc,1,0
-PURCHASER,Dudley S. Taft,1,0
-STATUS,requested a response,0,0
-ACQUIRED,railroad assets,0,0
-ACQBUS,railroad,0,0
-PURCHASER,Santa Fe Southern Pacific Corp,1,0
-PURCHASER,Southern Pacific Railroads,1,0
-STATUS,rejection,0,0
-ACQUIRED,Fermenta AB,1,0
-SELLER,NORDBANKEN,1,0
-ACQUIRED,The First Women's Bank,1,0
-PURCHASER,investor group,0,0
-STATUS,expired,0,0
-ACQUIRED,Bench Craft Inc,1,0
-PURCHASER,Universal Furniture Ltd,1,0
-ACQUIRED,Hughes Tool Co,1,0
-PURCHASER,Baker International Corp,1,0
-ACQUIRED,Star Oil and Gas Ltd,1,0
-DLRAMT,57 mln dlrs cash,0,1
-PURCHASER,United Coal (Canada) Ltd,1,0
-SELLER,Carling O'Keefe Ltd,1,0
-STATUS,sold,0,0
-ACQUIRED,DTD ENTERPRISES INC,1,0
-PURCHASER,EaglesLair Development Corp,1,0
-STATUS,assumed control,0,0
-ACQUIRED,certain producing and non-producing natural gas properties,0,0
-ACQLOC,southwestern Saskatchewan,0,0
-SELLER,Canadian Natural Resources Ltd,1,0
-ACQUIRED,WTRK Inc,1,0
-ACQBUS,radio station,0,0
-ACQLOC,Philadelphia,1,0
-DLRAMT,13.8 mln dlrs,0,1
-PURCHASER,Malrite Guaranteed Broadcast Partners L.P.,1,0
-SELLER,Cox Enterprises Inc,1,0
-ACQUIRED,Rubbertech Inc,1,0
-PURCHASER,Broker's Choice Capital Inc,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,United Asian Bank Bhd,1,0
-PURCHASER,Malaysia's central bank,1,0
-STATUS,acquired,0,0
-ACQUIRED,South Bay Savings and Loan Association,1,0
-ACQLOC,Newport Beach,1,0
-PURCHASER,Standard Pacific LP,1,0
-STATUS,acquired,0,0
-ACQUIRED,Caesars World Inc,1,0
-ACQBUS,casino hotels,0,0
-ACQBUS,honeymoon resorts,0,0
-ACQLOC,Nevada,1,0
-ACQLOC,Pennsylvania's Pocono Mountains,1,0
-PURCHASER,MTS Acquisition Corp,1,0
-STATUS,started a tender offer,0,0
-ACQUIRED,Imperial Continental Gas Association,1,0
-DLRAMT,one billion stg,0,0
-PURCHASER,SHV (United Kingdom) Holding Co Ltd,1,0
-STATUS,making a tender offer,0,0
-DLRAMT,500 mln dlrs,0,1
-PURCHASER,First Boston Corp,1,0
-SELLER,Allegheny International Inc,1,0
-ACQUIRED,American Motors Corp,1,0
-DLRAMT,757 mln dlr,0,1
-PURCHASER,Chrysler Corp,1,0
-ACQUIRED,Technology Development Corp,1,0
-DLRAMT,"350,000 dlrs",0,1
-PURCHASER,Leon Greenblatt,1,0
-STATUS,acquired,0,0
-ACQUIRED,American Motors Corp,1,0
-DLRAMT,757 MLN DLRS,0,1
-PURCHASER,Chrysler Corp,1,0
-SELLER,Renault,1,0
-STATUS,proposed,0,0
-ACQUIRED,All Ticket Group PLC,1,0
-ACQBUS,special events travel company,0,0
-ACQLOC,London,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Consolidated Grandview Inc,1,0
-ACQUIRED,Imperial Continental Gas Association,1,0
-PURCHASER,Tractebel SA,1,0
-PURCHASER,Groupe Bruxelles Lambert SA,1,0
-ACQUIRED,five rural hospitals,0,0
-DLRAMT,18 mln dlrs,0,1
-PURCHASER,a private corporation,0,0
-SELLER,National Heathcare Inc,1,0
-STATUS,signed an agreement,0,0
-ACQUIRED,Beatrice U.S. Food Corp,1,0
-ACQBUS,bottled water,0,0
-ACQLOC,"Monterey Park, Calif.",1,0
-SELLER,BCI Holdings Corp,1,0
-ACQUIRED,Viacom International Inc,1,0
-DLRAMT,3.4 billion dlrs,0,1
-PURCHASER,National Amusements Inc,1,0
-STATUS,agreed to work together,0,0
-ACQUIRED,Taft Broadcasting Co,1,0
-PURCHASER,Carl Lindner,1,0
-STATUS,discussed,0,0
-ACQUIRED,Hausereman Inc,1,0
-PURCHASER,Bahamas-based firm,1,0
-ACQUIRED,Goodyear Aerospace Corp,1,0
-DLRAMT,588 MLN DLRS,0,1
-PURCHASER,Loral Corp,1,0
-SELLER,Goodyear Tire and Rubber Co,1,0
-ACQUIRED,Kaiser Cement's Northwest Terminals and Montana City plant,1,0
-ACQBUS,cement producer,0,0
-DLRAMT,50.2 mln dlrs,0,1
-PURCHASER,Lone Star Industries Inc,1,0
-PURCHASER,Ash Grove Cement West Inc,1,0
-SELLER,Hanson Industries,1,0
-ACQUIRED,Marketech Inc,1,0
-ACQBUS,patient-ready home infusion therapy products and services,0,0
-ACQLOC,New Jersery,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Continental Health Affiliates Inc,1,0
-STATUS,acquired,0,0
-ACQUIRED,Gleason Securities Service Inc,1,0
-ACQUIRED,Gleason Plant Security Inc,1,0
-ACQBUS,security guard services,0,0
-ACQLOC,New York,1,0
-ACQLOC,Connecticut,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Sahlen and Associates Inc,1,0
-ACQUIRED,Triplett Electrical Instrument Corp,1,0
-ACQUIRED,Alltest,1,0
-ACQLOC,"Bluffton, Ohio",1,0
-ACQLOC,"Hoffman Estates, Ill.",1,0
-SELLER,Penril Corp,1,0
-STATUS,seeking to sell,0,0
-ACQUIRED,Biltmore Hotel,1,0
-ACQLOC,Santa Barbara,1,0
-DLRAMT,undisclosed amount,0,0
-PURCHASER,Four Seasons Hotels,1,0
-PURCHASER,VMS Realty Partners,1,0
-SELLER,Marriott Corp,1,0
-STATUS,agreed to purchase,0,0
-ACQUIRED,American Video Group Inc,1,0
-ACQBUS,video rental concessions,0,0
-PURCHASER,Paralax Video Enterprises Inc,1,0
-STATUS,agreeed to acquire,0,0
-ACQUIRED,South Western Engineering Co,1,0
-ACQBUS,heat transfer equipment,0,0
-DLRAMT,12.5 MLN DLR,0,1
-PURCHASER,Senior Engineering Group Plc,1,0
-SELLER,Cronus Industries Inc,1,0
-STATUS,reached agreement,0,0
-ACQUIRED,Trico Industries Inc,1,0
-PURCHASER,Paccar Inc,1,0
-STATUS,proposed,0,0
-ACQUIRED,Hughes Tool Co,1,0
-PURCHASER,Baker International Corp,1,0
-STATUS,approved,0,0
-ACQUIRED,Taft Braodacasting Co,1,0
-PURCHASER,Theta Corp,1,0
-STATUS,decided not to accept,0,0
-ACQUIRED,Taft Broadcasting Co,1,0
-PURCHASER,Dudley Taft,1,0
-PURCHASER,Narragansett Capital Inc,1,0
-STATUS,intend to pursue,0,0
-ACQUIRED,Winley Inc,1,0
-ACQBUS,homebuilder,0,0
-ACQLOC,"Englewood, Colo.",1,0
-PURCHASER,CONCORDE VENTURES INC,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,Princeville Development Corp,1,0
-PURCHASER,Qintex America Ltd,1,0
-STATUS,extending its offer,0,0
-ACQUIRED,industrial products group,0,0
-ACQBUS,standard and custom engineered centrifugal pumps and mechanical seals,0,0
-ACQBUS,advanced controls,0,0
-ACQLOC,"Long Beach, California",1,0
-DLRAMT,240 MLN DLRS,0,1
-PURCHASER,Clayton and Dubilier Inc,1,0
-SELLER,Borg-Warner Corp,1,0
-STATUS,agreed to sell,0,0
-PURCHASER,Merrill Lynch Canada Inc,1,0
-STATUS,considering,0,0
-ACQUIRED,High Technology,1,0
-ACQBUS,publishes information about emerging technologies and their impact on business,0,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Biotech Capital Corp,1,0
-SELLER,Goldhirsh Group,1,0
-STATUS,agreed to buy,0,0
-ACQUIRED,Instinet Corp,1,0
-PURCHASER,Reuters Holdings PLC,1,0
-STATUS,proposed,0,0
-ACQUIRED,Bancroft Convertible Fund Inc,1,0
-PURCHASER,Zico INvestment Holdings INc,1,0
-ACQUIRED,Protein Databases Inc,1,0
-PURCHASER,Millipore Corp,1,0
-STATUS,acquired,0,0
-ACQUIRED,Biopool AB,1,0
-ACQBUS,cardiovascular and fibrinolytic products,0,0
-ACQLOC,"Umea, Sweden",1,0
-DLRAMT,undisclosed terms,0,0
-PURCHASER,CytRx Biopool Ltd,1,0
-ACQUIRED,Golden Nugget Casino Hotel,1,0
-ACQLOC,"Atlantic City, New Jersey",1,0
-PURCHASER,Bally Manufacturing Corp,1,0
-SELLER,Golden Nugget Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Sanchez Computer Associates Inc,1,0
-ACQBUS,computer software,0,0
-ACQLOC,"Malvern, Pa",1,0
-DLRAMT,2.5 mln dlr,0,1
-PURCHASER,Safeguard Scientifics Inc,1,0
-ACQUIRED,Princeville Airways Inc,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Aloha Inc,1,0
-SELLER,Princeville Development Corp,1,0
-STATUS,agreed to terms,0,0
-ACQUIRED,Seashore Bankshares Inc,1,0
-PURCHASER,New Hampshire Savings Bank Corp,1,0
-STATUS,agreed to buy,0,0
-ACQUIRED,HOUSTON CHRONICLE,1,0
-ACQBUS,paper,0,0
-DLRAMT,400 MLN DLRS,0,1
-PURCHASER,Hearst Corp,1,0
-SELLER,Houston Endowment Inc,1,0
-ACQUIRED,Cheetham Ltd,1,0
-ACQBUS,"salt, animal feed and seeds",0,0
-DLRAMT,110 mln dlrs,0,1
-PURCHASER,Acmex Holdings Ltd,1,0
-STATUS,proposed,0,0
-ACQUIRED,Hillards Plc,1,0
-ACQBUS,supermarket chain,0,0
-PURCHASER,County Ltd,1,0
-PURCHASER,Tesco Plc,1,0
-STATUS,purchased,0,0
-ACQUIRED,Heinl's Nursery Inc,1,0
-ACQLOC,Miami,1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,American Nursery Products Inc,1,0
-STATUS,purchased,0,0
-ACQUIRED,Caesars World Inc,1,0
-PURCHASER,Martin T. Sosnoff,1,0
-STATUS,rejected,0,0
-ACQUIRED,Walter-Richter Labels Inc,1,0
-ACQBUS,woven labels,0,0
-ACQLOC,"Paterson, N.J.",1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Packaging Systems Corp,1,0
-STATUS,agreed to acquire,0,0
-ACQUIRED,Cenergy Corp,1,0
-PURCHASER,Bryson Oil and Gas plc,1,0
-ACQUIRED,Antibioticos SA,1,0
-ACQBUS,pharmaceuticals,0,0
-ACQLOC,Spanish,1,0
-DLRAMT,500 billion lire,0,1
-PURCHASER,Montedison Spa,1,0
-STATUS,concluded its negotiations,0,0
-ACQUIRED,Valley Cable TV,1,0
-ACQBUS,cable television systems,0,0
-ACQLOC,west San Fernando Valley area of Los Angeles,0,0
-DLRAMT,100 MLN DLR,0,1
-PURCHASER,Cablevision Industries Corp,1,0
-SELLER,Hollinger Inc,1,0
-STATUS,entered into an agreement,0,0
-ACQUIRED,industrial products division,0,0
-ACQLOC,"Long Beach, California",1,0
-DLRAMT,about 240 mln dlrs,0,1
-PURCHASER,Clayton and Dubilier Inc,1,0
-SELLER,Borg-Warner Corp,1,0
-STATUS,approved,0,0
-ACQUIRED,retail store division,0,0
-PURCHASER,Handy Andy Home Improvement Centers Inc,1,0
-SELLER,Forest City Enterprises Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Resorts INternational Inc,1,0
-PURCHASER,PH Acquisition Co,1,0
-ACQUIRED,Harper and Row Publishers Inc,1,0
-PURCHASER,Theodore Cross,1,0
-PURCHASER,Harcourt Brace Jovanovich Inc,1,0
-STATUS,take no action,0,0
-ACQUIRED,Home Savings and Loan Association,1,0
-ACQLOC,"Seattle, Washington",1,0
-PURCHASER,InterWest Savings Bank,1,0
-ACQUIRED,Symbion Inc,1,0
-PURCHASER,"Warburg, Pincus Capital Corp",1,0
-STATUS,started a tender offer,0,0
-ACQUIRED,Woolworth Holdings Plc,1,0
-SELLER,Dixons Group Plc,1,0
-STATUS,sold,0,0
-ACQUIRED,Peter Pan Restaurant,1,0
-ACQLOC,"Urbana, Md",1,0
-DLRAMT,"1,100,000 dlrs",0,1
-SELLER,Kapok Corp,1,0
-STATUS,agreed,0,0
-ACQUIRED,Gates Learjet Corp,1,0
-PURCHASER,AVAQ International Inc,1,0
-ACQUIRED,Rexnord Inc,1,0
-PURCHASER,Banner Industries Inc,1,0
-STATUS,tendered,0,0
-ACQUIRED,retirement living centers,0,0
-PURCHASER,Forum Group Inc,1,0
-SELLER,Beverly Enterprises,1,0
-STATUS,terminated,0,0
-ACQUIRED,Southwestern Engineering Co,1,0
-ACQBUS,heat transfer equipment,0,0
-PURCHASER,Senior Engineering Group PLC,1,0
-SELLER,CRONUS INDUSTRIES INC,1,0
-STATUS,agreed to sell,0,0
-ACQUIRED,DNA Medical Inc,1,0
-ACQBUS,medical development,0,0
-PURCHASER,Walter G. Mize,1,0
-ACQUIRED,South West Advocate,1,0
-ACQUIRED,South Bend Advocate,1,0
-ACQBUS,community newspapers,0,0
-ACQLOC,"Houston, Texas",1,0
-DLRAMT,undisclosed sum,0,0
-PURCHASER,Independent Newspapers Ltd,1,0
-PURCHASER,Houston Community Newspapers Inc,1,0
-SELLER,The Advocate Communications Corp Inc,1,0
-STATUS,bought,0,0
-ACQUIRED,Finlays,1,0
-ACQBUS,"confectionery, tobacco and newsagent",0,0
-DLRAMT,16.9 MLN STG,0,1
-PURCHASER,Finlays Plc,1,0
-SELLER,Hanson Trust Plc,1,0
-STATUS,will sell,0,0
-ACQUIRED,Popsicle Industries,1,0
-ACQBUS,frozen novelty products,0,0
-ACQLOC,Canada,1,0
-DLRAMT,37 mln Canadian dlrs,0,1
-PURCHASER,Ambrit Inc,1,0
-SELLER,Sara Lee Corp of Canada Ltd,1,0
-STATUS,agreed,0,0
-ACQUIRED,Hermetronics PLC,1,0
-ACQBUS,hermetic integrated circuit packages,0,0
-DLRAMT,"600,000 dlrs",0,1
-PURCHASER,Adams-Russell Electronics Co Inc,1,0
-STATUS,acquired,0,0
-ACQUIRED,Macedon Resources Ltd,1,0
-SELLER,Canadian Foremost Ltd,1,0
-STATUS,negotiations are continuing,0,0
-ACQUIRED,DEVELOPMENT CORP OF AMERICA,1,0
-DLRAMT,90 mln dlrs,0,1
-PURCHASER,Lennar Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,Kresge variety stores,1,0
-PURCHASER,F.W. Woolworth Co,1,0
-SELLER,K Mart Corp,1,0
-STATUS,ended,0,0
-ACQUIRED,CooperVision Inc,1,0
-PURCHASER,Siebel Capital Management Inc,1,0
-ACQUIRED,Gelco Corp,1,0
-PURCHASER,An investor group including New York-based Mutual Shares Corp and Mutual Qualified Income Fund Inc,1,0
-ACQUIRED,TEMCO SERVICE INDUSTRIES INC,1,0
-PURCHASER,Herman J. Hellman,1,0
-PURCHASER,Harvey Newwman,1,0
-STATUS,terminated,0,0
-ACQUIRED,Service America Corp,1,0
-ACQBUS,foodservice,0,0
-SELLER,Allegheny Beverage Corp,1,0
-STATUS,approached,0,0
-ACQUIRED,Frost and Sullivan Inc,1,0
-PURCHASER,Theodore Cross,1,0
-STATUS,boosted its stake,0,0
-ACQUIRED,Eastwood Hospital,1,0
-ACQBUS,medical complex,0,0
-ACQLOC,Memphis,1,0
-DLRAMT,50 mln dlrs cash,0,1
-PURCHASER,HEALTHVEST,1,0
-SELLER,Healthcare International Inc,1,0
-ACQUIRED,Goodwood Park Hotel Ltd,1,0
-DLRAMT,82 mln dlrs,0,1
-PURCHASER,Singapore government,1,0
-ACQUIRED,VEBA AG,1,0
-ACQLOC,West German,1,0
-SELLER,Finance Ministry,1,0
-STATUS,still expected,0,0
-ACQUIRED,CYCLOPS CORP,1,0
-ACQLOC,U.S.,1,0
-PURCHASER,Dixons Group Plc,1,0
-ACQUIRED,Progressive Savings and Loan Association,1,0
-ACQLOC,Southern California,1,0
-PURCHASER,Far West Financial Corp,1,0
-STATUS,agreement in principle,0,0
-ACQUIRED,Grant Industries Inc,1,0
-PURCHASER,Mobex Corp,1,0
-ACQUIRED,KREZMAR GOLD PROPERTY,1,0
-ACQBUS,gold,0,0
-ACQLOC,"Wawa, Ontario",1,0
-DLRAMT,nine mln dlrs,0,0
-PURCHASER,Canamax Resources Inc,1,0
-SELLER,Algoma Steel Corp Ltd,1,0
-STATUS,agreed,0,0
-ACQUIRED,Gelco Express Ltd,1,0
-ACQBUS,courier,0,0
-ACQLOC,Canadian,1,0
-DLRAMT,54 mln dlrs,0,1
-PURCHASER,Air Canada,1,0
-SELLER,Gelco Corp,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,Ranco Inc,1,0
-PURCHASER,Siebe PLC,1,0
-STATUS,approved,0,0
-ACQUIRED,Dashwood Industries Ltd,1,0
-ACQBUS,wood window and patio door manufacturer,0,0
-ACQLOC,Canadian,1,0
-DLRAMT,undisclosed amount,0,0
-PURCHASER,Trus Joist Corp,1,0
-ACQUIRED,"Sunrise, Fla., branch",1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Fortune Financial Group Inc,1,0
-SELLER,Financial Security Savings and Loan Association,1,0
-STATUS,agreed to sell,0,0
-ACQUIRED,Fleet Financial Group,1,0
-PURCHASER,Norstar Bancorp,1,0
-STATUS,definitive agreement,0,0
-ACQUIRED,Norstar Bancorp,1,0
-ACQBUS,bank holding,0,0
-ACQLOC,Albany N.y.,1,0
-PURCHASER,Fleet Financial Group,1,0
-STATUS,agreed,0,0
-ACQUIRED,Trilogy Resource Corp,1,0
-PURCHASER,Teck Corp,1,0
-STATUS,agreed to purchase,0,0
-ACQUIRED,Bard International Associates Inc,1,0
-ACQBUS,tennis and squash racquets and accessories,0,0
-PURCHASER,AMOUR INC,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,ISL Life Insurance Co,1,0
-ACQLOC,Dallas,1,0
-DLRAMT,"400,000 dlrs",0,1
-PURCHASER,American Travellers Corp,1,0
-STATUS,entered into an agreement,0,0
-ACQUIRED,Fairchild Semiconductor Corp,1,0
-PURCHASER,Donald Brooks,1,0
-SELLER,Schlumberger Ltd,1,0
-STATUS,management buyout proposal,0,0
-ACQUIRED,Medicom Inc,1,0
-ACQBUS,heart monitor for use in diagnosing heart disorders,0,0
-PURCHASER,Puritan-Bennedtt Corp,1,0
-STATUS,acquired,0,0
-ACQUIRED,Union Flonetics Corp,1,0
-ACQBUS,valves and marine specialty equipment,0,0
-PURCHASER,Irvin Kaplan,1,0
-SELLER,Union Corp,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Ranco Inc,1,0
-ACQBUS,automatic control devices and power controls,0,0
-PURCHASER,Siebe Plc,1,0
-STATUS,completed,0,0
-ACQUIRED,Marketing Technologies Group Inc,1,0
-ACQBUS,computer-based advertising system,0,0
-ACQLOC,"Rockville Center, N.Y.",1,0
-PURCHASER,Pilgrim Venture Corp,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,GenCorp Inc,1,0
-PURCHASER,General Partners,1,0
-STATUS,will study,0,0
-ACQUIRED,RentCo Trailer Corp,1,0
-DLRAMT,70 mln dlrs,0,1
-PURCHASER,XTRA Corp,1,0
-SELLER,Fruehauf Corp,1,0
-STATUS,agreed,0,0
-ACQUIRED,Cenergy Corp,1,0
-DLRAMT,"2,725,500 dlrs",0,1
-PURCHASER,Snyder Oil Partners L.P.,1,0
-SELLER,L.D. Brinkman,1,0
-ACQUIRED,Cenergy Corp,1,0
-PURCHASER,Snyder Oil Partners LP,1,0
-STATUS,acquired,0,0
-ACQUIRED,Greyhound Lines,1,0
-DLRAMT,350 mln dlrs,0,1
-PURCHASER,GLI Holdings Inc,1,0
-SELLER,GREYHOUND CORP,1,0
-STATUS,completed,0,0
-ACQUIRED,GenCorp Inc,1,0
-ACQBUS,aerospace and soft drink bottling,0,0
-ACQLOC,"Akron, Ohio",1,0
-DLRAMT,2.5 billion dlrs,0,1
-PURCHASER,General Partners,1,0
-ACQUIRED,Banco Portugues de Investmento Sarl,1,0
-ACQBUS,BANK,1,0
-ACQLOC,Oporto,1,0
-DLRAMT,351 mln yen,0,1
-PURCHASER,Sanwa Bank Ltd,1,0
-SELLER,International Finance Corp,1,0
-STATUS,agreed to buy,0,0
-ACQUIRED,Shearson Lehman Brothers Inc,1,0
-DLRAMT,530 mln dlrs,0,1
-PURCHASER,Nippon Life Insurance Co,1,0
-SELLER,American Express Co,1,0
-STATUS,holding talks,0,0
-ACQUIRED,Rospatch Corp,1,0
-DLRAMT,53 mln dlrs,0,1
-PURCHASER,Diagnostic Retrieval Systems Inc,1,0
-ACQUIRED,Rank Xerox South Africa Pty Ltd,1,0
-ACQBUS,copiers and duplicators,0,0
-ACQLOC,South African,1,0
-PURCHASER,Altron Group,1,0
-SELLER,Rank Xerox Ltd,1,0
-STATUS,agreed in principle,0,0
-ACQUIRED,Newman Division,1,0
-ACQBUS,gray iron castings,0,0
-ACQLOC,"Kendallville, Indiana",1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Newman Manufacturing Inc,1,0
-SELLER,Amcast Industrial Corp,1,0
-ACQUIRED,FCS Laboratories,1,0
-ACQBUS,healthcare,0,0
-STATUS,preliminary merger proposal,0,0
-ACQUIRED,King World Productions Inc,1,0
-PURCHASER,George Soros,1,0
-ACQUIRED,assets and inventories of its Dominion Bridge steel service center operations,0,0
-ACQBUS,steel service centers,0,0
-ACQLOC,"Toronto and Edmonton, Alberta",1,0
-DLRAMT,undisclosed,0,0
-PURCHASER,Federal Industries Ltd,1,0
-SELLER,AMCA International Ltd,1,0
-STATUS,finalized agreement,0,0
-ACQUIRED,Harris Pine Sawmill,1,0
-ACQBUS,lumber,0,0
-ACQLOC,"Pendleton, Ore.",1,0
-DLRAMT,"3,475,000 dlrs",0,1
-PURCHASER,Louisiana Pacific Corp,1,0
-STATUS,agreed,0,0
-ACQUIRED,Purolator Courier Corp,1,0
-DLRAMT,265 mln dlr,0,1
-PURCHASER,E.F. Hutton LBO Inc,1,0
-ACQUIRED,Computer Transceiver Systems Inc,1,0
-PURCHASER,Vertex Industries Inc,1,0
-STATUS,agreement,0,0
-ACQUIRED,Willms Trucking Co Inc,1,0
-ACQBUS,"transports hazardous waste, sand and gravel",0,0
-DLRAMT,12.5 mln dlrs,0,1
-PURCHASER,Enviropact Inc,1,0
-STATUS,letter of intent,0,0
-ACQUIRED,American Motors Corp,1,0
-PURCHASER,Chrysler Corp,1,0
-STATUS,took no action,0,0
-ACQUIRED,Eskey's Yale E. Key Inc,1,0
-DLRAMT,15.5 mln dlrs,0,1
-PURCHASER,new concern,0,0
-SELLER,Eskey Inc,1,0
-ACQUIRED,Price Communications Corp,1,0
-SELLER,John Hancock Mutual Life Insurance Co,1,0
-ACQUIRED,Munford Inc,1,0
-DLRAMT,"7,659,000 dlrs",0,1
-PURCHASER,Bradbury Dyer,1,0
-STATUS,acquired,0,0
-ACQUIRED,Manhattan Cable Television Inc,1,0
-PURCHASER,American Television and Communications Corp,1,0
-SELLER,Time Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Air Atlanta Inc,1,0
-ACQBUS,airline,0,0
-ACQLOC,"Atlanta, Ga",1,0
-PURCHASER,KLM Royal Dutch Airlines,1,0
-STATUS,not seeking to take a stake,0,0
-ACQUIRED,Neo-Tech Inc,1,0
-DLRAMT,not disclosed,0,0
-PURCHASER,Seismic Holdings Inc,1,0
-PURCHASER,Energy Holdings Inc,1,0
-SELLER,Principal Neo-Tech Inc,1,0
-STATUS,completed,0,0
-ACQUIRED,Wendy's International,1,0
-PURCHASER,Coca Cola Co,1,0
-STATUS,not true,0,0
-ACQUIRED,Dataserv Inc,1,0
-PURCHASER,BellSouth Corp,1,0
-STATUS,completed,0,0
-ACQUIRED,Rexham Corp,1,0
-ACQBUS,packaging materials and machinery,0,0
-PURCHASER,Nortek Inc,1,0
+I-ACQUIRED,Castone,1,0
+I-ACQUIRED,Development,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Meridian,1,0
+I-PURCHASER,Energy,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,terminate,0,0
+I-STATUS,the,0,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Users,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,credit,0,0
+I-ACQBUS,union,0,0
+I-ACQBUS,data,0,0
+I-ACQBUS,processing,0,0
+I-PURCHASER,Security,1,0
+I-PURCHASER,Pacific,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,withdraw,0,0
+I-ACQUIRED,American,1,0
+I-ACQUIRED,Adventure,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,83,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Americanture,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,purchased,0,0
+I-ACQUIRED,Arsenal,1,0
+I-ACQUIRED,Acquiring,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Viacom,1,0
+I-PURCHASER,International,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Arsenal,1,0
+I-SELLER,Holdings,1,0
+I-SELLER,Inc,1,0
+I-STATUS,record,0,0
+I-STATUS,date,0,0
+I-ACQUIRED,Capital,1,0
+I-ACQUIRED,Food,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,food,0,0
+I-ACQBUS,services,0,0
+I-ACQLOC,Ottawa,1,0
+I-PURCHASER,Scott's,1,0
+I-PURCHASER,Hospitality,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,cable,0,0
+I-ACQUIRED,television,0,0
+I-ACQUIRED,business,0,0
+I-DLRAMT,undisclosed,0,0
+I-SELLER,Video,1,0
+I-SELLER,Display,1,0
+I-SELLER,Corfp,1,0
+I-STATUS,tentiative,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Noblee,1,0
+I-ACQUIRED,und,0,0
+I-ACQUIRED,Thoerl,1,0
+I-ACQUIRED,GmbH,1,0
+I-ACQBUS,OIL,1,0
+I-ACQBUS,AND,1,0
+I-ACQBUS,FATS,1,0
+I-ACQLOC,HAMBURG,1,0
+I-PURCHASER,Oelmuehle,1,0
+I-PURCHASER,Hamburg,1,0
+I-PURCHASER,AG,1,0
+I-SELLER,Henkel,1,0
+I-SELLER,KGaA,1,0
+I-STATUS,selling,0,0
+I-ACQUIRED,Pancontinental,1,0
+I-ACQUIRED,Mining,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,gold,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,coal,0,0
+I-ACQBUS,mines,0,0
+I-ACQBUS,natural,0,0
+I-ACQBUS,gas,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,oil,0,0
+I-ACQBUS,fields,0,0
+I-ACQLOC,Australia,1,0
+I-ACQLOC,Canada,1,0
+I-DLRAMT,1.2,0,1
+I-DLRAMT,billion,0,0
+I-DLRAMT,Belgian,1,0
+I-DLRAMT,francs,0,0
+I-PURCHASER,Union,1,0
+I-PURCHASER,Miniere,1,0
+I-PURCHASER,SA,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Honeywell,1,0
+I-ACQUIRED,Information,1,0
+I-ACQUIRED,Systems,1,0
+I-ACQBUS,computer,0,0
+I-DLRAMT,527,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Compagnie,1,0
+I-PURCHASER,des,0,0
+I-PURCHASER,Machines,1,0
+I-PURCHASER,Bull,1,0
+I-PURCHASER,NEC,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Honeywell,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Northwest,1,0
+I-ACQUIRED,Federal,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQLOC,"Woodward,",1,0
+I-ACQLOC,Oklahoma,1,0
+I-PURCHASER,LSB,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,entered,0,0
+I-STATUS,into,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Flyfaire,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Shefra,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,PLAZA,1,0
+I-SELLER,GROUP,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Borg-Warner,1,0
+I-ACQUIRED,(Australia),0,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,diversified,0,0
+I-ACQBUS,auto,0,0
+I-ACQBUS,parts,0,0
+I-ACQBUS,manufacturer,0,0
+I-DLRAMT,202.2,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,BTR,1,0
+I-PURCHASER,Nylex,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Borg-Warner,1,0
+I-SELLER,Corp,1,0
+I-STATUS,increase,0,0
+I-STATUS,its,0,0
+I-STATUS,takeover,0,0
+I-STATUS,offer,0,0
+I-ACQUIRED,Superdrug,1,0
+I-ACQUIRED,Stores,1,0
+I-ACQUIRED,Plc,1,0
+I-ACQBUS,retail,0,0
+I-ACQBUS,chemist,0,0
+I-DLRAMT,244,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,STG,1,0
+I-PURCHASER,Woolworth,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,Plc,1,0
+I-STATUS,bid,0,0
+I-ACQUIRED,Hillards,1,0
+I-ACQUIRED,Plc,1,0
+I-PURCHASER,Tesco,1,0
+I-PURCHASER,Plc,1,0
+I-ACQUIRED,Telefon,1,0
+I-ACQUIRED,AB,1,0
+I-ACQUIRED,L.M.,1,0
+I-ACQUIRED,Ericsson,1,0
+I-ACQBUS,telecommunications,0,0
+I-PURCHASER,Knut,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Alice,1,0
+I-PURCHASER,Wallenberg,1,0
+I-PURCHASER,Foundation,1,0
+I-STATUS,raised,0,0
+I-STATUS,its,0,0
+I-STATUS,holding,0,0
+I-ACQUIRED,Coastal,1,0
+I-ACQUIRED,Bancorp,1,0
+I-ACQLOC,"Portland,",1,0
+I-ACQLOC,Maine,1,0
+I-PURCHASER,Suffield,1,0
+I-PURCHASER,Financial,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,received,0,0
+I-STATUS,approval,0,0
+I-ACQUIRED,Triton,1,0
+I-ACQUIRED,Petroleum,1,0
+I-ACQUIRED,Ltd,1,0
+I-PURCHASER,Canadian,1,0
+I-PURCHASER,Worldwide,1,0
+I-PURCHASER,Energy,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Triton,1,0
+I-SELLER,Energy,1,0
+I-SELLER,Corp,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Bow,1,0
+I-ACQUIRED,Valley,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Ltd,1,0
+I-SELLER,Bowcan,1,0
+I-SELLER,Holdings,1,0
+I-SELLER,Inc,1,0
+I-STATUS,offering,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Santa,1,0
+I-ACQUIRED,Fe,1,0
+I-ACQUIRED,Southern,1,0
+I-ACQUIRED,Pacific,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Henley,1,0
+I-PURCHASER,Group,1,0
+I-ACQUIRED,Cyclops,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,OPPENHEIMER,1,0
+I-ACQUIRED,gypsum,0,0
+I-ACQUIRED,wallboard,0,0
+I-ACQUIRED,plant,0,0
+I-ACQLOC,Seattle,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Louisiana,1,0
+I-PURCHASER,Pacific,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Norwest,1,0
+I-SELLER,Gypsum,1,0
+I-STATUS,reached,0,0
+I-STATUS,a,0,0
+I-STATUS,non-binding,0,0
+I-STATUS,agreement,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Quaker,1,0
+I-ACQUIRED,State,1,0
+I-ACQUIRED,Oil,1,0
+I-ACQUIRED,Refining,1,0
+I-ACQUIRED,Corp,1,0
+I-SELLER,Kaufman,1,0
+I-SELLER,and,0,0
+I-SELLER,Board,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Allegheny,1,0
+I-ACQUIRED,International,1,0
+I-PURCHASER,Mario,1,0
+I-PURCHASER,Gabelli,1,0
+I-ACQUIRED,Don,1,0
+I-ACQUIRED,Lowe,1,0
+I-ACQUIRED,Foods,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,food,0,0
+I-ACQBUS,distributor,0,0
+I-ACQLOC,Pompano,1,0
+I-ACQLOC,"Beach,",1,0
+I-ACQLOC,Fla.,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,golden,0,0
+I-PURCHASER,Poultry,1,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Norton,1,0
+I-ACQUIRED,co,0,0
+I-ACQUIRED,Pty,1,0
+I-ACQUIRED,Ltd,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Global,1,0
+I-PURCHASER,Mining,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Industrial,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Norton,1,0
+I-SELLER,co,0,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,group,0,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,mineral,0,0
+I-ACQUIRED,properties,0,0
+I-ACQBUS,gold,0,0
+I-ACQLOC,southwest,0,0
+I-ACQLOC,Pacific,1,0
+I-DLRAMT,30,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,Canadian,1,0
+I-DLRAMT,dlrs,0,0
+I-SELLER,City,1,0
+I-SELLER,Resources,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Portsmouth,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,Bank,1,0
+I-PURCHASER,Amoskeag,1,0
+I-PURCHASER,Bank,1,0
+I-PURCHASER,Shares,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,overturned,0,0
+I-ACQUIRED,plastic,0,0
+I-ACQUIRED,container,0,0
+I-ACQUIRED,business,0,0
+I-PURCHASER,Ball,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Monsanto,1,0
+I-SELLER,Co,1,0
+I-STATUS,unable,0,0
+I-STATUS,to,0,0
+I-STATUS,complete,0,0
+I-STATUS,negotiations,0,0
+I-ACQUIRED,Atwell,1,0
+I-ACQUIRED,Fleming,1,0
+I-ACQUIRED,Printing,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,financial,0,0
+I-ACQBUS,printer,0,0
+I-ACQLOC,Canadian,1,0
+I-DLRAMT,3.2,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Chas.,1,0
+I-PURCHASER,P.,1,0
+I-PURCHASER,Young,1,0
+I-PURCHASER,Co,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,acquire,0,0
+I-ACQUIRED,Fairfield,1,0
+I-ACQUIRED,Manufacturing,1,0
+I-ACQUIRED,Co,1,0
+I-ACQBUS,custom,0,0
+I-ACQBUS,gears,0,0
+I-ACQBUS,for,0,0
+I-ACQBUS,industrial,0,0
+I-ACQBUS,use,0,0
+I-DLRAMT,70.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Neoax,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Rexnord,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,GENCORP,1,0
+I-PURCHASER,General,1,0
+I-PURCHASER,Acquisition,1,0
+I-PURCHASER,Co,1,0
+I-STATUS,reject,0,0
+I-ACQUIRED,Rogers,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Cowan,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,Public,1,0
+I-ACQBUS,Relations,1,0
+I-ACQLOC,LOS,1,0
+I-ACQLOC,ANGELES,1,0
+I-DLRAMT,2.25,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Shandwick,1,0
+I-PURCHASER,Plc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,Delhi,1,0
+I-ACQUIRED,Australia,1,0
+I-ACQUIRED,Fund,1,0
+I-ACQBUS,oil,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,gas,0,0
+I-ACQBUS,interests,0,0
+I-ACQLOC,Australia,1,0
+I-DLRAMT,almost,0,0
+I-DLRAMT,a,0,0
+I-DLRAMT,billion,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Esso,1,0
+I-PURCHASER,Exploration,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Production,1,0
+I-PURCHASER,Australia,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,CSR,1,0
+I-SELLER,Ltd,1,0
+I-ACQUIRED,Pioneer,1,0
+I-ACQUIRED,Sugar,1,0
+I-ACQUIRED,Mills,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,raw,0,0
+I-ACQBUS,sugar,0,0
+I-ACQBUS,mills,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,building,0,0
+I-ACQBUS,materials,0,0
+I-PURCHASER,CSR,1,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,offer,0,0
+I-ACQUIRED,Thies,1,0
+I-ACQUIRED,Cos,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,"poultry,",0,0
+I-ACQBUS,beef,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,pork,0,0
+I-ACQBUS,products,0,0
+I-ACQLOC,midwest,0,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Hudson,1,0
+I-PURCHASER,Foods,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,KMG,1,0
+I-ACQUIRED,MAIN,1,0
+I-ACQUIRED,HURDMAN,1,0
+I-ACQBUS,public,0,0
+I-ACQBUS,account,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,consulting,0,0
+I-ACQLOC,U.S.,1,0
+I-PURCHASER,PEAT,1,0
+I-PURCHASER,MARWICK,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,NECO,1,0
+I-ACQUIRED,Enterprises,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,David,1,0
+I-PURCHASER,LaRoche,1,0
+I-STATUS,extended,0,0
+I-STATUS,his,0,0
+I-STATUS,cash,0,0
+I-STATUS,offer,0,0
+I-ACQUIRED,AirCal,1,0
+I-PURCHASER,AMR,1,0
+I-PURCHASER,Corp's,1,0
+I-PURCHASER,American,1,0
+I-PURCHASER,Airlines,1,0
+I-STATUS,plans,0,0
+I-STATUS,to,0,0
+I-STATUS,complete,0,0
+I-ACQUIRED,Image,1,0
+I-ACQUIRED,Video,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,produces,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,distributes,0,0
+I-ACQBUS,videos,0,0
+I-ACQBUS,for,0,0
+I-ACQBUS,the,0,0
+I-ACQBUS,home,0,0
+I-ACQBUS,market,0,0
+I-DLRAMT,undisclosed,0,0
+I-DLRAMT,sum,0,0
+I-PURCHASER,Tradestar,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,acquired,0,0
+I-PURCHASER,Alza,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Quest,1,0
+I-SELLER,Biotechnology,1,0
+I-SELLER,Inc,1,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Pizza,1,0
+I-ACQUIRED,Inn,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Pantera's,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Gulf,1,0
+I-ACQUIRED,Coast,1,0
+I-ACQUIRED,Newspapers,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,community,0,0
+I-ACQBUS,papers,0,0
+I-ACQLOC,Tampa,1,0
+I-ACQLOC,St.,1,0
+I-ACQLOC,Petersburg,1,0
+I-PURCHASER,Tribune,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,E.W.,1,0
+I-SELLER,Scripps,1,0
+I-SELLER,Co,1,0
+I-ACQUIRED,Nippon,1,0
+I-ACQUIRED,Lace,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Ltd,1,0
+I-DLRAMT,16.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Lifetime,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,Lucht,1,0
+I-ACQUIRED,Engineering,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Innovex,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Cyclops,1,0
+I-ACQUIRED,Corp,1,0
+I-SELLER,OPPENHEIMER,1,0
+I-ACQUIRED,Sociedade,1,0
+I-ACQUIRED,de,0,0
+I-ACQUIRED,Iniciativa,1,0
+I-ACQUIRED,e,0,0
+I-ACQUIRED,Aproveitamentos,1,0
+I-ACQUIRED,Florestais,1,0
+I-ACQUIRED,Sarl,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Sonae,1,0
+I-PURCHASER,Group,1,0
+I-SELLER,Swedish,1,0
+I-SELLER,Match,1,0
+I-SELLER,AB,1,0
+I-STATUS,selling,0,0
+I-ACQUIRED,Georgia,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Life,1,0
+I-ACQUIRED,Insurance,1,0
+I-ACQUIRED,Co,1,0
+I-DLRAMT,85,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Southmark,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Capital,1,0
+I-SELLER,Holding,1,0
+I-SELLER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,The,1,0
+I-ACQUIRED,Vons,1,0
+I-ACQUIRED,Companies,1,0
+I-ACQBUS,"supermarket,",0,0
+I-ACQBUS,combination,0,0
+I-ACQBUS,store,0,0
+I-ACQBUS,operator,0,0
+I-PURCHASER,Allied,1,0
+I-PURCHASER,Supermarkets,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,a,0,0
+I-ACQUIRED,branch,0,0
+I-ACQUIRED,in,0,0
+I-ACQUIRED,Clinton,1,0
+I-ACQUIRED,Township,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,FIRST,1,0
+I-PURCHASER,NATIONAL,1,0
+I-PURCHASER,BANK,1,0
+I-PURCHASER,CORP,1,0
+I-STATUS,agreement,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,Medicontrol,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,"500,000",0,1
+I-DLRAMT,dlr,0,0
+I-PURCHASER,Searle,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Co,1,0
+I-SELLER,Biotechnology,1,0
+I-SELLER,Development,1,0
+I-SELLER,Corp,1,0
+I-ACQUIRED,Johnson,1,0
+I-ACQUIRED,Matthey,1,0
+I-ACQUIRED,Commodities,1,0
+I-ACQBUS,precious,0,0
+I-ACQBUS,metals,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,wholesale,0,0
+I-ACQBUS,non-ferrous,0,0
+I-ACQBUS,metals,0,0
+I-ACQLOC,New,1,0
+I-ACQLOC,York,1,0
+I-DLRAMT,14.8,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Deak,1,0
+I-PURCHASER,International,1,0
+I-SELLER,Minories,1,0
+I-SELLER,Finance,1,0
+I-SELLER,Limited,1,0
+I-ACQUIRED,Johnson,1,0
+I-ACQUIRED,Matthey,1,0
+I-ACQUIRED,Commodities,1,0
+I-ACQBUS,precious,0,0
+I-ACQBUS,metals,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,wholesale,0,0
+I-ACQBUS,non-ferrous,0,0
+I-ACQBUS,metals,0,0
+I-ACQBUS,trading,0,0
+I-ACQLOC,New,1,0
+I-ACQLOC,York,1,0
+I-DLRAMT,14.8,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Deak,1,0
+I-PURCHASER,International,1,0
+I-SELLER,Minories,1,0
+I-SELLER,Finance,1,0
+I-SELLER,Limited,1,0
+I-STATUS,announced,0,0
+I-ACQUIRED,Nucell,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,nuclear,0,0
+I-ACQBUS,battery,0,0
+I-ACQBUS,technology,0,0
+I-PURCHASER,Peripheral,1,0
+I-PURCHASER,Systems,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,National,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,North,1,0
+I-ACQUIRED,Evanston,1,0
+I-ACQUIRED,Elgin,1,0
+I-ACQUIRED,National,1,0
+I-ACQUIRED,bank,0,0
+I-ACQUIRED,First,1,0
+I-ACQUIRED,National,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,Schiller,1,0
+I-ACQUIRED,Park,1,0
+I-ACQUIRED,Merchants,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Manufacturers,1,0
+I-ACQUIRED,State,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,in,0,0
+I-ACQUIRED,Melrose,1,0
+I-ACQUIRED,Park,1,0
+I-PURCHASER,American,1,0
+I-PURCHASER,National,1,0
+I-PURCHASER,Bank,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,coal,0,0
+I-ACQUIRED,properties,0,0
+I-ACQBUS,mines,0,0
+I-ACQBUS,coal,0,0
+I-ACQBUS,preparation,0,0
+I-ACQLOC,West,1,0
+I-ACQLOC,Va.,1,0
+I-PURCHASER,Peabody,1,0
+I-PURCHASER,Holding,1,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Eastern,1,0
+I-SELLER,Gas,1,0
+I-SELLER,and,0,0
+I-SELLER,Fuel,1,0
+I-SELLER,Associate,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,leasehold,0,0
+I-ACQUIRED,rights,0,0
+I-ACQUIRED,to,0,0
+I-ACQUIRED,its,0,0
+I-ACQUIRED,aircraft,0,0
+I-ACQUIRED,modification,0,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,maintenance,0,0
+I-ACQUIRED,facility,0,0
+I-ACQLOC,"Phoenix,",1,0
+I-ACQLOC,Ariz,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,released,0,0
+I-PURCHASER,Dynalectron,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Standard,1,0
+I-SELLER,Aero,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Consolidated,1,0
+I-ACQUIRED,Brazilian,1,0
+I-ACQUIRED,Mines,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,diamond,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,gold,0,0
+I-ACQLOC,BRAZIL,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Upland,1,0
+I-PURCHASER,Minerals,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Chemicals,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,acquire,0,0
+I-ACQUIRED,Wyona,1,0
+I-ACQUIRED,Water,1,0
+I-ACQUIRED,Flood,1,0
+I-ACQUIRED,Oil,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Gas,1,0
+I-ACQBUS,oil,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,gas,0,0
+I-ACQLOC,Oklahoma,1,0
+I-SELLER,Crown,1,0
+I-SELLER,Resources,1,0
+I-SELLER,Corp,1,0
+I-STATUS,plans,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Peabody,1,0
+I-ACQUIRED,Holding,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,coal,0,0
+I-DLRAMT,116.8,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-SELLER,NEWMONT,1,0
+I-SELLER,MINING,1,0
+I-SELLER,CORP,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Retirement,1,0
+I-ACQUIRED,Housing,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,LIfetime,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,accepted,0,0
+I-ACQUIRED,ALOHA,1,0
+I-ACQUIRED,INC,1,0
+I-PURCHASER,AQ,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Robertsons,1,0
+I-ACQUIRED,Pty,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQLOC,South,1,0
+I-ACQLOC,African,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,a,0,0
+I-PURCHASER,consortium,0,0
+I-PURCHASER,of,0,0
+I-PURCHASER,European,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,South,1,0
+I-PURCHASER,African,1,0
+I-PURCHASER,investors,0,0
+I-SELLER,CPC,1,0
+I-SELLER,International,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,coal,0,0
+I-ACQUIRED,supply,0,0
+I-ACQUIRED,agreements,0,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,substantially,0,0
+I-ACQUIRED,all,0,0
+I-ACQUIRED,assets,0,0
+I-ACQUIRED,at,0,0
+I-ACQUIRED,its,0,0
+I-ACQUIRED,two,0,0
+I-ACQUIRED,coal,0,0
+I-ACQUIRED,mines,0,0
+I-ACQLOC,Ohio,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Peabody,1,0
+I-PURCHASER,Coal,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,American,1,0
+I-SELLER,Barrick,1,0
+I-SELLER,Resources,1,0
+I-SELLER,Corp,1,0
+I-STATUS,sold,0,0
+I-ACQUIRED,First,1,0
+I-ACQUIRED,Presidential,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQLOC,"Sarasota,",1,0
+I-ACQLOC,Fla.,1,0
+I-DLRAMT,"8,500,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,First,1,0
+I-PURCHASER,Federal,1,0
+I-PURCHASER,Savings,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Loan,1,0
+I-PURCHASER,Association,1,0
+I-PURCHASER,of,0,0
+I-PURCHASER,Fort,1,0
+I-PURCHASER,Myers,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Elizabeth,1,0
+I-ACQUIRED,Arden,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,cosmetics,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,fine,0,0
+I-ACQBUS,fragrance,0,0
+I-ACQBUS,products,0,0
+I-SELLER,Eli,1,0
+I-SELLER,Lilly,1,0
+I-SELLER,and,0,0
+I-SELLER,Co,1,0
+I-STATUS,decided,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Union,1,0
+I-ACQUIRED,Bancorp,1,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,West,1,0
+I-ACQUIRED,Virginia,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQUIRED,Wayne,1,0
+I-ACQUIRED,Bancorp,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Key,1,0
+I-PURCHASER,Centurion,1,0
+I-PURCHASER,Bancshares,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Vernitron,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,SB,1,0
+I-PURCHASER,Holding,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,proposed,0,0
+I-ACQUIRED,Unitek,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,orthodontic,0,0
+I-ACQBUS,products,0,0
+I-ACQLOC,"Monrovia,",1,0
+I-ACQLOC,Calif.,1,0
+I-PURCHASER,Minnesota,1,0
+I-PURCHASER,Mining,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Mfg,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,Bristol-Myers,1,0
+I-SELLER,Co,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Norddeutsche,1,0
+I-ACQUIRED,Affinerie,1,0
+I-ACQUIRED,AG,1,0
+I-PURCHASER,MIM,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Preussag,1,0
+I-SELLER,AG,1,0
+I-STATUS,complete,0,0
+I-ACQUIRED,Nevi,1,0
+I-ACQUIRED,Baltic,1,0
+I-ACQUIRED,Plc,1,0
+I-ACQBUS,property,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,financial,0,0
+I-ACQBUS,services,0,0
+I-ACQLOC,London,1,0
+I-PURCHASER,Skandia,1,0
+I-PURCHASER,International,1,0
+I-PURCHASER,Holding,1,0
+I-PURCHASER,AB,1,0
+I-ACQUIRED,Integrated,1,0
+I-ACQUIRED,Management,1,0
+I-ACQUIRED,Data,1,0
+I-ACQUIRED,Systems,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,computer,0,0
+I-ACQBUS,retail,0,0
+I-ACQBUS,accounting,0,0
+I-ACQBUS,software,0,0
+I-ACQBUS,systems,0,0
+I-ACQBUS,micro-computer,0,0
+I-ACQBUS,products,0,0
+I-ACQLOC,Denver,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Altex,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Measurement,1,0
+I-ACQUIRED,Systems,1,0
+I-ACQUIRED,Division,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Canrad,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Page-Wilson,1,0
+I-SELLER,Corp,1,0
+I-ACQUIRED,GenCorp,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,GENERAL,1,0
+I-PURCHASER,PARTNERS,1,0
+I-STATUS,prepared,0,0
+I-STATUS,to,0,0
+I-STATUS,raise,0,0
+I-STATUS,its,0,0
+I-STATUS,bid,0,0
+I-ACQUIRED,Bell,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Inc,1,0
+I-SELLER,Harris,1,0
+I-SELLER,Associates,1,0
+I-SELLER,L.P.,1,0
+I-ACQUIRED,Lake,1,0
+I-ACQUIRED,States,1,0
+I-ACQUIRED,Transportation,1,0
+I-ACQUIRED,Division,1,0
+I-ACQBUS,rail,0,0
+I-ACQBUS,operations,0,0
+I-ACQLOC,"Minnesota,",1,0
+I-ACQLOC,"Wisconsin,",1,0
+I-ACQLOC,Michigan,1,0
+I-ACQLOC,and,0,0
+I-ACQLOC,Illinois,1,0
+I-PURCHASER,Wisconsin,1,0
+I-PURCHASER,Central,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Soo,1,0
+I-SELLER,Line,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,650,0,1
+I-ACQUIRED,video,0,0
+I-ACQUIRED,centers,0,0
+I-ACQBUS,video,0,0
+I-ACQBUS,cassette,0,0
+I-ACQBUS,rental,0,0
+I-PURCHASER,Stars,1,0
+I-PURCHASER,to,0,0
+I-PURCHASER,Go,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,CVS,1,0
+I-SELLER,International,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Consumer,1,0
+I-ACQUIRED,Packaging,1,0
+I-ACQUIRED,Division,1,0
+I-DLRAMT,175,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Sonoco,1,0
+I-PURCHASER,Products,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,Boise,1,0
+I-SELLER,Cascade,1,0
+I-SELLER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Sage,1,0
+I-ACQUIRED,Drilling,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,"116,554",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Arthur,1,0
+I-PURCHASER,Appleton,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,First,1,0
+I-ACQUIRED,Federal,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,Brooksville,1,0
+I-PURCHASER,Mid-State,1,0
+I-PURCHASER,Federal,1,0
+I-PURCHASER,Savings,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Loan,1,0
+I-PURCHASER,Association,1,0
+I-STATUS,definitive,0,0
+I-STATUS,merger,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,FCS,1,0
+I-ACQUIRED,LABORATORIES,1,0
+I-ACQBUS,health,0,0
+I-ACQBUS,care,0,0
+I-STATUS,ended,0,0
+I-STATUS,without,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,WOR-TV,1,0
+I-ACQLOC,"Secaucus,",1,0
+I-ACQLOC,N.J.,1,0
+I-DLRAMT,387,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,MCA,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,GENCORP,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,L.E.,1,0
+I-ACQUIRED,Myers,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Group,1,0
+I-PURCHASER,Leonard,1,0
+I-PURCHASER,Chavin,1,0
+I-STATUS,raised,0,0
+I-STATUS,his,0,0
+I-STATUS,stake,0,0
+I-ACQUIRED,Central,1,0
+I-ACQUIRED,National,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,Buckhannon,1,0
+I-ACQLOC,W.,1,0
+I-ACQLOC,Virginia,1,0
+I-DLRAMT,16.2,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Key,1,0
+I-PURCHASER,Centurion,1,0
+I-PURCHASER,Bancshares,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreement,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Hillards,1,0
+I-ACQUIRED,Plc,1,0
+I-DLRAMT,151,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,stg,0,0
+I-PURCHASER,Tesco,1,0
+I-PURCHASER,Plc,1,0
+I-STATUS,extending,0,0
+I-ACQBUS,pipeline,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,terminal,0,0
+I-ACQBUS,operations,0,0
+I-DLRAMT,12.2,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-SELLER,Gulf,1,0
+I-SELLER,Applied,1,0
+I-SELLER,Technologies,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Sanivan,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,hazardous,0,0
+I-ACQBUS,waste,0,0
+I-ACQBUS,management,0,0
+I-ACQLOC,Canada,1,0
+I-PURCHASER,Noranda,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,Plainwell,1,0
+I-ACQUIRED,Paper,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,premium,0,0
+I-ACQBUS,coated,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,uncoated,0,0
+I-ACQBUS,printing,0,0
+I-ACQBUS,papers,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,technical,0,0
+I-ACQBUS,specialty,0,0
+I-ACQBUS,papers,0,0
+I-SELLER,Chesapeake,1,0
+I-SELLER,Corp,1,0
+I-ACQUIRED,cable,0,0
+I-ACQUIRED,television,0,0
+I-ACQUIRED,systems,0,0
+I-ACQLOC,"Wildwood,",1,0
+I-ACQLOC,N.J.,1,0
+I-ACQLOC,Ramapo,1,0
+I-ACQLOC,and,0,0
+I-ACQLOC,"Warwick,",1,0
+I-ACQLOC,N.Y.,1,0
+I-PURCHASER,TKR,1,0
+I-PURCHASER,Cable,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,TELE-COMMUNICATIONS,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Allegheny,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,"Spear,",1,0
+I-PURCHASER,Leeds,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Kellogg,1,0
+I-STATUS,increased,0,0
+I-STATUS,its,0,0
+I-STATUS,preferred,0,0
+I-STATUS,stock,0,0
+I-ACQUIRED,Professional,1,0
+I-ACQUIRED,Care,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,CarePlus,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,proposed,0,0
+I-ACQUIRED,Intermedics,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,30,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Bessemer,1,0
+I-PURCHASER,Securities,1,0
+I-PURCHASER,Corp,1,0
+I-PURCHASER,Cilluffo,1,0
+I-PURCHASER,Associates,1,0
+I-STATUS,clearance,0,0
+I-ACQUIRED,American,1,0
+I-ACQUIRED,Dynamics,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,gas,0,0
+I-ACQBUS,"gathering,",0,0
+I-ACQBUS,transmission,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,liquids,0,0
+I-ACQBUS,extraction,0,0
+I-ACQLOC,Columbus,1,0
+I-PURCHASER,Meridian,1,0
+I-PURCHASER,Reserve,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,San,1,0
+I-ACQUIRED,Miguel,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,food,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,beverage,0,0
+I-ACQBUS,maker,0,0
+I-ACQLOC,Philippines,1,0
+I-PURCHASER,Anheuser-Busch,1,0
+I-PURCHASER,Companies,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,joined,0,0
+I-STATUS,several,0,0
+I-STATUS,other,0,0
+I-STATUS,foreign,0,0
+I-STATUS,bidders,0,0
+I-ACQUIRED,Standard,1,0
+I-ACQUIRED,Chartered,1,0
+I-ACQUIRED,Plc,1,0
+I-PURCHASER,Bell,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Ltd,1,0
+I-ACQUIRED,Conrac,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,computer-related,0,0
+I-ACQBUS,information,0,0
+I-ACQBUS,display,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,communications,0,0
+I-ACQBUS,equipment,0,0
+I-STATUS,started,0,0
+I-STATUS,negotiations,0,0
+I-ACQUIRED,Canadian,1,0
+I-ACQUIRED,Bashaw,1,0
+I-ACQUIRED,Leduc,1,0
+I-ACQUIRED,Oil,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Gas,1,0
+I-ACQUIRED,Ltd,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Erskine,1,0
+I-PURCHASER,Resources,1,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,28,0,1
+I-ACQUIRED,long-term,0,0
+I-ACQUIRED,care,0,0
+I-ACQUIRED,facilities,0,0
+I-ACQLOC,seven,0,0
+I-ACQLOC,western,0,0
+I-ACQLOC,states,0,0
+I-DLRAMT,70,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Southmark,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,C.S.C.,1,0
+I-ACQUIRED,Security,1,0
+I-ACQUIRED,Gaurd,1,0
+I-ACQUIRED,Service,1,0
+I-ACQUIRED,Guard,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,Division,1,0
+I-ACQUIRED,Capital,1,0
+I-ACQUIRED,Investigations,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Protective,1,0
+I-ACQUIRED,Agency,1,0
+I-ACQUIRED,Meyer,1,0
+I-ACQUIRED,Detective,1,0
+I-ACQUIRED,Agency,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQUIRED,Certified,1,0
+I-ACQUIRED,Security,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQUIRED,Custom,1,0
+I-ACQUIRED,Security,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,A-T-E,1,0
+I-ACQUIRED,Security,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQUIRED,"Louisville,",1,0
+I-ACQUIRED,Kent,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,"Nashville,",1,0
+I-ACQUIRED,"Tenn,",1,0
+I-ACQUIRED,offices,0,0
+I-ACQBUS,security,0,0
+I-ACQBUS,services,0,0
+I-ACQLOC,"Paramus,",1,0
+I-ACQLOC,N.J.,1,0
+I-ACQLOC,"Wayne,",1,0
+I-ACQLOC,N.J.,1,0
+I-ACQLOC,"Hackensack,",1,0
+I-ACQLOC,N.J.,1,0
+I-ACQLOC,National,1,0
+I-ACQLOC,"Park,",1,0
+I-ACQLOC,N.J.,1,0
+I-ACQLOC,Key,1,0
+I-ACQLOC,"West,",1,0
+I-ACQLOC,Fla.,1,0
+I-ACQLOC,Myrtle,1,0
+I-ACQLOC,"Beach,",1,0
+I-ACQLOC,S.C.,1,0
+I-ACQLOC,Houston,1,0
+I-DLRAMT,"2,700,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,National,1,0
+I-PURCHASER,Guardian,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Cartel,1,0
+I-SELLER,Security,1,0
+I-SELLER,Consultants,1,0
+I-SELLER,Inc,1,0
+I-SELLER,Security,1,0
+I-SELLER,Services,1,0
+I-SELLER,of,0,0
+I-SELLER,America,1,0
+I-SELLER,Wells,1,0
+I-SELLER,Fargo,1,0
+I-SELLER,Alarm,1,0
+I-SELLER,Services,1,0
+I-ACQUIRED,Plaid,1,0
+I-ACQUIRED,Pantries,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,convenience,0,0
+I-ACQBUS,stores,0,0
+I-ACQLOC,Oregon,1,0
+I-ACQLOC,and,0,0
+I-ACQLOC,Washington,1,0
+I-PURCHASER,Convenient,1,0
+I-PURCHASER,Food,1,0
+I-PURCHASER,Mart,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,tentatively,0,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,Delhi,1,0
+I-ACQUIRED,Petroleum,1,0
+I-ACQUIRED,Pty,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,oil,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,gas,0,0
+I-DLRAMT,985,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Exxon,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,CSR,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,sold,0,0
+I-ACQUIRED,British,1,0
+I-ACQUIRED,Printing,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Communication,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQUIRED,Plc,1,0
+I-ACQUIRED,Hollis,1,0
+I-ACQUIRED,Plc,1,0
+I-SELLER,Pergamon,1,0
+I-SELLER,Holdings,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,sold,0,0
+I-ACQUIRED,Clevite,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,J.P.,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,received,0,0
+I-STATUS,a,0,0
+I-STATUS,written,0,0
+I-STATUS,proposal,0,0
+I-ACQUIRED,Waccamaw,1,0
+I-ACQUIRED,State,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQLOC,Surfside,1,0
+I-ACQLOC,"Beach,",1,0
+I-ACQLOC,S.C.,1,0
+I-PURCHASER,Anchor,1,0
+I-PURCHASER,Financial,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,acquire,0,0
+I-ACQUIRED,Spectrum,1,0
+I-ACQUIRED,Holding,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,asbestos,0,0
+I-ACQBUS,abatement,0,0
+I-DLRAMT,13,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,LVI,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Builders,1,0
+I-ACQUIRED,Transport,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Harris,1,0
+I-PURCHASER,Associates,1,0
+I-PURCHASER,L.P.,1,0
+I-STATUS,raised,0,0
+I-STATUS,its,0,0
+I-STATUS,stake,0,0
+I-ACQUIRED,COMPUTER,1,0
+I-ACQUIRED,ACCESS,1,0
+I-ACQUIRED,CORP,1,0
+I-ACQBUS,full-text,0,0
+I-ACQBUS,search,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,retrieval,0,0
+I-ACQBUS,software,0,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Lotus,1,0
+I-PURCHASER,Development,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Faygo,1,0
+I-ACQUIRED,Beverages,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,National,1,0
+I-PURCHASER,Beverage,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,acquire,0,0
+I-ACQUIRED,Hawaiian,1,0
+I-ACQUIRED,dairy,0,0
+I-ACQUIRED,operations,0,0
+I-DLRAMT,13,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Foremost,1,0
+I-PURCHASER,Foods,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Knudsen,1,0
+I-SELLER,Foods,1,0
+I-SELLER,Inc,1,0
+I-STATUS,agreement,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Broussard,1,0
+I-ACQUIRED,oil,0,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,gas,0,0
+I-ACQUIRED,field,0,0
+I-ACQBUS,natural,0,0
+I-ACQBUS,gas,0,0
+I-ACQLOC,southern,0,0
+I-ACQLOC,Louisiana,1,0
+I-DLRAMT,22.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Nerco,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Davis,1,0
+I-SELLER,Oil,1,0
+I-SELLER,Co,1,0
+I-ACQUIRED,Atcor,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,6.1,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Great,1,0
+I-PURCHASER,American,1,0
+I-PURCHASER,Management,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Investment,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,IPCO,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,4.9,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,MP,1,0
+I-PURCHASER,Co,1,0
+I-ACQUIRED,Cadillac,1,0
+I-ACQUIRED,Fairview,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQUIRED,Ltd,1,0
+I-STATUS,received,0,0
+I-STATUS,proposals,0,0
+I-ACQUIRED,Western,1,0
+I-ACQUIRED,Plastics,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,polystyrene,0,0
+I-ACQBUS,foam,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,container,0,0
+I-ACQBUS,products,0,0
+I-DLRAMT,16.25,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Globe,1,0
+I-PURCHASER,Machine,1,0
+I-PURCHASER,Manufacturing,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,Hepworth,1,0
+I-SELLER,Ceramic,1,0
+I-SELLER,Holdings,1,0
+I-SELLER,Plc,1,0
+I-ACQUIRED,Dome,1,0
+I-ACQUIRED,Petroleum,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,oil,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,gas,0,0
+I-ACQLOC,Canada,1,0
+I-DLRAMT,4.3,0,1
+I-DLRAMT,billion,0,0
+I-DLRAMT,dlr,0,0
+I-PURCHASER,TransCanada,1,0
+I-PURCHASER,PipeLines,1,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,takeover,0,0
+I-STATUS,battle,0,0
+I-ACQUIRED,South,1,0
+I-ACQUIRED,Atlantic,1,0
+I-ACQUIRED,Financial,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,insurance,0,0
+I-PURCHASER,Independence,1,0
+I-PURCHASER,Holding,1,0
+I-PURCHASER,Co,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Salt,1,0
+I-ACQUIRED,Lake,1,0
+I-ACQUIRED,City,1,0
+I-ACQUIRED,Division,1,0
+I-ACQBUS,supermarkets,0,0
+I-ACQLOC,"Utah,",1,0
+I-ACQLOC,Idaho,1,0
+I-ACQLOC,and,0,0
+I-ACQLOC,Wyoming,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Borman's,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Safeway,1,0
+I-SELLER,Stores,1,0
+I-SELLER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,"Huron,",1,0
+I-ACQUIRED,South,1,0
+I-ACQUIRED,"Dakota,",1,0
+I-ACQUIRED,pork,0,0
+I-ACQUIRED,plant,0,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Huron,1,0
+I-PURCHASER,Dressed,1,0
+I-PURCHASER,Beef,1,0
+I-SELLER,Swift,1,0
+I-SELLER,Independent,1,0
+I-SELLER,Packing,1,0
+I-SELLER,Co,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Borg-Warner,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,4.23,0,1
+I-DLRAMT,billion,0,0
+I-DLRAMT,dlr,0,0
+I-PURCHASER,Merrill,1,0
+I-PURCHASER,Lynch,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Partners,1,0
+I-SELLER,GAF,1,0
+I-SELLER,Corp,1,0
+I-STATUS,studying,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,San/Bar,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Resdel,1,0
+I-PURCHASER,Industries,1,0
+I-ACQUIRED,Revlon,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,782,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,MacAndrews,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Forbes,1,0
+I-PURCHASER,Group,1,0
+I-STATUS,entered,0,0
+I-STATUS,into,0,0
+I-STATUS,a,0,0
+I-STATUS,definitive,0,0
+I-STATUS,mergewr,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Celeron,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,oil,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,gas,0,0
+I-DLRAMT,two,0,0
+I-DLRAMT,billion,0,0
+I-DLRAMT,dlrs,0,0
+I-SELLER,Goodyear,1,0
+I-SELLER,Tire,1,0
+I-SELLER,and,0,0
+I-SELLER,Rubber,1,0
+I-SELLER,Co,1,0
+I-STATUS,expects,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Centurion,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQLOC,Los,1,0
+I-ACQLOC,Angeles,1,0
+I-PURCHASER,ATLANTIC,1,0
+I-PURCHASER,FINANCIAL,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,MCC-Presidential,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,First,1,0
+I-PURCHASER,Montauk,1,0
+I-PURCHASER,Securities,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,computer,0,0
+I-ACQUIRED,systems,0,0
+I-ACQUIRED,division,0,0
+I-PURCHASER,Rotan,1,0
+I-PURCHASER,Mosle,1,0
+I-PURCHASER,Technology,1,0
+I-PURCHASER,Partners,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Digicon,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Sobeys,1,0
+I-ACQUIRED,Stores,1,0
+I-ACQUIRED,Ltd,1,0
+I-PURCHASER,Empire,1,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,Ltd,1,0
+I-ACQUIRED,Cincinnati,1,0
+I-ACQUIRED,non-wireline,0,0
+I-ACQUIRED,cellular,0,0
+I-ACQUIRED,system,0,0
+I-ACQLOC,Cincinnati,1,0
+I-PURCHASER,Cellular,1,0
+I-PURCHASER,Communications,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Borg-Warner,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,4.23,0,1
+I-DLRAMT,billion,0,0
+I-DLRAMT,dlr,0,0
+I-PURCHASER,Merrill,1,0
+I-PURCHASER,Lynch,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Partners,1,0
+I-ACQUIRED,Allied,1,0
+I-ACQUIRED,Research,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQUIRED,Consolidated,1,0
+I-ACQUIRED,Insurance,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,underwriting,0,0
+I-ACQBUS,information,0,0
+I-ACQBUS,services,0,0
+I-ACQLOC,"Salem,",1,0
+I-ACQLOC,Ore.,1,0
+I-ACQLOC,"Springfield,",1,0
+I-ACQLOC,Va.,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Policy,1,0
+I-PURCHASER,Management,1,0
+I-PURCHASER,Systems,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,Holleb,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Co,1,0
+I-ACQBUS,foodservice,0,0
+I-ACQBUS,distributor,0,0
+I-ACQLOC,"Bensenville,",1,0
+I-ACQLOC,Ill,1,0
+I-DLRAMT,withheld,0,0
+I-PURCHASER,Kraft,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Dome,1,0
+I-ACQUIRED,Petroleum,1,0
+I-ACQUIRED,Ltd,1,0
+I-PURCHASER,Amoco,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,CalMat,1,0
+I-ACQUIRED,Co,1,0
+I-DLRAMT,10.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Industrial,1,0
+I-PURCHASER,Equity,1,0
+I-PURCHASER,(Pacific),0,0
+I-PURCHASER,Ltd,1,0
+I-ACQUIRED,Hal,1,0
+I-ACQUIRED,Roach,1,0
+I-ACQUIRED,Studios,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,6.3,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,U.S.,1,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Qintex,1,0
+I-PURCHASER,America,1,0
+I-PURCHASER,(Media),0,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,International,1,0
+I-SELLER,H.R.S.,1,0
+I-SELLER,Industries,1,0
+I-SELLER,Inc,1,0
+I-STATUS,would,0,0
+I-STATUS,reduce,0,0
+I-ACQUIRED,Flagship,1,0
+I-ACQUIRED,Cleaning,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,domestic,0,0
+I-ACQBUS,carpet,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,upholstery,0,0
+I-ACQBUS,cleaning,0,0
+I-ACQLOC,Philadelphia,1,0
+I-DLRAMT,24,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,DLRS,1,0
+I-PURCHASER,Best,1,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Northserv,1,0
+I-SELLER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Carling,1,0
+I-ACQUIRED,O'Keefe,1,0
+I-ACQUIRED,Ltd,1,0
+I-PURCHASER,Elders,1,0
+I-PURCHASER,IXL,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Rothmans,1,0
+I-SELLER,International,1,0
+I-SELLER,Plc,1,0
+I-STATUS,approved,0,0
+I-ACQUIRED,Sun,1,0
+I-ACQUIRED,Co,1,0
+I-SELLER,Glenmede,1,0
+I-SELLER,Trust,1,0
+I-SELLER,Co,1,0
+I-STATUS,plans,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,a,0,0
+I-ACQUIRED,privately-held,0,0
+I-ACQUIRED,company,0,0
+I-PURCHASER,Molecular,1,0
+I-PURCHASER,Genetics,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,preliminary,0,0
+I-STATUS,discussions,0,0
+I-ACQUIRED,Allegheny,1,0
+I-ACQUIRED,International,1,0
+I-PURCHASER,An,1,0
+I-PURCHASER,investor,0,0
+I-PURCHASER,group,0,0
+I-PURCHASER,led,0,0
+I-PURCHASER,by,0,0
+I-PURCHASER,New,1,0
+I-PURCHASER,York,1,0
+I-PURCHASER,money,0,0
+I-PURCHASER,manager,0,0
+I-PURCHASER,Mario,1,0
+I-PURCHASER,Gabelli,1,0
+I-STATUS,raised,0,0
+I-STATUS,its,0,0
+I-STATUS,stake,0,0
+I-ACQUIRED,CTS,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Dynamics,1,0
+I-PURCHASER,Corp,1,0
+I-PURCHASER,of,0,0
+I-PURCHASER,America,1,0
+I-STATUS,reached,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Northern,1,0
+I-ACQUIRED,Engineering,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Testing,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQLOC,northwestern,0,0
+I-ACQLOC,United,1,0
+I-ACQLOC,States,1,0
+I-PURCHASER,Huntingdon,1,0
+I-PURCHASER,International,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,plc,0,0
+I-ACQUIRED,Kurt,1,0
+I-ACQUIRED,A.,1,0
+I-ACQUIRED,Becher,1,0
+I-ACQUIRED,GmbH,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,KG,1,0
+I-ACQBUS,feedstuff,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,grain,0,0
+I-ACQLOC,West,1,0
+I-ACQLOC,Germany,1,0
+I-PURCHASER,ConAgra,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,North,1,0
+I-ACQUIRED,Sea,1,0
+I-ACQUIRED,blocks,0,0
+I-PURCHASER,Midland,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Scottish,1,0
+I-PURCHASER,Resources,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Chevron,1,0
+I-SELLER,Petroleum,1,0
+I-SELLER,(U.K.),0,0
+I-SELLER,Ltd,1,0
+I-ACQUIRED,Nutone,1,0
+I-ACQUIRED,Yale,1,0
+I-ACQBUS,built-in,0,0
+I-ACQBUS,electric,0,0
+I-ACQBUS,products,0,0
+I-ACQBUS,for,0,0
+I-ACQBUS,the,0,0
+I-ACQBUS,housing,0,0
+I-ACQBUS,market,0,0
+I-ACQBUS,door,0,0
+I-ACQBUS,locks,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,electronic,0,0
+I-ACQBUS,security,0,0
+I-ACQBUS,products,0,0
+I-DLRAMT,400,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Valor,1,0
+I-PURCHASER,PLC,1,0
+I-SELLER,First,1,0
+I-SELLER,City,1,0
+I-SELLER,Industries,1,0
+I-SELLER,Inc,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Society,1,0
+I-ACQUIRED,for,0,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,Bancorp,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQLOC,Conneticut,1,0
+I-PURCHASER,Delaware-chartered,1,0
+I-PURCHASER,bank,0,0
+I-PURCHASER,holding,0,0
+I-PURCHASER,company,0,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Pizza,1,0
+I-ACQUIRED,Inn,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,1.75,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Saul,1,0
+I-PURCHASER,Steinberg,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Piezo,1,0
+I-ACQUIRED,Electric,1,0
+I-ACQUIRED,Products,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Corporate,1,0
+I-PURCHASER,Life,1,0
+I-PURCHASER,Insurance,1,0
+I-PURCHASER,Co,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Video,1,0
+I-ACQUIRED,Monitors,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,video,0,0
+I-ACQBUS,display,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,video,0,0
+I-ACQBUS,monitor,0,0
+I-ACQBUS,devices,0,0
+I-ACQLOC,Wisconsin,1,0
+I-DLRAMT,3.92,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Dotronix,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,BresLube,1,0
+I-ACQUIRED,Enterprises,1,0
+I-ACQBUS,collects,0,0
+I-ACQBUS,used,0,0
+I-ACQBUS,lubricating,0,0
+I-ACQBUS,oils,0,0
+I-ACQLOC,Toronto,1,0
+I-DLRAMT,12,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Safety-Kleen,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,USAir,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Trans,1,0
+I-PURCHASER,World,1,0
+I-PURCHASER,Airlines,1,0
+I-STATUS,offer,0,0
+I-ACQUIRED,Alliance,1,0
+I-ACQUIRED,Semiconductor,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQLOC,Santa,1,0
+I-ACQLOC,"Clara,",1,0
+I-ACQLOC,Calif,1,0
+I-PURCHASER,Piosec,1,0
+I-PURCHASER,Technology,1,0
+I-PURCHASER,Ltd,1,0
+I-ACQUIRED,Link,1,0
+I-ACQUIRED,Technologies,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,computer,0,0
+I-ACQBUS,terminals,0,0
+I-PURCHASER,Wyse,1,0
+I-PURCHASER,Technology,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Burlington,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Inc,1,0
+I-SELLER,Asher,1,0
+I-SELLER,Edelman,1,0
+I-SELLER,Dominion,1,0
+I-SELLER,Textile,1,0
+I-SELLER,Inc,1,0
+I-SELLER,Samjens,1,0
+I-SELLER,Acqusition,1,0
+I-SELLER,Corp,1,0
+I-STATUS,lowered,0,0
+I-STATUS,their,0,0
+I-STATUS,stake,0,0
+I-ACQUIRED,North,1,0
+I-ACQUIRED,Port,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,City,1,0
+I-ACQUIRED,Commerical,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQBUS,banks,0,0
+I-ACQLOC,North,1,0
+I-ACQLOC,Port,1,0
+I-ACQLOC,Sarasota,1,0
+I-PURCHASER,First,1,0
+I-PURCHASER,Union,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Monier,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,building,0,0
+I-ACQBUS,products,0,0
+I-PURCHASER,Equiticorp,1,0
+I-PURCHASER,Tasman,1,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,will,0,0
+I-STATUS,offer,0,0
+I-ACQUIRED,Europeesche,1,0
+I-ACQUIRED,Verzekering,1,0
+I-ACQUIRED,Maatschappij,1,0
+I-ACQUIRED,N.V.,1,0
+I-ACQBUS,travel,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,recreation,0,0
+I-ACQBUS,insurance,0,0
+I-ACQLOC,Swiss,1,0
+I-PURCHASER,Stad,1,0
+I-PURCHASER,Rotterdam,1,0
+I-PURCHASER,Anno,1,0
+I-PURCHASER,1720,0,1
+I-PURCHASER,N.V.,1,0
+I-ACQUIRED,Total,1,0
+I-ACQUIRED,Exploration,1,0
+I-ACQUIRED,Australia,1,0
+I-ACQUIRED,Pty,1,0
+I-ACQUIRED,Ltd,1,0
+I-PURCHASER,Santos,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Total,1,0
+I-SELLER,Holdings,1,0
+I-SELLER,(Australia),0,0
+I-SELLER,Pty,1,0
+I-SELLER,Ltd,1,0
+I-ACQUIRED,Automatic,1,0
+I-ACQUIRED,Toll,1,0
+I-ACQUIRED,Systems,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,26,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Cubic,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,BASIX,1,0
+I-SELLER,CORP,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,water,0,0
+I-ACQUIRED,properties,0,0
+I-ACQLOC,Kansas,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Central,1,0
+I-PURCHASER,Kansas,1,0
+I-PURCHASER,Utility,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,Centel,1,0
+I-SELLER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Virginia,1,0
+I-ACQUIRED,Federal,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQBUS,mortgage,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,lending,0,0
+I-ACQBUS,services,0,0
+I-ACQLOC,Virginia,1,0
+I-DLRAMT,20,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Montrose,1,0
+I-PURCHASER,Holding,1,0
+I-PURCHASER,Co,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Clayton,1,0
+I-ACQUIRED,steel,0,0
+I-ACQUIRED,plate,0,0
+I-ACQUIRED,mill,0,0
+I-DLRAMT,eight,0,0
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-SELLER,Phoenix,1,0
+I-SELLER,Steel,1,0
+I-SELLER,Corp,1,0
+I-STATUS,offered,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,First,1,0
+I-ACQUIRED,National,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,"Bloomington,",1,0
+I-ACQUIRED,Ind,1,0
+I-ACQLOC,INDIANA,1,0
+I-PURCHASER,Banc,1,0
+I-PURCHASER,One,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,coffee,0,0
+I-ACQUIRED,roasting,0,0
+I-ACQUIRED,plant,0,0
+I-ACQBUS,coffee,0,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Superior,1,0
+I-PURCHASER,Coffee,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Foods,1,0
+I-SELLER,Stewart,1,0
+I-SELLER,Sandwiches,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Thomas,1,0
+I-ACQUIRED,Nationwide,1,0
+I-ACQUIRED,Computer,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,new,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,used,0,0
+I-ACQBUS,International,1,0
+I-ACQBUS,Business,1,0
+I-ACQBUS,Machines,1,0
+I-ACQBUS,Corp,1,0
+I-ACQBUS,equipment,0,0
+I-PURCHASER,PACIFICORP,1,0
+I-ACQUIRED,Pay,1,0
+I-ACQUIRED,'N,0,0
+I-ACQUIRED,Pak,1,0
+I-ACQUIRED,Stores,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,a,0,0
+I-PURCHASER,leveraged,0,0
+I-PURCHASER,buyout,0,0
+I-PURCHASER,firm,0,0
+I-STATUS,revision,0,0
+I-ACQUIRED,Rexnord,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Banner,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Air,1,0
+I-ACQUIRED,New,1,0
+I-ACQUIRED,Zealand,1,0
+I-ACQUIRED,Ltd,1,0
+I-PURCHASER,the,0,0
+I-PURCHASER,public,0,0
+I-SELLER,New,1,0
+I-SELLER,Zealand,1,0
+I-SELLER,Government,1,0
+I-ACQUIRED,S.And,1,0
+I-ACQUIRED,W.,1,0
+I-ACQUIRED,Berisford,1,0
+I-ACQUIRED,Plc,1,0
+I-ACQBUS,"commodities,",0,0
+I-ACQBUS,"property,",0,0
+I-ACQBUS,financial,0,0
+I-ACQBUS,services,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,food,0,0
+I-STATUS,making,0,0
+I-STATUS,every,0,0
+I-STATUS,possible,0,0
+I-STATUS,effort,0,0
+I-STATUS,to,0,0
+I-STATUS,remain,0,0
+I-STATUS,independent,0,0
+I-ACQUIRED,Piedmont,1,0
+I-ACQUIRED,Aviation,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,USAir,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,proposed,0,0
+I-ACQUIRED,Dey,1,0
+I-ACQUIRED,Brothers,1,0
+I-ACQUIRED,Stores,1,0
+I-ACQLOC,"Syracuse,",1,0
+I-ACQLOC,N.Y.,1,0
+I-PURCHASER,May,1,0
+I-PURCHASER,Department,1,0
+I-PURCHASER,Stores,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,Allied,1,0
+I-SELLER,Stores,1,0
+I-SELLER,Corp,1,0
+I-STATUS,terminated,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Balzec,1,0
+I-ACQUIRED,Investments,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,battery,0,0
+I-ACQBUS,charger,0,0
+I-ACQBUS,product,0,0
+I-ACQLOC,Dallas,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclose,0,0
+I-PURCHASER,Magellan,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,approved,0,0
+I-ACQUIRED,CBC,1,0
+I-ACQUIRED,Bancorp,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Union,1,0
+I-PURCHASER,Planters,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,will,0,0
+I-STATUS,be,0,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Chemetron,1,0
+I-ACQUIRED,Railway,1,0
+I-ACQUIRED,Products,1,0
+I-ACQUIRED,True,1,0
+I-ACQUIRED,Temper,1,0
+I-ACQUIRED,Railway,1,0
+I-ACQUIRED,Appliances,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQUIRED,Allegheny,1,0
+I-ACQUIRED,Axle,1,0
+I-ACQUIRED,Co,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Chemetron,1,0
+I-PURCHASER,Railway,1,0
+I-PURCHASER,Products,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Allegheny,1,0
+I-SELLER,International,1,0
+I-SELLER,Inc,1,0
+I-STATUS,sold,0,0
+I-ACQUIRED,Cetus,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Squibb,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,not,0,0
+I-STATUS,interested,0,0
+I-STATUS,in,0,0
+I-STATUS,buying,0,0
+I-ACQUIRED,Zoran,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,large,0,0
+I-ACQBUS,scale,0,0
+I-ACQBUS,integrated,0,0
+I-ACQBUS,circuits,0,0
+I-ACQLOC,California,1,0
+I-DLRAMT,1.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Mitsui,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,Ltd,1,0
+I-ACQUIRED,Commercial,1,0
+I-ACQUIRED,Resources,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQUIRED,in,0,0
+I-PURCHASER,MTech,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,Chaparral,1,0
+I-ACQUIRED,Airlines,1,0
+I-ACQUIRED,inc,0,0
+I-ACQLOC,Dallas/Fort,1,0
+I-ACQLOC,Worth,1,0
+I-DLRAMT,"5,700,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Metro,1,0
+I-PURCHASER,Airlines,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,RB,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Inc,1,0
+I-SELLER,Jeffrey,1,0
+I-SELLER,Neuman,1,0
+I-STATUS,sold,0,0
+I-ACQUIRED,Energy,1,0
+I-ACQUIRED,Factors,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,100,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Sithe-Energies,1,0
+I-PURCHASER,LP,1,0
+I-STATUS,signed,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,VR,1,0
+I-ACQUIRED,Business,1,0
+I-ACQUIRED,Brokers,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,VR,1,0
+I-PURCHASER,Acquisition,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,closed,0,0
+I-STATUS,the,0,0
+I-STATUS,sale,0,0
+I-ACQUIRED,Silicon,1,0
+I-ACQUIRED,Systems,1,0
+I-ACQUIRED,Inc,1,0
+I-SELLER,A,1,0
+I-SELLER,group,0,0
+I-SELLER,of,0,0
+I-SELLER,Boston,1,0
+I-SELLER,investors,0,0
+I-SELLER,and,0,0
+I-SELLER,investment,0,0
+I-SELLER,partnerships,0,0
+I-STATUS,sold,0,0
+I-ACQUIRED,Anderson,1,0
+I-ACQUIRED,Clayton,1,0
+I-ACQUIRED,Foods,1,0
+I-ACQUIRED,Division,1,0
+I-DLRAMT,235,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Kraft,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Quaker,1,0
+I-SELLER,Oats,1,0
+I-SELLER,Co,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Westwood,1,0
+I-ACQUIRED,Energy,1,0
+I-ACQUIRED,Properties,1,0
+I-ACQUIRED,Limited,1,0
+I-ACQUIRED,Partnership,1,0
+I-ACQBUS,electric,0,0
+I-ACQBUS,generation,0,0
+I-ACQLOC,Schuykill,1,0
+I-ACQLOC,"County,",1,0
+I-ACQLOC,Penn.,1,0
+I-DLRAMT,10,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,UtilCo,1,0
+I-PURCHASER,Group,1,0
+I-SELLER,Westwood,1,0
+I-SELLER,Funding,1,0
+I-SELLER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,New,1,0
+I-ACQUIRED,Generation,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,consumer,0,0
+I-ACQBUS,electronics,0,0
+I-ACQBUS,specialty,0,0
+I-ACQBUS,retailer,0,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Federal,1,0
+I-PURCHASER,Resources,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,Crazy,1,0
+I-ACQUIRED,Eddie,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,electronics,0,0
+I-ACQLOC,"Edison,",1,0
+I-ACQLOC,N.J.,1,0
+I-PURCHASER,Enetertainment,1,0
+I-PURCHASER,Marketing,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,may,0,0
+I-STATUS,pursue,0,0
+I-STATUS,a,0,0
+I-STATUS,merger,0,0
+I-ACQUIRED,Western,1,0
+I-ACQUIRED,Kentucky,1,0
+I-ACQUIRED,Gas,1,0
+I-ACQUIRED,Co,1,0
+I-ACQBUS,gas,0,0
+I-ACQBUS,distribution,0,0
+I-ACQLOC,Kentucky,1,0
+I-DLRAMT,61.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Energas,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,Texas,1,0
+I-SELLER,American,1,0
+I-SELLER,Energy,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Unicoa,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,United,1,0
+I-PURCHASER,Insurance,1,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,of,0,0
+I-PURCHASER,America,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,CARDIS,1,0
+I-ACQUIRED,CORP,1,0
+I-ACQBUS,auto,0,0
+I-ACQBUS,parts,0,0
+I-ACQLOC,Los,1,0
+I-ACQLOC,Angeles,1,0
+I-PURCHASER,Brookehill,1,0
+I-PURCHASER,Partners,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Universal,1,0
+I-ACQUIRED,Communication,1,0
+I-ACQUIRED,Systems,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,79,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-STATUS,tentatively,0,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,TecSyn,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,U.S.-based,1,0
+I-PURCHASER,investors,0,0
+I-PURCHASER,group,0,0
+I-STATUS,terminated,0,0
+I-ACQUIRED,D,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,K,1,0
+I-ACQUIRED,Financial,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,leasing,0,0
+I-ACQBUS,of,0,0
+I-ACQBUS,fleets,0,0
+I-ACQBUS,of,0,0
+I-ACQBUS,cars,0,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,GE,1,0
+I-PURCHASER,Credit,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Kraft,1,0
+I-SELLER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,JAPAN,1,0
+I-ACQUIRED,FUND,1,0
+I-PURCHASER,Sterling,1,0
+I-PURCHASER,Grace,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Management,1,0
+I-PURCHASER,L.P.,1,0
+I-ACQUIRED,Trans,1,0
+I-ACQUIRED,World,1,0
+I-ACQUIRED,Airlines,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Carl,1,0
+I-PURCHASER,C.,1,0
+I-PURCHASER,Icahn,1,0
+I-STATUS,withdrawn,0,0
+I-STATUS,his,0,0
+I-STATUS,proposal,0,0
+I-ACQUIRED,Irving,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Bank,1,0
+I-PURCHASER,of,0,0
+I-PURCHASER,New,1,0
+I-PURCHASER,York,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,reaffirmed,0,0
+I-STATUS,the,0,0
+I-STATUS,terms,0,0
+I-ACQUIRED,Telex,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,TLX,1,0
+I-PURCHASER,Partners,1,0
+I-ACQUIRED,Citizens,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,Roseville,1,0
+I-PURCHASER,First,1,0
+I-PURCHASER,Commercial,1,0
+I-PURCHASER,Bancorp,1,0
+I-STATUS,will,0,0
+I-STATUS,acquire,0,0
+I-ACQUIRED,Caledonian,1,0
+I-ACQUIRED,Airmotive,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,repairs,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,rebuilds,0,0
+I-ACQBUS,aircraft,0,0
+I-ACQBUS,engines,0,0
+I-PURCHASER,Ryder,1,0
+I-PURCHASER,System,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,British,1,0
+I-SELLER,Caledonian,1,0
+I-SELLER,Group,1,0
+I-SELLER,PLC,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,firm,0,0
+I-ACQUIRED,that,0,0
+I-ACQUIRED,performs,0,0
+I-ACQUIRED,interior,0,0
+I-ACQUIRED,cleaning,0,0
+I-ACQUIRED,services,0,0
+I-ACQUIRED,for,0,0
+I-ACQUIRED,tank-trailers,0,0
+I-PURCHASER,Allwaste,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Southern,1,0
+I-ACQUIRED,Pacific,1,0
+I-ACQUIRED,Transportation,1,0
+I-ACQUIRED,Co,1,0
+I-PURCHASER,Henley,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Sante,1,0
+I-SELLER,Fe,1,0
+I-SELLER,Southern,1,0
+I-SELLER,Pacific,1,0
+I-SELLER,Corp,1,0
+I-STATUS,ended,0,0
+I-STATUS,talks,0,0
+I-ACQUIRED,PMS,1,0
+I-ACQUIRED,CONSOLIDATED,1,0
+I-ACQBUS,colorants,0,0
+I-ACQBUS,for,0,0
+I-ACQBUS,the,0,0
+I-ACQBUS,plastics,0,0
+I-ACQBUS,industry,0,0
+I-PURCHASER,M.A.,1,0
+I-PURCHASER,HANNA,1,0
+I-PURCHASER,CO,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,a,0,0
+I-ACQUIRED,shrimp,0,0
+I-ACQUIRED,packing,0,0
+I-ACQUIRED,plant,0,0
+I-ACQLOC,Ecuador,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Baltek,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Hal,1,0
+I-ACQUIRED,Roach,1,0
+I-ACQUIRED,Studios,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,115,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Robert,1,0
+I-PURCHASER,Halmi,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Atomika,1,0
+I-ACQUIRED,Technische,1,0
+I-ACQUIRED,Physik,1,0
+I-ACQBUS,surface,0,0
+I-ACQBUS,science,0,0
+I-ACQBUS,instruments,0,0
+I-ACQLOC,"Munich,",1,0
+I-ACQLOC,West,1,0
+I-ACQLOC,Germany,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Perkin-Elmer,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Northview,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Calmark,1,0
+I-PURCHASER,Financial,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreement,0,0
+I-STATUS,in,0,0
+I-STATUS,principal,0,0
+I-ACQUIRED,Triton,1,0
+I-ACQUIRED,Oil,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Industrial,1,0
+I-PURCHASER,Equity,1,0
+I-PURCHASER,(Pacific),0,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,plant,0,0
+I-ACQLOC,"Napa,",1,0
+I-ACQLOC,Calif,1,0
+I-DLRAMT,16,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Oregon,1,0
+I-PURCHASER,Steel,1,0
+I-PURCHASER,Mills,1,0
+I-SELLER,Kaiser,1,0
+I-SELLER,Steel,1,0
+I-SELLER,Corp,1,0
+I-STATUS,purchased,0,0
+I-ACQUIRED,IDC,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,62.4,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,IDC,1,0
+I-PURCHASER,Acquisition,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,begin,0,0
+I-STATUS,a,0,0
+I-STATUS,cash,0,0
+I-STATUS,tender,0,0
+I-STATUS,offer,0,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Pneumo,1,0
+I-ACQUIRED,Abex,1,0
+I-ACQBUS,aerospace,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,defense,0,0
+I-SELLER,IC,1,0
+I-SELLER,Industries,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Cental,1,0
+I-ACQUIRED,Soya,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,370,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Ferruzzi,1,0
+I-PURCHASER,Agricola,1,0
+I-PURCHASER,Finanziaria,1,0
+I-SELLER,Shamrock,1,0
+I-SELLER,Capital,1,0
+I-SELLER,LP,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Cental,1,0
+I-ACQUIRED,Soya,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Ferruzzi,1,0
+I-PURCHASER,Agricola,1,0
+I-PURCHASER,Finanziaria,1,0
+I-SELLER,Shamrock,1,0
+I-SELLER,Capital,1,0
+I-SELLER,LP,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,GAF,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Samuel,1,0
+I-PURCHASER,J.,1,0
+I-PURCHASER,Heyman,1,0
+I-STATUS,reconsider,0,0
+I-ACQUIRED,Bell,1,0
+I-ACQUIRED,Petroleum,1,0
+I-ACQUIRED,Services,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Regal,1,0
+I-PURCHASER,International,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,doubled,0,0
+I-STATUS,its,0,0
+I-STATUS,offer,0,0
+I-ACQUIRED,"Rigolleau,",1,0
+I-ACQUIRED,S.A.,1,0
+I-ACQBUS,glass,0,0
+I-ACQBUS,manufacturer,0,0
+I-ACQLOC,Argentine,1,0
+I-PURCHASER,Camillo,1,0
+I-PURCHASER,Gancia,1,0
+I-SELLER,Corning,1,0
+I-SELLER,International,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,transfer,0,0
+I-ACQUIRED,Bankhaus,1,0
+I-ACQUIRED,Centrale,1,0
+I-ACQUIRED,Credit,1,0
+I-ACQUIRED,AG,1,0
+I-ACQLOC,West,1,0
+I-ACQLOC,German,1,0
+I-PURCHASER,Banco,1,0
+I-PURCHASER,Santander,1,0
+I-SELLER,Bank,1,0
+I-SELLER,of,0,0
+I-SELLER,America,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Entrepo,1,0
+I-ACQUIRED,Financial,1,0
+I-ACQUIRED,Resources,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,high,0,0
+I-ACQBUS,technology,0,0
+I-ACQBUS,equipment,0,0
+I-ACQLOC,Philadelphia,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,AMOSKEAG,1,0
+I-PURCHASER,BANK,1,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Baker,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,oil,0,0
+I-ACQBUS,field,0,0
+I-ACQBUS,service,0,0
+I-PURCHASER,Hughes,1,0
+I-PURCHASER,Tool,1,0
+I-PURCHASER,Co,1,0
+I-STATUS,under,0,0
+I-STATUS,consideration,0,0
+I-ACQUIRED,Enzon,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,pharmaceutical,0,0
+I-PURCHASER,Eastman,1,0
+I-PURCHASER,Kodak,1,0
+I-PURCHASER,Co,1,0
+I-ACQUIRED,privately-held,0,0
+I-ACQUIRED,specialty,0,0
+I-ACQUIRED,plastics,0,0
+I-ACQUIRED,manufacturing,0,0
+I-ACQUIRED,company,0,0
+I-PURCHASER,Texon,1,0
+I-PURCHASER,Energy,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,preliminary,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Lincoln,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,Bank,1,0
+I-PURCHASER,Unicorp,1,0
+I-PURCHASER,American,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Acme,1,0
+I-ACQUIRED,Holding,1,0
+I-ACQUIRED,corp,0,0
+I-ACQUIRED,Plan-A-Flex,1,0
+I-ACQUIRED,Designer,1,0
+I-ACQUIRED,Co,1,0
+I-ACQBUS,sliding,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,folding,0,0
+I-ACQBUS,door,0,0
+I-ACQBUS,hardware,0,0
+I-ACQBUS,kits,0,0
+I-ACQBUS,for,0,0
+I-ACQBUS,home,0,0
+I-ACQBUS,design,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,remodeling,0,0
+I-ACQBUS,projects,0,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,STANLEY,1,0
+I-PURCHASER,WORKS,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,ready-mixed,0,0
+I-ACQUIRED,concrete,0,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,aggregates,0,0
+I-ACQUIRED,businesses,0,0
+I-ACQBUS,CONCRETE,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Lone,1,0
+I-PURCHASER,Star,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Riedel,1,0
+I-SELLER,International,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Republic,1,0
+I-ACQUIRED,Health,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,been,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Pesch,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Co,1,0
+I-SELLER,REPH,1,0
+I-SELLER,Acquisition,1,0
+I-SELLER,Co,1,0
+I-STATUS,negotiate,0,0
+I-STATUS,the,0,0
+I-STATUS,terms,0,0
+I-ACQUIRED,USAir,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,airline,0,0
+I-PURCHASER,Trans,1,0
+I-PURCHASER,World,1,0
+I-PURCHASER,Airlines,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,filed,0,0
+I-STATUS,suit,0,0
+I-ACQUIRED,IMRE,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,group,0,0
+I-PURCHASER,of,0,0
+I-PURCHASER,European,1,0
+I-PURCHASER,institutions,0,0
+I-ACQUIRED,Westfiar,1,0
+I-ACQUIRED,Funding,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQLOC,"Armonk,",1,0
+I-ACQLOC,N.Y.,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Commonwealth,1,0
+I-PURCHASER,Mortgage,1,0
+I-PURCHASER,Co,1,0
+I-ACQUIRED,Southwest,1,0
+I-ACQUIRED,Forest,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Stone,1,0
+I-PURCHASER,Container,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,completed,0,0
+I-STATUS,all,0,0
+I-STATUS,waiting,0,0
+I-STATUS,period,0,0
+I-STATUS,requirements,0,0
+I-ACQUIRED,Southwest,1,0
+I-ACQUIRED,Forest,1,0
+I-ACQUIRED,Industries,1,0
+I-PURCHASER,Stone,1,0
+I-PURCHASER,Container,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,Taft,1,0
+I-ACQUIRED,Broadcasting,1,0
+I-ACQUIRED,Co,1,0
+I-PURCHASER,Narragansett,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Inc,1,0
+I-PURCHASER,Dudley,1,0
+I-PURCHASER,S.,1,0
+I-PURCHASER,Taft,1,0
+I-STATUS,requested,0,0
+I-STATUS,a,0,0
+I-STATUS,response,0,0
+I-ACQUIRED,railroad,0,0
+I-ACQUIRED,assets,0,0
+I-ACQBUS,railroad,0,0
+I-PURCHASER,Santa,1,0
+I-PURCHASER,Fe,1,0
+I-PURCHASER,Southern,1,0
+I-PURCHASER,Pacific,1,0
+I-PURCHASER,Corp,1,0
+I-PURCHASER,Southern,1,0
+I-PURCHASER,Pacific,1,0
+I-PURCHASER,Railroads,1,0
+I-STATUS,rejection,0,0
+I-ACQUIRED,Fermenta,1,0
+I-ACQUIRED,AB,1,0
+I-SELLER,NORDBANKEN,1,0
+I-ACQUIRED,The,1,0
+I-ACQUIRED,First,1,0
+I-ACQUIRED,Women's,1,0
+I-ACQUIRED,Bank,1,0
+I-PURCHASER,investor,0,0
+I-PURCHASER,group,0,0
+I-STATUS,expired,0,0
+I-ACQUIRED,Bench,1,0
+I-ACQUIRED,Craft,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Universal,1,0
+I-PURCHASER,Furniture,1,0
+I-PURCHASER,Ltd,1,0
+I-ACQUIRED,Hughes,1,0
+I-ACQUIRED,Tool,1,0
+I-ACQUIRED,Co,1,0
+I-PURCHASER,Baker,1,0
+I-PURCHASER,International,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,Star,1,0
+I-ACQUIRED,Oil,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Gas,1,0
+I-ACQUIRED,Ltd,1,0
+I-DLRAMT,57,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-DLRAMT,cash,0,0
+I-PURCHASER,United,1,0
+I-PURCHASER,Coal,1,0
+I-PURCHASER,(Canada),0,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,Carling,1,0
+I-SELLER,O'Keefe,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,sold,0,0
+I-ACQUIRED,DTD,1,0
+I-ACQUIRED,ENTERPRISES,1,0
+I-ACQUIRED,INC,1,0
+I-PURCHASER,EaglesLair,1,0
+I-PURCHASER,Development,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,assumed,0,0
+I-STATUS,control,0,0
+I-ACQUIRED,certain,0,0
+I-ACQUIRED,producing,0,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,non-producing,0,0
+I-ACQUIRED,natural,0,0
+I-ACQUIRED,gas,0,0
+I-ACQUIRED,properties,0,0
+I-ACQLOC,southwestern,0,0
+I-ACQLOC,Saskatchewan,1,0
+I-SELLER,Canadian,1,0
+I-SELLER,Natural,1,0
+I-SELLER,Resources,1,0
+I-SELLER,Ltd,1,0
+I-ACQUIRED,WTRK,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,radio,0,0
+I-ACQBUS,station,0,0
+I-ACQLOC,Philadelphia,1,0
+I-DLRAMT,13.8,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Malrite,1,0
+I-PURCHASER,Guaranteed,1,0
+I-PURCHASER,Broadcast,1,0
+I-PURCHASER,Partners,1,0
+I-PURCHASER,L.P.,1,0
+I-SELLER,Cox,1,0
+I-SELLER,Enterprises,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Rubbertech,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Broker's,1,0
+I-PURCHASER,Choice,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,United,1,0
+I-ACQUIRED,Asian,1,0
+I-ACQUIRED,Bank,1,0
+I-ACQUIRED,Bhd,1,0
+I-PURCHASER,Malaysia's,1,0
+I-PURCHASER,central,0,0
+I-PURCHASER,bank,0,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,South,1,0
+I-ACQUIRED,Bay,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQLOC,Newport,1,0
+I-ACQLOC,Beach,1,0
+I-PURCHASER,Standard,1,0
+I-PURCHASER,Pacific,1,0
+I-PURCHASER,LP,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Caesars,1,0
+I-ACQUIRED,World,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,casino,0,0
+I-ACQBUS,hotels,0,0
+I-ACQBUS,honeymoon,0,0
+I-ACQBUS,resorts,0,0
+I-ACQLOC,Nevada,1,0
+I-ACQLOC,Pennsylvania's,1,0
+I-ACQLOC,Pocono,1,0
+I-ACQLOC,Mountains,1,0
+I-PURCHASER,MTS,1,0
+I-PURCHASER,Acquisition,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,started,0,0
+I-STATUS,a,0,0
+I-STATUS,tender,0,0
+I-STATUS,offer,0,0
+I-ACQUIRED,Imperial,1,0
+I-ACQUIRED,Continental,1,0
+I-ACQUIRED,Gas,1,0
+I-ACQUIRED,Association,1,0
+I-DLRAMT,one,0,0
+I-DLRAMT,billion,0,0
+I-DLRAMT,stg,0,0
+I-PURCHASER,SHV,1,0
+I-PURCHASER,(United,0,0
+I-PURCHASER,Kingdom),1,0
+I-PURCHASER,Holding,1,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,making,0,0
+I-STATUS,a,0,0
+I-STATUS,tender,0,0
+I-STATUS,offer,0,0
+I-DLRAMT,500,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,First,1,0
+I-PURCHASER,Boston,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Allegheny,1,0
+I-SELLER,International,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,American,1,0
+I-ACQUIRED,Motors,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,757,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlr,0,0
+I-PURCHASER,Chrysler,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,Technology,1,0
+I-ACQUIRED,Development,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,"350,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Leon,1,0
+I-PURCHASER,Greenblatt,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,American,1,0
+I-ACQUIRED,Motors,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,757,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,DLRS,1,0
+I-PURCHASER,Chrysler,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Renault,1,0
+I-STATUS,proposed,0,0
+I-ACQUIRED,All,1,0
+I-ACQUIRED,Ticket,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,PLC,1,0
+I-ACQBUS,special,0,0
+I-ACQBUS,events,0,0
+I-ACQBUS,travel,0,0
+I-ACQBUS,company,0,0
+I-ACQLOC,London,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Consolidated,1,0
+I-PURCHASER,Grandview,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Imperial,1,0
+I-ACQUIRED,Continental,1,0
+I-ACQUIRED,Gas,1,0
+I-ACQUIRED,Association,1,0
+I-PURCHASER,Tractebel,1,0
+I-PURCHASER,SA,1,0
+I-PURCHASER,Groupe,1,0
+I-PURCHASER,Bruxelles,1,0
+I-PURCHASER,Lambert,1,0
+I-PURCHASER,SA,1,0
+I-ACQUIRED,five,0,0
+I-ACQUIRED,rural,0,0
+I-ACQUIRED,hospitals,0,0
+I-DLRAMT,18,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,a,0,0
+I-PURCHASER,private,0,0
+I-PURCHASER,corporation,0,0
+I-SELLER,National,1,0
+I-SELLER,Heathcare,1,0
+I-SELLER,Inc,1,0
+I-STATUS,signed,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Beatrice,1,0
+I-ACQUIRED,U.S.,1,0
+I-ACQUIRED,Food,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,bottled,0,0
+I-ACQBUS,water,0,0
+I-ACQLOC,Monterey,1,0
+I-ACQLOC,"Park,",1,0
+I-ACQLOC,Calif.,1,0
+I-SELLER,BCI,1,0
+I-SELLER,Holdings,1,0
+I-SELLER,Corp,1,0
+I-ACQUIRED,Viacom,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,3.4,0,1
+I-DLRAMT,billion,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,National,1,0
+I-PURCHASER,Amusements,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,work,0,0
+I-STATUS,together,0,0
+I-ACQUIRED,Taft,1,0
+I-ACQUIRED,Broadcasting,1,0
+I-ACQUIRED,Co,1,0
+I-PURCHASER,Carl,1,0
+I-PURCHASER,Lindner,1,0
+I-STATUS,discussed,0,0
+I-ACQUIRED,Hausereman,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Bahamas-based,1,0
+I-PURCHASER,firm,0,0
+I-ACQUIRED,Goodyear,1,0
+I-ACQUIRED,Aerospace,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,588,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,DLRS,1,0
+I-PURCHASER,Loral,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Goodyear,1,0
+I-SELLER,Tire,1,0
+I-SELLER,and,0,0
+I-SELLER,Rubber,1,0
+I-SELLER,Co,1,0
+I-ACQUIRED,Kaiser,1,0
+I-ACQUIRED,Cement's,1,0
+I-ACQUIRED,Northwest,1,0
+I-ACQUIRED,Terminals,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Montana,1,0
+I-ACQUIRED,City,1,0
+I-ACQUIRED,plant,0,0
+I-ACQBUS,cement,0,0
+I-ACQBUS,producer,0,0
+I-DLRAMT,50.2,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Lone,1,0
+I-PURCHASER,Star,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-PURCHASER,Ash,1,0
+I-PURCHASER,Grove,1,0
+I-PURCHASER,Cement,1,0
+I-PURCHASER,West,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Hanson,1,0
+I-SELLER,Industries,1,0
+I-ACQUIRED,Marketech,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,patient-ready,0,0
+I-ACQBUS,home,0,0
+I-ACQBUS,infusion,0,0
+I-ACQBUS,therapy,0,0
+I-ACQBUS,products,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,services,0,0
+I-ACQLOC,New,1,0
+I-ACQLOC,Jersery,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Continental,1,0
+I-PURCHASER,Health,1,0
+I-PURCHASER,Affiliates,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Gleason,1,0
+I-ACQUIRED,Securities,1,0
+I-ACQUIRED,Service,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQUIRED,Gleason,1,0
+I-ACQUIRED,Plant,1,0
+I-ACQUIRED,Security,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,security,0,0
+I-ACQBUS,guard,0,0
+I-ACQBUS,services,0,0
+I-ACQLOC,New,1,0
+I-ACQLOC,York,1,0
+I-ACQLOC,Connecticut,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Sahlen,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Associates,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Triplett,1,0
+I-ACQUIRED,Electrical,1,0
+I-ACQUIRED,Instrument,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQUIRED,Alltest,1,0
+I-ACQLOC,"Bluffton,",1,0
+I-ACQLOC,Ohio,1,0
+I-ACQLOC,Hoffman,1,0
+I-ACQLOC,"Estates,",1,0
+I-ACQLOC,Ill.,1,0
+I-SELLER,Penril,1,0
+I-SELLER,Corp,1,0
+I-STATUS,seeking,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Biltmore,1,0
+I-ACQUIRED,Hotel,1,0
+I-ACQLOC,Santa,1,0
+I-ACQLOC,Barbara,1,0
+I-DLRAMT,undisclosed,0,0
+I-DLRAMT,amount,0,0
+I-PURCHASER,Four,1,0
+I-PURCHASER,Seasons,1,0
+I-PURCHASER,Hotels,1,0
+I-PURCHASER,VMS,1,0
+I-PURCHASER,Realty,1,0
+I-PURCHASER,Partners,1,0
+I-SELLER,Marriott,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,purchase,0,0
+I-ACQUIRED,American,1,0
+I-ACQUIRED,Video,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,video,0,0
+I-ACQBUS,rental,0,0
+I-ACQBUS,concessions,0,0
+I-PURCHASER,Paralax,1,0
+I-PURCHASER,Video,1,0
+I-PURCHASER,Enterprises,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreeed,0,0
+I-STATUS,to,0,0
+I-STATUS,acquire,0,0
+I-ACQUIRED,South,1,0
+I-ACQUIRED,Western,1,0
+I-ACQUIRED,Engineering,1,0
+I-ACQUIRED,Co,1,0
+I-ACQBUS,heat,0,0
+I-ACQBUS,transfer,0,0
+I-ACQBUS,equipment,0,0
+I-DLRAMT,12.5,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,DLR,1,0
+I-PURCHASER,Senior,1,0
+I-PURCHASER,Engineering,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Plc,1,0
+I-SELLER,Cronus,1,0
+I-SELLER,Industries,1,0
+I-SELLER,Inc,1,0
+I-STATUS,reached,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Trico,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Paccar,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,proposed,0,0
+I-ACQUIRED,Hughes,1,0
+I-ACQUIRED,Tool,1,0
+I-ACQUIRED,Co,1,0
+I-PURCHASER,Baker,1,0
+I-PURCHASER,International,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,approved,0,0
+I-ACQUIRED,Taft,1,0
+I-ACQUIRED,Braodacasting,1,0
+I-ACQUIRED,Co,1,0
+I-PURCHASER,Theta,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,decided,0,0
+I-STATUS,not,0,0
+I-STATUS,to,0,0
+I-STATUS,accept,0,0
+I-ACQUIRED,Taft,1,0
+I-ACQUIRED,Broadcasting,1,0
+I-ACQUIRED,Co,1,0
+I-PURCHASER,Dudley,1,0
+I-PURCHASER,Taft,1,0
+I-PURCHASER,Narragansett,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,intend,0,0
+I-STATUS,to,0,0
+I-STATUS,pursue,0,0
+I-ACQUIRED,Winley,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,homebuilder,0,0
+I-ACQLOC,"Englewood,",1,0
+I-ACQLOC,Colo.,1,0
+I-PURCHASER,CONCORDE,1,0
+I-PURCHASER,VENTURES,1,0
+I-PURCHASER,INC,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Princeville,1,0
+I-ACQUIRED,Development,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Qintex,1,0
+I-PURCHASER,America,1,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,extending,0,0
+I-STATUS,its,0,0
+I-STATUS,offer,0,0
+I-ACQUIRED,industrial,0,0
+I-ACQUIRED,products,0,0
+I-ACQUIRED,group,0,0
+I-ACQBUS,standard,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,custom,0,0
+I-ACQBUS,engineered,0,0
+I-ACQBUS,centrifugal,0,0
+I-ACQBUS,pumps,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,mechanical,0,0
+I-ACQBUS,seals,0,0
+I-ACQBUS,advanced,0,0
+I-ACQBUS,controls,0,0
+I-ACQLOC,Long,1,0
+I-ACQLOC,"Beach,",1,0
+I-ACQLOC,California,1,0
+I-DLRAMT,240,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,DLRS,1,0
+I-PURCHASER,Clayton,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Dubilier,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Borg-Warner,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-PURCHASER,Merrill,1,0
+I-PURCHASER,Lynch,1,0
+I-PURCHASER,Canada,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,considering,0,0
+I-ACQUIRED,High,1,0
+I-ACQUIRED,Technology,1,0
+I-ACQBUS,publishes,0,0
+I-ACQBUS,information,0,0
+I-ACQBUS,about,0,0
+I-ACQBUS,emerging,0,0
+I-ACQBUS,technologies,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,their,0,0
+I-ACQBUS,impact,0,0
+I-ACQBUS,on,0,0
+I-ACQBUS,business,0,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Biotech,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Goldhirsh,1,0
+I-SELLER,Group,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,Instinet,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Reuters,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,PLC,1,0
+I-STATUS,proposed,0,0
+I-ACQUIRED,Bancroft,1,0
+I-ACQUIRED,Convertible,1,0
+I-ACQUIRED,Fund,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Zico,1,0
+I-PURCHASER,INvestment,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,INc,1,0
+I-ACQUIRED,Protein,1,0
+I-ACQUIRED,Databases,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Millipore,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Biopool,1,0
+I-ACQUIRED,AB,1,0
+I-ACQBUS,cardiovascular,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,fibrinolytic,0,0
+I-ACQBUS,products,0,0
+I-ACQLOC,"Umea,",1,0
+I-ACQLOC,Sweden,1,0
+I-DLRAMT,undisclosed,0,0
+I-DLRAMT,terms,0,0
+I-PURCHASER,CytRx,1,0
+I-PURCHASER,Biopool,1,0
+I-PURCHASER,Ltd,1,0
+I-ACQUIRED,Golden,1,0
+I-ACQUIRED,Nugget,1,0
+I-ACQUIRED,Casino,1,0
+I-ACQUIRED,Hotel,1,0
+I-ACQLOC,Atlantic,1,0
+I-ACQLOC,"City,",1,0
+I-ACQLOC,New,1,0
+I-ACQLOC,Jersey,1,0
+I-PURCHASER,Bally,1,0
+I-PURCHASER,Manufacturing,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Golden,1,0
+I-SELLER,Nugget,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Sanchez,1,0
+I-ACQUIRED,Computer,1,0
+I-ACQUIRED,Associates,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,computer,0,0
+I-ACQBUS,software,0,0
+I-ACQLOC,"Malvern,",1,0
+I-ACQLOC,Pa,1,0
+I-DLRAMT,2.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlr,0,0
+I-PURCHASER,Safeguard,1,0
+I-PURCHASER,Scientifics,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Princeville,1,0
+I-ACQUIRED,Airways,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Aloha,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Princeville,1,0
+I-SELLER,Development,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,terms,0,0
+I-ACQUIRED,Seashore,1,0
+I-ACQUIRED,Bankshares,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,New,1,0
+I-PURCHASER,Hampshire,1,0
+I-PURCHASER,Savings,1,0
+I-PURCHASER,Bank,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,HOUSTON,1,0
+I-ACQUIRED,CHRONICLE,1,0
+I-ACQBUS,paper,0,0
+I-DLRAMT,400,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,DLRS,1,0
+I-PURCHASER,Hearst,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Houston,1,0
+I-SELLER,Endowment,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Cheetham,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,"salt,",0,0
+I-ACQBUS,animal,0,0
+I-ACQBUS,feed,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,seeds,0,0
+I-DLRAMT,110,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Acmex,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,Ltd,1,0
+I-STATUS,proposed,0,0
+I-ACQUIRED,Hillards,1,0
+I-ACQUIRED,Plc,1,0
+I-ACQBUS,supermarket,0,0
+I-ACQBUS,chain,0,0
+I-PURCHASER,County,1,0
+I-PURCHASER,Ltd,1,0
+I-PURCHASER,Tesco,1,0
+I-PURCHASER,Plc,1,0
+I-STATUS,purchased,0,0
+I-ACQUIRED,Heinl's,1,0
+I-ACQUIRED,Nursery,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQLOC,Miami,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,American,1,0
+I-PURCHASER,Nursery,1,0
+I-PURCHASER,Products,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,purchased,0,0
+I-ACQUIRED,Caesars,1,0
+I-ACQUIRED,World,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Martin,1,0
+I-PURCHASER,T.,1,0
+I-PURCHASER,Sosnoff,1,0
+I-STATUS,rejected,0,0
+I-ACQUIRED,Walter-Richter,1,0
+I-ACQUIRED,Labels,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,woven,0,0
+I-ACQBUS,labels,0,0
+I-ACQLOC,"Paterson,",1,0
+I-ACQLOC,N.J.,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Packaging,1,0
+I-PURCHASER,Systems,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,acquire,0,0
+I-ACQUIRED,Cenergy,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Bryson,1,0
+I-PURCHASER,Oil,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Gas,1,0
+I-PURCHASER,plc,0,0
+I-ACQUIRED,Antibioticos,1,0
+I-ACQUIRED,SA,1,0
+I-ACQBUS,pharmaceuticals,0,0
+I-ACQLOC,Spanish,1,0
+I-DLRAMT,500,0,1
+I-DLRAMT,billion,0,0
+I-DLRAMT,lire,0,0
+I-PURCHASER,Montedison,1,0
+I-PURCHASER,Spa,1,0
+I-STATUS,concluded,0,0
+I-STATUS,its,0,0
+I-STATUS,negotiations,0,0
+I-ACQUIRED,Valley,1,0
+I-ACQUIRED,Cable,1,0
+I-ACQUIRED,TV,1,0
+I-ACQBUS,cable,0,0
+I-ACQBUS,television,0,0
+I-ACQBUS,systems,0,0
+I-ACQLOC,west,0,0
+I-ACQLOC,San,1,0
+I-ACQLOC,Fernando,1,0
+I-ACQLOC,Valley,1,0
+I-ACQLOC,area,0,0
+I-ACQLOC,of,0,0
+I-ACQLOC,Los,1,0
+I-ACQLOC,Angeles,1,0
+I-DLRAMT,100,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,DLR,1,0
+I-PURCHASER,Cablevision,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Hollinger,1,0
+I-SELLER,Inc,1,0
+I-STATUS,entered,0,0
+I-STATUS,into,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,industrial,0,0
+I-ACQUIRED,products,0,0
+I-ACQUIRED,division,0,0
+I-ACQLOC,Long,1,0
+I-ACQLOC,"Beach,",1,0
+I-ACQLOC,California,1,0
+I-DLRAMT,about,0,0
+I-DLRAMT,240,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Clayton,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Dubilier,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Borg-Warner,1,0
+I-SELLER,Corp,1,0
+I-STATUS,approved,0,0
+I-ACQUIRED,retail,0,0
+I-ACQUIRED,store,0,0
+I-ACQUIRED,division,0,0
+I-PURCHASER,Handy,1,0
+I-PURCHASER,Andy,1,0
+I-PURCHASER,Home,1,0
+I-PURCHASER,Improvement,1,0
+I-PURCHASER,Centers,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Forest,1,0
+I-SELLER,City,1,0
+I-SELLER,Enterprises,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Resorts,1,0
+I-ACQUIRED,INternational,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,PH,1,0
+I-PURCHASER,Acquisition,1,0
+I-PURCHASER,Co,1,0
+I-ACQUIRED,Harper,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Row,1,0
+I-ACQUIRED,Publishers,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Theodore,1,0
+I-PURCHASER,Cross,1,0
+I-PURCHASER,Harcourt,1,0
+I-PURCHASER,Brace,1,0
+I-PURCHASER,Jovanovich,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,take,0,0
+I-STATUS,no,0,0
+I-STATUS,action,0,0
+I-ACQUIRED,Home,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQLOC,"Seattle,",1,0
+I-ACQLOC,Washington,1,0
+I-PURCHASER,InterWest,1,0
+I-PURCHASER,Savings,1,0
+I-PURCHASER,Bank,1,0
+I-ACQUIRED,Symbion,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,"Warburg,",1,0
+I-PURCHASER,Pincus,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,started,0,0
+I-STATUS,a,0,0
+I-STATUS,tender,0,0
+I-STATUS,offer,0,0
+I-ACQUIRED,Woolworth,1,0
+I-ACQUIRED,Holdings,1,0
+I-ACQUIRED,Plc,1,0
+I-SELLER,Dixons,1,0
+I-SELLER,Group,1,0
+I-SELLER,Plc,1,0
+I-STATUS,sold,0,0
+I-ACQUIRED,Peter,1,0
+I-ACQUIRED,Pan,1,0
+I-ACQUIRED,Restaurant,1,0
+I-ACQLOC,"Urbana,",1,0
+I-ACQLOC,Md,1,0
+I-DLRAMT,"1,100,000",0,1
+I-DLRAMT,dlrs,0,0
+I-SELLER,Kapok,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,Gates,1,0
+I-ACQUIRED,Learjet,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,AVAQ,1,0
+I-PURCHASER,International,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Rexnord,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Banner,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,tendered,0,0
+I-ACQUIRED,retirement,0,0
+I-ACQUIRED,living,0,0
+I-ACQUIRED,centers,0,0
+I-PURCHASER,Forum,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Beverly,1,0
+I-SELLER,Enterprises,1,0
+I-STATUS,terminated,0,0
+I-ACQUIRED,Southwestern,1,0
+I-ACQUIRED,Engineering,1,0
+I-ACQUIRED,Co,1,0
+I-ACQBUS,heat,0,0
+I-ACQBUS,transfer,0,0
+I-ACQBUS,equipment,0,0
+I-PURCHASER,Senior,1,0
+I-PURCHASER,Engineering,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,PLC,1,0
+I-SELLER,CRONUS,1,0
+I-SELLER,INDUSTRIES,1,0
+I-SELLER,INC,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,DNA,1,0
+I-ACQUIRED,Medical,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,medical,0,0
+I-ACQBUS,development,0,0
+I-PURCHASER,Walter,1,0
+I-PURCHASER,G.,1,0
+I-PURCHASER,Mize,1,0
+I-ACQUIRED,South,1,0
+I-ACQUIRED,West,1,0
+I-ACQUIRED,Advocate,1,0
+I-ACQUIRED,South,1,0
+I-ACQUIRED,Bend,1,0
+I-ACQUIRED,Advocate,1,0
+I-ACQBUS,community,0,0
+I-ACQBUS,newspapers,0,0
+I-ACQLOC,"Houston,",1,0
+I-ACQLOC,Texas,1,0
+I-DLRAMT,undisclosed,0,0
+I-DLRAMT,sum,0,0
+I-PURCHASER,Independent,1,0
+I-PURCHASER,Newspapers,1,0
+I-PURCHASER,Ltd,1,0
+I-PURCHASER,Houston,1,0
+I-PURCHASER,Community,1,0
+I-PURCHASER,Newspapers,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,The,1,0
+I-SELLER,Advocate,1,0
+I-SELLER,Communications,1,0
+I-SELLER,Corp,1,0
+I-SELLER,Inc,1,0
+I-STATUS,bought,0,0
+I-ACQUIRED,Finlays,1,0
+I-ACQBUS,"confectionery,",0,0
+I-ACQBUS,tobacco,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,newsagent,0,0
+I-DLRAMT,16.9,0,1
+I-DLRAMT,MLN,1,0
+I-DLRAMT,STG,1,0
+I-PURCHASER,Finlays,1,0
+I-PURCHASER,Plc,1,0
+I-SELLER,Hanson,1,0
+I-SELLER,Trust,1,0
+I-SELLER,Plc,1,0
+I-STATUS,will,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Popsicle,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQBUS,frozen,0,0
+I-ACQBUS,novelty,0,0
+I-ACQBUS,products,0,0
+I-ACQLOC,Canada,1,0
+I-DLRAMT,37,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,Canadian,1,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Ambrit,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Sara,1,0
+I-SELLER,Lee,1,0
+I-SELLER,Corp,1,0
+I-SELLER,of,0,0
+I-SELLER,Canada,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,Hermetronics,1,0
+I-ACQUIRED,PLC,1,0
+I-ACQBUS,hermetic,0,0
+I-ACQBUS,integrated,0,0
+I-ACQBUS,circuit,0,0
+I-ACQBUS,packages,0,0
+I-DLRAMT,"600,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Adams-Russell,1,0
+I-PURCHASER,Electronics,1,0
+I-PURCHASER,Co,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Macedon,1,0
+I-ACQUIRED,Resources,1,0
+I-ACQUIRED,Ltd,1,0
+I-SELLER,Canadian,1,0
+I-SELLER,Foremost,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,negotiations,0,0
+I-STATUS,are,0,0
+I-STATUS,continuing,0,0
+I-ACQUIRED,DEVELOPMENT,1,0
+I-ACQUIRED,CORP,1,0
+I-ACQUIRED,OF,1,0
+I-ACQUIRED,AMERICA,1,0
+I-DLRAMT,90,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Lennar,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Kresge,1,0
+I-ACQUIRED,variety,0,0
+I-ACQUIRED,stores,0,0
+I-PURCHASER,F.W.,1,0
+I-PURCHASER,Woolworth,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,K,1,0
+I-SELLER,Mart,1,0
+I-SELLER,Corp,1,0
+I-STATUS,ended,0,0
+I-ACQUIRED,CooperVision,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Siebel,1,0
+I-PURCHASER,Capital,1,0
+I-PURCHASER,Management,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Gelco,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,An,1,0
+I-PURCHASER,investor,0,0
+I-PURCHASER,group,0,0
+I-PURCHASER,including,0,0
+I-PURCHASER,New,1,0
+I-PURCHASER,York-based,1,0
+I-PURCHASER,Mutual,1,0
+I-PURCHASER,Shares,1,0
+I-PURCHASER,Corp,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Mutual,1,0
+I-PURCHASER,Qualified,1,0
+I-PURCHASER,Income,1,0
+I-PURCHASER,Fund,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,TEMCO,1,0
+I-ACQUIRED,SERVICE,1,0
+I-ACQUIRED,INDUSTRIES,1,0
+I-ACQUIRED,INC,1,0
+I-PURCHASER,Herman,1,0
+I-PURCHASER,J.,1,0
+I-PURCHASER,Hellman,1,0
+I-PURCHASER,Harvey,1,0
+I-PURCHASER,Newwman,1,0
+I-STATUS,terminated,0,0
+I-ACQUIRED,Service,1,0
+I-ACQUIRED,America,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,foodservice,0,0
+I-SELLER,Allegheny,1,0
+I-SELLER,Beverage,1,0
+I-SELLER,Corp,1,0
+I-STATUS,approached,0,0
+I-ACQUIRED,Frost,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Sullivan,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Theodore,1,0
+I-PURCHASER,Cross,1,0
+I-STATUS,boosted,0,0
+I-STATUS,its,0,0
+I-STATUS,stake,0,0
+I-ACQUIRED,Eastwood,1,0
+I-ACQUIRED,Hospital,1,0
+I-ACQBUS,medical,0,0
+I-ACQBUS,complex,0,0
+I-ACQLOC,Memphis,1,0
+I-DLRAMT,50,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-DLRAMT,cash,0,0
+I-PURCHASER,HEALTHVEST,1,0
+I-SELLER,Healthcare,1,0
+I-SELLER,International,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Goodwood,1,0
+I-ACQUIRED,Park,1,0
+I-ACQUIRED,Hotel,1,0
+I-ACQUIRED,Ltd,1,0
+I-DLRAMT,82,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Singapore,1,0
+I-PURCHASER,government,0,0
+I-ACQUIRED,VEBA,1,0
+I-ACQUIRED,AG,1,0
+I-ACQLOC,West,1,0
+I-ACQLOC,German,1,0
+I-SELLER,Finance,1,0
+I-SELLER,Ministry,1,0
+I-STATUS,still,0,0
+I-STATUS,expected,0,0
+I-ACQUIRED,CYCLOPS,1,0
+I-ACQUIRED,CORP,1,0
+I-ACQLOC,U.S.,1,0
+I-PURCHASER,Dixons,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Plc,1,0
+I-ACQUIRED,Progressive,1,0
+I-ACQUIRED,Savings,1,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,Loan,1,0
+I-ACQUIRED,Association,1,0
+I-ACQLOC,Southern,1,0
+I-ACQLOC,California,1,0
+I-PURCHASER,Far,1,0
+I-PURCHASER,West,1,0
+I-PURCHASER,Financial,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreement,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Grant,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Mobex,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,KREZMAR,1,0
+I-ACQUIRED,GOLD,1,0
+I-ACQUIRED,PROPERTY,1,0
+I-ACQBUS,gold,0,0
+I-ACQLOC,"Wawa,",1,0
+I-ACQLOC,Ontario,1,0
+I-DLRAMT,nine,0,0
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Canamax,1,0
+I-PURCHASER,Resources,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Algoma,1,0
+I-SELLER,Steel,1,0
+I-SELLER,Corp,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,Gelco,1,0
+I-ACQUIRED,Express,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,courier,0,0
+I-ACQLOC,Canadian,1,0
+I-DLRAMT,54,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Air,1,0
+I-PURCHASER,Canada,1,0
+I-SELLER,Gelco,1,0
+I-SELLER,Corp,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,Ranco,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Siebe,1,0
+I-PURCHASER,PLC,1,0
+I-STATUS,approved,0,0
+I-ACQUIRED,Dashwood,1,0
+I-ACQUIRED,Industries,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,wood,0,0
+I-ACQBUS,window,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,patio,0,0
+I-ACQBUS,door,0,0
+I-ACQBUS,manufacturer,0,0
+I-ACQLOC,Canadian,1,0
+I-DLRAMT,undisclosed,0,0
+I-DLRAMT,amount,0,0
+I-PURCHASER,Trus,1,0
+I-PURCHASER,Joist,1,0
+I-PURCHASER,Corp,1,0
+I-ACQUIRED,"Sunrise,",1,0
+I-ACQUIRED,"Fla.,",1,0
+I-ACQUIRED,branch,0,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Fortune,1,0
+I-PURCHASER,Financial,1,0
+I-PURCHASER,Group,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Financial,1,0
+I-SELLER,Security,1,0
+I-SELLER,Savings,1,0
+I-SELLER,and,0,0
+I-SELLER,Loan,1,0
+I-SELLER,Association,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,sell,0,0
+I-ACQUIRED,Fleet,1,0
+I-ACQUIRED,Financial,1,0
+I-ACQUIRED,Group,1,0
+I-PURCHASER,Norstar,1,0
+I-PURCHASER,Bancorp,1,0
+I-STATUS,definitive,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Norstar,1,0
+I-ACQUIRED,Bancorp,1,0
+I-ACQBUS,bank,0,0
+I-ACQBUS,holding,0,0
+I-ACQLOC,Albany,1,0
+I-ACQLOC,N.y.,1,0
+I-PURCHASER,Fleet,1,0
+I-PURCHASER,Financial,1,0
+I-PURCHASER,Group,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,Trilogy,1,0
+I-ACQUIRED,Resource,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Teck,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,purchase,0,0
+I-ACQUIRED,Bard,1,0
+I-ACQUIRED,International,1,0
+I-ACQUIRED,Associates,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,tennis,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,squash,0,0
+I-ACQBUS,racquets,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,accessories,0,0
+I-PURCHASER,AMOUR,1,0
+I-PURCHASER,INC,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,ISL,1,0
+I-ACQUIRED,Life,1,0
+I-ACQUIRED,Insurance,1,0
+I-ACQUIRED,Co,1,0
+I-ACQLOC,Dallas,1,0
+I-DLRAMT,"400,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,American,1,0
+I-PURCHASER,Travellers,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,entered,0,0
+I-STATUS,into,0,0
+I-STATUS,an,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Fairchild,1,0
+I-ACQUIRED,Semiconductor,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Donald,1,0
+I-PURCHASER,Brooks,1,0
+I-SELLER,Schlumberger,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,management,0,0
+I-STATUS,buyout,0,0
+I-STATUS,proposal,0,0
+I-ACQUIRED,Medicom,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,heart,0,0
+I-ACQBUS,monitor,0,0
+I-ACQBUS,for,0,0
+I-ACQBUS,use,0,0
+I-ACQBUS,in,0,0
+I-ACQBUS,diagnosing,0,0
+I-ACQBUS,heart,0,0
+I-ACQBUS,disorders,0,0
+I-PURCHASER,Puritan-Bennedtt,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Union,1,0
+I-ACQUIRED,Flonetics,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,valves,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,marine,0,0
+I-ACQBUS,specialty,0,0
+I-ACQBUS,equipment,0,0
+I-PURCHASER,Irvin,1,0
+I-PURCHASER,Kaplan,1,0
+I-SELLER,Union,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Ranco,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,automatic,0,0
+I-ACQBUS,control,0,0
+I-ACQBUS,devices,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,power,0,0
+I-ACQBUS,controls,0,0
+I-PURCHASER,Siebe,1,0
+I-PURCHASER,Plc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Marketing,1,0
+I-ACQUIRED,Technologies,1,0
+I-ACQUIRED,Group,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,computer-based,0,0
+I-ACQBUS,advertising,0,0
+I-ACQBUS,system,0,0
+I-ACQLOC,Rockville,1,0
+I-ACQLOC,"Center,",1,0
+I-ACQLOC,N.Y.,1,0
+I-PURCHASER,Pilgrim,1,0
+I-PURCHASER,Venture,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,GenCorp,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,General,1,0
+I-PURCHASER,Partners,1,0
+I-STATUS,will,0,0
+I-STATUS,study,0,0
+I-ACQUIRED,RentCo,1,0
+I-ACQUIRED,Trailer,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,70,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,XTRA,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Fruehauf,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,Cenergy,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,"2,725,500",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Snyder,1,0
+I-PURCHASER,Oil,1,0
+I-PURCHASER,Partners,1,0
+I-PURCHASER,L.P.,1,0
+I-SELLER,L.D.,1,0
+I-SELLER,Brinkman,1,0
+I-ACQUIRED,Cenergy,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Snyder,1,0
+I-PURCHASER,Oil,1,0
+I-PURCHASER,Partners,1,0
+I-PURCHASER,LP,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Greyhound,1,0
+I-ACQUIRED,Lines,1,0
+I-DLRAMT,350,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,GLI,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,GREYHOUND,1,0
+I-SELLER,CORP,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,GenCorp,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,aerospace,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,soft,0,0
+I-ACQBUS,drink,0,0
+I-ACQBUS,bottling,0,0
+I-ACQLOC,"Akron,",1,0
+I-ACQLOC,Ohio,1,0
+I-DLRAMT,2.5,0,1
+I-DLRAMT,billion,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,General,1,0
+I-PURCHASER,Partners,1,0
+I-ACQUIRED,Banco,1,0
+I-ACQUIRED,Portugues,1,0
+I-ACQUIRED,de,0,0
+I-ACQUIRED,Investmento,1,0
+I-ACQUIRED,Sarl,1,0
+I-ACQBUS,BANK,1,0
+I-ACQLOC,Oporto,1,0
+I-DLRAMT,351,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,yen,0,0
+I-PURCHASER,Sanwa,1,0
+I-PURCHASER,Bank,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,International,1,0
+I-SELLER,Finance,1,0
+I-SELLER,Corp,1,0
+I-STATUS,agreed,0,0
+I-STATUS,to,0,0
+I-STATUS,buy,0,0
+I-ACQUIRED,Shearson,1,0
+I-ACQUIRED,Lehman,1,0
+I-ACQUIRED,Brothers,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,530,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Nippon,1,0
+I-PURCHASER,Life,1,0
+I-PURCHASER,Insurance,1,0
+I-PURCHASER,Co,1,0
+I-SELLER,American,1,0
+I-SELLER,Express,1,0
+I-SELLER,Co,1,0
+I-STATUS,holding,0,0
+I-STATUS,talks,0,0
+I-ACQUIRED,Rospatch,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,53,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Diagnostic,1,0
+I-PURCHASER,Retrieval,1,0
+I-PURCHASER,Systems,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Rank,1,0
+I-ACQUIRED,Xerox,1,0
+I-ACQUIRED,South,1,0
+I-ACQUIRED,Africa,1,0
+I-ACQUIRED,Pty,1,0
+I-ACQUIRED,Ltd,1,0
+I-ACQBUS,copiers,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,duplicators,0,0
+I-ACQLOC,South,1,0
+I-ACQLOC,African,1,0
+I-PURCHASER,Altron,1,0
+I-PURCHASER,Group,1,0
+I-SELLER,Rank,1,0
+I-SELLER,Xerox,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,agreed,0,0
+I-STATUS,in,0,0
+I-STATUS,principle,0,0
+I-ACQUIRED,Newman,1,0
+I-ACQUIRED,Division,1,0
+I-ACQBUS,gray,0,0
+I-ACQBUS,iron,0,0
+I-ACQBUS,castings,0,0
+I-ACQLOC,"Kendallville,",1,0
+I-ACQLOC,Indiana,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Newman,1,0
+I-PURCHASER,Manufacturing,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Amcast,1,0
+I-SELLER,Industrial,1,0
+I-SELLER,Corp,1,0
+I-ACQUIRED,FCS,1,0
+I-ACQUIRED,Laboratories,1,0
+I-ACQBUS,healthcare,0,0
+I-STATUS,preliminary,0,0
+I-STATUS,merger,0,0
+I-STATUS,proposal,0,0
+I-ACQUIRED,King,1,0
+I-ACQUIRED,World,1,0
+I-ACQUIRED,Productions,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,George,1,0
+I-PURCHASER,Soros,1,0
+I-ACQUIRED,assets,0,0
+I-ACQUIRED,and,0,0
+I-ACQUIRED,inventories,0,0
+I-ACQUIRED,of,0,0
+I-ACQUIRED,its,0,0
+I-ACQUIRED,Dominion,1,0
+I-ACQUIRED,Bridge,1,0
+I-ACQUIRED,steel,0,0
+I-ACQUIRED,service,0,0
+I-ACQUIRED,center,0,0
+I-ACQUIRED,operations,0,0
+I-ACQBUS,steel,0,0
+I-ACQBUS,service,0,0
+I-ACQBUS,centers,0,0
+I-ACQLOC,Toronto,1,0
+I-ACQLOC,and,0,0
+I-ACQLOC,"Edmonton,",1,0
+I-ACQLOC,Alberta,1,0
+I-DLRAMT,undisclosed,0,0
+I-PURCHASER,Federal,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Ltd,1,0
+I-SELLER,AMCA,1,0
+I-SELLER,International,1,0
+I-SELLER,Ltd,1,0
+I-STATUS,finalized,0,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Harris,1,0
+I-ACQUIRED,Pine,1,0
+I-ACQUIRED,Sawmill,1,0
+I-ACQBUS,lumber,0,0
+I-ACQLOC,"Pendleton,",1,0
+I-ACQLOC,Ore.,1,0
+I-DLRAMT,"3,475,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Louisiana,1,0
+I-PURCHASER,Pacific,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,agreed,0,0
+I-ACQUIRED,Purolator,1,0
+I-ACQUIRED,Courier,1,0
+I-ACQUIRED,Corp,1,0
+I-DLRAMT,265,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlr,0,0
+I-PURCHASER,E.F.,1,0
+I-PURCHASER,Hutton,1,0
+I-PURCHASER,LBO,1,0
+I-PURCHASER,Inc,1,0
+I-ACQUIRED,Computer,1,0
+I-ACQUIRED,Transceiver,1,0
+I-ACQUIRED,Systems,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,Vertex,1,0
+I-PURCHASER,Industries,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,agreement,0,0
+I-ACQUIRED,Willms,1,0
+I-ACQUIRED,Trucking,1,0
+I-ACQUIRED,Co,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,transports,0,0
+I-ACQBUS,hazardous,0,0
+I-ACQBUS,"waste,",0,0
+I-ACQBUS,sand,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,gravel,0,0
+I-DLRAMT,12.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Enviropact,1,0
+I-PURCHASER,Inc,1,0
+I-STATUS,letter,0,0
+I-STATUS,of,0,0
+I-STATUS,intent,0,0
+I-ACQUIRED,American,1,0
+I-ACQUIRED,Motors,1,0
+I-ACQUIRED,Corp,1,0
+I-PURCHASER,Chrysler,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,took,0,0
+I-STATUS,no,0,0
+I-STATUS,action,0,0
+I-ACQUIRED,Eskey's,1,0
+I-ACQUIRED,Yale,1,0
+I-ACQUIRED,E.,1,0
+I-ACQUIRED,Key,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,15.5,0,1
+I-DLRAMT,mln,0,0
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,new,0,0
+I-PURCHASER,concern,0,0
+I-SELLER,Eskey,1,0
+I-SELLER,Inc,1,0
+I-ACQUIRED,Price,1,0
+I-ACQUIRED,Communications,1,0
+I-ACQUIRED,Corp,1,0
+I-SELLER,John,1,0
+I-SELLER,Hancock,1,0
+I-SELLER,Mutual,1,0
+I-SELLER,Life,1,0
+I-SELLER,Insurance,1,0
+I-SELLER,Co,1,0
+I-ACQUIRED,Munford,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,"7,659,000",0,1
+I-DLRAMT,dlrs,0,0
+I-PURCHASER,Bradbury,1,0
+I-PURCHASER,Dyer,1,0
+I-STATUS,acquired,0,0
+I-ACQUIRED,Manhattan,1,0
+I-ACQUIRED,Cable,1,0
+I-ACQUIRED,Television,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,American,1,0
+I-PURCHASER,Television,1,0
+I-PURCHASER,and,0,0
+I-PURCHASER,Communications,1,0
+I-PURCHASER,Corp,1,0
+I-SELLER,Time,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Air,1,0
+I-ACQUIRED,Atlanta,1,0
+I-ACQUIRED,Inc,1,0
+I-ACQBUS,airline,0,0
+I-ACQLOC,"Atlanta,",1,0
+I-ACQLOC,Ga,1,0
+I-PURCHASER,KLM,1,0
+I-PURCHASER,Royal,1,0
+I-PURCHASER,Dutch,1,0
+I-PURCHASER,Airlines,1,0
+I-STATUS,not,0,0
+I-STATUS,seeking,0,0
+I-STATUS,to,0,0
+I-STATUS,take,0,0
+I-STATUS,a,0,0
+I-STATUS,stake,0,0
+I-ACQUIRED,Neo-Tech,1,0
+I-ACQUIRED,Inc,1,0
+I-DLRAMT,not,0,0
+I-DLRAMT,disclosed,0,0
+I-PURCHASER,Seismic,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,Inc,1,0
+I-PURCHASER,Energy,1,0
+I-PURCHASER,Holdings,1,0
+I-PURCHASER,Inc,1,0
+I-SELLER,Principal,1,0
+I-SELLER,Neo-Tech,1,0
+I-SELLER,Inc,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Wendy's,1,0
+I-ACQUIRED,International,1,0
+I-PURCHASER,Coca,1,0
+I-PURCHASER,Cola,1,0
+I-PURCHASER,Co,1,0
+I-STATUS,not,0,0
+I-STATUS,true,0,0
+I-ACQUIRED,Dataserv,1,0
+I-ACQUIRED,Inc,1,0
+I-PURCHASER,BellSouth,1,0
+I-PURCHASER,Corp,1,0
+I-STATUS,completed,0,0
+I-ACQUIRED,Rexham,1,0
+I-ACQUIRED,Corp,1,0
+I-ACQBUS,packaging,0,0
+I-ACQBUS,materials,0,0
+I-ACQBUS,and,0,0
+I-ACQBUS,machinery,0,0
+I-PURCHASER,Nortek,1,0
+I-PURCHASER,Inc,1,0

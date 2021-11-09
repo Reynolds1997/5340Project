@@ -87,21 +87,40 @@ def produceVectorList(wordsList):
 
             #Here is where we call the methods that create features.
             
-            labelVal = wordEntry[0]
+            basicLabelVal = wordEntry[0]
 
-            labelVal = labelVal.replace(":","") #Strip off colon
+            basicLabelVal = basicLabelVal.replace(":","") #Strip off colon
             
-            wordVal = wordEntry[1]
-            wordVal = wordVal.replace("\"","") #Strip off quotation marks from beginning and end
+            basicWordVal = wordEntry[1]
+            basicWordVal = basicWordVal.replace("\"","") #Strip off quotation marks from beginning and end
             
-            if labelVal != "TEXT" and wordVal != "---": 
+            if basicLabelVal != "TEXT" and basicWordVal != "---": 
 
-                capVal = isCap(wordVal) #If the string starts with a capital
-                numberVal = containsNumber(wordVal) #If the string contains a number
-                
+                wordList = basicWordVal.split()
 
-                vector = [labelVal,wordVal,capVal,numberVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
-                vectorList.append(vector)
+                j = 0 
+
+                #print(len(wordList))
+                #print(wordList)
+                while j < len(wordList):
+                    
+                    #Here we do some IOB tagging
+                    if(i == 0):
+                        labelVal= "B-" + basicLabelVal
+                    else:
+                        labelVal = "I-" + basicLabelVal
+
+                    wordVal = wordList[j]
+                    capVal = isCap(wordVal) #If the string starts with a capital
+                    numberVal = containsNumber(wordVal) #If the string contains a number
+
+                    #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
+
+                    vector = [labelVal,wordVal,capVal,numberVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
+                    vectorList.append(vector)
+
+                    j+=1
+
            # posVal = wordEntry[1]
            # 
            # abbrVal = isAbbreviation(wordVal)
