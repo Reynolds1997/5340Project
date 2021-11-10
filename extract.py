@@ -28,6 +28,7 @@ def main():
 
     trainingFileDirectory = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-anskeys"
     mlFeatureExtractor.main(trainingFileDirectory)
+
     #print("STARTING")
     #Read input files, use them to make a pathList and a fileList.
     filename = sys.argv[1]
@@ -219,4 +220,7 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
 
 #readInput()
 
-main()
+if __name__ == '__main__':
+
+    #trainingDirectory = sys.argv[1]
+    main()

@@ -317,4 +317,7 @@ def main(inputFileDirectory):
     writeToCSV(trainingFileName,fields,trainingFileVectorList)
     writeToCSV(testFileName,fields,testFileVectorList)
     
-main()
+if __name__ == '__main__':
+
+    trainingDirectory = sys.argv[1]
+    main(trainingDirectory)
