@@ -17,10 +17,15 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
 import mlModified
+import mlFeatureExtractor
+
+
 
 #Input Processing
 def main():
 
+    featureList = ['WORD','CAP','NUM']
+    #print("STARTING")
     #Read input files, use them to make a pathList and a fileList.
     filename = sys.argv[1]
     with open(filename) as file:
@@ -33,18 +38,66 @@ def main():
         pathList.append(os.path.dirname(line) + "/")
         fileList.append(os.path.basename(line))
 
-    analyzeFileList(pathList, fileList)
+    #print(pathList)
+    #print(fileList)
+
+    trainingFileName = "trainingFt.csv"
+    testFileName = "testFt.csv"
+    featuresSet = set()
+    for word in featureList:
+        featuresSet.add(word)
+    model, dictVectorizer = makeMLModel(trainingFileName,testFileName,featuresSet)
+    analyzeFileList(pathList, fileList, model,featuresSet, dictVectorizer)
     #print(pathList)
     #print(fileList)
 
 
-def analyzeFileList(pathList,fileList):
-    print(pathList)
-    print(fileList)
 
-def analyzeFile(filePath):
-    print("DO STUFF")
+def makeMLModel(trainingCSV,testCSV,featuresSet):
+    model, test_labels, vec_test_data, dictVectorizer = mlModified.createModel(trainingCSV,testCSV,featuresSet)
+    return model, dictVectorizer
 
+def analyzeFileList(pathList,fileList, model,featuresSet, dictVectorizer):
+    print("Analyzing file list")
+    i = 0 
+    while i < len(fileList):
+        #print (os.path.isdir(pathList[i]))
+        filePath = pathList[i] + fileList[i]
+        #print (os.path.isfile(filePath))
+
+        filePath = os.path.join(pathList[i], fileList[i])
+
+        analyzeFile(filePath, model, featuresSet, dictVectorizer)
+        i+=1
+
+def analyzeFile(filePath, model,featuresSet, dictVectorizer):
+    #filePath = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-docs\369.txt" #"C:\\Users\\bearl\\Documents\\Fall 2021\\CS 5340\\Final Project\\5340Project\\development-docs\\369.txt'"
+    print("Analyzing file: " + filePath)
+    
+    wordsList = mlFeatureExtractor.readFileIntoWordList(filePath)
+    wordsData = mlFeatureExtractor.produceUnlabeledVectorsFromWordList(wordsList)
+    #fileVectorList = mlFeatureExtractor.produceVectorList()
+
+    wordsDataFrame = pd.DataFrame(wordsData)
+    #print(wordsData)
+
+    tempFeatureList = ['LABEL','WORD','CAP','NUM']
+    #tempFeatureList.insert(0,'LABEL')
+
+    #print("Feature list" + str(tempFeatureList))
+    mlFeatureExtractor.writeToCSV("temp.csv",tempFeatureList,wordsData)
+
+    test_df, test_labels = mlModified.read_csv_for_ml("temp.csv", list(featuresSet))
+
+
+    
+    vec_test_data = mlModified.vectorizeTestData(test_df,dictVectorizer)
+
+
+
+    predictions = model.predict(vec_test_data)
+
+    print(predictions)
 
 
 #def makeTemplates():
@@ -61,3 +114,5 @@ def analyzeFile(filePath):
 
 
 #readInput()
+
+main()

@@ -63,7 +63,7 @@ def containsNumber(word):
             return 1
     return 0
 
-def produceVectorList(wordsList):
+def produceVectorList(linesList):
    #CHECK #WORD: the word w itself. 
    #CHECK #POS: the POS tag p of w.
    #CHECK #ABBR: a binary feature indicating whether w is an abbreviation. An abbreviation must: (1) end with a period, (2) consist entirely of alphabetic characters [a-z][A-Z] and one or more periods (including the ending one), and (3) have length ≤4.
@@ -78,9 +78,9 @@ def produceVectorList(wordsList):
 
     vectorList = []
     i = 0
-    while i < len(wordsList):
+    while i < len(linesList):
         
-        wordEntry = wordsList[i]
+        wordEntry = linesList[i]
 
         if(len(wordEntry) > 0):
             #print(wordEntry)
@@ -157,7 +157,7 @@ def produceVectorList(wordsList):
 
 
 #What we do here is we take every doc in a directory, turn a ratio of them into training data, and then another set of them into test data.
-def produceFiles(directory,trainingDecimalPercent):
+def produceTestAndTrainingFiles(directory,trainingDecimalPercent):
 
     fileList = os.listdir(directory)
 
@@ -184,11 +184,56 @@ def produceFiles(directory,trainingDecimalPercent):
             i+=1
 
 
+def produceUnlabeledVectorsFromWordList(inputWordList):
+    vectorList = []
+    i = 0
+    while i < len(inputWordList):
+        
+        wordEntry = inputWordList[i]
+
+        if(len(wordEntry) > 0):
+            #print(wordEntry)
+
+            #Here is where we call the methods that create features.
+            
+            basicLabelVal = 0
+
+            #basicLabelVal = basicLabelVal.replace(":","") #Strip off colon
+            
+            basicWordVal = wordEntry
+            basicWordVal = basicWordVal.replace("\"","") #Strip off quotation marks from beginning and end
+            
+            if basicLabelVal != "TEXT" and basicWordVal != "---": 
+
+                wordList = basicWordVal.split()
+
+               
+
+                basicLabelVal = 0
+                wordVal = basicWordVal
+                capVal = isCap(wordVal) #If the string starts with a capital
+                numberVal = containsNumber(wordVal) #If the string contains a number
+
+                    #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
+
+                vector = [basicLabelVal,wordVal,capVal,numberVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
+                vectorList.append(vector)
+
+        i+= 1
+    return vectorList
+
+def readFileIntoWordList(inputFile):
+
+    wordList = []
+
+    with open(inputFile, "r") as f:
+        wordList = f.read().split()
+    
+    return wordList
 
 
 
-
-def readFile(inputFile):
+def readFileIntoLineList(inputFile):
 
     initialLines = inputFile.readlines()
     initialLines = [line.rstrip() for line in initialLines]
@@ -237,7 +282,7 @@ def main():
 
     inputFileDirectory = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-anskeys"
     trainingPercentageDecimal = 0.9
-    produceFiles(inputFileDirectory,trainingPercentageDecimal)
+    produceTestAndTrainingFiles(inputFileDirectory,trainingPercentageDecimal)
 
     # #Read the training file
     # with open(sys.argv[1], 'r') as trainingFile:
@@ -248,12 +293,12 @@ def main():
     #     testFileList = readFile(testFile)
 
     with open('trainingFile.txt','r') as trainingFile:
-        trainingFileList = readFile(trainingFile)
+        trainingFileLinesList = readFileIntoLineList(trainingFile)
     with open('testFile.txt','r') as testFile:
-        testFileList = readFile(testFile)
+        testFileLinesList = readFileIntoLineList(testFile)
 
-    trainingFileVectorList = produceVectorList(trainingFileList)
-    testFileVectorList = produceVectorList(testFileList)
+    trainingFileVectorList = produceVectorList(trainingFileLinesList)
+    testFileVectorList = produceVectorList(testFileLinesList)
 
     #print(trainingFileVectorList)
     #print(testFileVectorList)

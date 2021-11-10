@@ -29,6 +29,7 @@ def read_csv_for_ml(csv_path, features):
     # separating the label column from the data
     X = df.drop('LABEL', axis=1)
     X = X[features]
+    #print(X)
     # getting the labels of the data 
     y = df.LABEL.values
     return X, y
@@ -42,8 +43,17 @@ def vectorize_data(train_data, test_data):
     # We use the already fitted transform to transform the test data acccoring to the train data fit. (We also convert it into a list of dictionaries)
     X_test=v.transform(test_data.to_dict('records'))
     # return vectorized train and test data
-    return X_train, X_test
+    return X_train, X_test, v
 
+
+def vectorizeTestData(test_data,dictVectorizer):
+    # Initialize vectorizer
+    v = dictVectorizer
+ 
+    # We use the already fitted transform to transform the test data acccoring to the train data fit. (We also convert it into a list of dictionaries)
+    X_test=v.transform(test_data.to_dict('records'))
+
+    return X_test
 
 #def perceptron(train_data, train_labels):
 #    # initializing model
@@ -67,16 +77,7 @@ def logistic(train_data, train_labels):
 
     return logistic
 
-
-    
-if __name__ == '__main__':
-
-    training_csv = sys.argv[1]
-    test_csv = sys.argv[2]
-    #algorithm = str(sys.argv[3])
-    features_set = set(sys.argv[3:])
-    print('Running Logistic Regression classification algorithm...')
-
+def createModel(training_csv,test_csv,features_set):
     assert 'WORD' in features_set, 'WORD is a mandatory feature'
     #assert features_set.issubset({'CAP', 'ABBR', 'SUFF', 'PREF', 'WORD', 'GLOBSUFF', 'GLOBPREF', 'POS+1', 'POS-1', 'WORD-1', 'WORD+1', 'POS', 'LOC', 'GLOBCAP'}), 'There is an invalid feature name'
 
@@ -93,7 +94,7 @@ if __name__ == '__main__':
     #test_df = test_df[columns]
 
     # vectorizing: fitting and transforming the train dataframe, using the tranformation to get also the vectorized test set from the test dataframe
-    vec_train_data, vec_test_data = vectorize_data(train_df, test_df)
+    vec_train_data, vec_test_data, v = vectorize_data(train_df, test_df)
 
     #print('Classification algorithm: {}'.format(algorithm))
     # training perceptron model using the train data 
@@ -105,16 +106,30 @@ if __name__ == '__main__':
     #print(classes)
     #classes = classes.tolist()
 
+    return model,test_labels,vec_test_data,v
+    
+if __name__ == '__main__':
+
+    trainingCSV = sys.argv[1]
+    testCSV = sys.argv[2]
+    #algorithm = str(sys.argv[3])
+    featuresSet = set(sys.argv[3:])
+    print('Running Logistic Regression classification algorithm...')
+
+    model, test_labels, vec_test_data, v = createModel(trainingCSV,testCSV,featuresSet)
+
+    
+
 
 
 #Testing stuff
-    #classes = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
+    classes = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
 
     #classes = ['ACQUIRED','ACQBUS','ACQLOC','DLRAMT','PURCHASER','SELLER','STATUS']
     #classes = ['B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'O'] 
     
     
-    #print(classification_report(y_pred=model.predict(vec_test_data), y_true=test_labels, labels=classes))
+    print(classification_report(y_pred=model.predict(vec_test_data), y_true=test_labels, labels=classes))
     
 
 
