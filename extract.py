@@ -44,10 +44,12 @@ def main():
     trainingFileName = "trainingFt.csv"
     testFileName = "testFt.csv"
     featuresSet = set()
+
+    outputFilename = filename + ".templates"
     for word in featureList:
         featuresSet.add(word)
     model, dictVectorizer = makeMLModel(trainingFileName,testFileName,featuresSet)
-    analyzeFileList(pathList, fileList, model,featuresSet, dictVectorizer)
+    analyzeFileList(pathList, fileList, model,featuresSet, dictVectorizer,outputFilename)
     #print(pathList)
     #print(fileList)
 
@@ -57,8 +59,10 @@ def makeMLModel(trainingCSV,testCSV,featuresSet):
     model, test_labels, vec_test_data, dictVectorizer = mlModified.createModel(trainingCSV,testCSV,featuresSet)
     return model, dictVectorizer
 
-def analyzeFileList(pathList,fileList, model,featuresSet, dictVectorizer):
+def analyzeFileList(pathList,fileList, model,featuresSet, dictVectorizer,docListName):
     print("Analyzing file list")
+
+    open(docListName, 'w').close() #This ensures we're writing to a blank file
     i = 0 
     while i < len(fileList):
         #print (os.path.isdir(pathList[i]))
@@ -67,10 +71,10 @@ def analyzeFileList(pathList,fileList, model,featuresSet, dictVectorizer):
 
         filePath = os.path.join(pathList[i], fileList[i])
 
-        analyzeFile(filePath, model, featuresSet, dictVectorizer)
+        analyzeFile(filePath, model, featuresSet, dictVectorizer,docListName)
         i+=1
 
-def analyzeFile(filePath, model,featuresSet, dictVectorizer):
+def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
     #filePath = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-docs\369.txt" #"C:\\Users\\bearl\\Documents\\Fall 2021\\CS 5340\\Final Project\\5340Project\\development-docs\\369.txt'"
     print("Analyzing file: " + filePath)
     
@@ -97,7 +101,104 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer):
 
     predictions = model.predict(vec_test_data)
 
-    print(predictions)
+    #print(predictions)
+
+    i = 0 
+    wordPredictionPairs = []
+    while i < len(predictions):
+        wordPredictionPairs.append([predictions[i],wordsList[i]])
+        i+=1
+
+    classifications = []
+    i = 0 
+    slotItem = ["",""]
+    for word in wordPredictionPairs:
+
+        if(word[0] == slotItem[0]):
+            slotItem.append(word[1])
+        else:
+            if(slotItem[0] != ""):
+                classifications.append(slotItem)
+            slotItem = [word[0],word[1]]
+
+    #print(classifications)
+
+    finalClassifications = []
+    textTitle = "TEXT: " + os.path.basename(filePath)
+
+    for classification in classifications:
+
+        classificationString = classification[0][2:] + ": "
+        i = 1
+        classificationPhraseString = ""
+        while i < len(classification):
+            classificationPhraseString = classificationPhraseString + " " + classification[i]
+            i+=1
+
+        classificationPhraseString = classificationPhraseString.lstrip()
+        classificationPhraseString = classificationPhraseString.rstrip()
+        classificationString += "\"" + classificationPhraseString + "\""
+
+
+        finalClassifications.append(classificationString)
+
+
+    hasAcquired = False
+    hasAcqbus = False
+    hasAcqloc = False
+    hasDlramt = False
+    hasPurchaser = False
+    hasSeller = False
+    hasStatus = False
+    for word in finalClassifications:
+        
+        if(word.startswith("ACQUIRED")):
+            hasAcquired = True
+        elif(word.startswith("ACQBUS")):
+            hasAcqbus = True
+        elif(word.startswith("ACQLOC")):
+            hasAcqloc = True
+        elif(word.startswith("DLRAMT")):
+            hasDlramt = True
+        elif(word.startswith("PURCHASER")):
+            hasPurchaser = True
+        elif(word.startswith("SELLER")):
+            hasSeller = True
+        elif(word.startswith("STATUS")):
+            hasStatus = True
+
+    emptyResult = "---"
+    if not hasAcquired:
+        finalClassifications.append("ACQUIRED: " + emptyResult)
+    if not hasAcqbus:
+        finalClassifications.append("ACQBUS: " + emptyResult)
+    if not hasAcqloc:
+        finalClassifications.append("ACQLOC: " + emptyResult)
+    if not hasDlramt:
+        finalClassifications.append("DLRAMT: " + emptyResult)
+    if not hasPurchaser:
+        finalClassifications.append("PURCHASER: " + emptyResult)
+    if not hasSeller:
+        finalClassifications.append("SELLER: " + emptyResult)
+    if not hasStatus:
+        finalClassifications.append("STATUS: " + emptyResult)
+        
+        
+
+    finalClassifications.sort()
+
+    #print(finalClassifications)
+
+    with open(docListName, "a") as outputDoc:
+        outputDoc.write(str(textTitle) + "\n")
+        for classification in finalClassifications:
+            outputDoc.write(classification + "\n")
+        outputDoc.write("\n")
+
+        
+
+
+
 
 
 #def makeTemplates():
