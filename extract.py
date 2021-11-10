@@ -26,7 +26,7 @@ def main():
 
     featureList = ['WORD','CAP','NUM']
 
-    trainingFileDirectory = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-anskeys"
+    trainingFileDirectory = r"development-anskeys"
     mlFeatureExtractor.main(trainingFileDirectory)
 
     #print("STARTING")
