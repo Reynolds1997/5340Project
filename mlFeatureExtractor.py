@@ -105,7 +105,7 @@ def produceVectorList(linesList):
                 while j < len(wordList):
                     
                     #Here we do some IOB tagging
-                    if(i == 0):
+                    if(j == 0):
                         labelVal= "B-" + basicLabelVal
                     else:
                         labelVal = "I-" + basicLabelVal
@@ -272,7 +272,7 @@ def writeToCSV(fileName, fields, vectorList):
         # writing the data rows 
         csvwriter.writerows(vectorList)
 
-def main():
+def main(inputFileDirectory):
 
     trainingSentencesList  = []
     testSentencesList = []
@@ -280,7 +280,7 @@ def main():
 
     #inputFileDirectory = "C:\\Users\\bearl\\Documents\\Fall 2021\\CS 5340\\Final Project\\5340Project\\development-anskeys"
 
-    inputFileDirectory = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-anskeys"
+    #inputFileDirectory
     trainingPercentageDecimal = 0.9
     produceTestAndTrainingFiles(inputFileDirectory,trainingPercentageDecimal)
 

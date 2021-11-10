@@ -25,6 +25,9 @@ import mlFeatureExtractor
 def main():
 
     featureList = ['WORD','CAP','NUM']
+
+    trainingFileDirectory = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-anskeys"
+    mlFeatureExtractor.main(trainingFileDirectory)
     #print("STARTING")
     #Read input files, use them to make a pathList and a fileList.
     filename = sys.argv[1]
