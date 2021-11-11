@@ -40,6 +40,15 @@ def isSuff(word):
         else:
             return 0
 
+def isPreposition(word):
+    with open('prepositions.txt') as file:
+        contents = file.read().splitlines() 
+        
+        if word in contents:
+            return 1
+        else:
+            return 0
+
 def isLoc(word):
     with open('locations.csv', 'r') as f:
         next(f)
@@ -55,6 +64,12 @@ def isLoc(word):
                 #print(entry + " vs " + word)
                 if(entry.lower() == word.lower()):
                     return 1
+        return 0
+
+def isLocation(label):
+    if label == "ACQLOC":
+        return 1
+    else:
         return 0
 
 def containsNumber(word):
@@ -113,10 +128,14 @@ def produceVectorList(linesList):
                     wordVal = wordList[j]
                     capVal = isCap(wordVal) #If the string starts with a capital
                     numberVal = containsNumber(wordVal) #If the string contains a number
+                    locationVal = isLocation(basicLabelVal)
+                    prefixVal = isPref(wordVal)
+                    prepVal = isPreposition(wordVal)
+                    suffixVal = isSuff(wordVal)
 
                     #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
 
-                    vector = [labelVal,wordVal,capVal,numberVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
+                    vector = [labelVal,wordVal,capVal,numberVal,locationVal,prefixVal,prepVal,suffixVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
                     vectorList.append(vector)
 
                     j+=1
@@ -214,9 +233,14 @@ def produceUnlabeledVectorsFromWordList(inputWordList):
                 capVal = isCap(wordVal) #If the string starts with a capital
                 numberVal = containsNumber(wordVal) #If the string contains a number
 
+                locationVal = isLocation(basicLabelVal)
+                prefixVal = isPref(wordVal)
+                prepVal = isPreposition(wordVal)
+                suffixVal = isSuff(wordVal)
+
                     #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
 
-                vector = [basicLabelVal,wordVal,capVal,numberVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
+                vector = [basicLabelVal,wordVal,capVal,numberVal, locationVal,prefixVal,prepVal,suffixVal] #abbrVal,capVal,locVal,posVal,posPlusOne,posMinusOne,prefVal,suffVal,wordVal,wordPlusOne,wordMinusOne]
                 vectorList.append(vector)
 
         i+= 1
@@ -305,7 +329,7 @@ def main(inputFileDirectory):
     #print(testSentencesList)
     #print(trainingSentencesList)
 
-    fields = ['LABEL','WORD','CAP','NUM']
+    fields = ['LABEL','WORD','CAP','NUM','LOC','PREF','PREP','SUFF']
     #fields = ['LABEL','ABBR','CAP','LOC','POS','POS+1','POS-1','PREF','SUFF','WORD','WORD+1','WORD-1']
 
    # trainingFileName = sys.argv[1].rsplit('.',1)[0] + '_ft.csv'

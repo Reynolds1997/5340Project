@@ -24,7 +24,7 @@ import mlFeatureExtractor
 #Input Processing
 def main():
 
-    featureList = ['WORD','CAP','NUM']
+    featureList = ['WORD','CAP','NUM','LOC','PREF','PREP','SUFF']
 
     trainingFileDirectory = r"development-anskeys"
     mlFeatureExtractor.main(trainingFileDirectory)
@@ -89,7 +89,7 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
     wordsDataFrame = pd.DataFrame(wordsData)
     #print(wordsData)
 
-    tempFeatureList = ['LABEL','WORD','CAP','NUM']
+    tempFeatureList = ['LABEL','WORD','CAP','NUM','LOC','PREF','PREP','SUFF']
     #tempFeatureList.insert(0,'LABEL')
 
     #print("Feature list" + str(tempFeatureList))
@@ -103,7 +103,7 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
 
 
 
-    predictions = model.predict(vec_test_data)
+    predictions = model.predict(vec_test_data) #Perform predictions with the model
 
     #print(predictions)
 
@@ -116,14 +116,20 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
     classifications = []
     i = 0 
     slotItem = ["",""]
-    for word in wordPredictionPairs:
 
-        if(word[0] == slotItem[0]):
+    #Here, we build up 
+    for word in wordPredictionPairs:
+        wordLabel = word[0]
+        slotLabel = slotItem[0]
+
+        wordLabel = wordLabel[2:]
+        #slotLabel = slotLabel[2:]
+        if(wordLabel == slotLabel):
             slotItem.append(word[1])
         else:
-            if(slotItem[0] != ""):
-                classifications.append(slotItem)
-            slotItem = [word[0],word[1]]
+            if(slotLabel != ""):
+                classifications.append(slotItem) #If we get a new word, we take the one we've been building up and we throw it into the classifications list.
+            slotItem = [wordLabel,word[1]]
 
     #print(classifications)
 
@@ -132,7 +138,7 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
 
     for classification in classifications:
 
-        classificationString = classification[0][2:] + ": "
+        classificationString = classification[0]  + ": " #[2:] + ": "
         i = 1
         classificationPhraseString = ""
         while i < len(classification):
