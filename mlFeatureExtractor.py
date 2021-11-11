@@ -190,7 +190,7 @@ def produceTestAndTrainingFiles(goldDirectory,rawDirectory,trainingDecimalPercen
 
     with open('trainingFile.txt', 'w') as outfile:
         while i < trainingCount:
-            with open(goldDirectory + "\\" + fileList[i]) as infile:
+            with open(goldDirectory + "/" + fileList[i]) as infile:
                 for line in infile:
                     outfile.write(line)
             i+=1
@@ -199,7 +199,7 @@ def produceTestAndTrainingFiles(goldDirectory,rawDirectory,trainingDecimalPercen
     open('testPathList.txt', 'w').close() #Makes sure file is blank before writing
     with open('testFile.txt', 'w') as outfile:
         while i < fileCount:
-            with open(goldDirectory + "\\" + fileList[i]) as infile:
+            with open(goldDirectory + "/" + fileList[i]) as infile:
                 for line in infile:
                     outfile.write(line)
 
@@ -211,7 +211,7 @@ def produceTestAndTrainingFiles(goldDirectory,rawDirectory,trainingDecimalPercen
                 # Slice string to remove last character from string
                 mod_string = inputFile[:size - 4]
 
-                infile.write(rawDirectory + "\\" + mod_string + "\n")
+                infile.write(rawDirectory + "/" + mod_string + "\n")
 
 
 

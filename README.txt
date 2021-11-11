@@ -10,9 +10,11 @@ Used SciKit Learn and Pandas (as part of the mlModified.py program, which itself
 https://scikit-learn.org/
 https://pandas.pydata.org/
 
-We also used the location, prefix, suffix, and preposition lists used in Programming Assignment 3.
+We also used the location, prefix, suffix, and preposition lists sused in Programming Assignment 3.
 
 extract.py requires the presence of mlModified.py, mlFeatureExtractor.py, prefixes.txt, prepositions.txt, suffixes.txt, and the folders development-anskeys and development-docs with corresponding answer and raw files
+
+Scikit and Pandas are already installed on the CADE machines, so we didn't include them in the IE-script.txt
 
 Time Estimate:
 In our testing, each individual document took less than one second to process.
