@@ -1,4 +1,4 @@
-from os import read
+from os import read, write
 import os
 import sys
 import csv
@@ -176,9 +176,9 @@ def produceVectorList(linesList):
 
 
 #What we do here is we take every doc in a directory, turn a ratio of them into training data, and then another set of them into test data.
-def produceTestAndTrainingFiles(directory,trainingDecimalPercent):
+def produceTestAndTrainingFiles(goldDirectory,rawDirectory,trainingDecimalPercent):
 
-    fileList = os.listdir(directory)
+    fileList = os.listdir(goldDirectory)
 
     #print(fileList)
 
@@ -190,17 +190,34 @@ def produceTestAndTrainingFiles(directory,trainingDecimalPercent):
 
     with open('trainingFile.txt', 'w') as outfile:
         while i < trainingCount:
-            with open(directory + "\\" + fileList[i]) as infile:
+            with open(goldDirectory + "\\" + fileList[i]) as infile:
                 for line in infile:
                     outfile.write(line)
             i+=1
     
+    
+    open('testPathList.txt', 'w').close() #Makes sure file is blank before writing
     with open('testFile.txt', 'w') as outfile:
         while i < fileCount:
-            with open(directory + "\\" + fileList[i]) as infile:
+            with open(goldDirectory + "\\" + fileList[i]) as infile:
                 for line in infile:
                     outfile.write(line)
+
+            with open('testPathList.txt', 'a') as infile:
+
+                inputFile = fileList[i]
+
+                size = len(inputFile)
+                # Slice string to remove last character from string
+                mod_string = inputFile[:size - 4]
+
+                infile.write(rawDirectory + "\\" + mod_string + "\n")
+
+
+
             i+=1
+
+    
 
 
 def produceUnlabeledVectorsFromWordList(inputWordList):
@@ -296,7 +313,7 @@ def writeToCSV(fileName, fields, vectorList):
         # writing the data rows 
         csvwriter.writerows(vectorList)
 
-def main(inputFileDirectory):
+def main(inputFileDirectory,rawFileDirectory):
 
     trainingSentencesList  = []
     testSentencesList = []
@@ -306,7 +323,7 @@ def main(inputFileDirectory):
 
     #inputFileDirectory
     trainingPercentageDecimal = 0.9
-    produceTestAndTrainingFiles(inputFileDirectory,trainingPercentageDecimal)
+    produceTestAndTrainingFiles(inputFileDirectory,rawFileDirectory,trainingPercentageDecimal)
 
     # #Read the training file
     # with open(sys.argv[1], 'r') as trainingFile:

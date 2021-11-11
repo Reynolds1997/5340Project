@@ -27,7 +27,8 @@ def main():
     featureList = ['WORD','CAP','NUM','LOC','PREF','PREP','SUFF']
 
     trainingFileDirectory = r"development-anskeys"
-    mlFeatureExtractor.main(trainingFileDirectory)
+    testFileDirectory = r"development-docs"
+    mlFeatureExtractor.main(trainingFileDirectory,testFileDirectory)
 
     #print("STARTING")
     #Read input files, use them to make a pathList and a fileList.
