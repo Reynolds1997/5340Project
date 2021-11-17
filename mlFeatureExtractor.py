@@ -4,6 +4,55 @@ import sys
 import csv
 import re
 
+
+
+def updateNER(rawFile,goldFile):
+    #These lists will contain the list of words and the list of labels
+    docList = []
+    goldList = []
+
+    rawText = open(rawFile).read()
+    print(rawText)
+    
+    #rawDoc = nlp(rawText)
+    #docList.append(rawDoc)
+
+    huge_list = []
+
+    with open(rawFile, "r") as f:
+        docList = f.read().split()
+
+
+
+    #Make a list of every line in the gold doc
+    with open(goldFile) as file:
+        goldLines = file.readlines()
+        goldLines = [line.rstrip() for line in goldLines]
+    
+    labelList = []
+
+    i = 0
+    while i < len(rawText):
+        label = "O"
+        
+        #This is the part that confuses me the most. How can we make something that'll automatically format the training data?
+
+
+        labelList.append(label)
+
+        i+=1
+
+    
+        
+
+
+    #goldList.append(GoldParse(rawDoc, []))
+    
+    #ner = EntityRecognizer(nlp.vocab, entity_types = ['COMPANY','ACQBUS','ACQLOC','DLRAMT','STATUS'])
+    #ner.update(docList, goldList)
+
+
+
 def isAbbreviation(word):
     if(word[-1] == '.'):
         if(len(word) <= 4):
@@ -358,7 +407,14 @@ def main(inputFileDirectory,rawFileDirectory):
     writeToCSV(trainingFileName,fields,trainingFileVectorList)
     writeToCSV(testFileName,fields,testFileVectorList)
     
-if __name__ == '__main__':
+keyFile = r"development-anskeys\389.key"
+docFile = r"development-docs\389"
+#print("HELLO WORLD")
 
-    trainingDirectory = sys.argv[1]
-    main(trainingDirectory)
+updateNER(docFile,keyFile)
+
+
+#if __name__ == '__main__':
+
+#    trainingDirectory = sys.argv[1]
+#    main(trainingDirectory)

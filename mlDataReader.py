@@ -1,3 +1,16 @@
+from __future__ import unicode_literals, print_function
+#import plac
+import random
+from pathlib import Path
+import spacy
+from tqdm import tqdm
+
+import spacy
+from spacy.training import GoldParse
+from spacy.language import EntityRecognizer
+  
+nlp = spacy.load('en', entity = False, parser = False)
+
 from os import read, write
 import os
 import sys
@@ -8,18 +21,9 @@ import spacy
 #nlp = spacy.load("en_core_web_sm")
 
 
-import spacy
-from spacy.training import GoldParse
-from spacy.language import EntityRecognizer
 
-from __future__ import unicode_literals, print_function
-import plac
-import random
-from pathlib import Path
-import spacy
-from tqdm import tqdm
-  
-nlp = spacy.load('en', entity = False, parser = False)
+
+
   
 
 
@@ -38,7 +42,6 @@ def updateNER(rawFile,goldFile):
     with open(goldFile) as file:
         goldLines = file.readlines()
         goldLines = [line.rstrip() for line in goldLines]
-
     
     labelList = []
 
@@ -46,14 +49,14 @@ def updateNER(rawFile,goldFile):
     while i < len(rawText):
         label = "O"
         
-        
+        #This is the part that confuses me the most. How can we make something that'll automatically format the training data?
 
 
         labelList.append(label)
 
         i+=1
 
-        
+    
         
 
 
@@ -466,12 +469,19 @@ def main(inputFileDirectory,rawFileDirectory):
     testFileName = "testFt.csv"
     writeToCSV(trainingFileName,fields,trainingFileVectorList)
     writeToCSV(testFileName,fields,testFileVectorList)
-    
-def main2():
 
-    produceOutput()
+
+
+keyFile = r"development-anskeys\389.key"
+docFile = r"development-docs\389"
+print("HELLO WORLD")
+
+updateNER(docFile,keyFile)
+    
 if __name__ == '__main__':
 
     trainingDirectory = sys.argv[1]
     rawFileDirectory = sys.argv[2]
     main(trainingDirectory,rawFileDirectory)
+
+    
