@@ -21,7 +21,7 @@ def updateNER(rawFile,goldFile):
 
     with open(rawFile, "r") as f:
         docList = f.read().split()
-
+        
 
 
     #Make a list of every line in the gold doc
