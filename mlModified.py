@@ -21,6 +21,12 @@ def read_csv_for_ml(csv_path, features):
     # read the csv file into a pandas dataframe
     df = pd.read_csv(csv_path, encoding = "ISO-8859-1")
     df.head()
+
+    #train = pd.read_csv("train.csv")
+    null_columns=df.columns[df.isnull().any()]
+    #print(df[null_columns].isnull().sum())
+
+    print(df[df.isnull().any(axis=1)][null_columns].head())
     # assert that there were no null entries in the csv file
     assert (df.isnull().values.any() == False), 'There are null entries in the data'
     # assert that given features are columns in the csv

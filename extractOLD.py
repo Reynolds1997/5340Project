@@ -18,18 +18,17 @@ from sklearn.metrics import classification_report
 
 import mlModified
 import mlFeatureExtractor
-import mlDataProcessor
 
 
 
 #Input Processing
 def main():
 
-    featureList = ['WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP'] #'LABEL+1','LABEL-1',
+    featureList = ['WORD','CAP','NUM','LOC','PREF','PREP','SUFF']
 
     trainingFileDirectory = r"development-anskeys"
     testFileDirectory = r"development-docs"
-    mlDataProcessor.main()
+    mlFeatureExtractor.main(trainingFileDirectory,testFileDirectory)
 
     #print("STARTING")
     #Read input files, use them to make a pathList and a fileList.
@@ -47,8 +46,8 @@ def main():
     #print(pathList)
     #print(fileList)
 
-    trainingFileName = "trainingData.csv"
-    testFileName = "testData.csv"
+    trainingFileName = "trainingFt.csv"
+    testFileName = "testFt.csv"
     featuresSet = set()
 
     outputFilename = filename + ".templates"
@@ -80,32 +79,22 @@ def analyzeFileList(pathList,fileList, model,featuresSet, dictVectorizer,docList
         analyzeFile(filePath, model, featuresSet, dictVectorizer,docListName)
         i+=1
 
-
-
-
-
-#This needs to be changed!!!
 def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
     #filePath = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-docs\369.txt" #"C:\\Users\\bearl\\Documents\\Fall 2021\\CS 5340\\Final Project\\5340Project\\development-docs\\369.txt'"
     print("Analyzing file: " + filePath)
-
-    #So, first we need a list of unlabeled words
-
-    wordsList = mlDataProcessor.produceUntaggedWordList(filePath)
-
-    #Then, we need to produce a vector list for those words
-
-    unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False)
+    
+    wordsList = mlFeatureExtractor.readFileIntoWordList(filePath)
+    wordsData = mlFeatureExtractor.produceUnlabeledVectorsFromWordList(wordsList)
     #fileVectorList = mlFeatureExtractor.produceVectorList()
 
-    wordsDataFrame = pd.DataFrame(unlabeledWordsData)
+    wordsDataFrame = pd.DataFrame(wordsData)
     #print(wordsData)
 
-    tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP'] #'LABEL+1','LABEL-1'
+    tempFeatureList = ['LABEL','WORD','CAP','NUM','LOC','PREF','PREP','SUFF']
     #tempFeatureList.insert(0,'LABEL')
 
     #print("Feature list" + str(tempFeatureList))
-    mlDataProcessor.writeToCSV("temp.csv",tempFeatureList,unlabeledWordsData)
+    mlFeatureExtractor.writeToCSV("temp.csv",tempFeatureList,wordsData)
 
     test_df, test_labels = mlModified.read_csv_for_ml("temp.csv", list(featuresSet))
 
@@ -122,7 +111,7 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
     i = 0 
     wordPredictionPairs = []
     while i < len(predictions):
-        wordPredictionPairs.append([predictions[i],wordsList[i][0]])
+        wordPredictionPairs.append([predictions[i],wordsList[i]])
         i+=1
 
     classifications = []

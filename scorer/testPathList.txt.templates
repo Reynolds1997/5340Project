@@ -1,0 +1,392 @@
+TEXT: 8496
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Hotel Corp"
+ACQUIRED: "World Inc"
+DLRAMT: ---
+PURCHASER: "Acquisition Corp"
+PURCHASER: "Southmark Corp"
+SELLER: ---
+STATUS: ---
+
+TEXT: 8518
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Harcourt"
+ACQUIRED: "Publishers Inc"
+DLRAMT: ---
+PURCHASER: "Brace Jovanovich Inc"
+SELLER: ---
+STATUS: "negotiations"
+
+TEXT: 8544
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Quaker Oats"
+DLRAMT: ---
+PURCHASER: "Co"
+PURCHASER: "Macaroni"
+PURCHASER: "Partners Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 8571
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Avalon"
+ACQUIRED: "TMOC"
+DLRAMT: ---
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: ---
+
+TEXT: 8628
+ACQBUS: ---
+ACQLOC: "London"
+ACQUIRED: "Bank Ltd"
+ACQUIRED: "Inc"
+ACQUIRED: "International Inc"
+ACQUIRED: "Nippon Life"
+DLRAMT: "mln"
+PURCHASER: "E.F. Hutton Group"
+PURCHASER: "Insurance"
+SELLER: ---
+STATUS: ---
+
+TEXT: 8704
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "KDI"
+ACQUIRED: "Triangle Microwave Inc"
+DLRAMT: ---
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 8771
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Champion"
+ACQUIRED: "Claremont"
+ACQUIRED: "Products Inc"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 8781
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "International"
+DLRAMT: ---
+PURCHASER: "Astrotech"
+SELLER: "Corp"
+STATUS: ---
+
+TEXT: 8823
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Alleghany"
+ACQUIRED: "Cyclops Corp"
+ACQUIRED: "Dixons"
+DLRAMT: ---
+PURCHASER: "Group"
+SELLER: ---
+STATUS: ---
+
+TEXT: 8849
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "National"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 8877
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Minging"
+ACQUIRED: "Petroleum"
+DLRAMT: ---
+PURCHASER: "Co"
+PURCHASER: "Minerals Inc"
+SELLER: "British"
+STATUS: "agreed"
+
+TEXT: 8909
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Enterprises"
+ACQUIRED: "Nabisco Inc"
+ACQUIRED: "Nabisco"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "letter of intent"
+
+TEXT: 8947
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Conrac"
+ACQUIRED: "Industries Inc"
+DLRAMT: ---
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: ---
+
+TEXT: 8996
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Sundor Group"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 8998
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Hayes-Albion"
+DLRAMT: ---
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9027
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Noverco"
+ACQUIRED: "Resources Ltd"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 904
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "ARC"
+ACQUIRED: "Corp"
+DLRAMT: ---
+PURCHASER: "Aggregates"
+PURCHASER: "America Corp"
+SELLER: ---
+STATUS: "to"
+
+TEXT: 9102
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Aerospace"
+ACQUIRED: "Gulton"
+DLRAMT: ---
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: "agreed in principle"
+
+TEXT: 9108
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "PS Group"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9156
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "CPC"
+ACQUIRED: "Inc"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: "International"
+STATUS: ---
+
+TEXT: 9239
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Duriron Co"
+ACQUIRED: "Valtek Inc"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: "completed"
+
+TEXT: 932
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Plc"
+DLRAMT: ---
+PURCHASER: "Airlines"
+PURCHASER: "Royal"
+SELLER: ---
+STATUS: "agreed"
+
+TEXT: 9324
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Midland-Ross"
+ACQUIRED: "Process Systems"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9332
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Stockholder Systems"
+DLRAMT: "undisclosed"
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: "agreed in principle"
+
+TEXT: 9338
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Mortgage"
+DLRAMT: ---
+PURCHASER: "Management Corp"
+SELLER: ---
+STATUS: "letter of intent"
+
+TEXT: 9431
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Division"
+ACQUIRED: "Products"
+ACQUIRED: "Synalloy"
+DLRAMT: ---
+PURCHASER: "Corp"
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: "ended"
+
+TEXT: 9432
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "C-I-L"
+ACQUIRED: "Trimac"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9434
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Pantera's"
+DLRAMT: ---
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: "agreed to"
+
+TEXT: 9443
+ACQBUS: ---
+ACQLOC: "West"
+ACQUIRED: "Allied-Signal"
+ACQUIRED: "Linotype"
+DLRAMT: "undisclosed"
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: "agreed to"
+
+TEXT: 9544
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Husky Oil"
+DLRAMT: ---
+PURCHASER: "Ltd"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9557
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Helm Resources"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 963
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Bryson Oil and Gas Plc"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 9661
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "AmBrit"
+ACQUIRED: "Clabir Corp"
+DLRAMT: ---
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9677
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Genova"
+DLRAMT: ---
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: "definitive agreement"
+
+TEXT: 9733
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "North America"
+ACQUIRED: "Petroleum Co"
+ACQUIRED: "Standard Oil Co"
+DLRAMT: "7.02"
+PURCHASER: "Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9809
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Ayer Inc"
+ACQUIRED: "Mickelberry"
+DLRAMT: "undisclosed"
+PURCHASER: "Corp"
+SELLER: ---
+STATUS: "completed"
+
+TEXT: 982
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 9858
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Inc"
+ACQUIRED: "MAXXAM"
+DLRAMT: ---
+PURCHASER: "Group"
+PURCHASER: "MCO Holdings Inc"
+SELLER: ---
+STATUS: ---
+
+TEXT: 9893
+ACQBUS: ---
+ACQLOC: ---
+ACQUIRED: "Automation"
+ACQUIRED: "Gleason Corp"
+DLRAMT: "undisclosed"
+PURCHASER: "Cross"
+SELLER: ---
+STATUS: "agreed"
+
