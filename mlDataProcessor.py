@@ -11,7 +11,7 @@ import csv
 import re
 from typing import final
 import string
-
+import spacy
 
 def isAbbreviation(word):
     if(word[-1] == '.'):
@@ -98,6 +98,10 @@ def taggedListFromFiles(rawFile,goldFile):
     #print(rawTextString)
 
     processedTextString = rawTextString
+
+    spacyNER(processedTextString)
+
+    
 
     #processedTextString = processedTextString.translate(str.maketrans('', '', string.punctuation))
 
@@ -206,7 +210,6 @@ def processFromDirectories(rawDirectory, goldDirectory, trainingDecimalPercent):
 
     #print("TEST")
         
-
     trainingWordList = []
     while i < trainingCount:
     #for filename in goldFileList:
@@ -343,8 +346,18 @@ def writeToCSV(fileName, fields, vectorList):
         # writing the data rows 
         csvwriter.writerows(vectorList)
 
-def main():
+def spacyNER(textString):
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(textString)
 
+    #for token in doc:
+    #    print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
+    #            token.shape_, token.is_alpha, token.is_stop)
+    
+    for ent in doc.ents:
+        print(ent.text, ent.start_char, ent.end_char, ent.label_)
+
+def main():
     rawDirectory = r"development-docs"
     goldDirectory = r"development-anskeys"
 
