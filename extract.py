@@ -25,7 +25,7 @@ import mlDataProcessor
 #Input Processing
 def main():
 
-    featureList = ['WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP'] #'LABEL+1','LABEL-1',
+    featureList = ['WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG'] #'LABEL+1','LABEL-1',
 
     trainingFileDirectory = r"development-anskeys"
     testFileDirectory = r"development-docs"
@@ -101,7 +101,7 @@ def analyzeFile(filePath, model,featuresSet, dictVectorizer,docListName):
     wordsDataFrame = pd.DataFrame(unlabeledWordsData)
     #print(wordsData)
 
-    tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP'] #'LABEL+1','LABEL-1'
+    tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG'] #'LABEL+1','LABEL-1'
     #tempFeatureList.insert(0,'LABEL')
 
     #print("Feature list" + str(tempFeatureList))

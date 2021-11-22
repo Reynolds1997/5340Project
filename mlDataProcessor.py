@@ -99,7 +99,7 @@ def taggedListFromFiles(rawFile,goldFile):
 
     processedTextString = rawTextString
 
-    spacyNER(processedTextString)
+    entityList = spacyNER(processedTextString)
 
     
 
@@ -109,6 +109,21 @@ def taggedListFromFiles(rawFile,goldFile):
     goldLines = [line.rstrip() for line in goldLines]
 
     #print(goldLines)
+
+    processedTextString2 = processedTextString
+
+
+    entities = []
+    basicEntityStrings = []
+    basicEntityLabels = []
+    for entity in entityList:
+        phraseList = entity[0].split()
+        entities.append([phraseList,entity[3]])
+
+        basicEntityStrings.append(entity[0])
+        basicEntityLabels.append(entity[3])
+
+
 
     finalLines = []
     for line in goldLines:
@@ -145,6 +160,11 @@ def taggedListFromFiles(rawFile,goldFile):
     for line in finalLines:
         stringToReplace = line[1]
 
+        if stringToReplace in basicEntityStrings:
+            nerTag = basicEntityLabels[basicEntityStrings.index(stringToReplace)]
+        else:
+            nerTag = "OTHER"
+
         #print(stringToReplace)
         replacementStringList = stringToReplace.split()
 
@@ -152,10 +172,10 @@ def taggedListFromFiles(rawFile,goldFile):
         replacementString = ""
 
         replacementStringList[0] += "^B-" + line[0][:-1]
-        replacementString+= replacementStringList[0] + " "
+        replacementString+= replacementStringList[0] + "^" + nerTag + " "
         i = 1
         while i < len(replacementStringList):
-            replacementStringList[i] += "^I-" + line[0][:-1] + " "
+            replacementStringList[i] += "^I-" + line[0][:-1] + "^" + nerTag + " "
 
             replacementString+= replacementStringList[i]
             i+=1
@@ -166,6 +186,11 @@ def taggedListFromFiles(rawFile,goldFile):
 
     #print(processedTextString)
 
+    for entity in entityList:
+        stringToReplace = entity[0]
+        entityTag = entity[3]
+        replacementString = stringToReplace+"^O^"+entityTag
+        processedTextString.replace(stringToReplace,replacementString)
 
     textList = processedTextString.split()
 
@@ -175,10 +200,12 @@ def taggedListFromFiles(rawFile,goldFile):
     for word in textList:
         x = word.split("^")
         wordToBeAdded = []
-        if len(x) > 1:
-            wordToBeAdded = [x[0],x[1]]
+        if len(x) > 2:
+            wordToBeAdded = [x[0],x[1],x[2]]
+        elif len(x) > 1:
+            wordToBeAdded = [x[0],x[1],"OTHER"]
         else:
-            wordToBeAdded = [x[0],"O"]
+            wordToBeAdded = [x[0],"O","OTHER"]
         finalOutputList.append(wordToBeAdded)
         
     return finalOutputList
@@ -267,7 +294,10 @@ def produceVectorList(wordList,unlabeled):
 
 
             labelVal = wordList[i][1] #The word label
-
+            if(len(wordList[i]) > 2):
+                nerTagVal = wordList[i][2]
+            else:
+                nerTagVal = "OTHER"
         
             capVal = isCap(wordVal) #If the string starts with a capital
             abbrVal = isAbbreviation(wordVal)
@@ -318,9 +348,9 @@ def produceVectorList(wordList,unlabeled):
                 labelVal = None
 
             if(labelVal == None):
-                vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal] #,labelPlusOne,labelMinusOne
+                vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal] #,labelPlusOne,labelMinusOne
             else:
-                vector = [labelVal,wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal] #,labelPlusOne,labelMinusOne
+                vector = [labelVal,wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal] #,labelPlusOne,labelMinusOne
             vectorList.append(vector)
 
         i += 1
@@ -353,9 +383,11 @@ def spacyNER(textString):
     #for token in doc:
     #    print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
     #            token.shape_, token.is_alpha, token.is_stop)
-    
+    entList = []
     for ent in doc.ents:
-        print(ent.text, ent.start_char, ent.end_char, ent.label_)
+        entList.append([ent.text, ent.start_char, ent.end_char, ent.label_])
+
+    return entList
 
 def main():
     rawDirectory = r"development-docs"
@@ -376,7 +408,7 @@ def main():
     print("Produced vector lists")
     #[labelVal,wordVal,wordPlusOne,wordMinusOne,labelPlusOne,labelMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal]
 
-    fields = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP'] #'LABEL+1','LABEL-1',
+    fields = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG'] #'LABEL+1','LABEL-1',
     #fields = ['LABEL','ABBR','CAP','LOC','POS','POS+1','POS-1','PREF','SUFF','WORD','WORD+1','WORD-1']
     writeToCSV("trainingData.csv", fields, trainingVectorList)
     writeToCSV("testData.csv", fields, testVectorList)
