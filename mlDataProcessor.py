@@ -13,6 +13,8 @@ from typing import final
 import string
 import spacy
 
+contextRange = 7
+
 def isAbbreviation(word):
     if(word[-1] == '.'):
         if(len(word) <= 4):
@@ -310,6 +312,7 @@ def produceVectorList(wordList,unlabeled):
 
             if i+1 < len(wordList):
                 nextWord = wordList[i+1]
+                
             else:
                 nextWord = None
             if(nextWord != None  and len(nextWord[0]) > 0):# and len(nextWord[1]) > 0):
@@ -343,18 +346,52 @@ def produceVectorList(wordList,unlabeled):
                 labelMinusOne = "O"
                 #posMinusOne = "PHIPOS"
                 prefVal = 0
+
+
+
+
+            if i + contextRange < len(wordList):
+                nextWords = wordList[i+1:i+contextRange]
+            else:
+                if(i+1 < len(wordList)):
+                    nextWords = wordList[i+1:]
+                else:
+                    nextWords = ["OMEGA"]
+
+                nextWordsLen = len(nextWords)
+                z = nextWordsLen
+                while z < contextRange:
+                    nextWords.append("OMEGA")
+                    z+=1
+
+            if i - contextRange > 0:
+                prevWords = wordList[i-contextRange:i-1]
+            else:
+                if(i-1 > 0):
+                    prevWords = wordList[:i-1]
+                else:
+                    prevWords = ["PHI"]
+
+                prevWordsLen = len(prevWords)
+                z = prevWordsLen
+                while z < contextRange:
+                    prevWords.insert(0,"PHI")
+                    z+=1
+
+            prevWordsVal = prevWords
+            nextWordsVal = nextWords
+
             #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
             if unlabeled:
                 labelVal = None
 
             if(labelVal == None):
-                vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal] #,labelPlusOne,labelMinusOne
+                vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
             else:
-                vector = [labelVal,wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal] #,labelPlusOne,labelMinusOne
+                vector = [labelVal,wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
             vectorList.append(vector)
 
         i += 1
-    
     return vectorList
 
 def readFileIntoWordList(inputFile):
@@ -408,7 +445,7 @@ def main():
     print("Produced vector lists")
     #[labelVal,wordVal,wordPlusOne,wordMinusOne,labelPlusOne,labelMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal]
 
-    fields = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG'] #'LABEL+1','LABEL-1',
+    fields = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG','NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1',
     #fields = ['LABEL','ABBR','CAP','LOC','POS','POS+1','POS-1','PREF','SUFF','WORD','WORD+1','WORD-1']
     writeToCSV("trainingData.csv", fields, trainingVectorList)
     writeToCSV("testData.csv", fields, testVectorList)

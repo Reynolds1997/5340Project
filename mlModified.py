@@ -129,13 +129,13 @@ if __name__ == '__main__':
 
 
 #Testing stuff
-    classes = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
+    #classes = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
 
     #classes = ['ACQUIRED','ACQBUS','ACQLOC','DLRAMT','PURCHASER','SELLER','STATUS']
     #classes = ['B-PER', 'I-PER', 'B-ORG', 'I-ORG', 'B-LOC', 'I-LOC', 'O'] 
     
     
-    print(classification_report(y_pred=model.predict(vec_test_data), y_true=test_labels, labels=classes))
+    #print(classification_report(y_pred=model.predict(vec_test_data), y_true=test_labels, labels=classes))
     
 
 

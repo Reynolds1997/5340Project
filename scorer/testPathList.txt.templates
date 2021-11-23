@@ -12,16 +12,15 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: "Publishers"
 DLRAMT: ---
-PURCHASER: "Inc"
+PURCHASER: ---
 SELLER: ---
-STATUS: "negotiations"
+STATUS: ---
 
 TEXT: 8544
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: ---
+ACQUIRED: "Oats"
 DLRAMT: ---
-PURCHASER: "Oats"
 PURCHASER: "Partners"
 SELLER: ---
 STATUS: ---
@@ -29,36 +28,34 @@ STATUS: ---
 TEXT: 8571
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Avalon"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: "Corp"
+PURCHASER: "Avalon Corp"
 SELLER: ---
 STATUS: ---
 
 TEXT: 8628
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Life"
+ACQUIRED: ---
 DLRAMT: ---
 PURCHASER: "Group"
-PURCHASER: "Insurance"
 SELLER: ---
 STATUS: ---
 
 TEXT: 8704
-ACQBUS: "products"
+ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "KDI"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: "Corp"
+PURCHASER: "KDI Corp"
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 8771
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Claremont"
+ACQUIRED: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -76,7 +73,7 @@ STATUS: ---
 TEXT: 8823
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Dixons"
+ACQUIRED: ---
 DLRAMT: "12.8"
 PURCHASER: ---
 SELLER: ---
@@ -107,12 +104,11 @@ ACQUIRED: "Inc"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "letter of intent"
+STATUS: "of intent"
 
 TEXT: 8947
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Conrac"
 ACQUIRED: "Inc"
 DLRAMT: ---
 PURCHASER: "Corp"
@@ -122,18 +118,18 @@ STATUS: ---
 TEXT: 8996
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Sundor"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: "Group Inc"
+PURCHASER: "Group"
 SELLER: ---
 STATUS: ---
 
 TEXT: 8998
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Hayes-Albion"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: "Corp"
+PURCHASER: "Hayes-Albion Corp"
 SELLER: ---
 STATUS: ---
 
@@ -151,7 +147,7 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: "America"
+PURCHASER: ---
 SELLER: ---
 STATUS: "to"
 
@@ -167,11 +163,11 @@ STATUS: "agreed in principle"
 TEXT: 9108
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "PS"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: "Group Inc"
+PURCHASER: "Group"
 SELLER: ---
-STATUS: "agreement"
+STATUS: ---
 
 TEXT: 9156
 ACQBUS: ---
@@ -187,7 +183,7 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: "Duriron Co"
 DLRAMT: ---
-PURCHASER: "Inc"
+PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
 
@@ -196,18 +192,16 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: "Plc"
 DLRAMT: ---
-PURCHASER: "Airlines"
-PURCHASER: "Royal"
+PURCHASER: ---
 SELLER: ---
 STATUS: "agreed"
 
 TEXT: 9324
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Midland-Ross"
 ACQUIRED: "Process"
 DLRAMT: ---
-PURCHASER: "Inc"
+PURCHASER: ---
 SELLER: ---
 STATUS: ---
 
@@ -216,7 +210,7 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: "Stockholder Systems"
 DLRAMT: "undisclosed"
-PURCHASER: "Inc"
+PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
 
@@ -227,14 +221,14 @@ ACQUIRED: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "letter of intent"
+STATUS: "of intent"
 
 TEXT: 9431
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Synalloy"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: "Corp"
+PURCHASER: "Synalloy Corp"
 SELLER: ---
 STATUS: "ended"
 
@@ -250,7 +244,7 @@ STATUS: ---
 TEXT: 9434
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Pantera's"
+ACQUIRED: ---
 DLRAMT: ---
 PURCHASER: "Corp"
 SELLER: ---
@@ -268,9 +262,9 @@ STATUS: "agreed to"
 TEXT: 9544
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Husky Oil"
+ACQUIRED: "Oil"
 DLRAMT: ---
-PURCHASER: "Ltd"
+PURCHASER: ---
 SELLER: ---
 STATUS: ---
 
@@ -279,7 +273,7 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: "Resources"
 DLRAMT: "3.5"
-PURCHASER: "Inc"
+PURCHASER: ---
 SELLER: ---
 STATUS: ---
 
@@ -295,7 +289,7 @@ STATUS: ---
 TEXT: 9661
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Clabir Corp"
+ACQUIRED: "Corp"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -315,17 +309,17 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: "America"
 ACQUIRED: "Petroleum"
-DLRAMT: "7.02"
-PURCHASER: "Oil"
+DLRAMT: ---
+PURCHASER: ---
 SELLER: ---
 STATUS: ---
 
 TEXT: 9809
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Mickelberry"
+ACQUIRED: ---
 DLRAMT: "undisclosed"
-PURCHASER: "Corp"
+PURCHASER: "Mickelberry Corp"
 SELLER: ---
 STATUS: "completed"
 
@@ -344,7 +338,7 @@ ACQLOC: ---
 ACQUIRED: ---
 DLRAMT: ---
 PURCHASER: "Group"
-PURCHASER: "Holdings Inc"
+PURCHASER: "Holdings"
 SELLER: ---
 STATUS: ---
 
