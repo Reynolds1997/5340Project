@@ -156,14 +156,14 @@ def isLoc(word):
             for entry in line:
                 #print(entry + " vs " + word)
                 if(entry.lower() == word.lower()):
-                    return 1
-        return 0
+                    return True
+        return False
 
 def isLocation(label):
     if label == "ACQLOC":
-        return 1
+        return True
     else:
-        return 0
+        return False
 
 def containsNumber(word):
     for character in word:
@@ -223,7 +223,11 @@ def produceVectorList(linesList):
                     wordVal = wordList[j]
                     capVal = isCap(wordVal) #If the string starts with a capital
                     numberVal = containsNumber(wordVal) #If the string contains a number
-                    locationVal = isLocation(basicLabelVal)
+                    locationVal = 0
+
+                    if isLocation(basicLabelVal) or isLoc(wordVal):
+                        locationVal = 1
+                    
                     prefixVal = isPref(wordVal)
                     prepVal = isPreposition(wordVal)
                     suffixVal = isSuff(wordVal)

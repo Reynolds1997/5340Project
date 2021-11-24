@@ -17,7 +17,6 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import classification_report
 
 import mlModified
-import mlFeatureExtractor
 import mlDataProcessor
 
 

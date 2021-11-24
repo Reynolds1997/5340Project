@@ -304,7 +304,9 @@ def produceVectorList(wordList,unlabeled):
             capVal = isCap(wordVal) #If the string starts with a capital
             abbrVal = isAbbreviation(wordVal)
             numVal = containsNumber(wordVal) #If the string contains a number
-            locVal = isLoc(wordVal)
+            locVal = 0
+            if isLoc(wordVal) == 1 or isLocation(nerTagVal) == 1:
+                locVal = 1
             prefVal = isPref(wordVal)
             prepVal = isPreposition(wordVal)
             suffVal = isSuff(wordVal)
@@ -321,7 +323,7 @@ def produceVectorList(wordList,unlabeled):
                     labelPlusOne = nextWord[1]
                 else:
                     labelPlusOne = "O"
-                #posPlusOne = nextWord[1]
+                #posPlusOne = nextWord[1]f
                 suffVal = isSuff(nextWord[0])
             else:
                 wordPlusOne = "OMEGA"
