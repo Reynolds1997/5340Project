@@ -15,6 +15,11 @@ import spacy
 
 contextRange = 7
 
+#labelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
+labelList = ['B-ACQUIRED','I-ACQUIRED','O']
+
+
+
 def isAbbreviation(word):
     if(word[-1] == '.'):
         if(len(word) <= 4):
@@ -295,6 +300,10 @@ def produceVectorList(wordList,unlabeled):
 
 
             labelVal = wordList[i][1] #The word label
+
+            if(labelVal not in labelList):
+                labelVal = "O"
+            
             if(len(wordList[i]) > 2):
                 nerTagVal = wordList[i][2]
             else:
@@ -384,7 +393,7 @@ def produceVectorList(wordList,unlabeled):
 
             #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
             if unlabeled:
-                labelVal = Nones
+                labelVal = None
 
             if(labelVal == None):
                 vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
