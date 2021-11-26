@@ -18,7 +18,6 @@ contextRange = 7
 def isAbbreviation(word):
     if(word[-1] == '.'):
         if(len(word) <= 4):
-            
             testLine = word.replace('.','')
             if(testLine.isalpha()):
                 return 1
@@ -385,7 +384,7 @@ def produceVectorList(wordList,unlabeled):
 
             #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
             if unlabeled:
-                labelVal = None
+                labelVal = Nones
 
             if(labelVal == None):
                 vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
