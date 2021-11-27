@@ -415,7 +415,7 @@ def produceVectorList(wordList,unlabeled):
             else:
                 counter = 0
 
-            if(counter < counterMax):
+            if(counter <= counterMax):
                 #print(counter)
                 vectorList.append(vector)
 
