@@ -20,6 +20,9 @@ labelList = ['B-ACQUIRED','I-ACQUIRED','O']
 
 
 
+
+
+
 def isAbbreviation(word):
     if(word[-1] == '.'):
         if(len(word) <= 4):
@@ -258,6 +261,7 @@ def processFromDirectories(rawDirectory, goldDirectory, trainingDecimalPercent):
         for word in wordList:
             trainingWordList.append(word)
         #print("TEST3")
+        #print(i)
         i+=1
         
         
@@ -289,8 +293,13 @@ def processFromDirectories(rawDirectory, goldDirectory, trainingDecimalPercent):
     return trainingWordList,testWordList
 
 def produceVectorList(wordList,unlabeled):
+
+    counter = 0
+    counterMax = 5
+    
     vectorList = []
     i = 0
+    print(len(wordList))
     while i < len(wordList):
         
         wordVal = wordList[i][0] #The actual word
@@ -303,6 +312,7 @@ def produceVectorList(wordList,unlabeled):
 
             if(labelVal not in labelList):
                 labelVal = "O"
+
             
             if(len(wordList[i]) > 2):
                 nerTagVal = wordList[i][2]
@@ -399,9 +409,19 @@ def produceVectorList(wordList,unlabeled):
                 vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
             else:
                 vector = [labelVal,wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
-            vectorList.append(vector)
+
+            if(vector[0] == "O"):
+                counter+=1
+            else:
+                counter = 0
+
+            if(counter < counterMax):
+                #print(counter)
+                vectorList.append(vector)
 
         i += 1
+
+    print(len(vectorList))
     return vectorList
 
 def readFileIntoWordList(inputFile):
@@ -444,6 +464,8 @@ def main():
     docFile = r"development-docs\389"
 
     #taggedListFromFiles(docFile,keyFile)
+
+    print("Processing from directories...")
     
     trainingList, testList = processFromDirectories(rawDirectory,goldDirectory, 0.9)
 
