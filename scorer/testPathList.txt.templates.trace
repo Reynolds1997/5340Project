@@ -15,8 +15,7 @@ STATUS:         "preliminary talks"
      SYSTEM OUTPUT 
 
 TEXT:           8496
-ACQUIRED:       "Hotel Corp"
-                "World"
+ACQUIRED:       "World"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
@@ -27,7 +26,7 @@ STATUS:         ---
      SCORES for 8496
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
@@ -35,7 +34,7 @@ PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -127,26 +126,26 @@ STATUS:         ---
      SYSTEM OUTPUT 
 
 TEXT:           8571
-ACQUIRED:       "Avalon Corp"
+ACQUIRED:       "Avalon"
 ACQBUS:         ---
-ACQLOC:         "Avalon"
+ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      ---
+PURCHASER:      "Corp"
 SELLER:         ---
 STATUS:         ---
 
      SCORES for 8571
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        1.00 (1/1)	   1.00 (1/1)         1.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/0)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   0.50 (1/2)         0.50
+TOTAL           0.00 (0/2)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -164,27 +163,26 @@ STATUS:         ---
      SYSTEM OUTPUT 
 
 TEXT:           8628
-ACQUIRED:       "Bank"
-                "Inc"
+ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         "dlrs"
-PURCHASER:      "Group"
+DLRAMT:         ---
+PURCHASER:      ---
 SELLER:         ---
 STATUS:         ---
 
      SCORES for 8628
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
-DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/4)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -202,28 +200,27 @@ STATUS:         "agreed in principle"
      SYSTEM OUTPUT 
 
 TEXT:           8704
-ACQUIRED:       "KDI Corp"
-ACQBUS:         "products"
+ACQUIRED:       "KDI"
+ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         "dlrs"
-                "dlrs"
-PURCHASER:      ---
+DLRAMT:         "mln"
+                "mln"
+PURCHASER:      "Corp"
 SELLER:         ---
-STATUS:         "agreed"
-                "agreed"
+STATUS:         ---
 
      SCORES for 8704
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/2)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/6)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -241,26 +238,26 @@ STATUS:         "intends to boost"
      SYSTEM OUTPUT 
 
 TEXT:           8771
-ACQUIRED:       "Inc"
+ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreed"
+STATUS:         ---
 
      SCORES for 8771
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -317,7 +314,7 @@ STATUS:         "does not plan to extend the expiration date of its tender offer
 TEXT:           8823
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         ---
+ACQLOC:         "Citicorp"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -328,13 +325,13 @@ STATUS:         ---
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/0)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -428,7 +425,7 @@ STATUS:         "letter of intent"
 
 TEXT:           8909
 ACQUIRED:       "Inc"
-ACQBUS:         "food"
+ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
@@ -439,14 +436,14 @@ STATUS:         ---
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/2)	   0.00 (0/1)         0.00
-ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
+ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   0.33 (1/3)         0.22
+TOTAL           0.17 (1/6)	   0.50 (1/2)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -464,27 +461,27 @@ STATUS:         ---
      SYSTEM OUTPUT 
 
 TEXT:           8947
-ACQUIRED:       "Conrac Corp"
+ACQUIRED:       "Conrac"
                 "Inc"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      ---
+PURCHASER:      "Corp"
 SELLER:         ---
 STATUS:         ---
 
      SCORES for 8947
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        1.00 (1/1)	   0.50 (1/2)         0.67
+ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (1/2)	   0.50 (1/2)         0.50
+TOTAL           0.00 (0/2)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -502,22 +499,22 @@ STATUS:         ---
      SYSTEM OUTPUT 
 
 TEXT:           8996
-ACQUIRED:       ---
+ACQUIRED:       "Group"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      "Group"
+PURCHASER:      ---
 SELLER:         ---
 STATUS:         ---
 
      SCORES for 8996
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
@@ -539,26 +536,26 @@ STATUS:         "approved"
      SYSTEM OUTPUT 
 
 TEXT:           8998
-ACQUIRED:       "Hayes-Albion Corp"
+ACQUIRED:       "Hayes-Albion"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      ---
+PURCHASER:      "Corp"
 SELLER:         ---
-STATUS:         "approved"
+STATUS:         ---
 
      SCORES for 8998
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        1.00 (1/1)	   1.00 (1/1)         1.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
+STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   1.00 (2/2)         0.57
+TOTAL           0.00 (0/5)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -619,7 +616,7 @@ ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreed"
+STATUS:         ---
 
      SCORES for 904
 
@@ -630,9 +627,9 @@ ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -687,26 +684,26 @@ STATUS:         "move up the completion date"
      SYSTEM OUTPUT 
 
 TEXT:           9108
-ACQUIRED:       ---
+ACQUIRED:       "Group"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      "Group"
+PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
+STATUS:         ---
 
      SCORES for 9108
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -727,7 +724,7 @@ TEXT:           9156
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         ---
+DLRAMT:         "mln"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         ---
@@ -738,12 +735,12 @@ STATUS:         ---
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
-DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/0)         0.00
+TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -798,7 +795,7 @@ STATUS:         "agreed"
      SYSTEM OUTPUT 
 
 TEXT:           932
-ACQUIRED:       ---
+ACQUIRED:       "Plc"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
@@ -809,7 +806,7 @@ STATUS:         "agreed"
      SCORES for 932
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
@@ -817,7 +814,7 @@ PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
+TOTAL           0.20 (1/5)	   0.50 (1/2)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -835,9 +832,7 @@ STATUS:         "terminated"
      SYSTEM OUTPUT 
 
 TEXT:           9324
-ACQUIRED:       "Division"
-                "Midland-Ross"
-                "Process"
+ACQUIRED:       "Midland-Ross"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
@@ -848,7 +843,7 @@ STATUS:         ---
      SCORES for 9324
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/3)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
@@ -856,7 +851,7 @@ PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -874,13 +869,13 @@ STATUS:         "agreed in principle"
      SYSTEM OUTPUT 
 
 TEXT:           9332
-ACQUIRED:       "Stockholder Systems"
+ACQUIRED:       "Systems"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreed"
+STATUS:         ---
 
      SCORES for 9332
 
@@ -891,9 +886,9 @@ ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -917,7 +912,7 @@ ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      "Corp"
+PURCHASER:      ---
 SELLER:         ---
 STATUS:         ---
 
@@ -928,11 +923,11 @@ ACQUIRED        0.00 (0/3)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/6)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/6)	   0.00 (0/0)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -950,23 +945,22 @@ STATUS:         "ended talks"
      SYSTEM OUTPUT 
 
 TEXT:           9431
-ACQUIRED:       "Division"
-                "Synalloy Corp"
+ACQUIRED:       "Synalloy"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      ---
+PURCHASER:      "Corp"
 SELLER:         ---
 STATUS:         "ended"
 
      SCORES for 9431
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
@@ -988,11 +982,11 @@ STATUS:         "exercise its right to acquire"
      SYSTEM OUTPUT 
 
 TEXT:           9432
-ACQUIRED:       "C-I-L Inc"
+ACQUIRED:       "C-I-L"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      ---
+PURCHASER:      "Inc"
 SELLER:         ---
 STATUS:         ---
 
@@ -1003,11 +997,11 @@ ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/7)	   0.00 (0/1)         0.00
+TOTAL           0.00 (0/7)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1025,11 +1019,11 @@ STATUS:         ---
      SYSTEM OUTPUT 
 
 TEXT:           9434
-ACQUIRED:       "Pantera's Corp"
+ACQUIRED:       "Pantera's"
 ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         "dlrs"
-PURCHASER:      ---
+DLRAMT:         ---
+PURCHASER:      "Corp"
 SELLER:         ---
 STATUS:         "agreed"
 
@@ -1039,8 +1033,8 @@ STATUS:         "agreed"
 ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
-DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
@@ -1062,11 +1056,11 @@ STATUS:         "agreed to sell"
      SYSTEM OUTPUT 
 
 TEXT:           9443
-ACQUIRED:       "Allied-Signal Inc"
-ACQBUS:         "electronics"
-ACQLOC:         "Germany"
+ACQUIRED:       "Allied-Signal"
+ACQBUS:         ---
+ACQLOC:         ---
 DLRAMT:         "undisclosed"
-PURCHASER:      ---
+PURCHASER:      "Inc"
 SELLER:         ---
 STATUS:         "agreed"
 
@@ -1074,14 +1068,14 @@ STATUS:         "agreed"
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.14 (1/7)	   0.20 (1/5)         0.17
+TOTAL           0.14 (1/7)	   0.25 (1/4)         0.18
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1100,8 +1094,7 @@ STATUS:         "shareholders to vote"
      SYSTEM OUTPUT 
 
 TEXT:           9544
-ACQUIRED:       "Ltd"
-                "Oil"
+ACQUIRED:       "Oil"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
@@ -1112,7 +1105,7 @@ STATUS:         ---
      SCORES for 9544
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
@@ -1120,7 +1113,7 @@ PURCHASER       0.00 (0/2)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1141,10 +1134,10 @@ TEXT:           9557
 ACQUIRED:       "Resources"
 ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         ---
+DLRAMT:         "mln"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "sold"
+STATUS:         ---
 
      SCORES for 9557
 
@@ -1152,10 +1145,10 @@ STATUS:         "sold"
 ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
-DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
+DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
 TOTAL           0.00 (0/2)	   0.00 (0/2)         0.00
 
@@ -1178,7 +1171,8 @@ TEXT:           963
 ACQUIRED:       "Oil"
 ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         "dlrs"
+DLRAMT:         "mln"
+                "mln"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         ---
@@ -1189,12 +1183,12 @@ STATUS:         ---
 ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
-DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/5)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1249,26 +1243,26 @@ STATUS:         "definitive agreement"
      SYSTEM OUTPUT 
 
 TEXT:           9677
-ACQUIRED:       "Genova Inc"
+ACQUIRED:       "Genova"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      ---
+PURCHASER:      "Inc"
 SELLER:         ---
-STATUS:         "agreement"
+STATUS:         "definitive agreement"
 
      SCORES for 9677
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        1.00 (1/1)	   1.00 (1/1)         1.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.50 (1/2)         0.40
+TOTAL           0.33 (1/3)	   0.33 (1/3)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1290,7 +1284,7 @@ ACQUIRED:       "America"
                 "Petroleum"
 ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         "dlrs"
+DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         ---
@@ -1301,12 +1295,12 @@ STATUS:         ---
 ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
-DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1324,23 +1318,22 @@ STATUS:         "completed"
      SYSTEM OUTPUT 
 
 TEXT:           9809
-ACQUIRED:       "C"
-                "Mickelberry Corp"
+ACQUIRED:       "Mickelberry"
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         "undisclosed"
-PURCHASER:      ---
+PURCHASER:      "Corp"
 SELLER:         ---
 STATUS:         "completed"
 
      SCORES for 9809
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/1)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
-PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
@@ -1403,8 +1396,7 @@ ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         ---
 DLRAMT:         ---
-PURCHASER:      "Group"
-                "Holdings"
+PURCHASER:      "Holdings"
 SELLER:         ---
 STATUS:         ---
 
@@ -1415,11 +1407,11 @@ ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
-PURCHASER       0.00 (0/1)	   0.00 (0/2)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/1)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1437,12 +1429,10 @@ STATUS:         "agreed to acquire"
      SYSTEM OUTPUT 
 
 TEXT:           9893
-ACQUIRED:       "Cross"
-                "division"
+ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         ---
-DLRAMT:         "dlrs"
-                "undisclosed"
+DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed"
@@ -1450,15 +1440,15 @@ STATUS:         "agreed"
      SCORES for 9893
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.00 (0/1)	   0.00 (0/2)         0.00
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
 ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
-DLRAMT          0.00 (0/1)	   0.00 (0/2)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/6)	   0.00 (0/5)         0.00
+TOTAL           0.00 (0/6)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1466,12 +1456,12 @@ TOTAL           0.00 (0/6)	   0.00 (0/5)         0.00
      SCORES for ALL Templates
 
                 RECALL             PRECISION          F-SCORE
-ACQUIRED        0.10 (4/42)	   0.11 (4/38)        0.10
-ACQBUS          0.00 (0/12)	   0.00 (0/3)         0.00
-ACQLOC          0.00 (0/8)	   0.00 (0/2)         0.00
-DLRAMT          0.21 (3/14)	   0.25 (3/12)        0.23
-PURCHASER       0.00 (0/36)	   0.00 (0/7)         0.00
+ACQUIRED        0.00 (0/42)	   0.00 (0/30)        0.00
+ACQBUS          0.00 (0/12)	   0.00 (0/0)         0.00
+ACQLOC          0.00 (0/8)	   0.00 (0/1)         0.00
+DLRAMT          0.21 (3/14)	   0.27 (3/11)        0.24
+PURCHASER       0.00 (0/36)	   0.00 (0/12)        0.00
 SELLER          0.00 (0/19)	   0.00 (0/0)         0.00
-STATUS          0.10 (3/29)	   0.18 (3/17)        0.13
+STATUS          0.10 (3/29)	   0.33 (3/9)         0.16
 --------        --------------     --------------     ----
-TOTAL           0.06 (10/160)	   0.13 (10/79)       0.08
+TOTAL           0.04 (6/160)	   0.10 (6/63)        0.05

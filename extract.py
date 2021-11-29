@@ -27,7 +27,7 @@ import math
 #Input Processing
 def main():
 
-    featureList = ['WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG','NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1',
+    featureList = ['WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG']#'NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1',
 
     trainingFileDirectory = r"development-anskeys"
     testFileDirectory = r"development-docs"
@@ -158,7 +158,7 @@ def analyzeFile(filePath, featuresSet,docListName, modelValsList):
 
    
 
-    tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG','NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1'
+    tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG']#,'NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1'
     #tempFeatureList.insert(0,'LABEL')
 
     #print("Feature list" + str(tempFeatureList))
@@ -324,7 +324,7 @@ def analyzeFileOriginal(filePath, model,featuresSet, dictVectorizer,docListName,
     wordsDataFrame = pd.DataFrame(unlabeledWordsData)
     #print(wordsData)
 
-    tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG','NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1'
+    tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG']#,'NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1'
     #tempFeatureList.insert(0,'LABEL')
 
     #print("Feature list" + str(tempFeatureList))
@@ -444,6 +444,7 @@ def analyzeFileListOriginal(pathList,fileList, featuresSet,docListName):
     fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
     fullBasicLabelList = ['ACQUIRED','ACQLOC','ACQBUS','DLRAMT','PURCHASER','SELLER','STATUS','O']
     defaultOBalance = 100
+    #Context window, O balancer, label list, target labels to extract
     tryEverythingList = [2,math.inf,fullLabelList,fullBasicLabelList]
     
 

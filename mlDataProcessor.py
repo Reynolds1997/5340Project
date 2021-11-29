@@ -364,45 +364,45 @@ def produceVectorList(wordList,unlabeled,contextRange,labelList, counterMax):
 
 
 
-            if i + contextRange < len(wordList):
-                nextWords = wordList[i+1:i+contextRange]
-            else:
-                if(i+1 < len(wordList)):
-                    nextWords = wordList[i+1:]
-                else:
-                    nextWords = ["OMEGA"]
+            #if i + contextRange < len(wordList):
+            #    nextWords = wordList[i+1:i+contextRange]
+            #else:
+            #    if(i+1 < len(wordList)):
+            #        nextWords = wordList[i+1:]
+            #    else:
+            #        nextWords = ["OMEGA"]
+            #
+            #    nextWordsLen = len(nextWords)
+            #    z = nextWordsLen
+            #    while z < contextRange:
+            #        nextWords.append("OMEGA")
+            #        z+=1
 
-                nextWordsLen = len(nextWords)
-                z = nextWordsLen
-                while z < contextRange:
-                    nextWords.append("OMEGA")
-                    z+=1
+            #if i - contextRange > 0:
+            #    prevWords = wordList[i-contextRange:i-1]
+            #else:
+            #    if(i-1 > 0):
+            #        prevWords = wordList[:i-1]
+            #    else:
+            #        prevWords = ["PHI"]
 
-            if i - contextRange > 0:
-                prevWords = wordList[i-contextRange:i-1]
-            else:
-                if(i-1 > 0):
-                    prevWords = wordList[:i-1]
-                else:
-                    prevWords = ["PHI"]
+            #    prevWordsLen = len(prevWords)
+            #    z = prevWordsLen
+            #    while z < contextRange:
+            #        prevWords.insert(0,"PHI")
+            #        z+=1
 
-                prevWordsLen = len(prevWords)
-                z = prevWordsLen
-                while z < contextRange:
-                    prevWords.insert(0,"PHI")
-                    z+=1
-
-            prevWordsVal = prevWords
-            nextWordsVal = nextWords
+            #prevWordsVal = prevWords
+            #nextWordsVal = nextWords
 
             #Idea: We should set it up to look at the words before and after. That could be a VERY useful feature for training.
             if unlabeled:
                 labelVal = None
 
             if(labelVal == None):
-                vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
+                vector = [wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal]#nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
             else:
-                vector = [labelVal,wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal,nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
+                vector = [labelVal,wordVal,wordPlusOne,wordMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal,nerTagVal]#nextWordsVal,prevWordsVal] #,labelPlusOne,labelMinusOne
 
             if(vector[0] == "O"):
                 counter+=1
@@ -428,7 +428,7 @@ def readFileIntoWordList(inputFile):
     return wordList
 
 def writeToCSV(fileName, fields, vectorList):
-    with open(fileName, 'w') as csvfile:
+    with open(fileName, 'wb') as csvfile:
         csvwriter = csv.writer(csvfile) 
             
         # writing the fields 
