@@ -113,8 +113,8 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
 
 
     
-    #modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
-    modelValsList = [sellerList]
+    modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
+    #modelValsList = [sellerList]
 
 
     
