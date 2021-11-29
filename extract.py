@@ -104,11 +104,11 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
     modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[2],featuresSet,sellerList[1])
     print("6 models trained")
 
-   # acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
-   # acqbusList.extend([modelACQBUS,vectorizerACQBUS])
-   # acqlocList.extend([modelACQLOC,vectorizerACQLOC])
-   # dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
-   # purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
+    acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
+    acqbusList.extend([modelACQBUS,vectorizerACQBUS])
+    acqlocList.extend([modelACQLOC,vectorizerACQLOC])
+    dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
+    purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
     sellerList.extend([modelSELLER,vectorizerSELLER])
 
 
