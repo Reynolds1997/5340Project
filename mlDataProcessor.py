@@ -13,10 +13,7 @@ from typing import final
 import string
 import spacy
 
-contextRange = 7
-
-#labelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
-labelList = ['B-ACQUIRED','I-ACQUIRED','O']
+import math
 
 
 
@@ -292,7 +289,7 @@ def processFromDirectories(rawDirectory, goldDirectory, trainingDecimalPercent):
 
     return trainingWordList,testWordList
 
-def produceVectorList(wordList,unlabeled):
+def produceVectorList(wordList,unlabeled,contextRange,labelList):
 
     counter = 0
     counterMax = 5
@@ -456,7 +453,10 @@ def spacyNER(textString):
 
     return entList
 
-def main():
+def main(contextRange,labelList):
+
+    
+
     rawDirectory = r"development-docs"
     goldDirectory = r"development-anskeys"
 
@@ -471,8 +471,8 @@ def main():
 
     print("Processed from directories")
 
-    trainingVectorList = produceVectorList(trainingList,False)
-    testVectorList = produceVectorList(testList, False)
+    trainingVectorList = produceVectorList(trainingList,False,contextRange,labelList)
+    testVectorList = produceVectorList(testList, False,contextRange,labelList)
 
     print("Produced vector lists")
     #[labelVal,wordVal,wordPlusOne,wordMinusOne,labelPlusOne,labelMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal]
@@ -483,7 +483,12 @@ def main():
     writeToCSV("testData.csv", fields, testVectorList)
 
 
-main()
+contextRange = 7
+
+#labelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
+labelList = ['B-ACQUIRED','I-ACQUIRED','O']
+
+main(contextRange,labelList)
 
 
 
