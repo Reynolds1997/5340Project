@@ -285,10 +285,10 @@ def processFromDirectories(rawDirectory, goldDirectory, trainingDecimalPercent):
 
     return trainingWordList,testWordList
 
-def produceVectorList(wordList,unlabeled,contextRange,labelList):
+def produceVectorList(wordList,unlabeled,contextRange,labelList, counterMax):
 
     counter = 0
-    counterMax = 5
+    
     
     vectorList = []
     i = 0
@@ -449,7 +449,7 @@ def spacyNER(textString):
 
     return entList
 
-def main(contextRange,labelList):
+def main(contextRange,labelList,oCounterMax):
 
     
 
@@ -467,8 +467,8 @@ def main(contextRange,labelList):
 
     print("Processed from directories")
 
-    trainingVectorList = produceVectorList(trainingList,False,contextRange,labelList)
-    testVectorList = produceVectorList(testList, False,contextRange,labelList)
+    trainingVectorList = produceVectorList(trainingList,False,contextRange,labelList,oCounterMax)
+    testVectorList = produceVectorList(testList, False,contextRange,labelList,oCounterMax)
 
     print("Produced vector lists")
     #[labelVal,wordVal,wordPlusOne,wordMinusOne,labelPlusOne,labelMinusOne,abbrVal,capVal,numVal,locVal,prefVal,suffVal,prepVal]
@@ -484,7 +484,7 @@ contextRange = 7
 #labelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
 labelList = ['B-ACQUIRED','I-ACQUIRED','O']
 
-main(contextRange,labelList)
+#main(contextRange,labelList)
 
 
 

@@ -59,16 +59,16 @@ def main():
     #print(fileList)
 
 
-def fullMLModelPipeline(contextRange,labelList,featuresSet):
-    processData(contextRange,labelList)
+def fullMLModelPipeline(contextRange,labelList,featuresSet,oCounterMax):
+    processData(contextRange,labelList,oCounterMax)
     trainingFileName = "trainingData.csv"
     testFileName = "testData.csv"
     model, dictVectorizer = makeMLModel(trainingFileName,testFileName,featuresSet)
     
     return model,dictVectorizer
 
-def processData(contextRange,labelList):
-    mlDataProcessor.main(contextRange,labelList)
+def processData(contextRange,labelList,oCounterMax):
+    mlDataProcessor.main(contextRange,labelList,oCounterMax)
 
 def makeMLModel(trainingCSV,testCSV,featuresSet):
     model, test_labels, vec_test_data, dictVectorizer = mlModified.createModel(trainingCSV,testCSV,featuresSet)
@@ -79,40 +79,42 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
     print("Analyzing file list")
 
     fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
-    
-    acquiredList = [3,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']]
-    acqbusList = [3,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']]
-    acqlocList = [3,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']]
-    dlrAndStatusList = [999,fullLabelList,['DLRAMT','STATUS']]
-    purchaserList = [7,fullLabelList,['PURCHASER']]
-    sellerList = [3,['B-SELLER','I-SELLER','O'],['SELLER']]
+    defaultOBalance = 20
+
+    acquiredList = [3,defaultOBalance,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']]
+    acqbusList = [3,defaultOBalance,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']]
+    acqlocList = [3,defaultOBalance,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']]
+    dlrAndStatusList = [3,defaultOBalance,fullLabelList,['DLRAMT','STATUS']]
+    purchaserList = [3,defaultOBalance,fullLabelList,['PURCHASER']]
+    sellerList = [3,defaultOBalance,['B-SELLER','I-SELLER','O'],['SELLER']]
 
    
 
     print("TRAINING MODELS")
-    modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[1],featuresSet)
+   # modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[2],featuresSet,acquiredList[1])
     print("1 model trained")
-    modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[1],featuresSet)
+   # modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[2],featuresSet,acqbusList[1])
     print("2 models trained")
-    modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[1],featuresSet)
+   # modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[2],featuresSet,acqlocList[1])
     print("3 models trained")
-    modelDLRSTATUS, vectorizerDLRSTATUS = fullMLModelPipeline(dlrAndStatusList[0],dlrAndStatusList[1],featuresSet)
+   # modelDLRSTATUS, vectorizerDLRSTATUS = fullMLModelPipeline(dlrAndStatusList[0],dlrAndStatusList[2],featuresSet,dlrAndStatusList[1])
     print("4 models trained")
-    modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet)
+   # modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet,purchaserList[1])
     print("5 models trained")
-    modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[1],featuresSet)
+    modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[2],featuresSet,sellerList[1])
     print("6 models trained")
 
-    acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
-    acqbusList.extend([modelACQBUS,vectorizerACQBUS])
-    acqlocList.extend([modelACQLOC,vectorizerACQLOC])
-    dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
-    purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
+   # acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
+   # acqbusList.extend([modelACQBUS,vectorizerACQBUS])
+   # acqlocList.extend([modelACQLOC,vectorizerACQLOC])
+   # dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
+   # purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
     sellerList.extend([modelSELLER,vectorizerSELLER])
 
 
     
-    modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
+    #modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
+    modelValsList = [sellerList]
 
 
     
@@ -143,12 +145,12 @@ def analyzeFile(filePath, featuresSet,docListName, modelValsList):
 
     finalClassifications = []
 
-    def classifier(classifierContextRange,classifierLabelList,labelsToExtract, model, dictVectorizer):
+    def classifier(classifierContextRange,classifierLabelList,labelsToExtract, model, dictVectorizer,oCounterMax):
          #So, first we need a list of unlabeled words
         wordsList = mlDataProcessor.produceUntaggedWordList(filePath)
 
         #Then, we need to produce a vector list for those words
-        unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False, classifierContextRange, classifierLabelList)
+        unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False, classifierContextRange, classifierLabelList,oCounterMax)
         mlDataProcessor.writeToCSV("temp.csv",tempFeatureList,unlabeledWordsData)
         test_df, test_labels = mlModified.read_csv_for_ml("temp.csv", list(featuresSet))
         
@@ -204,18 +206,21 @@ def analyzeFile(filePath, featuresSet,docListName, modelValsList):
             classificationString += "\"" + classificationPhraseString + "\""
 
             finalClassifications.append(classificationString)
+        print(finalClassifications)
 
     fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
 
     #sellerList = [3,['B-SELLER','I-SELLER','O'],['SELLER'], model, vectorizer]
     for listItem in modelValsList:
         currentContextRange = listItem [0]
-        currentLabelList = listItem[1]
-        currentExtractionTargetsList = listItem[2]
-        currentModel = listItem[3]
-        currentVectorizer = listItem[4]
+        currentCounterMax = listItem[1]
+        currentLabelList = listItem[2]
+        currentExtractionTargetsList = listItem[3]
+        currentModel = listItem[4]
+        currentVectorizer = listItem[5]
+        
 
-        classifier(currentContextRange,currentLabelList,currentExtractionTargetsList,currentModel,currentVectorizer)
+        classifier(currentContextRange,currentLabelList,currentExtractionTargetsList,currentModel,currentVectorizer,currentCounterMax)
 
 
     #VARIABLES FOR MODIFYING CLASSIFIER VARIABLES SHOULD GO IN THESE METHOD CALLS BELOW
