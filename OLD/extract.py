@@ -78,46 +78,6 @@ def makeMLModel(trainingCSV,testCSV,featuresSet):
 def analyzeFileList(pathList,fileList,featuresSet,docListName):
     print("Analyzing file list")
 
-    fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
-    
-    acquiredList = [3,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']]
-    acqbusList = [3,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']]
-    acqlocList = [3,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']]
-    dlrAndStatusList = [999,fullLabelList,['DLRAMT','STATUS']]
-    purchaserList = [7,fullLabelList,['PURCHASER']]
-    sellerList = [3,['B-SELLER','I-SELLER','O'],['SELLER']]
-
-   
-
-    print("TRAINING MODELS")
-    modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[1],featuresSet)
-    print("1 model trained")
-    modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[1],featuresSet)
-    print("2 models trained")
-    modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[1],featuresSet)
-    print("3 models trained")
-    modelDLRSTATUS, vectorizerDLRSTATUS = fullMLModelPipeline(dlrAndStatusList[0],dlrAndStatusList[1],featuresSet)
-    print("4 models trained")
-    modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet)
-    print("5 models trained")
-    modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[1],featuresSet)
-    print("6 models trained")
-
-    acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
-    acqbusList.extend([modelACQBUS,vectorizerACQBUS])
-    acqlocList.extend([modelACQLOC,vectorizerACQLOC])
-    dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
-    purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
-    sellerList.extend([modelSELLER,vectorizerSELLER])
-
-
-    
-    modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
-
-
-    
-
-
     open(docListName, 'w').close() #This ensures we're writing to a blank file
     i = 0 
     while i < len(fileList):
@@ -127,11 +87,11 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
 
         filePath = os.path.join(pathList[i], fileList[i])
 
-        analyzeFile(filePath,featuresSet,docListName, modelValsList)
+        analyzeFile(filePath,featuresSet,docListName)
         i+=1
 
 
-def analyzeFile(filePath, featuresSet,docListName, modelValsList):
+def analyzeFile(filePath, featuresSet,docListName):
     print("Analyzing file:" + filePath)
 
    
@@ -143,26 +103,26 @@ def analyzeFile(filePath, featuresSet,docListName, modelValsList):
 
     finalClassifications = []
 
-    def classifier(classifierContextRange,classifierLabelList,labelsToExtract, model, dictVectorizer):
+    def classifier(classifierContextRange,classifierLabelList,labelsToExtract):
          #So, first we need a list of unlabeled words
         wordsList = mlDataProcessor.produceUntaggedWordList(filePath)
 
         #Then, we need to produce a vector list for those words
-        unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False, classifierContextRange, classifierLabelList)
-        mlDataProcessor.writeToCSV("temp.csv",tempFeatureList,unlabeledWordsData)
-        test_df, test_labels = mlModified.read_csv_for_ml("temp.csv", list(featuresSet))
-        
-        
 
+        unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False, classifierContextRange, classifierLabelList)
         #fileVectorList = mlFeatureExtractor.produceVectorList()
+
         wordsDataFrame = pd.DataFrame(unlabeledWordsData)
         #print(wordsData)
-        #model, dictVectorizer = fullMLModelPipeline(classifierContextRange,classifierLabelList,featuresSet)
-        
-        
-        
+        mlDataProcessor.writeToCSV("temp.csv",tempFeatureList,unlabeledWordsData)
+        test_df, test_labels = mlModified.read_csv_for_ml("temp.csv", list(featuresSet))
 
-        
+
+
+
+
+
+        model, dictVectorizer = fullMLModelPipeline(classifierContextRange,classifierLabelList,featuresSet)
         vec_test_data = mlModified.vectorizeTestData(test_df,dictVectorizer)
         predictions = model.predict(vec_test_data) #Perform predictions with the model
 
@@ -207,24 +167,13 @@ def analyzeFile(filePath, featuresSet,docListName, modelValsList):
 
     fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
 
-    #sellerList = [3,['B-SELLER','I-SELLER','O'],['SELLER'], model, vectorizer]
-    for listItem in modelValsList:
-        currentContextRange = listItem [0]
-        currentLabelList = listItem[1]
-        currentExtractionTargetsList = listItem[2]
-        currentModel = listItem[3]
-        currentVectorizer = listItem[4]
-
-        classifier(currentContextRange,currentLabelList,currentExtractionTargetsList,currentModel,currentVectorizer)
-
-
     #VARIABLES FOR MODIFYING CLASSIFIER VARIABLES SHOULD GO IN THESE METHOD CALLS BELOW
-    #classifier(3,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']) #ACQUIRED
-    #classifier(3,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']) #ACQBUS
-    #classifier(3,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']) #ACQLOC
-    #classifier(math.inf,fullLabelList,['DLRAMT','STATUS']) #DLRAMT and STATUS
-    #classifier(7,fullLabelList,['PURCHASER']) #PURCHASER
-    #classifier(3,['B-SELLER','I-SELLER','O'],['SELLER']) #SELLER
+    classifier(3,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']) #ACQUIRED
+    classifier(3,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']) #ACQBUS
+    classifier(3,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']) #ACQLOC
+    classifier(math.inf,fullLabelList,['DLRAMT','STATUS']) #DLRAMT and STATUS
+    classifier(7,fullLabelList,['PURCHASER']) #PURCHASER
+    classifier(3,['B-SELLER','I-SELLER','O'],['SELLER']) #SELLER
     #classifier(3,['B-STATUS','I-STATUS','O']) #STATUS
     #VARIABLES FOR MODIFYING CLASSIFIER VARIABLES SHOULD GO IN THESE METHOD CALLS ABOVE
 
