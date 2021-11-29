@@ -1,7 +1,8 @@
 TEXT: 8496
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: ---
+ACQUIRED: "Hotel Corp"
+ACQUIRED: "World"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -19,16 +20,16 @@ STATUS: ---
 TEXT: 8544
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: ---
+ACQUIRED: "Oats"
 DLRAMT: ---
-PURCHASER: ---
+PURCHASER: "Partners"
 SELLER: ---
 STATUS: ---
 
 TEXT: 8571
 ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Avalon"
+ACQLOC: "Avalon"
+ACQUIRED: "Avalon Corp"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -37,34 +38,37 @@ STATUS: ---
 TEXT: 8628
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: ---
-DLRAMT: ---
-PURCHASER: ---
+ACQUIRED: "Bank"
+ACQUIRED: "Inc"
+DLRAMT: "dlrs"
+PURCHASER: "Group"
 SELLER: ---
 STATUS: ---
 
 TEXT: 8704
-ACQBUS: ---
+ACQBUS: "products"
 ACQLOC: ---
-ACQUIRED: "KDI"
-DLRAMT: ---
+ACQUIRED: "KDI Corp"
+DLRAMT: "dlrs"
+DLRAMT: "dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
+STATUS: "agreed"
 
 TEXT: 8771
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Claremont"
+ACQUIRED: "Inc"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 
 TEXT: 8781
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: ---
+ACQUIRED: "International"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -91,17 +95,17 @@ STATUS: ---
 TEXT: 8877
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Hecla"
+ACQUIRED: "Minging"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 
 TEXT: 8909
-ACQBUS: ---
+ACQBUS: "food"
 ACQLOC: ---
-ACQUIRED: ---
-DLRAMT: ---
+ACQUIRED: "Inc"
+DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: ---
@@ -109,7 +113,8 @@ STATUS: ---
 TEXT: 8947
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Conrac"
+ACQUIRED: "Conrac Corp"
+ACQUIRED: "Inc"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -118,25 +123,25 @@ STATUS: ---
 TEXT: 8996
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Sundor"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: ---
+PURCHASER: "Group"
 SELLER: ---
 STATUS: ---
 
 TEXT: 8998
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Hayes-Albion"
+ACQUIRED: "Hayes-Albion Corp"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "approved"
 
 TEXT: 9027
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Montreal-based Noverco"
+ACQUIRED: "Noverco"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -149,7 +154,7 @@ ACQUIRED: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 
 TEXT: 9102
 ACQBUS: ---
@@ -163,11 +168,11 @@ STATUS: ---
 TEXT: 9108
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "PS"
+ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: ---
+PURCHASER: "Group"
 SELLER: ---
-STATUS: ---
+STATUS: "agreement"
 
 TEXT: 9156
 ACQBUS: ---
@@ -181,11 +186,11 @@ STATUS: ---
 TEXT: 9239
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Co"
+ACQUIRED: "Duriron Co"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "completed"
 
 TEXT: 932
 ACQBUS: ---
@@ -194,12 +199,14 @@ ACQUIRED: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 
 TEXT: 9324
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Thermo Process Systems"
+ACQUIRED: "Division"
+ACQUIRED: "Midland-Ross"
+ACQUIRED: "Process"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -209,33 +216,34 @@ TEXT: 9332
 ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: "Stockholder Systems"
-DLRAMT: ---
+DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 
 TEXT: 9338
 ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: ---
+PURCHASER: "Corp"
 SELLER: ---
 STATUS: ---
 
 TEXT: 9431
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Synalloy"
+ACQUIRED: "Division"
+ACQUIRED: "Synalloy Corp"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "ended"
 
 TEXT: 9432
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "C-I-L"
+ACQUIRED: "C-I-L Inc"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -244,25 +252,26 @@ STATUS: ---
 TEXT: 9434
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Pantera's"
-DLRAMT: ---
+ACQUIRED: "Pantera's Corp"
+DLRAMT: "dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 
 TEXT: 9443
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Allied-Signal"
-DLRAMT: ---
+ACQBUS: "electronics"
+ACQLOC: "Germany"
+ACQUIRED: "Allied-Signal Inc"
+DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 
 TEXT: 9544
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Husky Oil"
+ACQUIRED: "Ltd"
+ACQUIRED: "Oil"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -271,17 +280,17 @@ STATUS: ---
 TEXT: 9557
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Helm Resources"
+ACQUIRED: "Resources"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "sold"
 
 TEXT: 963
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Bryson Oil and Gas"
-DLRAMT: ---
+ACQUIRED: "Oil"
+DLRAMT: "dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: ---
@@ -289,7 +298,7 @@ STATUS: ---
 TEXT: 9661
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: ---
+ACQUIRED: "Clabir Corp"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -298,17 +307,18 @@ STATUS: ---
 TEXT: 9677
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Genova"
+ACQUIRED: "Genova Inc"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreement"
 
 TEXT: 9733
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Petroleum Co"
-DLRAMT: ---
+ACQUIRED: "America"
+ACQUIRED: "Petroleum"
+DLRAMT: "dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: ---
@@ -316,11 +326,12 @@ STATUS: ---
 TEXT: 9809
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Mickelberry"
-DLRAMT: ---
+ACQUIRED: "C"
+ACQUIRED: "Mickelberry Corp"
+DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "completed"
 
 TEXT: 982
 ACQBUS: ---
@@ -336,16 +347,19 @@ ACQBUS: ---
 ACQLOC: ---
 ACQUIRED: ---
 DLRAMT: ---
-PURCHASER: ---
+PURCHASER: "Group"
+PURCHASER: "Holdings"
 SELLER: ---
 STATUS: ---
 
 TEXT: 9893
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: ---
-DLRAMT: ---
+ACQUIRED: "Cross"
+ACQUIRED: "division"
+DLRAMT: "dlrs"
+DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
 

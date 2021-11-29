@@ -54,7 +54,7 @@ def main():
         featuresSet.add(word)
 
     outputFilename = filename + ".templates"
-    analyzeFileList(pathList, fileList,featuresSet,outputFilename)
+    analyzeFileListOriginal(pathList, fileList,featuresSet,outputFilename)
     #print(pathList)
     #print(fileList)
 
@@ -79,42 +79,47 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
     print("Analyzing file list")
 
     fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
+    fullBasicLabelList = ['ACQUIRED','ACQLOC','ACQBUS','DLRAMT','PURCHASER','SELLER','STATUS','O']
     defaultOBalance = 100
 
-    acquiredList = [3,defaultOBalance,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']]
+    acquiredList = [3,math.inf,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']]
     acqbusList = [3,defaultOBalance,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']]
     acqlocList = [3,defaultOBalance,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']]
     dlrAndStatusList = [3,math.inf,fullLabelList,['DLRAMT','STATUS']]
     purchaserList = [3,defaultOBalance,fullLabelList,['PURCHASER']]
     sellerList = [3,defaultOBalance,['B-SELLER','I-SELLER','O'],['SELLER']]
-
-   
+    tryEverythingList = [2,math.inf,fullLabelList,fullBasicLabelList]
+    
 
     print("TRAINING MODELS")
-    
-#    modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[2],featuresSet,acquiredList[1])
-#    acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
-    print("1 model trained")
 
-#    modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[2],featuresSet,acqbusList[1])
-#    acqbusList.extend([modelACQBUS,vectorizerACQBUS])
+    
+    modelEVERYTHING, vectorizerEVERYTHING = fullMLModelPipeline(tryEverythingList[0],tryEverythingList[2],featuresSet,tryEverythingList[1])
+    tryEverythingList.extend([modelEVERYTHING,vectorizerEVERYTHING])
+    
+    #modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[2],featuresSet,acquiredList[1])
+    #acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
+    #print("1 model trained")
+
+    modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[2],featuresSet,acqbusList[1])
+    acqbusList.extend([modelACQBUS,vectorizerACQBUS])
     print("2 models trained")
     
-#    modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[2],featuresSet,acqlocList[1])
-#    acqlocList.extend([modelACQLOC,vectorizerACQLOC])
+    modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[2],featuresSet,acqlocList[1])
+    acqlocList.extend([modelACQLOC,vectorizerACQLOC])
     print("3 models trained")
 
     modelDLRSTATUS, vectorizerDLRSTATUS = fullMLModelPipeline(dlrAndStatusList[0],dlrAndStatusList[2],featuresSet,dlrAndStatusList[1])
     dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
     print("4 models trained")
 
-#    modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet,purchaserList[1])
-#    purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
+    modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet,purchaserList[1])
+    purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
     print("5 models trained")
 
 
-#    modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[2],featuresSet,sellerList[1])
-#    sellerList.extend([modelSELLER,vectorizerSELLER])
+    modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[2],featuresSet,sellerList[1])
+    sellerList.extend([modelSELLER,vectorizerSELLER])
     print("6 models trained")
 
     
@@ -127,7 +132,8 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
 
     
     #modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
-    modelValsList = [dlrAndStatusList]
+    #modelValsList = [dlrAndStatusList]
+    modelValsList = [tryEverythingList]
     #modelValsList = [sellerList]
 
 
@@ -302,7 +308,7 @@ def analyzeFile(filePath, featuresSet,docListName, modelValsList):
 
 
 #This needs to be changed!!!
-def analyzeFileOriginal(filePath, model,featuresSet, dictVectorizer,docListName):
+def analyzeFileOriginal(filePath, model,featuresSet, dictVectorizer,docListName,contextRange,labelList,counterMax):
     #filePath = r"C:\Users\bearl\Documents\Fall 2021\CS 5340\Final Project\5340Project\development-docs\369.txt" #"C:\\Users\\bearl\\Documents\\Fall 2021\\CS 5340\\Final Project\\5340Project\\development-docs\\369.txt'"
     print("Analyzing file: " + filePath)
 
@@ -312,7 +318,7 @@ def analyzeFileOriginal(filePath, model,featuresSet, dictVectorizer,docListName)
 
     #Then, we need to produce a vector list for those words
 
-    unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False)
+    unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False,contextRange,labelList,counterMax)
     #fileVectorList = mlFeatureExtractor.produceVectorList()
 
     wordsDataFrame = pd.DataFrame(unlabeledWordsData)
@@ -431,8 +437,20 @@ def analyzeFileOriginal(filePath, model,featuresSet, dictVectorizer,docListName)
             outputDoc.write(classification + "\n")
         outputDoc.write("\n")
 
-def analyzeFileListOriginal(pathList,fileList, model,featuresSet, dictVectorizer,docListName):
+def analyzeFileListOriginal(pathList,fileList, featuresSet,docListName):
     print("Analyzing file list")
+
+
+    fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
+    fullBasicLabelList = ['ACQUIRED','ACQLOC','ACQBUS','DLRAMT','PURCHASER','SELLER','STATUS','O']
+    defaultOBalance = 100
+    tryEverythingList = [2,math.inf,fullLabelList,fullBasicLabelList]
+    
+
+    print("TRAINING MODELS")
+
+    
+    modelEVERYTHING, vectorizerEVERYTHING = fullMLModelPipeline(tryEverythingList[0],tryEverythingList[2],featuresSet,tryEverythingList[1])
 
     open(docListName, 'w').close() #This ensures we're writing to a blank file
     i = 0 
@@ -443,7 +461,7 @@ def analyzeFileListOriginal(pathList,fileList, model,featuresSet, dictVectorizer
 
         filePath = os.path.join(pathList[i], fileList[i])
 
-        analyzeFileOriginal(filePath, model, featuresSet, dictVectorizer,docListName)
+        analyzeFileOriginal(filePath, modelEVERYTHING, featuresSet, vectorizerEVERYTHING,docListName,tryEverythingList[0],tryEverythingList[2],tryEverythingList[1])
         i+=1
 
 #def makeTemplates():
