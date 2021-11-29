@@ -94,29 +94,34 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
 def analyzeFile(filePath, featuresSet,docListName):
     print("Analyzing file:" + filePath)
 
-    #So, first we need a list of unlabeled words
-    wordsList = mlDataProcessor.produceUntaggedWordList(filePath)
-
-    #Then, we need to produce a vector list for those words
-
-    unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False)
-    #fileVectorList = mlFeatureExtractor.produceVectorList()
-
-    wordsDataFrame = pd.DataFrame(unlabeledWordsData)
-    #print(wordsData)
+   
 
     tempFeatureList = ['LABEL','WORD','WORD+1','WORD-1','ABBR', 'CAP', 'NUM','LOC','PREF','SUFF','PREP','NERTAG','NEXTWORDS','PREVWORDS'] #'LABEL+1','LABEL-1'
     #tempFeatureList.insert(0,'LABEL')
 
     #print("Feature list" + str(tempFeatureList))
-    mlDataProcessor.writeToCSV("temp.csv",tempFeatureList,unlabeledWordsData)
-
-    test_df, test_labels = mlModified.read_csv_for_ml("temp.csv", list(featuresSet))
-
 
     finalClassifications = []
 
     def classifier(classifierContextRange,classifierLabelList,labelsToExtract):
+         #So, first we need a list of unlabeled words
+        wordsList = mlDataProcessor.produceUntaggedWordList(filePath)
+
+        #Then, we need to produce a vector list for those words
+
+        unlabeledWordsData = mlDataProcessor.produceVectorList(wordsList, False, classifierContextRange, classifierLabelList)
+        #fileVectorList = mlFeatureExtractor.produceVectorList()
+
+        wordsDataFrame = pd.DataFrame(unlabeledWordsData)
+        #print(wordsData)
+        mlDataProcessor.writeToCSV("temp.csv",tempFeatureList,unlabeledWordsData)
+        test_df, test_labels = mlModified.read_csv_for_ml("temp.csv", list(featuresSet))
+
+
+
+
+
+
         model, dictVectorizer = fullMLModelPipeline(classifierContextRange,classifierLabelList,featuresSet)
         vec_test_data = mlModified.vectorizeTestData(test_df,dictVectorizer)
         predictions = model.predict(vec_test_data) #Perform predictions with the model
@@ -216,13 +221,14 @@ def analyzeFile(filePath, featuresSet,docListName):
         
     finalClassifications.sort()
 
-    #print(finalClassifications)
+    print("FILE CLASSIFIED")
 
     with open(docListName, "a") as outputDoc:
         outputDoc.write(str(textTitle) + "\n")
         for classification in finalClassifications:
             outputDoc.write(classification + "\n")
         outputDoc.write("\n")
+
 
 
 #This needs to be changed!!!
