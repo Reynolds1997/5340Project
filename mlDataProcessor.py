@@ -16,10 +16,6 @@ import spacy
 import math
 
 
-
-
-
-
 def isAbbreviation(word):
     if(word[-1] == '.'):
         if(len(word) <= 4):
