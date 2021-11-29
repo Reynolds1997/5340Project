@@ -79,7 +79,7 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
     print("Analyzing file list")
 
     fullLabelList = ['B-ACQUIRED','I-ACQUIRED','B-ACQBUS','I-ACQBUS','B-ACQLOC','I-ACQLOC','B-DLRAMT','I-DLRAMT','B-PURCHASER','I-PURCHASER','B-SELLER','I-SELLER','B-STATUS','I-STATUS','O']
-    defaultOBalance = 20
+    defaultOBalance = 100
 
     acquiredList = [3,defaultOBalance,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']]
     acqbusList = [3,defaultOBalance,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']]
@@ -91,15 +91,15 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
    
 
     print("TRAINING MODELS")
-   # modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[2],featuresSet,acquiredList[1])
+    modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[2],featuresSet,acquiredList[1])
     print("1 model trained")
-   # modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[2],featuresSet,acqbusList[1])
+    modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[2],featuresSet,acqbusList[1])
     print("2 models trained")
-   # modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[2],featuresSet,acqlocList[1])
+    modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[2],featuresSet,acqlocList[1])
     print("3 models trained")
-   # modelDLRSTATUS, vectorizerDLRSTATUS = fullMLModelPipeline(dlrAndStatusList[0],dlrAndStatusList[2],featuresSet,dlrAndStatusList[1])
+    modelDLRSTATUS, vectorizerDLRSTATUS = fullMLModelPipeline(dlrAndStatusList[0],dlrAndStatusList[2],featuresSet,dlrAndStatusList[1])
     print("4 models trained")
-   # modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet,purchaserList[1])
+    modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet,purchaserList[1])
     print("5 models trained")
     modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[2],featuresSet,sellerList[1])
     print("6 models trained")
