@@ -167,7 +167,7 @@ def analyzeFile(filePath, featuresSet,docListName):
     classifier(3,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']) #ACQBUS
     classifier(3,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']) #ACQLOC
     classifier(math.inf,fullLabelList,['DLRAMT','STATUS']) #DLRAMT and STATUS
-    classifier(3,['B-PURCHASER','I-PURCHASER','O'],['PURCHASER']) #PURCHASER
+    classifier(7,fullLabelList,['PURCHASER']) #PURCHASER
     classifier(3,['B-SELLER','I-SELLER','O'],['SELLER']) #SELLER
     #classifier(3,['B-STATUS','I-STATUS','O']) #STATUS
     #VARIABLES FOR MODIFYING CLASSIFIER VARIABLES SHOULD GO IN THESE METHOD CALLS ABOVE
