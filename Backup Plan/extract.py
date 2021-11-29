@@ -1,6 +1,7 @@
 import spacy
 import sys
 import os
+import entitySlotClassifier
 
 
 #Our wrapper.
@@ -27,7 +28,7 @@ def analyzeFile(filePath):
 
     slotItems = [["ACQUIRED"],["ACQBUS"],["ACQLOC"],["DLRAMT"],["PURCHASER"],["SELLER"],["STATUS"]]
 
-    slotItems = classifyNEREntities(nerEntityList,rawTextString, slotItems)
+    slotItems = entitySlotClassifier.classifyNEREntities(nerEntityList,rawTextString, slotItems)
     slotItems = classifyStatus(slotItems)
 
     textTemplate = formatSlots(slotItems)
@@ -50,21 +51,6 @@ def spacyNER(textString):
         entList.append([ent.text, ent.label_])
 
     return entList
-
-#Classifies NER entities
-def classifyNEREntities(nerEntities, rawText, entityLabelList):
-
-    
-    print("Running entity slot classifier")
-    print(nerEntities)
-
-    for entity in nerEntities:
-        entityWord = entity[0]
-        entityLabel = entity[1]
-        #if entityLabel == "ORG":
-        #if entityLabel == "GPE"
-        #if entityLabel
-        entityLabelList[2].append(entityWord) #For now, we throw everything under the location label
 
 def classifyStatus(slotItems):
     print("Checking for status slot candidates")
