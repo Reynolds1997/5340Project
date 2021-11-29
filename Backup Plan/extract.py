@@ -4,6 +4,8 @@ import os
 import entitySlotClassifier
 
 
+
+
 #Our wrapper.
 def main():
     print("Running Main")
@@ -33,9 +35,6 @@ def analyzeFile(filePath):
 
     textTemplate = formatSlots(slotItems)
 
-def formatSlots(slotItems):
-    print(slotItems)
-
 
 def spacyNER(textString):
     #print(textString)
@@ -52,6 +51,7 @@ def spacyNER(textString):
 
     return entList
 
+
 def classifyStatus(slotItems):
     print("Checking for status slot candidates")
     #Turn file into a lowercase string.
@@ -61,4 +61,8 @@ def classifyStatus(slotItems):
     #If a substring from statuses.txt appears in the text, use that substring.
 
 
+def formatSlots(slotItems):
+    print(slotItems)
+
+    
 main()
