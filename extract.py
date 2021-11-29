@@ -84,36 +84,50 @@ def analyzeFileList(pathList,fileList,featuresSet,docListName):
     acquiredList = [3,defaultOBalance,['B-ACQUIRED','I-ACQUIRED','O'],['ACQUIRED']]
     acqbusList = [3,defaultOBalance,['B-ACQBUS','I-ACQBUS','O'],['ACQBUS']]
     acqlocList = [3,defaultOBalance,['B-ACQLOC','I-ACQLOC','O'],['ACQLOC']]
-    dlrAndStatusList = [3,defaultOBalance,fullLabelList,['DLRAMT','STATUS']]
+    dlrAndStatusList = [3,math.inf,fullLabelList,['DLRAMT','STATUS']]
     purchaserList = [3,defaultOBalance,fullLabelList,['PURCHASER']]
     sellerList = [3,defaultOBalance,['B-SELLER','I-SELLER','O'],['SELLER']]
 
    
 
     print("TRAINING MODELS")
-    modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[2],featuresSet,acquiredList[1])
+    
+#    modelACQUIRED, vectorizerACQUIRED = fullMLModelPipeline(acquiredList[0],acquiredList[2],featuresSet,acquiredList[1])
+#    acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
     print("1 model trained")
-    modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[2],featuresSet,acqbusList[1])
+
+#    modelACQBUS, vectorizerACQBUS = fullMLModelPipeline(acqbusList[0],acqbusList[2],featuresSet,acqbusList[1])
+#    acqbusList.extend([modelACQBUS,vectorizerACQBUS])
     print("2 models trained")
-    modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[2],featuresSet,acqlocList[1])
+    
+#    modelACQLOC, vectorizerACQLOC = fullMLModelPipeline(acqlocList[0],acqlocList[2],featuresSet,acqlocList[1])
+#    acqlocList.extend([modelACQLOC,vectorizerACQLOC])
     print("3 models trained")
+
     modelDLRSTATUS, vectorizerDLRSTATUS = fullMLModelPipeline(dlrAndStatusList[0],dlrAndStatusList[2],featuresSet,dlrAndStatusList[1])
+    dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
     print("4 models trained")
-    modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet,purchaserList[1])
+
+#    modelPURCHASER, vectorizerPURCHASER = fullMLModelPipeline(purchaserList[0],purchaserList[1],featuresSet,purchaserList[1])
+#    purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
     print("5 models trained")
-    modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[2],featuresSet,sellerList[1])
+
+
+#    modelSELLER, vectorizerSELLER = fullMLModelPipeline(sellerList[0],sellerList[2],featuresSet,sellerList[1])
+#    sellerList.extend([modelSELLER,vectorizerSELLER])
     print("6 models trained")
 
-    acquiredList.extend([modelACQUIRED,vectorizerACQUIRED])
-    acqbusList.extend([modelACQBUS,vectorizerACQBUS])
-    acqlocList.extend([modelACQLOC,vectorizerACQLOC])
-    dlrAndStatusList.extend([modelDLRSTATUS,vectorizerDLRSTATUS])
-    purchaserList.extend([modelPURCHASER,vectorizerPURCHASER])
-    sellerList.extend([modelSELLER,vectorizerSELLER])
+    
+    
+    
+    
+    
+    
 
 
     
-    modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
+    #modelValsList = [acquiredList, acqbusList, acqlocList, dlrAndStatusList, purchaserList, sellerList]
+    modelValsList = [dlrAndStatusList]
     #modelValsList = [sellerList]
 
 

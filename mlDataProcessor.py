@@ -302,6 +302,7 @@ def produceVectorList(wordList,unlabeled,contextRange,labelList, counterMax):
 
 
             labelVal = wordList[i][1] #The word label
+            labelVal = str(labelVal)
 
             if(labelVal not in labelList):
                 labelVal = "O"
