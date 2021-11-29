@@ -31,7 +31,7 @@ def main():
 
     trainingFileDirectory = r"development-anskeys"
     testFileDirectory = r"development-docs"
-    mlDataProcessor.main()
+    #mlDataProcessor.main()
 
     #print("STARTING")
     #Read input files, use them to make a pathList and a fileList.
