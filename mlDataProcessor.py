@@ -292,7 +292,7 @@ def produceVectorList(wordList,unlabeled,contextRange,labelList):
     
     vectorList = []
     i = 0
-    print(len(wordList))
+    #print(len(wordList))
     while i < len(wordList):
         
         wordVal = wordList[i][0] #The actual word
@@ -414,7 +414,7 @@ def produceVectorList(wordList,unlabeled,contextRange,labelList):
 
         i += 1
 
-    print(len(vectorList))
+    #print(len(vectorList))
     return vectorList
 
 def readFileIntoWordList(inputFile):
