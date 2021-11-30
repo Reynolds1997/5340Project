@@ -124,6 +124,8 @@ def main():
     
     createDocList(rawFilesLocation)
     combineKeyFiles(keyFilesLocation)
+
+    #megaKeyFile()
     
     createLabelFile("keysCombined.txt","STATUS","statuses.txt")
     createLabelFile("keysCombined.txt","ACQBUS","acqbuses.txt")
