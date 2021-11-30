@@ -8,9 +8,9 @@ ACQLOC: "Castone"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "terminate the letter of intent"
 STATUS: "announced"
+STATUS: "acquired"
 STATUS: "letter of intent"
 
 TEXT: 10066
@@ -24,9 +24,9 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed"
+STATUS: "agreed to withdraw"
 STATUS: "signed a letter of intent"
 STATUS: "letter of intent"
-STATUS: "agreed to withdraw"
 
 TEXT: 10158
 ACQUIRED: ---
@@ -36,7 +36,7 @@ ACQLOC: "American"
 ACQLOC: "Chapter 11"
 ACQLOC: "American Adventure"
 ACQLOC: "more than 83 mln"
-DLRAMT: ---
+DLRAMT: "83 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "purchased"
@@ -65,7 +65,8 @@ ACQLOC: "Capital Food"
 ACQLOC: "1986"
 ACQLOC: "more than 20"
 ACQLOC: "Ottawa"
-DLRAMT: ---
+DLRAMT: "20 mln dlrs"
+DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
@@ -75,13 +76,13 @@ ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: "about five"
 ACQLOC: "the year ended February 28"
-DLRAMT: ---
+DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement to sell"
-STATUS: "tentiative agreement"
-STATUS: "sold"
 STATUS: "agreement"
+STATUS: "agreement to sell"
+STATUS: "sold"
+STATUS: "tentiative agreement"
 STATUS: "ended"
 
 TEXT: 10348
@@ -105,11 +106,11 @@ STATUS: "selling"
 TEXT: 10371
 ACQUIRED: ---
 ACQBUS: "natural gas and oil fields"
-ACQBUS: "gold"
 ACQBUS: "natural gas"
-ACQBUS: "coal"
-ACQBUS: "gold and coal mines"
 ACQBUS: "mines"
+ACQBUS: "gold and coal mines"
+ACQBUS: "gold"
+ACQBUS: "coal"
 ACQLOC: "Union Miniere SA"
 ACQLOC: "eight"
 ACQLOC: "Pancontinental
@@ -121,15 +122,15 @@ ACQLOC: "Canada"
 ACQLOC: "Union Miniere"
 ACQLOC: "Societe
 Generale de Belgique"
-DLRAMT: ---
+DLRAMT: "1.2 billion Belgian francs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
 
 TEXT: 10473
 ACQUIRED: ---
-ACQBUS: "aerospace and defense"
 ACQBUS: "computer"
+ACQBUS: "aerospace and defense"
 ACQLOC: "Honeywell Inc"
 ACQLOC: "57.5"
 ACQLOC: "Honeywell Information
@@ -190,13 +191,13 @@ ACQLOC: "Bull"
 ACQLOC: "Honeywell Bull's"
 ACQLOC: "Jerome Meyer"
 ACQLOC: "Honeywell Information Systems"
-DLRAMT: ---
+DLRAMT: "527 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
+STATUS: "complete"
 STATUS: "agreement"
 STATUS: "purchased"
-STATUS: "complete"
 STATUS: "selling"
 
 TEXT: 10527
@@ -214,7 +215,8 @@ ACQLOC: "less than 30"
 ACQLOC: "Northwest Federal"
 ACQLOC: "LSB"
 ACQLOC: "the Federal Home Loan Bank Board"
-DLRAMT: ---
+DLRAMT: "1.5 mln dlrs"
+DLRAMT: "30 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreement"

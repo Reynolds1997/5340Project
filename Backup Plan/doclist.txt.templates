@@ -1,0 +1,2462 @@
+TEXT: 10025
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQBUS: "holding"
+ACQLOC: "First Wisconsin Corp"
+ACQLOC: "Shelard Bancshares Inc"
+ACQLOC: "about 25 mln"
+ACQLOC: "first"
+ACQLOC: "Minnesota"
+ACQLOC: "First Wisconsin"
+ACQLOC: "Shelard"
+ACQLOC: "two"
+ACQLOC: "168 mln"
+ACQLOC: "First Wisconsin"
+ACQLOC: "7.1 billion"
+ACQLOC: "dlrs"
+ACQLOC: "Shelard"
+ACQLOC: "about 12"
+ACQLOC: "1986"
+ACQLOC: "two"
+ACQLOC: "Shelard"
+ACQLOC: "five"
+ACQLOC: "Minneapolis"
+DLRAMT: "7.1 billion dlrs"
+DLRAMT: "25 mln dlrs"
+DLRAMT: "168 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 10335
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "39.3"
+ACQLOC: "N.Z. Dlr"
+ACQLOC: "Alcan"
+ACQLOC: "New Zealand Ltd"
+ACQLOC: "1.80"
+ACQLOC: "N.Z. Dlrs"
+ACQLOC: "four"
+ACQLOC: "three"
+ACQLOC: "70"
+ACQLOC: "Canada"
+ACQLOC: "Alcan Aluminium Ltd 
+"
+ACQLOC: "Alcan Australia"
+ACQLOC: "Jeremy Davis"
+ACQLOC: "Alcan"
+ACQLOC: "New Zealand's"
+ACQLOC: "21.84"
+ACQLOC: "Alcan Australia's"
+ACQLOC: "Alcan"
+ACQLOC: "1.55"
+ACQLOC: "Alcan"
+ACQLOC: "today"
+ACQLOC: "four cents"
+ACQLOC: "1.15"
+ACQLOC: "Davis"
+ACQLOC: "two"
+ACQLOC: "Alcan"
+ACQLOC: "New Zealand"
+ACQLOC: "10 cents"
+ACQLOC: "May 27"
+ACQLOC: "Alcan"
+ACQLOC: "Australia"
+ACQLOC: "New Zealand"
+ACQLOC: "New Zealand"
+ACQLOC: "Davis"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "ended"
+STATUS: "offer"
+
+TEXT: 11465
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Dusseldorf"
+ACQLOC: "West
+Germany"
+ACQLOC: "Occidental Petroleum Corp's"
+ACQLOC: "Occidental Chemical Corp"
+ACQLOC: "Diamond Shamrock Corp
+ "
+ACQLOC: "September"
+ACQLOC: "annual"
+ACQLOC: "about 160"
+DLRAMT: "160 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "complete"
+STATUS: "acquired"
+STATUS: "completed"
+
+TEXT: 11515
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chubb Corp"
+ACQLOC: "Sovereign Corp."
+ACQLOC: "Sovereign"
+ACQLOC: "0.1365"
+ACQLOC: "Chubb"
+ACQLOC: "Sovereign"
+ACQLOC: "Chubb"
+ACQLOC: "9.11"
+ACQLOC: "March 30"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 11553
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Sterling Drug Inc"
+ACQLOC: "Greene Dental Products Inc"
+ACQLOC: "Rinn
+Corp"
+ACQLOC: "Elgin"
+ACQLOC: "Ill."
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 12225
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQBUS: "diamond and gold"
+ACQBUS: "mines"
+ACQLOC: "Upland Minerals and Chemicals Corp"
+ACQLOC: "Consolidated Brazilian Mines International
+Inc"
+ACQLOC: "one mln acres"
+ACQLOC: "Brazil"
+ACQLOC: "42"
+ACQLOC: "three"
+ACQLOC: "Brazil"
+ACQLOC: "Gammara"
+ACQLOC: "Santo Antonio"
+ACQLOC: "Upland"
+ACQLOC: "Brazil"
+ACQLOC: "9.6 mln"
+ACQLOC: "a year"
+ACQLOC: "next 25 years"
+ACQLOC: "New York"
+ACQLOC: "Upland"
+DLRAMT: "one mln dlrs"
+DLRAMT: "9.6 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+
+TEXT: 12345
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQBUS: "oil and gas"
+ACQLOC: "M.D.C. Holdings Inc"
+ACQLOC: "Mizel"
+ACQLOC: "38"
+ACQLOC: "Parker"
+ACQLOC: "Midland"
+ACQLOC: "Texas"
+DLRAMT: "38 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 12390
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQBUS: "mines"
+ACQLOC: "Galveston Resources Ltd"
+ACQLOC: "50"
+ACQLOC: "Galveston"
+ACQLOC: "50"
+ACQLOC: "one"
+ACQLOC: "December 31, 1989"
+ACQLOC: "1987"
+ACQLOC: "Galveston"
+ACQLOC: "Hemlo Gold"
+ACQLOC: "two"
+ACQLOC: "Galveston"
+ACQLOC: "10"
+ACQLOC: "December 31, 1987"
+ACQLOC: "12.50"
+ACQLOC: "December
+31, 1988"
+ACQLOC: "15"
+ACQLOC: "December 31, 1989"
+ACQLOC: "Galveston"
+ACQLOC: "Noranda Inc"
+ACQLOC: "Noranda Explorations Ltd"
+ACQLOC: "50"
+ACQLOC: "the Baie Verte Peninsula"
+ACQLOC: "Newfoundland"
+ACQLOC: "Galveston"
+ACQLOC: "50"
+ACQLOC: "six"
+ACQLOC: "December 31, 1989"
+ACQLOC: "Noranda"
+ACQLOC: "two"
+ACQLOC: "Galveston"
+ACQLOC: "10"
+ACQLOC: "December 31, 1987"
+ACQLOC: "12.50"
+ACQLOC: "December
+31, 1988"
+ACQLOC: "15"
+ACQLOC: "December 31, 1989"
+DLRAMT: "one mln dlrs"
+DLRAMT: "two mln dlrs"
+DLRAMT: "six mln dlrs"
+DLRAMT: "two mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 12620
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Vernitron Corp"
+ACQLOC: "June"
+ACQLOC: "SB Holding Corp."
+ACQLOC: "Vernitron"
+ACQLOC: "May 15"
+ACQLOC: "the Securities and Exchange Commission"
+ACQLOC: "November 1986"
+ACQLOC: "SB Holding"
+ACQLOC: "54.7"
+ACQLOC: "Vernitron"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "record date"
+STATUS: "proposed"
+STATUS: "offer"
+
+TEXT: 12890
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Du Pont Co"
+ACQLOC: "Cleveland"
+ACQLOC: "two"
+ACQLOC: "the second quarter"
+ACQLOC: "less than 1/10"
+ACQLOC: "one"
+ACQLOC: "Du Pont's"
+ACQLOC: "annual"
+ACQLOC: "Volan"
+ACQLOC: "Du
+Pont"
+ACQLOC: "1866"
+ACQLOC: "Du Pont"
+ACQLOC: "1928"
+ACQLOC: "Du Pont"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreement"
+STATUS: "acquired"
+STATUS: "definitive agreement"
+STATUS: "agreed"
+
+TEXT: 12900
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "CWT Inc"
+ACQLOC: "60 days"
+ACQLOC: "CWT Inc"
+ACQLOC: "Midwest"
+ACQLOC: "annual"
+ACQLOC: "approximately 135"
+DLRAMT: "135 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 12933
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Allwaste Inc"
+ACQLOC: "1.98"
+DLRAMT: "1.98 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "acquired"
+STATUS: "agreed"
+
+TEXT: 12965
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Warburg"
+ACQLOC: "Pincus Capital Co L.P."
+ACQLOC: "Symbion
+Inc"
+ACQLOC: "3.50-dlr-per"
+ACQLOC: "the Securities and Exchange Commission"
+ACQLOC: "Warburg Pincus"
+ACQLOC: "one"
+ACQLOC: "Rodman Moorhead"
+ACQLOC: "Symbion"
+ACQLOC: "April 1"
+ACQLOC: "Symbion"
+ACQLOC: "L.F. Rothschild"
+ACQLOC: "Unterberg"
+ACQLOC: "Towbin Inc."
+ACQLOC: "Warburg Pincus"
+ACQLOC: "3.50 dlr"
+ACQLOC: "Rothschild"
+ACQLOC: "Warburg Pincus"
+ACQLOC: "Warburg Pincus
+"
+ACQLOC: "Last Month"
+ACQLOC: "Warburg Pincus"
+ACQLOC: "2.5"
+ACQLOC: "Symbion"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "offer"
+
+TEXT: 13005
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: "Swiss
+Reinsurance Co"
+ACQLOC: "Zurich"
+ACQLOC: "Switzerland"
+ACQLOC: "Swiss Re"
+ACQLOC: "5.5"
+ACQLOC: "CIS"
+ACQLOC: "2.50"
+ACQLOC: "13.8 mln"
+ACQLOC: "30"
+ACQLOC: "500,000"
+ACQLOC: "June 11"
+DLRAMT: "5.5 mln dlrs"
+DLRAMT: "13.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "bought"
+STATUS: "complete"
+STATUS: "will acquire"
+STATUS: "completed"
+
+TEXT: 13060
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Regal International Inc"
+ACQLOC: "Bell"
+ACQLOC: "Regal"
+ACQLOC: "Bankruptcy"
+ACQLOC: "Bell"
+ACQLOC: "Chapter 11"
+ACQLOC: "the end of"
+ACQLOC: "Bell"
+ACQLOC: "third"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "agreed"
+
+TEXT: 13090
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Kroger Co"
+ACQLOC: "nine"
+ACQLOC: "Dallas"
+ACQLOC: "Safeway Stores
+Inc"
+ACQLOC: "141"
+ACQLOC: "Kroger"
+ACQLOC: "one"
+ACQLOC: "late April"
+ACQLOC: "Kroger"
+ACQLOC: "Dallas"
+ACQLOC: "75"
+ACQLOC: "more than 1,300"
+ACQLOC: "20"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 13095
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Metalicos"
+ACQLOC: "Spain"
+ACQLOC: "2,205 francs"
+ACQLOC: "French"
+ACQLOC: "Duffour"
+ACQLOC: "2,100 franc"
+ACQLOC: "yesterday"
+ACQLOC: "France"
+ACQLOC: "French"
+ACQLOC: "U.S."
+ACQLOC: "Union Carbide Corp"
+ACQLOC: "Igon"
+ACQLOC: "133,100"
+ACQLOC: "100 francs"
+ACQLOC: "856 francs"
+ACQLOC: "January 9"
+ACQLOC: "Banque Paribas"
+ACQLOC: "Carburos Metalicos"
+ACQLOC: "Union
+Carbide"
+ACQLOC: "France"
+ACQLOC: "Rothschild"
+ACQLOC: "Igon"
+ACQLOC: "April 6"
+ACQLOC: "7"
+ACQLOC: "April 8"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "ended"
+STATUS: "announced"
+
+TEXT: 13265
+ACQUIRED: ---
+ACQBUS: "natural gas"
+ACQBUS: "holding"
+ACQBUS: "oil and gas"
+ACQLOC: "The Australian Gas Light Co"
+ACQLOC: "AGL"
+ACQLOC: "one"
+ACQLOC: "one"
+ACQLOC: "two"
+ACQLOC: "TMOC Resources Ltd"
+ACQLOC: "Santos Ltd"
+ACQLOC: "4.75"
+ACQLOC: "AGL"
+ACQLOC: "8.50"
+ACQLOC: "Friday"
+ACQLOC: "4.60"
+ACQLOC: "Friday"
+ACQLOC: "4.15"
+ACQLOC: "AGL"
+ACQLOC: "third"
+ACQLOC: "this year"
+ACQLOC: "Santos"
+ACQLOC: "4.00"
+ACQLOC: "TMOC"
+ACQLOC: "62.08"
+ACQLOC: "AGL"
+ACQLOC: "249.9"
+ACQLOC: "AGL"
+ACQLOC: "10.5"
+ACQLOC: "Santos"
+ACQLOC: "3.1"
+ACQLOC: "March 23"
+ACQLOC: "Elders Resources Ltd"
+ACQLOC: "TMOC"
+ACQLOC: "three months ago"
+ACQLOC: "2.55"
+ACQLOC: "AGL"
+ACQLOC: "Elders Resources"
+ACQLOC: "AGL"
+ACQLOC: "TMOC"
+ACQLOC: "AGL"
+ACQLOC: "one"
+ACQLOC: "AGL"
+ACQLOC: "Alice"
+ACQLOC: "Darwin"
+ACQLOC: "AGL"
+ACQLOC: "AGL"
+ACQLOC: "TMOC
+"
+ACQLOC: "Queensland"
+ACQLOC: "Moonie"
+ACQLOC: "the Northern Territory"
+ACQLOC: "43.75"
+ACQLOC: "Mereenie"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "announced"
+STATUS: "rejection"
+STATUS: "will offer"
+STATUS: "offer"
+STATUS: "reject"
+
+TEXT: 135
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Miami"
+ACQLOC: "Fundamental Management Corp"
+ACQLOC: "Robeson Industries Corp"
+ACQLOC: "238,000"
+ACQLOC: "14.6"
+ACQLOC: "205,000"
+ACQLOC: "12.8"
+ACQLOC: "the Securities and Exchange Commission"
+ACQLOC: "32,800"
+ACQLOC: "Jan 26"
+ACQLOC: "175,691"
+ACQLOC: "Carl Singer"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "raised its stake"
+STATUS: "bought"
+
+TEXT: 13790
+ACQUIRED: ---
+ACQBUS: "courier"
+ACQLOC: "E.F. Hutton Group Inc"
+ACQLOC: "EFH"
+ACQLOC: "Hutton"
+ACQLOC: "Courier Corp"
+ACQLOC: "35-dlr-per"
+ACQLOC: "April 13"
+ACQLOC: "Hutton"
+ACQLOC: "less than"
+ACQLOC: "Emery"
+ACQLOC: "Yesterday"
+ACQLOC: "Hutton"
+ACQLOC: "Acquisition Corp"
+ACQLOC: "midnight"
+ACQLOC: "two more days"
+ACQLOC: "only about 450,000"
+ACQLOC: "6.5"
+ACQLOC: "11.5"
+ACQLOC: "April 28"
+ACQLOC: "Acquisition"
+ACQLOC: "Emery"
+ACQLOC: "Emery"
+ACQLOC: "Purolatr"
+ACQLOC: "51"
+ACQLOC: "PC Acquisition's"
+ACQLOC: "Emery"
+DLRAMT: "three mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "ended"
+STATUS: "agreement"
+STATUS: "expired"
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "entered into an agreement"
+STATUS: "agreed"
+
+TEXT: 14900
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Monier Ltd"
+ACQLOC: "Britain"
+ACQLOC: "Redland Plc"
+ACQLOC: "Bill Locke
+"
+ACQLOC: "Redland"
+ACQLOC: "about 49"
+ACQLOC: "Monier"
+ACQLOC: "156.28"
+ACQLOC: "Locke"
+ACQLOC: "1987"
+ACQLOC: "3.10"
+ACQLOC: "today"
+ACQLOC: "2.80"
+ACQLOC: "yesterday"
+ACQLOC: "1987"
+ACQLOC: "2.18"
+ACQLOC: "Monier"
+ACQLOC: "Australia"
+ACQLOC: "U.S."
+ACQLOC: "New Zealand"
+ACQLOC: "annual"
+ACQLOC: "1985/86"
+ACQLOC: "June 30"
+ACQLOC: "first-half 1986/87"
+ACQLOC: "15.02"
+ACQLOC: "17.09"
+ACQLOC: "a year earlier"
+ACQLOC: "Australian"
+DLRAMT: "156.28 mln dlrs"
+DLRAMT: "15.02 mln dlrs"
+DLRAMT: "17.09 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+
+TEXT: 15210
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Datron Corp"
+ACQLOC: "GGHF Inc"
+ACQLOC: "Florida"
+ACQLOC: "four"
+ACQLOC: "Datron"
+ACQLOC: "four"
+ACQLOC: "six"
+ACQLOC: "Datron"
+ACQLOC: "about 73"
+ACQLOC: "896,000"
+ACQLOC: "GGHF"
+ACQLOC: "first"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "agreed"
+
+TEXT: 15545
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQBUS: "holding"
+ACQLOC: "Italian"
+ACQLOC: "today"
+ACQLOC: "12"
+ACQLOC: "Nuovo Banco Ambrosiano Spa"
+ACQLOC: "Italian"
+ACQLOC: "La Repubblica"
+ACQLOC: "Gemina"
+ACQLOC: "205
+billion lire"
+ACQLOC: "Italian"
+ACQLOC: "Gemina"
+ACQLOC: "Reuters"
+ACQLOC: "Milan"
+ACQLOC: "Ambrosiano"
+ACQLOC: "February"
+ACQLOC: "Ambrosiano"
+ACQLOC: "Giovanni Bazoli"
+ACQLOC: "REUTER"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 15575
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Zenex Oil Pty Ltd"
+ACQLOC: "Esso South Africa"
+ACQLOC: "Exxon Corp"
+ACQLOC: "Zenex"
+ACQLOC: "Exxon"
+ACQLOC: "Esso"
+ACQLOC: "Zenex"
+ACQLOC: "John
+Truscott"
+ACQLOC: "Exxon"
+ACQLOC: "Africa"
+ACQLOC: "last December"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "acquired"
+
+TEXT: 15600
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "the Securities
+and Exchange Commission"
+ACQLOC: "GenCorp Inc"
+ACQLOC: "8.6"
+ACQLOC: "9.8"
+ACQLOC: "250,000"
+ACQLOC: "118.5"
+ACQLOC: "GC Holdings Inc"
+ACQLOC: "General Acquisitions Inc"
+ACQLOC: "yesterday"
+ACQLOC: "GenCorp"
+ACQLOC: "up to 130"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "selling"
+STATUS: "bid"
+
+TEXT: 15970
+ACQUIRED: ---
+ACQBUS: "computer"
+ACQLOC: "McDonnell Douglas Corp"
+ACQLOC: "Frampton Computer Services Ltd"
+ACQLOC: "British"
+ACQLOC: "Isis"
+ACQLOC: "Bristol"
+ACQLOC: "England"
+ACQLOC: "65"
+ACQLOC: "annual"
+ACQLOC: "about five"
+ACQLOC: "McDonnell Douglas"
+ACQLOC: "Isis"
+ACQLOC: "McDonnell Douglas Information Systems International"
+DLRAMT: "five mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 16215
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQBUS: "oil and gas"
+ACQLOC: "3.22 billion dlr"
+ACQLOC: "Dome
+Petroleum Ltd  "
+ACQLOC: "TransCanada Pipelines Ltd"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+ACQLOC: "more than 4.5 billion"
+ACQLOC: "July 1, 1987"
+ACQLOC: "Canadian"
+ACQLOC: "TransCanada"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+ACQLOC: "56"
+ACQLOC: "March"
+ACQLOC: "several months"
+ACQLOC: "TransCanada"
+ACQLOC: "Doug Gowland"
+ACQLOC: "Brown Baldwin Nisker
+Ltd"
+ACQLOC: "Toronto"
+ACQLOC: "Calgary"
+ACQLOC: "Dome"
+ACQLOC: "Wilf Gobert"
+ACQLOC: "Peters"
+ACQLOC: "Co Ltd"
+ACQLOC: "TransCanada"
+ACQLOC: "Gobert"
+ACQLOC: "TransCanada"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+ACQLOC: "Gobert"
+ACQLOC: "David Annesley"
+ACQLOC: "New York"
+ACQLOC: "TransCanada"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+ACQLOC: "TransCanada"
+ACQLOC: "two"
+ACQLOC: "TransCanada"
+ACQLOC: "Dome"
+ACQLOC: "TransCanada"
+ACQLOC: "Gowland"
+ACQLOC: "TransCanada"
+ACQLOC: "36.1 mln acres"
+ACQLOC: "Dome"
+ACQLOC: "TransCanada"
+DLRAMT: "3.22 billion dlrs"
+DLRAMT: "4.5 billion dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "proposed"
+STATUS: "offer"
+
+TEXT: 16370
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "brokerage"
+ACQLOC: "Albert Kahn"
+ACQLOC: "Trans-Lux Corp"
+ACQLOC: "8.9"
+ACQLOC: "8.1"
+ACQLOC: "Kahn"
+ACQLOC: "an additional 7,300"
+ACQLOC: "100,000"
+ACQLOC: "nine"
+ACQLOC: "2005"
+ACQLOC: "6,803"
+ACQLOC: "Kahn"
+ACQLOC: "annual"
+ACQLOC: "Kahn"
+ACQLOC: "Delaware"
+ACQLOC: "Connecticut"
+ACQLOC: "Kahn"
+ACQLOC: "Miami"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+STATUS: "considering"
+
+TEXT: 16465
+ACQUIRED: ---
+ACQBUS: "computer software"
+ACQBUS: "computer"
+ACQLOC: "Haba Systems Inc."
+ACQLOC: "4.1"
+DLRAMT: "4.1 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 16475
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "U.S."
+ACQLOC: "Canada"
+ACQLOC: "TransCanada PipeLines Ltd 
+"
+ACQLOC: "4.3 billion Canadian dlr"
+ACQLOC: "Dome and Dome"
+ACQLOC: "two"
+ACQLOC: "two"
+ACQLOC: "Canadian"
+ACQLOC: "DuPont"
+ACQLOC: "Conoco"
+ACQLOC: "Wilf Gobert"
+ACQLOC: "Co Ltd"
+ACQLOC: "1/4"
+ACQLOC: "1-1/8"
+ACQLOC: "the American Stock Exchange"
+ACQLOC: "TransCanada PipeLines"
+ACQLOC: "1/4"
+ACQLOC: "15-3/4"
+ACQLOC: "New York"
+ACQLOC: "Dome"
+ACQLOC: "Toronto"
+ACQLOC: "1.50"
+ACQLOC: "37"
+ACQLOC: "Gobert"
+ACQLOC: "Dome"
+ACQLOC: "TransCanada PipeLines'"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+ACQLOC: "20"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "offer"
+
+TEXT: 16510
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Accountemps"
+ACQLOC: "New England"
+ACQLOC: "four"
+ACQLOC: "Boston"
+ACQLOC: "Eastern Massachusetts"
+ACQLOC: "one"
+ACQLOC: "Providence"
+ACQLOC: "R.I.
+    Boothe"
+ACQLOC: "Robert
+Half"
+ACQLOC: "International Inc"
+ACQLOC: "the Robert Half"
+ACQLOC: "U.S."
+ACQLOC: "Robert Half International"
+ACQLOC: "about 59"
+DLRAMT: "59 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "acquired"
+
+TEXT: 16555
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "RJR Nabisco Inc's"
+ACQLOC: "RJ
+Reynolds Tobacco USA"
+ACQLOC: "Winchester Little Cigar Business to Tobacco
+Exporters International USA Ltd"
+ACQLOC: "Atlanta"
+ACQLOC: "U.S."
+ACQLOC: "Rothman's International PLC"
+ACQLOC: "Last week"
+ACQLOC: "RJ Reynolds"
+ACQLOC: "four"
+ACQLOC: "Winchester"
+ACQLOC: "Rj Reynolds Tobacco USA's"
+ACQLOC: "4.7 billion"
+ACQLOC: "1986"
+ACQLOC: "Reynolds"
+ACQLOC: "April
+24"
+ACQLOC: "Reynolds"
+ACQLOC: "Winchester"
+ACQLOC: "1971"
+DLRAMT: "4.7 billion dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "agreement to sell"
+STATUS: "complete"
+STATUS: "definitive agreement"
+STATUS: "completed"
+
+TEXT: 16695
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQBUS: "computer"
+ACQLOC: "Texas Air Corp's"
+ACQLOC: "Eastern Airlines"
+ACQLOC: "SystemOne Direct Access Inc"
+ACQLOC: "EAL Automation
+Systems Inc"
+ACQLOC: "SystemOne Corp"
+ACQLOC: "Texas Air Corp."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 16700
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Fidelity International Ltd"
+ACQLOC: "American"
+ACQLOC: "208,000"
+ACQLOC: "Blasius Industries Inc."
+ACQLOC: "the Securities and Exchange Commission"
+ACQLOC: "5.3"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+STATUS: "acquired"
+
+TEXT: 17110
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Frenchman Hubert"
+ACQLOC: "Perrodo"
+ACQLOC: "51"
+ACQLOC: "Torrance"
+ACQLOC: "California"
+ACQLOC: "five"
+ACQLOC: "Petranol"
+ACQLOC: "U.S."
+ACQLOC: "Petranol"
+ACQLOC: "U.S."
+DLRAMT: "five mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "acquired"
+
+TEXT: 17595
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Vancouver"
+ACQLOC: "Canadian"
+ACQLOC: "Coca-Cola Co
+ "
+ACQLOC: "60
+days"
+ACQLOC: "Coca-Cola"
+ACQLOC: "1,600,000"
+ACQLOC: "Coke Consolidated"
+ACQLOC: "about 200"
+ACQLOC: "325 mln"
+ACQLOC: "the first quarter"
+DLRAMT: "325 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 17770
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "U.S."
+ACQLOC: "Oregon"
+ACQLOC: "National Bancorp"
+ACQLOC: "the Board of
+Governors"
+ACQLOC: "the Federal Reserve"
+ACQLOC: "Fed"
+ACQLOC: "Heritage Bank"
+ACQLOC: "Camas"
+ACQLOC: "Wash."
+ACQLOC: "U.S."
+ACQLOC: "Loan of Salt Lake City"
+ACQLOC: "Utah"
+ACQLOC: "January"
+ACQLOC: "U.S. Bancorp"
+ACQLOC: "Old National"
+ACQLOC: "Old National"
+ACQLOC: "171 mln"
+ACQLOC: "U.S."
+ACQLOC: "Bancorp"
+ACQLOC: "4.9"
+ACQLOC: "Old National's"
+DLRAMT: "171 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "approved"
+STATUS: "definitive agreement"
+
+TEXT: 17810
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Roth-American Inc"
+ACQLOC: "May 1"
+ACQLOC: "Turco"
+ACQLOC: "Roth-American"
+ACQLOC: "Turco"
+ACQLOC: "Atcor"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "letter of intent"
+STATUS: "signed a letter of intent"
+
+TEXT: 17835
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Florida"
+ACQLOC: "William Landa"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "letter of intent"
+STATUS: "signed a letter of intent"
+STATUS: "acquired"
+
+TEXT: 18435
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Hydraulic Units Inc"
+ACQLOC: "Boeing Co  "
+ACQLOC: "between March 29"
+ACQLOC: "July 1"
+ACQLOC: "4.3"
+ACQLOC: "the year
+to end-December 1986"
+ACQLOC: "53.2"
+DLRAMT: "42.5 mln dlrs"
+DLRAMT: "4.3 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 18590
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Halcyon Investments"
+ACQLOC: "New York"
+ACQLOC: "6.9"
+ACQLOC: "Research-Cottrell Inc."
+ACQLOC: "Alan Slifka"
+ACQLOC: "Halcyon"
+ACQLOC: "Reuters"
+ACQLOC: "June 8"
+ACQLOC: "Research-Cottrell"
+ACQLOC: "44-1/4"
+ACQLOC: "today"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "purchased"
+STATUS: "agreement"
+STATUS: "acquired"
+STATUS: "definitive agreement"
+
+TEXT: 18895
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Development Corp"
+ACQLOC: "annual"
+ACQLOC: "Clinton American Corp"
+ACQLOC: "two"
+ACQLOC: "3,450,000"
+ACQLOC: "Clinton"
+ACQLOC: "F. Daniel Ryan"
+ACQLOC: "Leader"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "approved"
+
+TEXT: 19180
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Colonial Bancgroup"
+ACQLOC: "First National Bank of Destin"
+ACQLOC: "second"
+ACQLOC: "Florida"
+ACQLOC: "Liberty Bank"
+ACQLOC: "April"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "letter of intent"
+STATUS: "signed a letter of intent"
+STATUS: "approved"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 19270
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chevron Corp"
+ACQLOC: "4.6"
+ACQLOC: "UNC Inc"
+ACQLOC: "June 15"
+ACQLOC: "1.4"
+ACQLOC: "UNC"
+ACQLOC: "8.4"
+ACQLOC: "the Securities and Exchange Commission"
+ACQLOC: "Chevron"
+ACQLOC: "11.88"
+ACQLOC: "54.6"
+ACQLOC: "UNC"
+ACQLOC: "Co Inc"
+ACQLOC: "Donaldson, Lufkin and Jenrette
+Securities Corp"
+ACQLOC: "38.3 mln"
+ACQLOC: "UNC"
+ACQLOC: "16.4"
+DLRAMT: "4.6 mln dlrs"
+DLRAMT: "1.4 mln dlrs"
+DLRAMT: "54.6 mln dlrs"
+DLRAMT: "38.3 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "sold"
+
+TEXT: 19645
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "20"
+ACQLOC: "Personal
+Protection Technolgies Inc."
+ACQLOC: "New Generation"
+ACQLOC: "U.S."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 19895
+ACQUIRED: ---
+ACQBUS: "computer"
+ACQLOC: "North American"
+ACQLOC: "Austec Inc"
+ACQLOC: "Ryan-McFarland Corp"
+ACQLOC: "two"
+ACQLOC: "about 25"
+ACQLOC: "1987"
+ACQLOC: "Ryan-McFarlnad"
+ACQLOC: "FORTRAN"
+ACQLOC: "Melbourne"
+ACQLOC: "Australia"
+ACQLOC: "Rolling Hills Estates"
+ACQLOC: "Calif."
+DLRAMT: "25 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 20035
+ACQUIRED: ---
+ACQBUS: "merchant bank"
+ACQBUS: "holding"
+ACQLOC: "Plc"
+ACQLOC: "David Palmer"
+ACQLOC: "20.8"
+ACQLOC: "Morgan Grenfell Group"
+ACQLOC: "Plc"
+ACQLOC: "Reuters"
+ACQLOC: "U.K. Press"
+ACQLOC: "Faber"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "offer"
+
+TEXT: 2010
+ACQUIRED: ---
+ACQBUS: "telecommunications"
+ACQBUS: "holding"
+ACQBUS: "electronics"
+ACQLOC: "Five"
+ACQLOC: "French"
+ACQLOC: "Cie
+Generale de Constructions Telephoniques"
+ACQLOC: "CGCT"
+ACQLOC: "16"
+ACQLOC: "French"
+ACQLOC: "Edouard
+Balladur"
+ACQLOC: "French"
+ACQLOC: "the end of
+April"
+ACQLOC: "French"
+ACQLOC: "CGCT"
+ACQLOC: "20"
+ACQLOC: "last year"
+ACQLOC: "80"
+ACQLOC: "French"
+ACQLOC: "CGCT"
+ACQLOC: "American Telephone"
+ACQLOC: "Telegraph Co  "
+ACQLOC: "two-year"
+ACQLOC: "CGCT"
+ACQLOC: "Dutch"
+ACQLOC: "Philips
+Telecommunications Industrie B.V."
+ACQLOC: "NV Philips"
+ACQLOC: "Gloeilampenfabriek"
+ACQLOC: "Societe Anonyme de
+Telecommunications"
+ACQLOC: "SAT"
+ACQLOC: "Cie du Midi SA"
+ACQLOC: "five"
+ACQLOC: "French"
+ACQLOC: "second"
+ACQLOC: "West German"
+ACQLOC: "Siemens AG"
+ACQLOC: "20"
+ACQLOC: "CGCT"
+ACQLOC: "French"
+ACQLOC: "80"
+ACQLOC: "Sweden"
+ACQLOC: "AB LM Ericsson"
+ACQLOC: "20"
+ACQLOC: "French"
+ACQLOC: "Matra"
+ACQLOC: "between 40 and 49"
+ACQLOC: "Bouygues"
+ACQLOC: "Matra"
+ACQLOC: "CGCT"
+ACQLOC: "REUTER"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "announced"
+STATUS: "accepted"
+STATUS: "acquired"
+
+TEXT: 20725
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "The Chase Manhattan Bank"
+ACQLOC: "Chase Manhattan Corp"
+ACQLOC: "about 190,000"
+ACQLOC: "Atlantic
+Financial Federal"
+ACQLOC: "370"
+ACQLOC: "Chase"
+ACQLOC: "second"
+ACQLOC: "5.6 billion"
+ACQLOC: "Chase"
+DLRAMT: "5.6 billion dlrs"
+DLRAMT: "370 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 20775
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Metropolitan Consolidated Industries Inc
+"
+ACQLOC: "Metex Corp"
+ACQLOC: "Metropolitan"
+ACQLOC: "7.75"
+ACQLOC: "Metropolitan"
+ACQLOC: "about 25.7"
+ACQLOC: "Metex"
+ACQLOC: "about an additional 16"
+ACQLOC: "Metropolitan"
+ACQLOC: "October 27"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+
+TEXT: 21000
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "CCR Video Corp"
+ACQLOC: "Intercep Investment Corp"
+ACQLOC: "Vancouver"
+ACQLOC: "B.C."
+ACQLOC: "CCR"
+ACQLOC: "CCR"
+ACQLOC: "Intercep"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+
+TEXT: 21040
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Atlantis Group Inc"
+ACQLOC: "100,000"
+ACQLOC: "Charter-Crellin Inc"
+ACQLOC: "6.3"
+ACQLOC: "the Securities and Exchange Commission"
+ACQLOC: "Atlantis"
+ACQLOC: "Charter-Crellin"
+ACQLOC: "Atlantis"
+ACQLOC: "Charter-Crellin"
+ACQLOC: "Atlantis"
+ACQLOC: "Charter-Crellin"
+ACQLOC: "between September 22 and October 7"
+ACQLOC: "15.62"
+ACQLOC: "about 1.51"
+DLRAMT: "1.51 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "discussed"
+STATUS: "bought"
+
+TEXT: 2325
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Newport Beach"
+ACQLOC: "Standard Brands Paint Co's"
+ACQLOC: "Irvine"
+ACQLOC: "Calif."
+ACQLOC: "Reuter"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 2365
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "First Union Corp"
+ACQLOC: "First State Bancshares Inc"
+ACQLOC: "Pensacola"
+ACQLOC: "Fla."
+ACQLOC: "First State Bank of Pensacola"
+ACQLOC: "about 457,000"
+ACQLOC: "First State"
+ACQLOC: "about 110"
+ACQLOC: "the third quarter of 1987"
+ACQLOC: "First State"
+DLRAMT: "110 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "complete"
+STATUS: "completed"
+STATUS: "agreed"
+
+TEXT: 2570
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Forbes Holdings Inc"
+ACQLOC: "18.50"
+ACQLOC: "Revlon Group
+Inc's"
+ACQLOC: "Revlon"
+ACQLOC: "yesterday"
+ACQLOC: "the New York Stock Exchange"
+ACQLOC: "14-3/4"
+ACQLOC: "Forbes"
+ACQLOC: "Revlon"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "will offer"
+STATUS: "offer"
+
+TEXT: 2660
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Donaldson Co Inc
+ "
+ACQLOC: "Pennsylvania"
+ACQLOC: "Donaldson"
+ACQLOC: "Illinois"
+ACQLOC: "100"
+ACQLOC: "Donaldson"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "offer"
+STATUS: "agreed"
+
+TEXT: 3025
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Donald Trump"
+ACQLOC: "Resorts International Inc"
+ACQLOC: "Trump"
+ACQLOC: "James M. Crosby"
+ACQLOC: "340,783"
+ACQLOC: "752,297"
+ACQLOC: "about 6,432,000"
+ACQLOC: "100"
+ACQLOC: "about 93"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+
+TEXT: 3120
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "PPG Industries Inc"
+ACQLOC: "Sterling Group of Houston"
+ACQLOC: "PPG"
+ACQLOC: "du Pont Co
+ "
+ACQLOC: "Beaumont"
+ACQLOC: "Texas"
+ACQLOC: "second
+quarter"
+ACQLOC: "1986"
+DLRAMT: "50 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+
+TEXT: 3239
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+ACQLOC: "Cyclops Corp
+"
+ACQLOC: "437,425"
+ACQLOC: "11.1"
+ACQLOC: "524,775"
+ACQLOC: "13.3"
+ACQLOC: "the Securities and Exchange Commission"
+ACQLOC: "Harris"
+ACQLOC: "87,350"
+ACQLOC: "Cyclops"
+ACQLOC: "Jan 6
+"
+ACQLOC: "March 2"
+ACQLOC: "65.75"
+ACQLOC: "91.00"
+ACQLOC: "Harris"
+ACQLOC: "Cyclops"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 3295
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Johnson Products Co Inc"
+ACQLOC: "Debbie's School of Beauty Culture Inc"
+ACQLOC: "Ultra Precise Beauty Boutique Inc"
+ACQLOC: "2,533,000"
+ACQLOC: "700,000"
+ACQLOC: "1,506,000"
+ACQLOC: "327,000"
+ACQLOC: "Johnson
+Products"
+ACQLOC: "Debbie's School"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 376
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Barbara"
+ACQLOC: "Stanwell Mortgage"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "definitive agreement"
+
+TEXT: 3910
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Railway Maintenance Equipment"
+ACQLOC: "Oak Industries Inc."
+ACQLOC: "Banner Industries
+Inc"
+ACQLOC: "Rexnord"
+ACQLOC: "Railway Maintenance"
+ACQLOC: "1986"
+ACQLOC: "16 mln"
+ACQLOC: "Rexnord"
+ACQLOC: "about 200"
+ACQLOC: "137"
+ACQLOC: "Mathews Conveyer Co"
+ACQLOC: "83"
+ACQLOC: "mame"
+DLRAMT: "16 mln dlrs"
+DLRAMT: "200 mln dlrs"
+DLRAMT: "137 mln dlrs"
+DLRAMT: "83 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreement"
+STATUS: "agreement to sell"
+STATUS: "definitive agreement"
+STATUS: "agreed"
+
+TEXT: 4145
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Pope"
+ACQLOC: "Evans"
+ACQLOC: "780,000"
+ACQLOC: "Putnam Mills Corp"
+ACQLOC: "Sidney"
+ACQLOC: "Peter Kaplan"
+ACQLOC: "2.25"
+ACQLOC: "1,700,000"
+ACQLOC: "Putnam Mills"
+ACQLOC: "Evans"
+ACQLOC: "about 7.6"
+ACQLOC: "Pat Fashions Industries Inc"
+ACQLOC: "18 mln"
+ACQLOC: "Pat
+"
+ACQLOC: "Pat Fashions"
+ACQLOC: "the Far East"
+ACQLOC: "the year ended November 30"
+ACQLOC: "Pat"
+ACQLOC: "5,400,000"
+ACQLOC: "83.0"
+DLRAMT: "7.6 mln dlrs"
+DLRAMT: "18 mln dlrs"
+DLRAMT: "83.0 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "purchased"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 4315
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Union Pacific Corp"
+ACQLOC: "Caracas"
+ACQLOC: "March 17"
+ACQLOC: "Petroleos De Venezuela"
+ACQLOC: "half"
+ACQLOC: "Corpus Christi"
+ACQLOC: "Texas"
+ACQLOC: "Union Pacific's"
+ACQLOC: "Champlin Petroleum"
+ACQLOC: "later today"
+ACQLOC: "New
+York"
+ACQLOC: "Corpus"
+ACQLOC: "about 160,000"
+ACQLOC: "Union Pacific"
+ACQLOC: "Venezuela"
+ACQLOC: "Champlin"
+ACQLOC: "One"
+ACQLOC: "Champlin"
+ACQLOC: "Southland Corp's"
+ACQLOC: "September 15, 1986"
+ACQLOC: "290"
+ACQLOC: "half"
+ACQLOC: "Citgo"
+ACQLOC: "half"
+ACQLOC: "Champlin's"
+ACQLOC: "Venezuela"
+ACQLOC: "Southland"
+ACQLOC: "at least 130,000"
+DLRAMT: "290 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+
+TEXT: 4605
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQBUS: "entertainment"
+ACQLOC: "Cannon Group's"
+ACQLOC: "Screen Entertainment"
+ACQLOC: "May 1986"
+ACQLOC: "Cannon"
+ACQLOC: "Screen Entertainment Ltd"
+ACQLOC: "Bond Corp Holdings
+Ltd."
+ACQLOC: "over 2,000"
+ACQLOC: "175"
+DLRAMT: "175 mln dlrs"
+DLRAMT: "125 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "purchased"
+STATUS: "agreed"
+
+TEXT: 4615
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "TSS-Seedman's"
+ACQLOC: "about 50"
+ACQLOC: "the end of April"
+DLRAMT: "50 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 4850
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chrysler Corp"
+ACQLOC: "Chrysler"
+ACQLOC: "First Inc"
+ACQLOC: "Beneficial Business Credit Corp"
+ACQLOC: "Beneficial Corp."
+ACQLOC: "about 84 mln"
+ACQLOC: "Chrysler"
+ACQLOC: "First"
+ACQLOC: "Chrysler Financial Corp"
+ACQLOC: "4.3 billion dlrs"
+ACQLOC: "the end of 1986"
+DLRAMT: "4.3 billion dlrs"
+DLRAMT: "84 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 4910
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Allegheny International Inc"
+ACQLOC: "Acquisititon Corp"
+ACQLOC: "First Boston Inc"
+ACQLOC: "Allegheny"
+ACQLOC: "2.19 dlr"
+ACQLOC: "11.25"
+ACQLOC: "April 9"
+ACQLOC: "24.60"
+ACQLOC: "20"
+ACQLOC: "87.50"
+ACQLOC: "Allegheny"
+ACQLOC: "at least two-thirds"
+ACQLOC: "earlier this week"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "offer"
+
+TEXT: 4955
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Mindscsape Inc"
+ACQLOC: "Holt"
+ACQLOC: "Rinehart"
+ACQLOC: "Winston Inc"
+ACQLOC: "Harcourt Brace Jovanovich Inc"
+ACQLOC: "Rinehart"
+ACQLOC: "CBS"
+ACQLOC: "about 10 mln"
+ACQLOC: "1985"
+ACQLOC: "Mindscape"
+DLRAMT: "10 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "purchased"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 505
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Bank of America NT"
+ACQLOC: "SA"
+ACQLOC: "West German"
+ACQLOC: "Bankhaus Centrale Credit AG"
+ACQLOC: "West German"
+ACQLOC: "1965"
+ACQLOC: "West German"
+ACQLOC: "Visa"
+ACQLOC: "Michael Seibel"
+ACQLOC: "Bank of America"
+ACQLOC: "Bank of America's"
+ACQLOC: "West German"
+ACQLOC: "32 mln marks"
+ACQLOC: "1985"
+ACQLOC: "Bankhaus Centrale Credit"
+ACQLOC: "Visa"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 5465
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Metex Corp"
+ACQLOC: "Alan Cohen"
+ACQLOC: "78,375"
+ACQLOC: "Metex"
+ACQLOC: "Metropolitan Consolidated Industries Inc
+"
+ACQLOC: "11.25"
+ACQLOC: "Metropolitan Consolidated Industries"
+ACQLOC: "42,750"
+ACQLOC: "Mason Carter"
+ACQLOC: "Carter"
+ACQLOC: "Metex"
+ACQLOC: "1982"
+ACQLOC: "Attilio Petrocelli"
+ACQLOC: "Metropolitan"
+ACQLOC: "Metex"
+ACQLOC: "21"
+ACQLOC: "Metex"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "selling"
+STATUS: "sold"
+
+TEXT: 5615
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "2001"
+ACQLOC: "West Babylon"
+ACQLOC: "N.Y."
+ACQLOC: "875,000"
+ACQLOC: "2001"
+ACQLOC: "about one mln"
+ACQLOC: "1986"
+ACQLOC: "first year"
+DLRAMT: "one mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 5670
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: "CityFed Financial Corp"
+ACQLOC: "City Federal Savings Bank"
+ACQLOC: "14"
+ACQLOC: "U.S."
+ACQLOC: "CityFed"
+ACQLOC: "New Jersey"
+ACQLOC: "Florida"
+ACQLOC: "City
+Consumer Serices Inc"
+ACQLOC: "Arizona"
+ACQLOC: "Colorado"
+ACQLOC: "Illinois"
+ACQLOC: "Maryland"
+ACQLOC: "New Mexico"
+ACQLOC: "Oregon"
+ACQLOC: "Virginia"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "decided to sell"
+STATUS: "sold"
+STATUS: "agreement to sell"
+STATUS: "preliminary agreement"
+
+TEXT: 6085
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Theta Corp"
+ACQLOC: "150"
+ACQLOC: "Last week"
+ACQLOC: "145"
+ACQLOC: "Theta"
+ACQLOC: "Taft"
+ACQLOC: "Dudley Taft"
+ACQLOC: "Theta"
+ACQLOC: "150"
+ACQLOC: "Theta"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "agreement"
+STATUS: "rejected"
+STATUS: "offer"
+STATUS: "reject"
+
+TEXT: 6135
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Fortune Savings Bank"
+ACQLOC: "Loan Association"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "approved"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 6340
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Philippines"
+ACQLOC: "Social Security System"
+ACQLOC: "eight"
+ACQLOC: "San Miguel Corp"
+ACQLOC: "SMC"
+ACQLOC: "SMC"
+ACQLOC: "Ramon del
+"
+ACQLOC: "one"
+ACQLOC: "SMC"
+ACQLOC: "15"
+ACQLOC: "100"
+ACQLOC: "38"
+ACQLOC: "the United Coconut Planters Bank"
+ACQLOC: "UCPB"
+ACQLOC: "SMC"
+ACQLOC: "five"
+ACQLOC: "A.N.
+Soriano Corp"
+ACQLOC: "San Miguel"
+ACQLOC: "Rosario"
+ACQLOC: "Del Rosario"
+ACQLOC: "14"
+ACQLOC: "SMC"
+ACQLOC: "UCPB"
+ACQLOC: "later this week"
+ACQLOC: "Corazon Aquino"
+ACQLOC: "earlier this month"
+ACQLOC: "SMC"
+ACQLOC: "Hong Kong"
+ACQLOC: "Neptunia Corp"
+ACQLOC: "the Presidential Commission"
+ACQLOC: "Eduardo Cojuanco"
+ACQLOC: "San Miguel"
+ACQLOC: "UCPB"
+ACQLOC: "Ferdinand Marcos"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "sold"
+
+TEXT: 6695
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Micro Plus II Corp"
+ACQLOC: "about two"
+ACQLOC: "May."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 6815
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "GAMCO Investors Inc"
+ACQLOC: "Gabelli"
+ACQLOC: "annual"
+ACQLOC: "March 31"
+ACQLOC: "GAMCO
+"
+ACQLOC: "Mario Gabelli"
+ACQLOC: "Greenmail"
+ACQLOC: "GenCorp"
+ACQLOC: "today"
+ACQLOC: "9.8"
+ACQLOC: "Gabelli"
+ACQLOC: "GAMCO"
+ACQLOC: "13"
+ACQLOC: "the
+Securities and Exchange Commission"
+ACQLOC: "6.5"
+ACQLOC: "GenCorp"
+ACQLOC: "GAMCO"
+ACQLOC: "1,462,000"
+ACQLOC: "13"
+ACQLOC: "more than five"
+ACQLOC: "Earlier today"
+ACQLOC: "General Partners"
+ACQLOC: "Wagner"
+ACQLOC: "Brown
+"
+ACQLOC: "AFG Industries Inc"
+ACQLOC: "100 dlr"
+ACQLOC: "GenCorp"
+ACQLOC: "between 10 and
+20"
+ACQLOC: "GenCorp"
+ACQLOC: "Gabelli"
+ACQLOC: "GenCorp"
+ACQLOC: "One"
+ACQLOC: "Gabelli"
+ACQLOC: "Gabelli"
+ACQLOC: "annual"
+ACQLOC: "Akron"
+ACQLOC: "Ohio"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+
+TEXT: 7090
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Maxcom Corp"
+ACQLOC: "Nevada"
+ACQLOC: "Delaware"
+ACQLOC: "Comet Corp"
+ACQLOC: "Maxcom USA"
+ACQLOC: "500,000"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "approved"
+
+TEXT: 7110
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Dixons Group plc"
+ACQLOC: "British"
+ACQLOC: "54"
+ACQLOC: "Cyclops"
+ACQLOC: "three"
+ACQLOC: "Cyclops"
+ACQLOC: "W.H. Knoell"
+ACQLOC: "James F. Will"
+ACQLOC: "WIlliam D. Dickey"
+ACQLOC: "three"
+ACQLOC: "Dixons"
+ACQLOC: "Financial"
+ACQLOC: "Egon von
+Greyerz"
+ACQLOC: "Gerald M.N. Corbett"
+ACQLOC: "Jeoffrey Budd"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+
+TEXT: 7130
+ACQUIRED: ---
+ACQBUS: "computer"
+ACQLOC: "Scan-Graphics Inc"
+ACQLOC: "Captive Venture Capital Inc"
+ACQLOC: "Captive
+Venture Capital"
+ACQLOC: "Scan-Graphics Inc"
+ACQLOC: "Scan"
+ACQLOC: "Capitive Venture Capital"
+ACQLOC: "1.6"
+ACQLOC: "16"
+ACQLOC: "Scan-Graphics"
+ACQLOC: "2,649,500"
+ACQLOC: "Capitive Venture Capital"
+ACQLOC: "149,500"
+ACQLOC: "95,050"
+ACQLOC: "100,000"
+ACQLOC: "10"
+ACQLOC: "1.25"
+ACQLOC: "1.50"
+ACQLOC: "Scan-Graphics"
+ACQLOC: "Captive Venture Capital"
+ACQLOC: "Scan"
+ACQLOC: "Nasdaq"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "will be acquired"
+STATUS: "approved"
+STATUS: "acquired"
+
+TEXT: 7220
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "AmSouth Corp"
+ACQLOC: "the Federal
+Reserve Board"
+ACQLOC: "First Tuskaloosa Corp"
+ACQLOC: "Amsouth"
+ACQLOC: "August"
+ACQLOC: "Amsouth"
+ACQLOC: "First Tuskaloosa"
+ACQLOC: "66"
+ACQLOC: "AmSouth"
+ACQLOC: "105.6"
+DLRAMT: "105.6 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "approved"
+
+TEXT: 7260
+ACQUIRED: ---
+ACQBUS: "pharmaceutical"
+ACQLOC: "Solar Systems"
+ACQLOC: "Sundance Inc"
+ACQLOC: "45"
+ACQLOC: "INKEY SA"
+ACQLOC: "Spain"
+ACQLOC: "INKEY"
+ACQLOC: "West German"
+ACQLOC: "Aids Forschung"
+ACQLOC: "INKEY"
+ACQLOC: "Eurocapital Corp"
+ACQLOC: "Solar Systems"
+ACQLOC: "45"
+ACQLOC: "INKEY"
+ACQLOC: "INKEY"
+ACQLOC: "two"
+ACQLOC: "Inkey"
+ACQLOC: "30
+days"
+ACQLOC: "the Food and Drug
+Administration"
+ACQLOC: "Europharmaceutical"
+ACQLOC: "FDA"
+ACQLOC: "U.S."
+ACQLOC: "Inkey"
+ACQLOC: "U.S."
+ACQLOC: "Carlton"
+ACQLOC: "three years"
+ACQLOC: "one-year"
+ACQLOC: "Spain"
+ACQLOC: "European"
+ACQLOC: "Europharmaceutical"
+ACQLOC: "FDA"
+ACQLOC: "Europharmaceutical"
+ACQLOC: "one"
+ACQLOC: "Europharmaceutical"
+ACQLOC: "45"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "sold"
+STATUS: "approved"
+STATUS: "will sell"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 7315
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Greyhound Corp"
+ACQLOC: "General Motors Corp's"
+ACQLOC: "U.S."
+ACQLOC: "January"
+ACQLOC: "GM"
+ACQLOC: "Canadian"
+ACQLOC: "Greyhound"
+ACQLOC: "Pontiac"
+ACQLOC: "Michigan"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "agreement to buy"
+STATUS: "definitive agreement"
+
+TEXT: 735
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "International Minerals"
+ACQLOC: "Chemical Corp"
+ACQLOC: "Johnson"
+ACQLOC: "Johnson Co's"
+ACQLOC: "Pitman-Moore"
+ACQLOC: "Chemical"
+ACQLOC: "annual"
+ACQLOC: "Pitman-Moore"
+DLRAMT: "45 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 745
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "UtiliCorp United Inc"
+ACQLOC: "Virginia Power"
+ACQLOC: "Dominion Resources Inc"
+ACQLOC: "about 21"
+DLRAMT: "21 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+
+TEXT: 8115
+ACQUIRED: ---
+ACQBUS: "supermarket chain"
+ACQBUS: "supermarkets"
+ACQLOC: "Dart Group Corp"
+ACQLOC: "Dart"
+ACQLOC: "41.75"
+ACQLOC: "SGL"
+ACQLOC: "1.62 billion dlr"
+ACQLOC: "March 20"
+ACQLOC: "Dart"
+ACQLOC: "SGL"
+ACQLOC: "about 20"
+ACQLOC: "one"
+ACQLOC: "20"
+ACQLOC: "Dart"
+ACQLOC: "SGL"
+ACQLOC: "SGL"
+ACQLOC: "Dart"
+ACQLOC: "just under five"
+ACQLOC: "SGL"
+ACQLOC: "SGL"
+ACQLOC: "Dart"
+ACQLOC: "5.7"
+ACQLOC: "SGL"
+ACQLOC: "Leonard Lieberman"
+ACQLOC: "James Dougherty"
+ACQLOC: "Murray Levine"
+ACQLOC: "three"
+ACQLOC: "Lieberman"
+ACQLOC: "Dougherty"
+ACQLOC: "Lieberman"
+ACQLOC: "Dougherty"
+ACQLOC: "Levine"
+ACQLOC: "2.6"
+ACQLOC: "six"
+ACQLOC: "more than 15"
+ACQLOC: "March 18"
+ACQLOC: "SGL"
+ACQLOC: "Path Mark"
+ACQLOC: "Rickels"
+ACQLOC: "SGL"
+ACQLOC: "Greenmail"
+DLRAMT: "5.7 mln dlrs"
+DLRAMT: "2.6 mln dlrs"
+DLRAMT: "six mln dlrs"
+DLRAMT: "five mln dlrs"
+DLRAMT: "15 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "selling"
+STATUS: "bid"
+STATUS: "ended"
+STATUS: "agreement"
+STATUS: "offer"
+STATUS: "considering"
+STATUS: "agreed"
+
+TEXT: 820
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Armstrong Rubber Co"
+ACQLOC: "Dyneer Corp"
+ACQLOC: "Clinton"
+ACQLOC: "Tenn."
+ACQLOC: "Armstrong Tire Co"
+ACQLOC: "Armtek"
+ACQLOC: "the third fiscal quarter
+ending June 30"
+ACQLOC: "Reuter"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreement"
+STATUS: "agreed"
+
+TEXT: 8355
+ACQUIRED: ---
+ACQBUS: "supermarkets"
+ACQLOC: "Allied Supermarkets Inc"
+ACQLOC: "Michigan"
+ACQLOC: "about 46 mln"
+ACQLOC: "Allied"
+ACQLOC: "Meadowdale Foods
+Inc"
+ACQLOC: "David Page"
+ACQLOC: "Lon"
+ACQLOC: "Allied"
+ACQLOC: "the Vons Cos Inc."
+DLRAMT: "46 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "sold"
+STATUS: "agreement to sell"
+STATUS: "definitive agreement"
+
+TEXT: 8370
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "PHH Group Inc"
+ACQLOC: "two"
+ACQLOC: "1986"
+ACQLOC: "two"
+ACQLOC: "Neville Lewis Associates of New
+York"
+ACQLOC: "Walker Associates Inc of L.A."
+ACQLOC: "15.6"
+DLRAMT: "15.6 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 840
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "DataGene Scientific
+Laboratories Inc"
+ACQLOC: "Milex Corp"
+ACQLOC: "100,000"
+ACQLOC: "Ventana Growth Fund"
+ACQLOC: "1,100,000"
+ACQLOC: "Ventana"
+ACQLOC: "400,000"
+ACQLOC: "one"
+ACQLOC: "three"
+ACQLOC: "about 49"
+ACQLOC: "4,550,00"
+ACQLOC: "DataGene"
+ACQLOC: "29"
+ACQLOC: "Ventana"
+ACQLOC: "13"
+ACQLOC: "nine"
+ACQLOC: "Milex"
+ACQLOC: "Norman Monson"
+DLRAMT: "one mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "letter of intent"
+STATUS: "proposed"
+
+TEXT: 8685
+ACQUIRED: ---
+ACQBUS: "building products"
+ACQBUS: "holding"
+ACQLOC: "Norcros Plc"
+ACQLOC: "morning"
+ACQLOC: "542.2"
+ACQLOC: "Williams Holdings Plc"
+ACQLOC: "Williams"
+ACQLOC: "1228"
+ACQLOC: "Norcros"
+ACQLOC: "418p"
+ACQLOC: "397p"
+ACQLOC: "yesterday"
+ACQLOC: "Williams"
+ACQLOC: "15p"
+ACQLOC: "765"
+ACQLOC: "Norcros"
+ACQLOC: "Williams"
+DLRAMT: "542.2 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "bid"
+STATUS: "offer"
+STATUS: "reject"
+
+TEXT: 8780
+ACQUIRED: ---
+ACQBUS: "natural gas"
+ACQLOC: "J.M. Resources Inc"
+ACQLOC: "90"
+ACQLOC: "DEI Acquisition Corp"
+ACQLOC: "InterFirst
+Venture Corp"
+ACQLOC: "Sam B. Myers"
+ACQLOC: "Neomar Resources Inc"
+ACQLOC: "Richard L.
+Morgan"
+ACQLOC: "Dallas"
+ACQLOC: "10.1"
+ACQLOC: "J.M."
+ACQLOC: "three mln"
+ACQLOC: "10"
+ACQLOC: "March 20, 1997"
+ACQLOC: "40.7"
+ACQLOC: "J.M."
+ACQLOC: "J.M."
+ACQLOC: "DEI"
+ACQLOC: "J.M."
+ACQLOC: "DEI"
+ACQLOC: "J.M."
+ACQLOC: "Jack E. Manning Jr."
+ACQLOC: "Myers"
+ACQLOC: "Morgan"
+ACQLOC: "Myers
+"
+DLRAMT: "10.1 mln dlrs"
+DLRAMT: "three mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 8795
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "McCormack Resources Inc
+"
+ACQLOC: "James R. Barker"
+ACQLOC: "Paul Tregurtha"
+ACQLOC: "Barker"
+ACQLOC: "Moore"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "complete"
+STATUS: "completed"
+
+TEXT: 8830
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "French"
+ACQLOC: "Compagnie Francaise
+d'Electro-Chimie"
+ACQLOC: "French"
+ACQLOC: "1986"
+ACQLOC: "75 mln"
+ACQLOC: "GNB"
+DLRAMT: "75 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 8855
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Chrysler Corp"
+ACQLOC: "Italian"
+ACQLOC: "Automobili Lamborghini"
+ACQLOC: "Lamborghini"
+ACQLOC: "Reuters"
+ACQLOC: "two"
+ACQLOC: "Chrysler"
+ACQLOC: "Italian"
+ACQLOC: "Chrysler"
+ACQLOC: "Lamborghini"
+ACQLOC: "two"
+ACQLOC: "two"
+ACQLOC: "U.S."
+ACQLOC: "Chrysler"
+ACQLOC: "Detroit"
+ACQLOC: "Lamborghini"
+ACQLOC: "Bologna"
+ACQLOC: "the Mimran Group"
+ACQLOC: "Switzerland"
+ACQLOC: "last year"
+ACQLOC: "29 billion lire"
+ACQLOC: "Chrysler"
+ACQLOC: "15"
+ACQLOC: "Italian"
+ACQLOC: "Alfieri Maserati"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 9510
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Owens-Corning Fiberglas Corp"
+ACQLOC: "French"
+ACQLOC: "Lafarege Corp"
+ACQLOC: "Owens-Corning"
+ACQLOC: "Sentuc"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 9891
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Rio Tinto-Zinc Corp PLC"
+ACQLOC: "83"
+ACQLOC: "Newmont Mining Corp"
+ACQLOC: "Newmont"
+ACQLOC: "Rio"
+ACQLOC: "six weeks"
+ACQLOC: "June"
+ACQLOC: "July"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "letter of intent"
+STATUS: "agreement"
+STATUS: "proposed"
+STATUS: "signed a letter of intent"
+STATUS: "definitive merger agreement"
+
+TEXT: 9920
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Contel Corp"
+ACQLOC: "Walker County Telephone Co of LaFayette"
+ACQLOC: "Walker"
+ACQLOC: "7,600"
+ACQLOC: "Georgia"
+ACQLOC: "Walker"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 9925
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Thermo Process Services Inc"
+ACQLOC: "Thermo Electron Corp"
+ACQLOC: "2,590,000"
+ACQLOC: "Thermo Electron"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "complete"
+STATUS: "completed"
+

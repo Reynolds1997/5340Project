@@ -3,7 +3,7 @@ import sys
 import os
 import entitySlotClassifier
 import extractUtilities
-
+import re
 
 
 #Our wrapper.
@@ -61,6 +61,7 @@ def analyzeFile(filePath, outputFile):
     
     slotItems = classifyACQBUS(slotItems,rawTextString)
     slotItems = classifySTATUS(slotItems,rawTextString)
+    slotItems = classifyDLRAMT(slotItems,rawTextString)
 
     formatSlots(slotItems, outputFile, fileTitle)
 
@@ -86,6 +87,7 @@ def classifyACQBUS(slotItems, rawText):
 
     rawText = rawText.lower()
     rawText = rawText.replace(".","")
+    rawText = rawText.replace("\n"," ")
     for status in statusesList:
         if status in rawText:
             slotItems[1].append(status)
@@ -101,6 +103,9 @@ def classifySTATUS(slotItems, rawText):
     statusesList = set(extractUtilities.fileToLineList("statuses.txt"))
 
     rawText = rawText.lower()
+    rawText = rawText.replace(".","")
+    rawText = rawText.replace("\n"," ")
+    
     for status in statusesList:
         if status in rawText:
             slotItems[6].append(status)
@@ -115,8 +120,38 @@ def classifySTATUS(slotItems, rawText):
     #If a substring from statuses.txt appears in the text, use that substring.
 
 
-def classifyDLDRAMT(slotItems):
-    print("Checking for DLRAMT slot candidates...")
+def classifyDLRAMT(slotItems, rawText):
+    #print("Checking for DLRAMT slot candidates...")
+
+    moneyClues, secondaryMoneyClues = extractUtilities.dlramtHelper()
+    #print(moneyClues)
+
+    #rawText = rawText.replace(".","")
+    rawText = rawText.replace("\n"," ")
+    #print(rawText)
+
+    rawTextList = rawText.split()
+        
+    for clue in moneyClues:
+        clueWordList = clue.split()
+
+        if(clue in rawText):
+            clueBase = clue
+            indexes = extractUtilities.returnIndexes(rawTextList,clueWordList[0])
+            for index in indexes:
+                finalClue = rawTextList[index-1] + " " + clueBase
+                slotItems[3].append(finalClue)
+
+
+    for clue in secondaryMoneyClues:
+        if(clue in rawText):
+            slotItems[3].append(clue)
+
+
+    return slotItems
+                    
+
+
 
 def formatSlots(slotItems, outputFile, textTitle):
     #print("Writing to file now")

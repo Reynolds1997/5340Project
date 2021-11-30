@@ -6,7 +6,7 @@ def classifyNEREntities(nerEntities, rawText, entityLabelList):
 
     
     #print("Running entity slot classifier")
-    print(nerEntities)
+    #print(nerEntities)
 
     for entity in nerEntities:
         entityWord = entity[0]

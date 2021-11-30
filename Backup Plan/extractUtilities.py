@@ -89,6 +89,34 @@ def fileToLineList(fileDirectory):
         #print(readLines)
         return readLines
 
+
+def dlramtHelper():
+    moneyClues = []
+    quantitativeVals = ["million","billion","mln","bln"]
+    denominatorVals = ["dlrs", "dollars", "U.S. dlrs", "Canadian dlrs", "Belgian francs", "pounds sterling", "stg"]
+    for quantitativeVal in quantitativeVals:
+        for denominatorVal in denominatorVals:
+            moneyClues.append(quantitativeVal + " " + denominatorVal)
+
+    secondaryMoneyClues = ["undisclosed", "not disclosed"]
+    return moneyClues, secondaryMoneyClues
+
+
+def returnIndexes(listToCheck, searchVal):
+    startAt = -1
+    indexes = []
+    while True:
+        try:
+            index = listToCheck.index(searchVal,startAt+1)
+        except ValueError:
+            break
+        else:
+            indexes.append(index)
+            startAt = index
+    return indexes
+
+
+
 def main():
     filesLocation = sys.path[0]
     keyFilesLocation = os.path.join(filesLocation, "development-anskeys")
