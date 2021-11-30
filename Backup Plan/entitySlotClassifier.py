@@ -15,3 +15,5 @@ def classifyNEREntities(nerEntities, rawText, entityLabelList):
         #if entityLabel == "GPE"
         #if entityLabel
         entityLabelList[2].append(entityWord) #For now, we throw everything under the location label
+
+    return entityLabelList
