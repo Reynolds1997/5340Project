@@ -1,10 +1,16 @@
+import math
 import spacy
 import sys
 import os
-import entitySlotClassifier
 import extractUtilities
 import re
 
+# maximum amount of "words" a phrase can be away from a "transaction" word before it no longer counts
+## only applies to the first word in an NP
+maxTransactionWordDistance = 15
+
+# applies if the word "acquired" is found anywhere, any phrases within this window that can be "acquired" are tagged as such
+maxAcquiredDistance = 10
 
 #Our wrapper.
 def main():
@@ -57,11 +63,39 @@ def analyzeFile(filePath, outputFile):
 
     slotItems = [["ACQUIRED"],["ACQBUS"],["ACQLOC"],["DLRAMT"],["PURCHASER"],["SELLER"],["STATUS"]]
 
-    slotItems = entitySlotClassifier.classifyNEREntities(nerEntityList,rawTextString, slotItems)
+    definitiveCount = 0
+    defininiveWord = ""
+    acquiredExists = False
+    acquiredCount = 0
+
+    # finds the "transaction" word in a document
+    ## if no such word exists then it's assumed the "seller" and "buyer" don't exist
+    ## also remembers the position of the word for later
+    for entity in nerEntityList:
+        entityWord = entity[0].lower()
+        if entityWord == "sell" or entityWord == "buy" :
+            defininiveWord = entityWord
+            break
+        definitiveCount = definitiveCount + 1
+
+    for entity in nerEntityList:
+        entityWord = entity[0].lower()
+        if entityWord == "acquired" :
+            acquiredExists = True
+            break
+        acquiredCount = acquiredCount + 1
+
     
-    slotItems = classifyACQBUS(slotItems,rawTextString)
-    slotItems = classifySTATUS(slotItems,rawTextString)
-    slotItems = classifyDLRAMT(slotItems,rawTextString)
+    # dictionaries in Python are pass by reference, so no need to set it on each method
+    classifyACQBUS(slotItems,rawTextString)
+    classifySTATUS(slotItems,rawTextString)
+    classifyDLRAMT(slotItems,rawTextString)
+
+    # deleted references to entitySlotClassifier cause i really wanted to separate these into their own functions
+    classifyACQUIRED(slotItems,rawTextString,nerEntityList,acquiredExists,acquiredCount)
+    classifyACQLOC(slotItems,rawTextString,nerEntityList)
+    classifyPURCHASER(slotItems,rawTextString,nerEntityList,defininiveWord,definitiveCount)
+    classifySELLER(slotItems,rawTextString,nerEntityList,defininiveWord,definitiveCount)
 
     formatSlots(slotItems, outputFile, fileTitle)
 
@@ -94,7 +128,7 @@ def classifyACQBUS(slotItems, rawText):
 
     
     #print(slotItems)
-    return slotItems
+    return
     #Check file for phrases
     #If a substring from statuses.txt appears in the text, use that substring.
 
@@ -112,10 +146,9 @@ def classifySTATUS(slotItems, rawText):
 
     
     #print(slotItems)
-    return slotItems
     #Turn file into a lowercase string.
     #Remove punctuation. 
-
+    return
     #Check file for phrases
     #If a substring from statuses.txt appears in the text, use that substring.
 
@@ -147,10 +180,112 @@ def classifyDLRAMT(slotItems, rawText):
         if(clue in rawText):
             slotItems[3].append(clue)
 
+    return
 
-    return slotItems
-                    
+def classifyACQUIRED(slotItems,rawText,nerEntityList,acquiredExists,acquiredCount) :
 
+    chainString = ""
+    currLabel = "NONE"
+
+    for entity in nerEntityList:
+        entityWord = entity[0]
+        entityLabel = entity[1]
+
+        currDistance = math.fabs(mainCount - acquiredCount)
+        withinRange = currDistance <= maxTransactionWordDistance
+
+
+        if entityLabel != currLabel and chainString != "" :
+            slotItems[0].append(chainString)
+            chainString = ""
+
+        if entityLabel == "ORG" or entityLabel == "FAC" :
+            if (acquiredExists and mainCount < acquiredCount and withinRange) or chainString != "" :
+                if chainString == "" :
+                    chainString = entityWord
+                else :
+                    chainString = chainString + " " + entityWord
+        
+        mainCount = mainCount + 1
+    
+    return
+
+def classifyACQLOC(slotItems,rawText,nerEntityList) :
+
+    chainString = ""
+    currLabel = "NONE"
+
+    for entity in nerEntityList:
+        entityWord = entity[0]
+        entityLabel = entity[1]
+
+        if entityLabel != currLabel and chainString != "" :
+            slotItems[2].append(chainString)
+            chainString = ""
+
+        if entityLabel == "GPE" or entityLabel == "FAC" :
+            if chainString == "" :
+                chainString = entityWord
+            else :
+                chainString = chainString + " " + entityWord
+
+    return
+
+def classifyPURCHASER(slotItems,rawText,nerEntityList,defininiveWord,definitiveCount) :
+    chainString = ""
+    currLabel = "NONE"
+    mainCount = 0
+
+    for entity in nerEntityList:
+        entityWord = entity[0]
+        entityLabel = entity[1]
+
+        currDistance = math.fabs(mainCount - definitiveCount)
+        withinRange = currDistance <= maxTransactionWordDistance
+
+
+        if entityLabel != currLabel and chainString != "" :
+            slotItems[4].append(chainString)
+            chainString = ""
+
+        if entityLabel == "ORG" :
+            if (defininiveWord == "sell" and mainCount > definitiveCount and withinRange) or (defininiveWord == "buy" and mainCount < definitiveCount and withinRange) or chainString != "" :
+                if chainString == "" :
+                    chainString = entityWord
+                else :
+                    chainString = chainString + " " + entityWord
+        
+        mainCount = mainCount + 1
+
+    return
+
+def classifySELLER(slotItems,rawText,nerEntityList,defininiveWord,definitiveCount) :
+    chainString = ""
+    currLabel = "NONE"
+    mainCount = 0
+
+    for entity in nerEntityList:
+        entityWord = entity[0]
+        entityLabel = entity[1]
+
+        currDistance = math.fabs(mainCount - definitiveCount)
+        withinRange = currDistance <= maxTransactionWordDistance
+
+
+        if entityLabel != currLabel and chainString != "" :
+            slotItems[5].append(chainString)
+            chainString = ""
+
+        if entityLabel == "ORG" :
+            if (defininiveWord == "sell" and mainCount < definitiveCount and withinRange) or (defininiveWord == "buy" and mainCount > definitiveCount and withinRange) or chainString != "" :
+                if chainString == "" :
+                    chainString = entityWord
+                else :
+                    chainString = chainString + " " + entityWord
+        
+        mainCount = mainCount + 1
+
+    return
 
 
 def formatSlots(slotItems, outputFile, textTitle):
