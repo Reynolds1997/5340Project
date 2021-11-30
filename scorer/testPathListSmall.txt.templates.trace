@@ -1,0 +1,510 @@
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10042
+ACQUIRED:       "Castone Development Corp"
+ACQBUS:         ---
+ACQLOC:         ---
+DLRAMT:         ---
+PURCHASER:      "Meridian Energy Inc"
+SELLER:         ---
+STATUS:         "terminate the letter of intent"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10042
+ACQUIRED:       ---
+ACQBUS:         ---
+ACQLOC:         "Castone
+                "Meridian"
+                "Castone"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "acquired"
+                "terminate the letter of intent"
+                "announced"
+                "letter of intent"
+
+     SCORES for 10042
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/3)         0.00
+DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   0.25 (1/4)         0.40
+--------        --------------     --------------     ----
+TOTAL           0.33 (1/3)	   0.14 (1/7)         0.20
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10066
+ACQUIRED:       "Users Inc"
+ACQBUS:         "credit union data processing"
+ACQLOC:         ---
+DLRAMT:         ---
+PURCHASER:      "Security Pacific Corp"
+SELLER:         ---
+STATUS:         "agreed to withdraw"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10066
+ACQUIRED:       ---
+ACQBUS:         "credit union data processing"
+ACQLOC:         "Pacific Corp"
+                "Security"
+                "November"
+                "24-year"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "agreed"
+                "signed a letter of intent"
+                "letter of intent"
+                "agreed to withdraw"
+
+     SCORES for 10066
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          1.00 (1/1)	   1.00 (1/1)         1.00
+ACQLOC          0.00 (0/0)	   0.00 (0/4)         0.00
+DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   0.25 (1/4)         0.40
+--------        --------------     --------------     ----
+TOTAL           0.50 (2/4)	   0.22 (2/9)         0.31
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10158
+ACQUIRED:       "American Adventure Inc"
+ACQBUS:         ---
+ACQLOC:         ---
+DLRAMT:         "83 mln dlrs"
+PURCHASER:      "Americanture Inc"
+SELLER:         ---
+STATUS:         "purchased"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10158
+ACQUIRED:       ---
+ACQBUS:         ---
+ACQLOC:         "American Adventure Inc  "
+                "American"
+                "Chapter 11"
+                "American Adventure"
+                "more than 83 mln"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "purchased"
+
+     SCORES for 10158
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/5)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
+--------        --------------     --------------     ----
+TOTAL           0.25 (1/4)	   0.17 (1/6)         0.20
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10171
+ACQUIRED:       "Arsenal Acquiring Corp"
+ACQBUS:         ---
+ACQLOC:         ---
+DLRAMT:         ---
+PURCHASER:      "Viacom International Inc"
+SELLER:         "Arsenal Holdings Inc"
+STATUS:         "record date"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10171
+ACQUIRED:       ---
+ACQBUS:         "holding"
+ACQLOC:         "Viacom International Inc"
+                "April 6"
+                "Arsenal
+                "Viacom"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "proposed"
+                "record date"
+
+     SCORES for 10171
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/4)         0.00
+DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+--------        --------------     --------------     ----
+TOTAL           0.25 (1/4)	   0.14 (1/7)         0.18
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           1029
+ACQUIRED:       "Capital Food Services Ltd"
+ACQBUS:         "food services"
+ACQLOC:         "Ottawa"
+DLRAMT:         ---
+PURCHASER:      "Scott's Hospitality Inc"
+SELLER:         ---
+STATUS:         "acquired"
+
+     SYSTEM OUTPUT 
+
+TEXT:           1029
+ACQUIRED:       ---
+ACQBUS:         "food services"
+ACQLOC:         "Hospitality Inc"
+                "Capital Food Services Ltd"
+                "Scott"
+                "Capital Food"
+                "1986"
+                "more than 20"
+                "Ottawa"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "acquired"
+
+     SCORES for 1029
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          1.00 (1/1)	   1.00 (1/1)         1.00
+ACQLOC          1.00 (1/1)	   0.14 (1/7)         0.25
+DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
+--------        --------------     --------------     ----
+TOTAL           0.60 (3/5)	   0.33 (3/9)         0.43
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           1032
+ACQUIRED:       "cable television business"
+ACQBUS:         ---
+ACQLOC:         ---
+DLRAMT:         "undisclosed"
+PURCHASER:      ---
+SELLER:         "Video Display Corfp"
+STATUS:         "tentiative agreement"
+
+     SYSTEM OUTPUT 
+
+TEXT:           1032
+ACQUIRED:       ---
+ACQBUS:         ---
+ACQLOC:         "about five"
+                "the year ended February 28"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "agreement to sell"
+                "tentiative agreement"
+                "sold"
+                "agreement"
+                "ended"
+
+     SCORES for 1032
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+--------        --------------     --------------     ----
+TOTAL           0.25 (1/4)	   0.14 (1/7)         0.18
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10348
+ACQUIRED:       "Noblee und Thoerl GmbH"
+ACQBUS:         "OIL AND FATS" / "vegetable oil and fats"
+ACQLOC:         "HAMBURG" / "Hamburg"
+DLRAMT:         ---
+PURCHASER:      "Oelmuehle Hamburg AG"
+SELLER:         "Henkel KGaA"
+STATUS:         "selling"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10348
+ACQUIRED:       ---
+ACQBUS:         "vegetable oil and fats"
+ACQLOC:         "Henkel KGaA
+                "Hamburg"
+                "Noblee"
+                "Oelmuehle Hamburg AG"
+                "Noblee"
+                "161 mln marks"
+                "last
+                "Noblee"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "selling"
+
+     SCORES for 10348
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          1.00 (1/1)	   1.00 (1/1)         1.00
+ACQLOC          1.00 (1/1)	   0.13 (1/8)         0.22
+DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
+--------        --------------     --------------     ----
+TOTAL           0.50 (3/6)	   0.30 (3/10)        0.37
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10371
+ACQUIRED:       "Pancontinental Mining Ltd"
+ACQBUS:         "gold and coal mines"
+                "natural gas and oil fields"
+ACQLOC:         "Australia"
+                "Canada"
+DLRAMT:         "1.2 billion Belgian francs"
+PURCHASER:      "Union Miniere SA"
+SELLER:         ---
+STATUS:         "acquired"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10371
+ACQUIRED:       ---
+ACQBUS:         "natural gas and oil fields"
+                "gold"
+                "natural gas"
+                "coal"
+                "gold and coal mines"
+                "mines"
+ACQLOC:         "Union Miniere SA"
+                "eight"
+                "Pancontinental
+                "1.2 billion Belgian
+                "Australia"
+                "Canada"
+                "Union Miniere"
+                "Societe
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "acquired"
+
+     SCORES for 10371
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          1.00 (2/2)	   0.33 (2/6)         0.50
+ACQLOC          1.00 (2/2)	   0.25 (2/8)         0.40
+DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
+--------        --------------     --------------     ----
+TOTAL           0.63 (5/8)	   0.33 (5/15)        0.43
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10473
+ACQUIRED:       "Honeywell Information Systems"
+ACQBUS:         "computer"
+ACQLOC:         ---
+DLRAMT:         "527 mln dlrs"
+PURCHASER:      "Compagnie des Machines Bull"
+                "NEC Corp"
+SELLER:         "Honeywell Inc"
+STATUS:         "completed"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10473
+ACQUIRED:       ---
+ACQBUS:         "aerospace and defense"
+                "computer"
+ACQLOC:         "Honeywell Inc"
+                "57.5"
+                "Honeywell Information
+                "Compagnie des Machines
+                "France"
+                "NEC Corp"
+                "Japan"
+                "527"
+                "Honeywell"
+                "last December"
+                "the Sperry Aerospace Group"
+                "Honeywell"
+                "Bull"
+                "NEC"
+                "Honeywell"
+                "Honeywell Bull"
+                "42.5"
+                "Honeywell Inc"
+                "42.5"
+                "Bull"
+                "15"
+                "NEC"
+                "Honeywell"
+                "NEC"
+                "42.5"
+                "19.9"
+                "the end of 1988"
+                "half"
+                "Bull"
+                "Honeywell"
+                "Honeywell"
+                "Edson
+                "Honeywell"
+                "Spencer
+                "Honeywell"
+                "Honeywell Bull's"
+                "Honeywell"
+                "U.S."
+                "Honeywell"
+                "Federal Systems Division"
+                "Honeywell Inc"
+                "Honeywell Federal Systems Inc."
+                "Honeywell"
+                "1986"
+                "Honeywell Bull"
+                "nine"
+                "four"
+                "Honeywell"
+                "two"
+                "NEC"
+                "today"
+                "Jacques Stern"
+                "Bull"
+                "Honeywell Bull's"
+                "Jerome Meyer"
+                "Honeywell Information Systems"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "completed"
+                "agreement"
+                "purchased"
+                "complete"
+                "selling"
+
+     SCORES for 10473
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          1.00 (1/1)	   0.50 (1/2)         0.67
+ACQLOC          0.00 (0/0)	   0.00 (0/56)        0.00
+DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/2)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+--------        --------------     --------------     ----
+TOTAL           0.29 (2/7)	   0.03 (2/63)        0.06
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+     GOLD ANSWER KEY 
+
+TEXT:           10527
+ACQUIRED:       "Northwest Federal Savings and Loan Association"
+ACQBUS:         ---
+ACQLOC:         "Woodward, Oklahoma"
+DLRAMT:         ---
+PURCHASER:      "LSB Industries Inc"
+SELLER:         ---
+STATUS:         "entered into an agreement"
+
+     SYSTEM OUTPUT 
+
+TEXT:           10527
+ACQUIRED:       ---
+ACQBUS:         ---
+ACQLOC:         "LSB Industries Inc"
+                "Northwest Federal Savings"
+                "Loan Association"
+                "Woodward"
+                "Oklahoma"
+                "about 1.5"
+                "Northwest"
+                "Northwest Federal"
+                "less than 30"
+                "Northwest Federal"
+                "LSB"
+                "the Federal Home Loan Bank Board"
+DLRAMT:         ---
+PURCHASER:      ---
+SELLER:         ---
+STATUS:         "agreement"
+                "entered into an agreement"
+
+     SCORES for 10527
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
+ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/12)        0.00
+DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
+STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+--------        --------------     --------------     ----
+TOTAL           0.25 (1/4)	   0.07 (1/14)        0.11
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+     SCORES for ALL Templates
+
+                RECALL             PRECISION          F-SCORE
+ACQUIRED        0.00 (0/10)	   0.00 (0/0)         0.00
+ACQBUS          1.00 (6/6)	   0.50 (6/12)        0.67
+ACQLOC          0.80 (4/5)	   0.04 (4/109)       0.07
+DLRAMT          0.00 (0/4)	   0.00 (0/0)         0.00
+PURCHASER       0.00 (0/10)	   0.00 (0/0)         0.00
+SELLER          0.00 (0/4)	   0.00 (0/0)         0.00
+STATUS          1.00 (10/10)	   0.38 (10/26)       0.56
+--------        --------------     --------------     ----
+TOTAL           0.41 (20/49)	   0.14 (20/147)      0.20

@@ -10,7 +10,7 @@ import extractUtilities
 def main():
     print("Running Main")
 
-    docListFile = sys.argv[2]
+    docListFile = sys.argv[1]
     docListFileName = os.path.basename(docListFile)
 
     #Read in the document list from the file, to get the paths to the files we want to analyze
@@ -45,8 +45,11 @@ def analyzeFile(filePath, outputFile):
 
     fileTitle = os.path.basename(filePath)
 
-    rawTextString = open(filePath).read()
-    print(rawTextString)
+    if filePath[-1] == "\n":
+        rawTextString = open(filePath[:-1]).read()
+    else:
+        rawTextString = open(filePath).read()
+    #print(rawTextString)
     #rawTextString = rawTextString.replace("\n", " ")
     #print(rawTextString)
 
@@ -55,9 +58,11 @@ def analyzeFile(filePath, outputFile):
     slotItems = [["ACQUIRED"],["ACQBUS"],["ACQLOC"],["DLRAMT"],["PURCHASER"],["SELLER"],["STATUS"]]
 
     slotItems = entitySlotClassifier.classifyNEREntities(nerEntityList,rawTextString, slotItems)
-    slotItems = classifyStatus(slotItems)
+    
+    slotItems = classifyACQBUS(slotItems,rawTextString)
+    slotItems = classifySTATUS(slotItems,rawTextString)
 
-    textTemplate = formatSlots(slotItems, outputFile, fileTitle)
+    formatSlots(slotItems, outputFile, fileTitle)
 
 
 def spacyNER(textString):
@@ -75,12 +80,27 @@ def spacyNER(textString):
 
     return entList
 
+def classifyACQBUS(slotItems, rawText):
+    #print("Checking for ACQBUS slot candidates")
+    statusesList = set(extractUtilities.fileToLineList("acqbuses.txt"))
 
-def classifyStatus(slotItems, rawText):
-    print("Checking for STATUS slot candidates")
-    statusesList = extractUtilities.fileToLineList("statuses.txt")
+    rawText = rawText.lower()
+    rawText = rawText.replace(".","")
+    for status in statusesList:
+        if status in rawText:
+            slotItems[1].append(status)
 
-    rawText = rawText.lowerCase()
+    
+    #print(slotItems)
+    return slotItems
+    #Check file for phrases
+    #If a substring from statuses.txt appears in the text, use that substring.
+
+def classifySTATUS(slotItems, rawText):
+    #print("Checking for STATUS slot candidates")
+    statusesList = set(extractUtilities.fileToLineList("statuses.txt"))
+
+    rawText = rawText.lower()
     for status in statusesList:
         if status in rawText:
             slotItems[6].append(status)
@@ -99,6 +119,7 @@ def classifyDLDRAMT(slotItems):
     print("Checking for DLRAMT slot candidates...")
 
 def formatSlots(slotItems, outputFile, textTitle):
+    #print("Writing to file now")
     templateLines = []
     for slot in slotItems:
         currentLabel = slot[0]
@@ -112,7 +133,7 @@ def formatSlots(slotItems, outputFile, textTitle):
     #Write text title line to output
     
     with open(outputFile, "a") as outputDoc:
-        outputDoc.write(str(textTitle) + "\n")
+        outputDoc.write("TEXT: " + str(textTitle) + "\n")
         for templateLine in templateLines:
             outputDoc.write(templateLine + "\n")
         outputDoc.write("\n")
@@ -120,6 +141,6 @@ def formatSlots(slotItems, outputFile, textTitle):
     #Write a newline
 
     
-    print(slotItems)
+    #print(slotItems)
 
 main()

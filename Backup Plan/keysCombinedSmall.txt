@@ -1,0 +1,92 @@
+TEXT: 10042
+ACQUIRED: "Castone Development Corp"
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: "Meridian Energy Inc"
+SELLER: ---
+STATUS: "terminate the letter of intent"
+
+TEXT: 10066
+ACQUIRED: "Users Inc"
+ACQBUS: "credit union data processing"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: "Security Pacific Corp"
+SELLER: ---
+STATUS: "agreed to withdraw"
+
+TEXT: 10158
+ACQUIRED: "American Adventure Inc"
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "83 mln dlrs"
+PURCHASER: "Americanture Inc"
+SELLER: ---
+STATUS: "purchased"
+
+TEXT: 10171
+ACQUIRED: "Arsenal Acquiring Corp"
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: "Viacom International Inc"
+SELLER: "Arsenal Holdings Inc"
+STATUS: "record date"
+
+TEXT: 1029
+ACQUIRED: "Capital Food Services Ltd"
+ACQBUS: "food services"
+ACQLOC: "Ottawa"
+DLRAMT: ---
+PURCHASER: "Scott's Hospitality Inc"
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 1032
+ACQUIRED: "cable television business"
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: "Video Display Corfp"
+STATUS: "tentiative agreement"
+
+TEXT: 10348
+ACQUIRED: "Noblee und Thoerl GmbH"
+ACQBUS: "OIL AND FATS" / "vegetable oil and fats"
+ACQLOC: "HAMBURG" / "Hamburg"
+DLRAMT: ---
+PURCHASER: "Oelmuehle Hamburg AG"
+SELLER: "Henkel KGaA"
+STATUS: "selling"
+
+TEXT: 10371
+ACQUIRED: "Pancontinental Mining Ltd"
+ACQBUS: "gold and coal mines"
+ACQBUS: "natural gas and oil fields"
+ACQLOC: "Australia"
+ACQLOC: "Canada"
+DLRAMT: "1.2 billion Belgian francs"
+PURCHASER: "Union Miniere SA"
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 10473
+ACQUIRED: "Honeywell Information Systems"
+ACQBUS: "computer"
+ACQLOC: ---
+DLRAMT: "527 mln dlrs"
+PURCHASER: "Compagnie des Machines Bull"
+PURCHASER: "NEC Corp"
+SELLER: "Honeywell Inc"
+STATUS: "completed"
+
+TEXT: 10527
+ACQUIRED: "Northwest Federal Savings and Loan Association"
+ACQBUS: ---
+ACQLOC: "Woodward, Oklahoma"
+DLRAMT: ---
+PURCHASER: "LSB Industries Inc"
+SELLER: ---
+STATUS: "entered into an agreement"
