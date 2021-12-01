@@ -97,14 +97,45 @@ def analyzeFile(filePath, outputFile):
     classifySTATUS(slotItems,rawTextString)
     classifyDLRAMT(slotItems,rawTextString)
 
+
+    nerEntityListAlt = spacyNERAlt(rawTextString)
+
+    shotgunExclusionLabelsACQUIRED = ["CARDINAL","MONEY","LAW","QUANTITY","DATE"]
+    shotgunExclusionLabelsACQLOC = ["ORG","CARDINAL","QUANTITY","MONEY","LAW","PERSON","DATE"]
+    shotgunEntities(slotItems,0,nerEntityListAlt, shotgunExclusionLabelsACQUIRED) #Acquired
+    shotgunEntities(slotItems,2,nerEntityListAlt, shotgunExclusionLabelsACQLOC) #ACQLOC
     # deleted references to entitySlotClassifier cause i really wanted to separate these into their own functions
-    classifyACQUIRED(slotItems,rawTextString,nerEntityList,acquiredExists,acquiredCount)
-    classifyACQLOC(slotItems,rawTextString,nerEntityList)
-    classifyPURCHASER(slotItems,rawTextString,nerEntityList,defininiveWord,definitiveCount)
-    classifySELLER(slotItems,rawTextString,nerEntityList,defininiveWord,definitiveCount)
+   # classifyACQUIRED(slotItems,rawTextString,nerEntityList,acquiredExists,acquiredCount)
+   # classifyACQLOC(slotItems,rawTextString,nerEntityList)
+   # classifyPURCHASER(slotItems,rawTextString,nerEntityList,defininiveWord,definitiveCount)
+   # classifySELLER(slotItems,rawTextString,nerEntityList,defininiveWord,definitiveCount)
 
     formatSlots(slotItems, outputFile, fileTitle)
 
+#Files every entity under the same index (discounting Cardinals)
+def shotgunEntities(slotItems, slotIndex, entitiesList, shotgunExclusionLabels):
+    #print(entitiesList)
+
+    for entity in entitiesList:
+        entityText = entity[0]
+        entityText = entityText.replace("\n", " ")
+        entityText = entityText.strip()
+        if entity[3] not in shotgunExclusionLabels:
+            slotItems[slotIndex].append(entityText)
+
+
+def spacyNERAlt(textString):
+    nlp = spacy.load("en_core_web_sm")
+    doc = nlp(textString)
+
+    #for token in doc:
+    #    print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
+    #            token.shape_, token.is_alpha, token.is_stop)
+    entList = []
+    for ent in doc.ents:
+        entList.append([ent.text, ent.start_char, ent.end_char, ent.label_])
+
+    return entList
 
 def spacyNER(textString):
     #print(textString)
