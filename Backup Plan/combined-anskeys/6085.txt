@@ -1,0 +1,9 @@
+TEXT: 6085
+ACQUIRED: "Taft Broadcasting Co"
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: "Theta Corp"
+SELLER: ---
+STATUS: "explore alternatives"
+

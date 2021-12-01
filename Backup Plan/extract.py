@@ -117,14 +117,34 @@ def spacyNER(textString):
 
 def classifyACQBUS(slotItems, rawText):
     #print("Checking for ACQBUS slot candidates")
-    statusesList = set(extractUtilities.fileToLineList("acqbuses.txt"))
-
+    acqbusesList = extractUtilities.fileToLineList("acqbuses.txt")
+    acqbusCandidatesList = []
     rawText = rawText.lower()
     rawText = rawText.replace(".","")
     rawText = rawText.replace("\n"," ")
-    for status in statusesList:
-        if status in rawText:
-            slotItems[1].append(status)
+
+    for acqbus in acqbusesList:
+        if acqbus in rawText:
+            acqbusCandidatesList.append(acqbus)
+
+
+    if len(acqbusCandidatesList) > 0:
+        bestCandidate = ""
+        for acqbus in acqbusCandidatesList:
+            candidateList = bestCandidate.split()
+            currCandidateLen = len(candidateList)
+            acqbusList = acqbus.split()           
+            acqbusListLen = len(acqbusList)
+
+            if (acqbusListLen > currCandidateLen): #Picks the longest phrase that came from the dictionary.
+                bestCandidate = acqbus
+            elif(acqbusListLen == currCandidateLen): #As a tie breaker, picks the phrase that shows up in the dictionary the most.
+                if(acqbusList.count(acqbus) > acqbusList.count(bestCandidate)):
+                    bestCandidate = acqbus
+
+
+        
+        slotItems[1].append(bestCandidate)
 
     
     #print(slotItems)
@@ -134,17 +154,37 @@ def classifyACQBUS(slotItems, rawText):
 
 def classifySTATUS(slotItems, rawText):
     #print("Checking for STATUS slot candidates")
-    statusesList = set(extractUtilities.fileToLineList("statuses.txt"))
-
+    statusesList = extractUtilities.fileToLineList("statuses.txt")
+    statusCandidatesList = []
     rawText = rawText.lower()
     rawText = rawText.replace(".","")
     rawText = rawText.replace("\n"," ")
     
+    
     for status in statusesList:
         if status in rawText:
-            slotItems[6].append(status)
+            statusCandidatesList.append(status)
 
-    
+    if len(statusCandidatesList) > 0:
+        bestCandidate = ""
+        for status in statusCandidatesList:
+            candidateList = bestCandidate.split()
+            currCandidateLen = len(candidateList)
+            statusList = status.split()           
+            statusListLen = len(statusList)
+
+            if (statusListLen > currCandidateLen): #Picks the longest phrase that came from the dictionary.
+                bestCandidate = status
+            elif(statusListLen == currCandidateLen): #As a tie breaker, picks the phrase that shows up in the dictionary the most.
+                if(statusesList.count(status) > statusList.count(bestCandidate)):
+                    bestCandidate = status
+
+        slotItems[6].append(bestCandidate)
+        
+       
+
+
+
     #print(slotItems)
     #Turn file into a lowercase string.
     #Remove punctuation. 
@@ -186,6 +226,7 @@ def classifyACQUIRED(slotItems,rawText,nerEntityList,acquiredExists,acquiredCoun
 
     chainString = ""
     currLabel = "NONE"
+    mainCount = 0
 
     for entity in nerEntityList:
         entityWord = entity[0]

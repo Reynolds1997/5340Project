@@ -1,0 +1,9 @@
+TEXT: 6815
+ACQUIRED: "GenCorp Inc"
+ACQBUS: "broadcast"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: "General Partners"
+SELLER: ---
+STATUS: ---
+

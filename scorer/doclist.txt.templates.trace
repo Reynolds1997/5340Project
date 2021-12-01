@@ -16,27 +16,8 @@ STATUS:         ---
 
 TEXT:           10025
 ACQUIRED:       ---
-ACQBUS:         "banks"
-                "holding"
-ACQLOC:         "First Wisconsin Corp"
-                "Shelard Bancshares Inc"
-                "about 25 mln"
-                "first"
-                "Minnesota"
-                "First Wisconsin"
-                "Shelard"
-                "two"
-                "168 mln"
-                "First Wisconsin"
-                "7.1 billion"
-                "dlrs"
-                "Shelard"
-                "about 12"
-                "1986"
-                "two"
-                "Shelard"
-                "five"
-                "Minneapolis"
+ACQBUS:         "holding"
+ACQLOC:         "Minnesota"
 DLRAMT:         "7.1 billion dlrs"
                 "25 mln dlrs"
                 "168 mln dlrs"
@@ -48,14 +29,14 @@ STATUS:         ---
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          1.00 (1/1)	   0.05 (1/19)        0.10
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          1.00 (1/1)	   1.00 (1/1)         1.00
 DLRAMT          0.00 (0/1)	   0.00 (0/3)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.04 (1/24)        0.07
+TOTAL           0.20 (1/5)	   0.20 (1/5)         0.20
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -75,59 +56,30 @@ STATUS:         "bid"
 TEXT:           10335
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "39.3"
-                "N.Z. Dlr"
-                "Alcan"
-                "New Zealand Ltd"
-                "1.80"
-                "N.Z. Dlrs"
-                "four"
-                "three"
-                "70"
+ACQLOC:         "New Zealand Ltd"
                 "Canada"
-                "Alcan Aluminium Ltd
-                "Alcan Australia"
-                "Jeremy Davis"
-                "Alcan"
                 "New Zealand's"
-                "21.84"
-                "Alcan Australia's"
-                "Alcan"
-                "1.55"
-                "Alcan"
-                "today"
-                "four cents"
-                "1.15"
-                "Davis"
-                "two"
-                "Alcan"
                 "New Zealand"
-                "10 cents"
-                "May 27"
-                "Alcan"
                 "Australia"
                 "New Zealand"
                 "New Zealand"
-                "Davis"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "ended"
-                "offer"
+STATUS:         "ended"
 
      SCORES for 10335
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/34)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/7)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.03 (1/37)        0.05
+TOTAL           0.00 (0/4)	   0.00 (0/8)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -147,35 +99,25 @@ STATUS:         "completed"
 TEXT:           11465
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Dusseldorf"
-                "West
-                "Occidental Petroleum Corp's"
-                "Occidental Chemical Corp"
-                "Diamond Shamrock Corp
-                "September"
-                "annual"
-                "about 160"
+ACQLOC:         "West
 DLRAMT:         "160 mln dlrs"
                 "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "completed the acquisition"
-                "complete"
-                "acquired"
-                "completed"
 
      SCORES for 11465
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/8)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.25 (1/4)         0.40
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (2/6)	   0.14 (2/14)        0.20
+TOTAL           0.17 (1/6)	   0.25 (1/4)         0.20
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -195,34 +137,24 @@ STATUS:         "completed"
 TEXT:           11515
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Chubb Corp"
-                "Sovereign Corp."
-                "Sovereign"
-                "0.1365"
-                "Chubb"
-                "Sovereign"
-                "Chubb"
-                "9.11"
-                "March 30"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 11515
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/9)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.08 (1/12)        0.13
+TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -242,11 +174,7 @@ STATUS:         "sold"
 TEXT:           11553
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Sterling Drug Inc"
-                "Greene Dental Products Inc"
-                "Rinn
-                "Elgin"
-                "Ill."
+ACQLOC:         "Elgin"
 DLRAMT:         "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
@@ -257,13 +185,13 @@ STATUS:         "sold"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/5)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (2/6)	   0.29 (2/7)         0.31
+TOTAL           0.33 (2/6)	   0.67 (2/3)         0.44
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -282,46 +210,32 @@ STATUS:         "agreed to acquire"
 
 TEXT:           12225
 ACQUIRED:       ---
-ACQBUS:         "gold"
-                "diamond and gold"
-                "mines"
-ACQLOC:         "Upland Minerals and Chemicals Corp"
-                "Consolidated Brazilian Mines International
-                "one mln acres"
-                "Brazil"
-                "42"
-                "three"
+ACQBUS:         "diamond and gold"
+ACQLOC:         "Brazil"
                 "Brazil"
                 "Gammara"
                 "Santo Antonio"
-                "Upland"
                 "Brazil"
-                "9.6 mln"
-                "a year"
-                "next 25 years"
                 "New York"
-                "Upland"
 DLRAMT:         "one mln dlrs"
                 "9.6 mln dlrs"
                 "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "agreed to acquire"
-                "agreed"
+STATUS:         "agreed to acquire"
 
      SCORES for 12225
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          1.00 (1/1)	   0.33 (1/3)         0.50
-ACQLOC          1.00 (1/1)	   0.06 (1/16)        0.12
+ACQBUS          1.00 (1/1)	   1.00 (1/1)         1.00
+ACQLOC          1.00 (1/1)	   0.17 (1/6)         0.29
 DLRAMT          1.00 (1/1)	   0.33 (1/3)         0.50
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.67 (4/6)	   0.16 (4/25)        0.26
+TOTAL           0.67 (4/6)	   0.36 (4/11)        0.47
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -340,14 +254,8 @@ STATUS:         "sold"
 
 TEXT:           12345
 ACQUIRED:       ---
-ACQBUS:         "holding"
-                "oil and gas"
-ACQLOC:         "M.D.C. Holdings Inc"
-                "Mizel"
-                "38"
-                "Parker"
-                "Midland"
-                "Texas"
+ACQBUS:         "oil and gas"
+ACQLOC:         "Midland"
 DLRAMT:         "38 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
@@ -357,14 +265,14 @@ STATUS:         "sold"
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          1.00 (1/1)	   0.50 (1/2)         0.67
-ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
+ACQBUS          1.00 (1/1)	   1.00 (1/1)         1.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (3/6)	   0.30 (3/10)        0.37
+TOTAL           0.50 (3/6)	   0.75 (3/4)         0.60
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -384,43 +292,9 @@ STATUS:         "agreed in principle"
 TEXT:           12390
 ACQUIRED:       ---
 ACQBUS:         "gold"
-                "mines"
-ACQLOC:         "Galveston Resources Ltd"
-                "50"
+ACQLOC:         "Galveston"
                 "Galveston"
-                "50"
-                "one"
-                "December 31, 1989"
-                "1987"
                 "Galveston"
-                "Hemlo Gold"
-                "two"
-                "Galveston"
-                "10"
-                "December 31, 1987"
-                "12.50"
-                "December
-                "15"
-                "December 31, 1989"
-                "Galveston"
-                "Noranda Inc"
-                "Noranda Explorations Ltd"
-                "50"
-                "the Baie Verte Peninsula"
-                "Newfoundland"
-                "Galveston"
-                "50"
-                "six"
-                "December 31, 1989"
-                "Noranda"
-                "two"
-                "Galveston"
-                "10"
-                "December 31, 1987"
-                "12.50"
-                "December
-                "15"
-                "December 31, 1989"
 DLRAMT:         "one mln dlrs"
                 "two mln dlrs"
                 "six mln dlrs"
@@ -428,20 +302,19 @@ DLRAMT:         "one mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed in principle"
-                "agreed"
 
      SCORES for 12390
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/36)        0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/3)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/4)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.02 (1/44)        0.04
+TOTAL           0.20 (1/5)	   0.11 (1/9)         0.14
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -461,35 +334,24 @@ STATUS:         "proposed"
 TEXT:           12620
 ACQUIRED:       ---
 ACQBUS:         "holding"
-ACQLOC:         "Vernitron Corp"
-                "June"
-                "SB Holding Corp."
-                "Vernitron"
-                "May 15"
-                "the Securities and Exchange Commission"
-                "November 1986"
-                "SB Holding"
-                "54.7"
-                "Vernitron"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "record date"
-                "proposed"
-                "offer"
 
      SCORES for 12620
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.07 (1/14)        0.12
+TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -509,41 +371,24 @@ STATUS:         "agreed to sell"
 TEXT:           12890
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Du Pont Co"
-                "Cleveland"
-                "two"
-                "the second quarter"
-                "less than 1/10"
-                "one"
-                "Du Pont's"
-                "annual"
-                "Volan"
-                "Du
-                "1866"
-                "Du Pont"
-                "1928"
-                "Du Pont"
+ACQLOC:         "Cleveland"
 DLRAMT:         "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to sell"
-                "agreement"
-                "acquired"
-                "definitive agreement"
-                "agreed"
 
      SCORES for 12890
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          1.00 (1/1)	   0.07 (1/14)        0.13
+ACQLOC          1.00 (1/1)	   1.00 (1/1)         1.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (3/6)	   0.15 (3/20)        0.23
+TOTAL           0.50 (3/6)	   1.00 (3/3)         0.67
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -563,12 +408,7 @@ STATUS:         ---
 TEXT:           12900
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "CWT Inc"
-                "60 days"
-                "CWT Inc"
-                "Midwest"
-                "annual"
-                "approximately 135"
+ACQLOC:         ---
 DLRAMT:         "135 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
@@ -579,13 +419,13 @@ STATUS:         ---
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/6)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/7)         0.00
+TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -605,27 +445,24 @@ STATUS:         "agreed in principle"
 TEXT:           12933
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Allwaste Inc"
-                "1.98"
+ACQLOC:         ---
 DLRAMT:         "1.98 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed in principle"
-                "acquired"
-                "agreed"
 
      SCORES for 12933
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (2/4)	   0.33 (2/6)         0.40
+TOTAL           0.50 (2/4)	   1.00 (2/2)         0.67
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -646,46 +483,23 @@ TEXT:           12965
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "Warburg"
-                "Pincus Capital Co L.P."
-                "Symbion
-                "3.50-dlr-per"
-                "the Securities and Exchange Commission"
-                "Warburg Pincus"
-                "one"
-                "Rodman Moorhead"
-                "Symbion"
-                "April 1"
-                "Symbion"
-                "L.F. Rothschild"
-                "Unterberg"
-                "Towbin Inc."
-                "Warburg Pincus"
-                "3.50 dlr"
-                "Rothschild"
-                "Warburg Pincus"
-                "Warburg Pincus
-                "Last Month"
-                "Warburg Pincus"
-                "2.5"
-                "Symbion"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "offer"
+STATUS:         "offer"
 
      SCORES for 12965
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/23)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/25)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -705,39 +519,26 @@ STATUS:         "executed a formal share purchase agreement"
 TEXT:           13005
 ACQUIRED:       ---
 ACQBUS:         "insurance"
-ACQLOC:         "Swiss
-                "Zurich"
+ACQLOC:         "Zurich"
                 "Switzerland"
-                "Swiss Re"
-                "5.5"
-                "CIS"
-                "2.50"
-                "13.8 mln"
-                "30"
-                "500,000"
-                "June 11"
 DLRAMT:         "5.5 mln dlrs"
                 "13.8 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "bought"
-                "complete"
-                "will acquire"
-                "completed"
+STATUS:         "will acquire"
 
      SCORES for 13005
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/11)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/5)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/19)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/6)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -757,33 +558,24 @@ STATUS:         "agreed to begin talks"
 TEXT:           13060
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Regal International Inc"
-                "Bell"
-                "Regal"
-                "Bankruptcy"
-                "Bell"
-                "Chapter 11"
-                "the end of"
-                "Bell"
-                "third"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "agreed"
+STATUS:         "agreed"
 
      SCORES for 13060
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/9)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/11)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -803,38 +595,25 @@ STATUS:         "agreed"
 TEXT:           13090
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Kroger Co"
-                "nine"
+ACQLOC:         "Dallas"
                 "Dallas"
-                "Safeway Stores
-                "141"
-                "Kroger"
-                "one"
-                "late April"
-                "Kroger"
-                "Dallas"
-                "75"
-                "more than 1,300"
-                "20"
 DLRAMT:         "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "agreed to buy"
-                "agreed"
+STATUS:         "agreed to buy"
 
      SCORES for 13090
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          1.00 (1/1)	   0.08 (1/13)        0.14
+ACQLOC          1.00 (1/1)	   0.50 (1/2)         0.67
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.12 (2/17)        0.18
+TOTAL           0.20 (1/5)	   0.25 (1/4)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -854,50 +633,27 @@ STATUS:         "bid"
 TEXT:           13095
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Metalicos"
-                "Spain"
-                "2,205 francs"
-                "French"
-                "Duffour"
-                "2,100 franc"
-                "yesterday"
+ACQLOC:         "Spain"
                 "France"
-                "French"
                 "U.S."
-                "Union Carbide Corp"
-                "Igon"
-                "133,100"
-                "100 francs"
-                "856 francs"
-                "January 9"
-                "Banque Paribas"
-                "Carburos Metalicos"
-                "Union
                 "France"
-                "Rothschild"
-                "Igon"
-                "April 6"
-                "7"
-                "April 8"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "ended"
-                "announced"
+STATUS:         "ended"
 
      SCORES for 13095
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          1.00 (1/1)	   0.04 (1/25)        0.08
+ACQLOC          0.00 (0/1)	   0.00 (0/4)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.07 (2/28)        0.12
+TOTAL           0.00 (0/5)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -916,80 +672,26 @@ STATUS:         "will offer"
 
 TEXT:           13265
 ACQUIRED:       ---
-ACQBUS:         "natural gas"
-                "holding"
-                "oil and gas"
-ACQLOC:         "The Australian Gas Light Co"
-                "AGL"
-                "one"
-                "one"
-                "two"
-                "TMOC Resources Ltd"
-                "Santos Ltd"
-                "4.75"
-                "AGL"
-                "8.50"
-                "Friday"
-                "4.60"
-                "Friday"
-                "4.15"
-                "AGL"
-                "third"
-                "this year"
-                "Santos"
-                "4.00"
-                "TMOC"
-                "62.08"
-                "AGL"
-                "249.9"
-                "AGL"
-                "10.5"
-                "Santos"
-                "3.1"
-                "March 23"
-                "Elders Resources Ltd"
-                "TMOC"
-                "three months ago"
-                "2.55"
-                "AGL"
-                "Elders Resources"
-                "AGL"
-                "TMOC"
-                "AGL"
-                "one"
-                "AGL"
-                "Alice"
-                "Darwin"
-                "AGL"
-                "AGL"
-                "TMOC
+ACQBUS:         "oil and gas"
+ACQLOC:         "Santos"
                 "Queensland"
-                "Moonie"
-                "the Northern Territory"
-                "43.75"
-                "Mereenie"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "announced"
-                "rejection"
-                "will offer"
-                "offer"
-                "reject"
+STATUS:         "will offer"
 
      SCORES for 13265
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/3)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/49)        0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.17 (1/6)         0.29
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.02 (1/58)        0.03
+TOTAL           0.25 (1/4)	   0.25 (1/4)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1010,35 +712,23 @@ TEXT:           135
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "Miami"
-                "Fundamental Management Corp"
-                "Robeson Industries Corp"
-                "238,000"
-                "14.6"
-                "205,000"
-                "12.8"
-                "the Securities and Exchange Commission"
-                "32,800"
-                "Jan 26"
-                "175,691"
-                "Carl Singer"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "raised its stake"
-                "bought"
 
      SCORES for 135
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/12)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.07 (1/14)        0.11
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1058,55 +748,25 @@ STATUS:         "entered into an agreement"
 TEXT:           13790
 ACQUIRED:       ---
 ACQBUS:         "courier"
-ACQLOC:         "E.F. Hutton Group Inc"
-                "EFH"
+ACQLOC:         "Hutton"
                 "Hutton"
-                "Courier Corp"
-                "35-dlr-per"
-                "April 13"
-                "Hutton"
-                "less than"
-                "Emery"
-                "Yesterday"
-                "Hutton"
-                "Acquisition Corp"
-                "midnight"
-                "two more days"
-                "only about 450,000"
-                "6.5"
-                "11.5"
-                "April 28"
-                "Acquisition"
-                "Emery"
-                "Emery"
-                "Purolatr"
-                "51"
-                "PC Acquisition's"
-                "Emery"
 DLRAMT:         "three mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "ended"
-                "agreement"
-                "expired"
-                "offer"
-                "tendered"
-                "entered into an agreement"
-                "agreed"
+STATUS:         "entered into an agreement"
 
      SCORES for 13790
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/25)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.13 (1/8)         0.22
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.03 (1/35)        0.05
+TOTAL           0.33 (1/3)	   0.20 (1/5)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1126,54 +786,29 @@ STATUS:         "talks are taking place"
 TEXT:           14900
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Monier Ltd"
-                "Britain"
-                "Redland Plc"
-                "Bill Locke
-                "Redland"
-                "about 49"
-                "Monier"
-                "156.28"
-                "Locke"
-                "1987"
-                "3.10"
-                "today"
-                "2.80"
-                "yesterday"
-                "1987"
-                "2.18"
-                "Monier"
+ACQLOC:         "Britain"
                 "Australia"
                 "U.S."
                 "New Zealand"
-                "annual"
-                "1985/86"
-                "June 30"
-                "first-half 1986/87"
-                "15.02"
-                "17.09"
-                "a year earlier"
-                "Australian"
 DLRAMT:         "156.28 mln dlrs"
                 "15.02 mln dlrs"
                 "17.09 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "ended"
-                "offer"
 
      SCORES for 14900
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/28)        0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/4)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/3)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/33)        0.00
+TOTAL           0.00 (0/5)	   0.00 (0/8)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1193,36 +828,24 @@ STATUS:         "agreed"
 TEXT:           15210
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Datron Corp"
-                "GGHF Inc"
-                "Florida"
-                "four"
-                "Datron"
-                "four"
-                "six"
-                "Datron"
-                "about 73"
-                "896,000"
-                "GGHF"
-                "first"
+ACQLOC:         "Florida"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "proposed"
-                "agreed"
+STATUS:         "agreed"
 
      SCORES for 15210
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/12)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.07 (1/14)        0.12
+TOTAL           0.33 (1/3)	   0.50 (1/2)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1241,25 +864,9 @@ STATUS:         ---
 
 TEXT:           15545
 ACQUIRED:       ---
-ACQBUS:         "banks"
-                "holding"
-ACQLOC:         "Italian"
-                "today"
-                "12"
-                "Nuovo Banco Ambrosiano Spa"
-                "Italian"
-                "La Repubblica"
-                "Gemina"
-                "205
-                "Italian"
-                "Gemina"
-                "Reuters"
+ACQBUS:         "holding"
+ACQLOC:         "Gemina"
                 "Milan"
-                "Ambrosiano"
-                "February"
-                "Ambrosiano"
-                "Giovanni Bazoli"
-                "REUTER"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -1269,14 +876,14 @@ STATUS:         "acquired"
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          1.00 (1/1)	   0.06 (1/17)        0.11
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          1.00 (1/1)	   0.50 (1/2)         0.67
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.05 (1/20)        0.08
+TOTAL           0.20 (1/5)	   0.25 (1/4)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1296,35 +903,24 @@ STATUS:         "acquired"
 TEXT:           15575
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Zenex Oil Pty Ltd"
-                "Esso South Africa"
-                "Exxon Corp"
-                "Zenex"
-                "Exxon"
-                "Esso"
-                "Zenex"
-                "John
-                "Exxon"
-                "Africa"
-                "last December"
+ACQLOC:         ---
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "acquired"
+STATUS:         "acquired"
 
      SCORES for 15575
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/11)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.07 (1/14)        0.11
+TOTAL           0.20 (1/5)	   0.50 (1/2)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1344,35 +940,24 @@ STATUS:         ---
 TEXT:           15600
 ACQUIRED:       ---
 ACQBUS:         "holding"
-ACQLOC:         "the Securities
-                "GenCorp Inc"
-                "8.6"
-                "9.8"
-                "250,000"
-                "118.5"
-                "GC Holdings Inc"
-                "General Acquisitions Inc"
-                "yesterday"
-                "GenCorp"
-                "up to 130"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "selling"
-                "bid"
 
      SCORES for 15600
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/11)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/2)	   0.00 (0/14)        0.00
+TOTAL           0.00 (0/2)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1392,18 +977,8 @@ STATUS:         "acquired"
 TEXT:           15970
 ACQUIRED:       ---
 ACQBUS:         "computer"
-ACQLOC:         "McDonnell Douglas Corp"
-                "Frampton Computer Services Ltd"
-                "British"
-                "Isis"
-                "Bristol"
+ACQLOC:         "Bristol"
                 "England"
-                "65"
-                "annual"
-                "about five"
-                "McDonnell Douglas"
-                "Isis"
-                "McDonnell Douglas Information Systems International"
 DLRAMT:         "five mln dlrs"
                 "not disclosed"
 PURCHASER:      ---
@@ -1415,13 +990,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/12)        0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.06 (1/16)        0.10
+TOTAL           0.20 (1/5)	   0.17 (1/6)         0.18
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1440,74 +1015,29 @@ STATUS:         "offer"
 
 TEXT:           16215
 ACQUIRED:       ---
-ACQBUS:         "holding"
-                "oil and gas"
-ACQLOC:         "3.22 billion dlr"
-                "Dome
-                "TransCanada Pipelines Ltd"
-                "Dome"
-                "Dome"
-                "more than 4.5 billion"
-                "July 1, 1987"
-                "Canadian"
-                "TransCanada"
-                "Dome"
-                "Dome"
-                "56"
-                "March"
-                "several months"
-                "TransCanada"
-                "Doug Gowland"
-                "Brown Baldwin Nisker
-                "Toronto"
+ACQBUS:         "oil and gas"
+ACQLOC:         "Toronto"
                 "Calgary"
-                "Dome"
-                "Wilf Gobert"
-                "Peters"
-                "Co Ltd"
-                "TransCanada"
-                "Gobert"
-                "TransCanada"
-                "Dome"
-                "Dome"
-                "Gobert"
-                "David Annesley"
                 "New York"
-                "TransCanada"
                 "Dome"
-                "Dome"
-                "TransCanada"
-                "two"
-                "TransCanada"
-                "Dome"
-                "TransCanada"
-                "Gowland"
-                "TransCanada"
-                "36.1 mln acres"
-                "Dome"
-                "TransCanada"
 DLRAMT:         "3.22 billion dlrs"
                 "4.5 billion dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "announced"
-                "agreement"
-                "proposed"
-                "offer"
+STATUS:         "agreement"
 
      SCORES for 16215
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          1.00 (1/1)	   0.50 (1/2)         0.67
-ACQLOC          1.00 (1/1)	   0.02 (1/44)        0.04
+ACQBUS          1.00 (1/1)	   1.00 (1/1)         1.00
+ACQLOC          1.00 (1/1)	   0.25 (1/4)         0.40
 DLRAMT          0.00 (0/1)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (3/6)	   0.06 (3/53)        0.10
+TOTAL           0.33 (2/6)	   0.25 (2/8)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1526,43 +1056,26 @@ STATUS:         ---
 
 TEXT:           16370
 ACQUIRED:       ---
-ACQBUS:         "insurance"
-                "brokerage"
-ACQLOC:         "Albert Kahn"
-                "Trans-Lux Corp"
-                "8.9"
-                "8.1"
-                "Kahn"
-                "an additional 7,300"
-                "100,000"
-                "nine"
-                "2005"
-                "6,803"
-                "Kahn"
-                "annual"
-                "Kahn"
-                "Delaware"
+ACQBUS:         "brokerage"
+ACQLOC:         "Delaware"
                 "Connecticut"
-                "Kahn"
-                "Miami"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "bought"
-                "considering"
 
      SCORES for 16370
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          1.00 (1/1)	   0.06 (1/17)        0.11
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          1.00 (1/1)	   0.50 (1/2)         0.67
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.05 (1/21)        0.08
+TOTAL           0.25 (1/4)	   0.25 (1/4)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1582,27 +1095,24 @@ STATUS:         "completed"
 TEXT:           16465
 ACQUIRED:       ---
 ACQBUS:         "computer software"
-                "computer"
-ACQLOC:         "Haba Systems Inc."
-                "4.1"
+ACQLOC:         ---
 DLRAMT:         "4.1 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 16465
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.29 (2/7)         0.33
+TOTAL           0.40 (2/5)	   0.67 (2/3)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1624,51 +1134,27 @@ ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "U.S."
                 "Canada"
-                "TransCanada PipeLines Ltd
-                "4.3 billion Canadian dlr"
-                "Dome and Dome"
-                "two"
-                "two"
-                "Canadian"
-                "DuPont"
-                "Conoco"
-                "Wilf Gobert"
-                "Co Ltd"
-                "1/4"
-                "1-1/8"
-                "the American Stock Exchange"
-                "TransCanada PipeLines"
-                "1/4"
-                "15-3/4"
                 "New York"
-                "Dome"
                 "Toronto"
-                "1.50"
-                "37"
-                "Gobert"
-                "Dome"
-                "TransCanada PipeLines'"
                 "Dome"
                 "Dome"
-                "20"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "offer"
+STATUS:         "offer"
 
      SCORES for 16475
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/29)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/31)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/7)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1688,39 +1174,26 @@ STATUS:         ---
 TEXT:           16510
 ACQUIRED:       ---
 ACQBUS:         "holding"
-ACQLOC:         "Accountemps"
-                "New England"
-                "four"
-                "Boston"
-                "Eastern Massachusetts"
-                "one"
+ACQLOC:         "Boston"
                 "Providence"
-                "R.I.
-                Boothe"
-                "Robert
-                "International Inc"
-                "the Robert Half"
                 "U.S."
-                "Robert Half International"
-                "about 59"
 DLRAMT:         "59 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "acquired"
+STATUS:         "acquired"
 
      SCORES for 16510
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
-ACQLOC          1.00 (1/1)	   0.07 (1/15)        0.13
+ACQLOC          0.00 (0/1)	   0.00 (0/3)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (2/4)	   0.11 (2/19)        0.17
+TOTAL           0.25 (1/4)	   0.17 (1/6)         0.20
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1740,47 +1213,26 @@ STATUS:         "definitive agreement"
 TEXT:           16555
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "RJR Nabisco Inc's"
-                "RJ
-                "Winchester Little Cigar Business to Tobacco
-                "Atlanta"
+ACQLOC:         "Atlanta"
                 "U.S."
-                "Rothman's International PLC"
-                "Last week"
-                "RJ Reynolds"
-                "four"
-                "Winchester"
-                "Rj Reynolds Tobacco USA's"
-                "4.7 billion"
-                "1986"
-                "Reynolds"
-                "April
-                "Reynolds"
-                "Winchester"
-                "1971"
 DLRAMT:         "4.7 billion dlrs"
                 "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "agreement"
-                "agreement to sell"
-                "complete"
-                "definitive agreement"
-                "completed"
+STATUS:         "agreement to sell"
 
      SCORES for 16555
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/18)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.17 (1/6)         0.29
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.08 (2/26)        0.13
+TOTAL           0.20 (1/5)	   0.20 (1/5)         0.20
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1802,32 +1254,24 @@ STATUS:         "completed"
 TEXT:           16695
 ACQUIRED:       ---
 ACQBUS:         "airline"
-                "computer"
-ACQLOC:         "Texas Air Corp's"
-                "Eastern Airlines"
-                "SystemOne Direct Access Inc"
-                "EAL Automation
-                "SystemOne Corp"
-                "Texas Air Corp."
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 16695
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/2)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/2)	   0.00 (0/2)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
+ACQBUS          0.00 (0/2)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.14 (1/7)	   0.09 (1/11)        0.11
+TOTAL           0.14 (1/7)	   0.50 (1/2)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1848,30 +1292,24 @@ STATUS:         "acquired"
 TEXT:           16700
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Fidelity International Ltd"
-                "American"
-                "208,000"
-                "Blasius Industries Inc."
-                "the Securities and Exchange Commission"
-                "5.3"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bought"
-                "acquired"
+STATUS:         "acquired"
 
      SCORES for 16700
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/2)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.13 (1/8)         0.17
+TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1891,34 +1329,26 @@ STATUS:         "discussing the takeover"
 TEXT:           17110
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Frenchman Hubert"
-                "Perrodo"
-                "51"
-                "Torrance"
+ACQLOC:         "Torrance"
                 "California"
-                "five"
-                "Petranol"
-                "U.S."
-                "Petranol"
                 "U.S."
 DLRAMT:         "five mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "acquired"
+STATUS:         "acquired"
 
      SCORES for 17110
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/3)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/13)        0.00
+TOTAL           0.00 (0/5)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1939,36 +1369,24 @@ TEXT:           17595
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "Vancouver"
-                "Canadian"
-                "Coca-Cola Co
-                "60
-                "Coca-Cola"
-                "1,600,000"
-                "Coke Consolidated"
-                "about 200"
-                "325 mln"
-                "the first quarter"
 DLRAMT:         "325 mln dlrs"
                 "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "agreement"
-                "agreed in principle"
-                "agreed"
+STATUS:         "agreed in principle"
 
      SCORES for 17595
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.25 (1/4)         0.40
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.13 (2/16)        0.19
+TOTAL           0.40 (2/5)	   0.50 (2/4)         0.44
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -1990,44 +1408,28 @@ ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "U.S."
                 "Oregon"
-                "National Bancorp"
-                "the Board of
-                "the Federal Reserve"
-                "Fed"
-                "Heritage Bank"
                 "Camas"
                 "Wash."
                 "U.S."
-                "Loan of Salt Lake City"
                 "Utah"
-                "January"
-                "U.S. Bancorp"
-                "Old National"
-                "Old National"
-                "171 mln"
                 "U.S."
-                "Bancorp"
-                "4.9"
-                "Old National's"
 DLRAMT:         "171 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "approved"
-                "definitive agreement"
+STATUS:         "definitive agreement"
 
      SCORES for 17770
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/21)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/7)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (2/4)	   0.08 (2/25)        0.14
+TOTAL           0.25 (1/4)	   0.11 (1/9)         0.15
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2047,30 +1449,24 @@ STATUS:         "decided against buying"
 TEXT:           17810
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Roth-American Inc"
-                "May 1"
-                "Turco"
-                "Roth-American"
-                "Turco"
-                "Atcor"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "letter of intent"
-                "signed a letter of intent"
+STATUS:         "signed a letter of intent"
 
      SCORES for 17810
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/8)         0.00
+TOTAL           0.00 (0/5)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2091,26 +1487,23 @@ TEXT:           17835
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "Florida"
-                "William Landa"
 DLRAMT:         "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "letter of intent"
-                "signed a letter of intent"
-                "acquired"
+STATUS:         "signed a letter of intent"
 
      SCORES for 17835
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (2/4)	   0.33 (2/6)         0.40
+TOTAL           0.25 (1/4)	   0.33 (1/3)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2130,32 +1523,25 @@ STATUS:         "agreed to buy"
 TEXT:           18435
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Hydraulic Units Inc"
-                "Boeing Co  "
-                "between March 29"
-                "July 1"
-                "4.3"
-                "the year
-                "53.2"
+ACQLOC:         ---
 DLRAMT:         "42.5 mln dlrs"
                 "4.3 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to buy"
-                "agreed"
 
      SCORES for 18435
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/7)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (2/6)	   0.18 (2/11)        0.24
+TOTAL           0.33 (2/6)	   0.67 (2/3)         0.44
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2175,37 +1561,25 @@ STATUS:         ---
 TEXT:           18590
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Halcyon Investments"
-                "New York"
-                "6.9"
-                "Research-Cottrell Inc."
-                "Alan Slifka"
+ACQLOC:         "New York"
                 "Halcyon"
-                "Reuters"
-                "June 8"
-                "Research-Cottrell"
-                "44-1/4"
-                "today"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "purchased"
-                "agreement"
-                "acquired"
-                "definitive agreement"
+STATUS:         "definitive agreement"
 
      SCORES for 18590
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/11)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/4)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/2)	   0.00 (0/15)        0.00
+TOTAL           0.00 (0/2)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2225,14 +1599,7 @@ STATUS:         "approved"
 TEXT:           18895
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Development Corp"
-                "annual"
-                "Clinton American Corp"
-                "two"
-                "3,450,000"
-                "Clinton"
-                "F. Daniel Ryan"
-                "Leader"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -2243,13 +1610,13 @@ STATUS:         "approved"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/8)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.11 (1/9)         0.17
+TOTAL           0.33 (1/3)	   1.00 (1/1)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2269,33 +1636,24 @@ STATUS:         "agreed to buy"
 TEXT:           19180
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Colonial Bancgroup"
-                "First National Bank of Destin"
-                "second"
-                "Florida"
-                "Liberty Bank"
-                "April"
+ACQLOC:         "Florida"
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "letter of intent"
-                "signed a letter of intent"
-                "approved"
-                "agreed to buy"
-                "agreed"
+STATUS:         "signed a letter of intent"
 
      SCORES for 19180
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (2/4)	   0.17 (2/12)        0.25
+TOTAL           0.25 (1/4)	   0.33 (1/3)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2316,23 +1674,7 @@ STATUS:         ---
 TEXT:           19270
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Chevron Corp"
-                "4.6"
-                "UNC Inc"
-                "June 15"
-                "1.4"
-                "UNC"
-                "8.4"
-                "the Securities and Exchange Commission"
-                "Chevron"
-                "11.88"
-                "54.6"
-                "UNC"
-                "Co Inc"
-                "Donaldson, Lufkin and Jenrette
-                "38.3 mln"
-                "UNC"
-                "16.4"
+ACQLOC:         ---
 DLRAMT:         "4.6 mln dlrs"
                 "1.4 mln dlrs"
                 "54.6 mln dlrs"
@@ -2340,20 +1682,19 @@ DLRAMT:         "4.6 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreement"
-                "sold"
 
      SCORES for 19270
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/17)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/4)         0.00
 PURCHASER       0.00 (0/2)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/23)        0.00
+TOTAL           0.00 (0/4)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2373,10 +1714,7 @@ STATUS:         "acquired"
 TEXT:           19645
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "20"
-                "Personal
-                "New Generation"
-                "U.S."
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -2387,13 +1725,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/4)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.20 (1/5)         0.22
+TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2413,37 +1751,27 @@ STATUS:         "completed"
 TEXT:           19895
 ACQUIRED:       ---
 ACQBUS:         "computer"
-ACQLOC:         "North American"
-                "Austec Inc"
-                "Ryan-McFarland Corp"
-                "two"
-                "about 25"
-                "1987"
-                "Ryan-McFarlnad"
-                "FORTRAN"
-                "Melbourne"
+ACQLOC:         "Melbourne"
                 "Australia"
                 "Rolling Hills Estates"
-                "Calif."
 DLRAMT:         "25 mln dlrs"
                 "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 19895
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/12)        0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/3)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (2/6)	   0.12 (2/17)        0.17
+TOTAL           0.33 (2/6)	   0.29 (2/7)         0.31
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2463,33 +1791,24 @@ STATUS:         ---
 TEXT:           20035
 ACQUIRED:       ---
 ACQBUS:         "merchant bank"
-                "holding"
-ACQLOC:         "Plc"
-                "David Palmer"
-                "20.8"
-                "Morgan Grenfell Group"
-                "Plc"
-                "Reuters"
-                "U.K. Press"
-                "Faber"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "offer"
+STATUS:         "offer"
 
      SCORES for 20035
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/8)         0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/12)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2508,75 +1827,25 @@ STATUS:         "applied to buy"
 
 TEXT:           2010
 ACQUIRED:       ---
-ACQBUS:         "telecommunications"
-                "holding"
-                "electronics"
-ACQLOC:         "Five"
-                "French"
-                "Cie
-                "CGCT"
-                "16"
-                "French"
-                "Edouard
-                "French"
-                "the end of
-                "French"
-                "CGCT"
-                "20"
-                "last year"
-                "80"
-                "French"
-                "CGCT"
-                "American Telephone"
-                "Telegraph Co  "
-                "two-year"
-                "CGCT"
-                "Dutch"
-                "Philips
-                "NV Philips"
-                "Gloeilampenfabriek"
-                "Societe Anonyme de
-                "SAT"
-                "Cie du Midi SA"
-                "five"
-                "French"
-                "second"
-                "West German"
-                "Siemens AG"
-                "20"
-                "CGCT"
-                "French"
-                "80"
-                "Sweden"
-                "AB LM Ericsson"
-                "20"
-                "French"
-                "Matra"
-                "between 40 and 49"
-                "Bouygues"
-                "Matra"
-                "CGCT"
-                "REUTER"
+ACQBUS:         "holding"
+ACQLOC:         "Sweden"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "announced"
-                "accepted"
-                "acquired"
+STATUS:         "acquired"
 
      SCORES for 2010
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/3)         0.00
-ACQLOC          1.00 (1/1)	   0.02 (1/46)        0.04
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/4)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.02 (1/53)        0.04
+TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2596,15 +1865,7 @@ STATUS:         "acquired"
 TEXT:           20725
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "The Chase Manhattan Bank"
-                "Chase Manhattan Corp"
-                "about 190,000"
-                "Atlantic
-                "370"
-                "Chase"
-                "second"
-                "5.6 billion"
-                "Chase"
+ACQLOC:         ---
 DLRAMT:         "5.6 billion dlrs"
                 "370 mln dlrs"
 PURCHASER:      ---
@@ -2616,13 +1877,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/9)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.17 (2/12)        0.24
+TOTAL           0.40 (2/5)	   0.67 (2/3)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2642,16 +1903,8 @@ STATUS:         "will make a tender offer"
 TEXT:           20775
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Metropolitan Consolidated Industries Inc
-                "Metex Corp"
+ACQLOC:         "Metropolitan"
                 "Metropolitan"
-                "7.75"
-                "Metropolitan"
-                "about 25.7"
-                "Metex"
-                "about an additional 16"
-                "Metropolitan"
-                "October 27"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -2662,13 +1915,13 @@ STATUS:         "offer"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/11)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2688,13 +1941,8 @@ STATUS:         "enter into negotiations"
 TEXT:           21000
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "CCR Video Corp"
-                "Intercep Investment Corp"
-                "Vancouver"
+ACQLOC:         "Vancouver"
                 "B.C."
-                "CCR"
-                "CCR"
-                "Intercep"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -2705,13 +1953,13 @@ STATUS:         "offer"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/7)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/8)         0.00
+TOTAL           0.00 (0/4)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2732,38 +1980,24 @@ STATUS:         "bought"
 TEXT:           21040
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Atlantis Group Inc"
-                "100,000"
-                "Charter-Crellin Inc"
-                "6.3"
-                "the Securities and Exchange Commission"
-                "Atlantis"
-                "Charter-Crellin"
-                "Atlantis"
-                "Charter-Crellin"
-                "Atlantis"
-                "Charter-Crellin"
-                "between September 22 and October 7"
-                "15.62"
-                "about 1.51"
+ACQLOC:         ---
 DLRAMT:         "1.51 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "discussed"
-                "bought"
+STATUS:         "bought"
 
      SCORES for 21040
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/14)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.50 (1/2)	   0.50 (1/2)         0.50
+STATUS          0.50 (1/2)	   1.00 (1/1)         0.67
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.12 (2/17)        0.18
+TOTAL           0.40 (2/5)	   1.00 (2/2)         0.57
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2784,28 +2018,25 @@ TEXT:           2325
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "Newport Beach"
-                "Standard Brands Paint Co's"
                 "Irvine"
                 "Calif."
-                "Reuter"
 DLRAMT:         "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 2325
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/5)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/3)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.13 (1/8)         0.17
+TOTAL           0.25 (1/4)	   0.20 (1/5)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2825,36 +2056,25 @@ STATUS:         "agreed to acquire"
 TEXT:           2365
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "First Union Corp"
-                "First State Bancshares Inc"
-                "Pensacola"
+ACQLOC:         "Pensacola"
                 "Fla."
-                "First State Bank of Pensacola"
-                "about 457,000"
-                "First State"
-                "about 110"
-                "the third quarter of 1987"
-                "First State"
 DLRAMT:         "110 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to acquire"
-                "complete"
-                "completed"
-                "agreed"
 
      SCORES for 2365
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.25 (1/4)         0.40
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.07 (1/15)        0.10
+TOTAL           0.20 (1/5)	   0.25 (1/4)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2874,34 +2094,24 @@ STATUS:         "offer"
 TEXT:           2570
 ACQUIRED:       ---
 ACQBUS:         "holding"
-ACQLOC:         "Forbes Holdings Inc"
-                "18.50"
-                "Revlon Group
-                "Revlon"
-                "yesterday"
-                "the New York Stock Exchange"
-                "14-3/4"
-                "Forbes"
-                "Revlon"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "will offer"
-                "offer"
+STATUS:         "will offer"
 
      SCORES for 2570
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/9)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.08 (1/13)        0.13
+TOTAL           0.00 (0/3)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2921,31 +2131,25 @@ STATUS:         "agreed to sell"
 TEXT:           2660
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Donaldson Co Inc
-                "Pennsylvania"
-                "Donaldson"
+ACQLOC:         "Pennsylvania"
                 "Illinois"
-                "100"
-                "Donaldson"
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to sell"
-                "offer"
-                "agreed"
 
      SCORES for 2660
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (2/6)	   0.20 (2/10)        0.25
+TOTAL           0.33 (2/6)	   0.50 (2/4)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2965,15 +2169,7 @@ STATUS:         "offered to acquire"
 TEXT:           3025
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Donald Trump"
-                "Resorts International Inc"
-                "Trump"
-                "James M. Crosby"
-                "340,783"
-                "752,297"
-                "about 6,432,000"
-                "100"
-                "about 93"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -2984,13 +2180,13 @@ STATUS:         "offer"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/9)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/10)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3010,33 +2206,26 @@ STATUS:         ---
 TEXT:           3120
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "PPG Industries Inc"
-                "Sterling Group of Houston"
-                "PPG"
-                "du Pont Co
-                "Beaumont"
+ACQLOC:         "Beaumont"
                 "Texas"
-                "second
-                "1986"
 DLRAMT:         "50 mln dlrs"
                 "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to acquire"
-                "agreed"
 
      SCORES for 3120
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/8)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/12)        0.00
+TOTAL           0.00 (0/4)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3057,21 +2246,6 @@ TEXT:           3239
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "Chicago"
-                "Cyclops Corp
-                "437,425"
-                "11.1"
-                "524,775"
-                "13.3"
-                "the Securities and Exchange Commission"
-                "Harris"
-                "87,350"
-                "Cyclops"
-                "Jan 6
-                "March 2"
-                "65.75"
-                "91.00"
-                "Harris"
-                "Cyclops"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -3082,13 +2256,13 @@ STATUS:         "sold"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/16)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/2)	   0.00 (0/17)        0.00
+TOTAL           0.00 (0/2)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3109,33 +2283,24 @@ STATUS:         "completed"
 TEXT:           3295
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Johnson Products Co Inc"
-                "Debbie's School of Beauty Culture Inc"
-                "Ultra Precise Beauty Boutique Inc"
-                "2,533,000"
-                "700,000"
-                "1,506,000"
-                "327,000"
-                "Johnson
-                "Debbie's School"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 3295
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/2)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/9)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.09 (1/11)        0.13
+TOTAL           0.20 (1/5)	   1.00 (1/1)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3155,26 +2320,24 @@ STATUS:         "definitive agreement"
 TEXT:           376
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Barbara"
-                "Stanwell Mortgage"
+ACQLOC:         ---
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "definitive agreement"
+STATUS:         "definitive agreement"
 
      SCORES for 376
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (2/6)	   0.40 (2/5)         0.36
+TOTAL           0.33 (2/6)	   1.00 (2/2)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3194,19 +2357,7 @@ STATUS:         "definitive agreement"
 TEXT:           3910
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Railway Maintenance Equipment"
-                "Oak Industries Inc."
-                "Banner Industries
-                "Rexnord"
-                "Railway Maintenance"
-                "1986"
-                "16 mln"
-                "Rexnord"
-                "about 200"
-                "137"
-                "Mathews Conveyer Co"
-                "83"
-                "mame"
+ACQLOC:         ---
 DLRAMT:         "16 mln dlrs"
                 "200 mln dlrs"
                 "137 mln dlrs"
@@ -3214,23 +2365,19 @@ DLRAMT:         "16 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to acquire"
-                "agreement"
-                "agreement to sell"
-                "definitive agreement"
-                "agreed"
 
      SCORES for 3910
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/13)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/4)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.05 (1/22)        0.08
+TOTAL           0.00 (0/4)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3250,48 +2397,26 @@ STATUS:         "repurchased"
 TEXT:           4145
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Pope"
-                "Evans"
-                "780,000"
-                "Putnam Mills Corp"
-                "Sidney"
-                "Peter Kaplan"
-                "2.25"
-                "1,700,000"
-                "Putnam Mills"
-                "Evans"
-                "about 7.6"
-                "Pat Fashions Industries Inc"
-                "18 mln"
-                "Pat
-                "Pat Fashions"
-                "the Far East"
-                "the year ended November 30"
-                "Pat"
-                "5,400,000"
-                "83.0"
+ACQLOC:         ---
 DLRAMT:         "7.6 mln dlrs"
                 "18 mln dlrs"
                 "83.0 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "ended"
-                "purchased"
-                "agreed in principle"
-                "agreed"
+STATUS:         "agreed in principle"
 
      SCORES for 4145
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/20)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/3)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/4)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/27)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3311,34 +2436,12 @@ STATUS:         "will sign a pact"
 TEXT:           4315
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Union Pacific Corp"
-                "Caracas"
-                "March 17"
-                "Petroleos De Venezuela"
-                "half"
+ACQLOC:         "Caracas"
                 "Corpus Christi"
                 "Texas"
-                "Union Pacific's"
-                "Champlin Petroleum"
-                "later today"
                 "New
-                "Corpus"
-                "about 160,000"
-                "Union Pacific"
                 "Venezuela"
-                "Champlin"
-                "One"
-                "Champlin"
-                "Southland Corp's"
-                "September 15, 1986"
-                "290"
-                "half"
-                "Citgo"
-                "half"
-                "Champlin's"
                 "Venezuela"
-                "Southland"
-                "at least 130,000"
 DLRAMT:         "290 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
@@ -3349,13 +2452,13 @@ STATUS:         "agreement"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/28)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/30)        0.00
+TOTAL           0.00 (0/5)	   0.00 (0/8)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3375,35 +2478,25 @@ STATUS:         ---
 TEXT:           4605
 ACQUIRED:       ---
 ACQBUS:         "holding"
-                "entertainment"
-ACQLOC:         "Cannon Group's"
-                "Screen Entertainment"
-                "May 1986"
-                "Cannon"
-                "Screen Entertainment Ltd"
-                "Bond Corp Holdings
-                "over 2,000"
-                "175"
+ACQLOC:         ---
 DLRAMT:         "175 mln dlrs"
                 "125 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to acquire"
-                "purchased"
-                "agreed"
 
      SCORES for 4605
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/8)         0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/3)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/15)        0.00
+TOTAL           0.00 (0/4)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3423,27 +2516,24 @@ STATUS:         "agreed to buy"
 TEXT:           4615
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "TSS-Seedman's"
-                "about 50"
-                "the end of April"
+ACQLOC:         ---
 DLRAMT:         "50 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to buy"
-                "agreed"
 
      SCORES for 4615
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/3)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.17 (1/6)         0.20
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3463,17 +2553,7 @@ STATUS:         "acquired"
 TEXT:           4850
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Chrysler Corp"
-                "Chrysler"
-                "First Inc"
-                "Beneficial Business Credit Corp"
-                "Beneficial Corp."
-                "about 84 mln"
-                "Chrysler"
-                "First"
-                "Chrysler Financial Corp"
-                "4.3 billion dlrs"
-                "the end of 1986"
+ACQLOC:         ---
 DLRAMT:         "4.3 billion dlrs"
                 "84 mln dlrs"
 PURCHASER:      ---
@@ -3485,13 +2565,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/11)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.07 (1/14)        0.11
+TOTAL           0.25 (1/4)	   0.33 (1/3)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3511,39 +2591,24 @@ STATUS:         "began a cash tender offer"
 TEXT:           4910
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Allegheny International Inc"
-                "Acquisititon Corp"
-                "First Boston Inc"
-                "Allegheny"
-                "2.19 dlr"
-                "11.25"
-                "April 9"
-                "24.60"
-                "20"
-                "87.50"
-                "Allegheny"
-                "at least two-thirds"
-                "earlier this week"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "ended"
-                "announced"
-                "agreement"
-                "offer"
+STATUS:         "agreement"
 
      SCORES for 4910
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/13)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/4)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/17)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3563,36 +2628,25 @@ STATUS:         "agreed to buy"
 TEXT:           4955
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Mindscsape Inc"
-                "Holt"
-                "Rinehart"
-                "Winston Inc"
-                "Harcourt Brace Jovanovich Inc"
-                "Rinehart"
-                "CBS"
-                "about 10 mln"
-                "1985"
-                "Mindscape"
+ACQLOC:         ---
 DLRAMT:         "10 mln dlrs"
                 "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "purchased"
-                "agreed to buy"
-                "agreed"
+STATUS:         "agreed to buy"
 
      SCORES for 4955
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.13 (2/15)        0.20
+TOTAL           0.40 (2/5)	   0.67 (2/3)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3612,22 +2666,7 @@ STATUS:         ---
 TEXT:           505
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Bank of America NT"
-                "SA"
-                "West German"
-                "Bankhaus Centrale Credit AG"
-                "West German"
-                "1965"
-                "West German"
-                "Visa"
-                "Michael Seibel"
-                "Bank of America"
-                "Bank of America's"
-                "West German"
-                "32 mln marks"
-                "1985"
-                "Bankhaus Centrale Credit"
-                "Visa"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -3638,13 +2677,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          1.00 (1/1)	   0.06 (1/16)        0.12
+ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/0)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.06 (1/17)        0.10
+TOTAL           0.00 (0/4)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3664,41 +2703,24 @@ STATUS:         "sold"
 TEXT:           5465
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Metex Corp"
-                "Alan Cohen"
-                "78,375"
-                "Metex"
-                "Metropolitan Consolidated Industries Inc
-                "11.25"
-                "Metropolitan Consolidated Industries"
-                "42,750"
-                "Mason Carter"
-                "Carter"
-                "Metex"
-                "1982"
-                "Attilio Petrocelli"
-                "Metropolitan"
-                "Metex"
-                "21"
-                "Metex"
+ACQLOC:         "Metropolitan"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "selling"
-                "sold"
+STATUS:         "sold"
 
      SCORES for 5465
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/17)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.05 (1/19)        0.09
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3718,14 +2740,8 @@ STATUS:         ---
 TEXT:           5615
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "2001"
-                "West Babylon"
+ACQLOC:         "West Babylon"
                 "N.Y."
-                "875,000"
-                "2001"
-                "about one mln"
-                "1986"
-                "first year"
 DLRAMT:         "one mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
@@ -3736,13 +2752,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/8)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/10)        0.00
+TOTAL           0.00 (0/4)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3762,42 +2778,32 @@ STATUS:         "preliminary agreement"
 TEXT:           5670
 ACQUIRED:       ---
 ACQBUS:         "gold"
-ACQLOC:         "CityFed Financial Corp"
-                "City Federal Savings Bank"
-                "14"
-                "U.S."
-                "CityFed"
+ACQLOC:         "U.S."
                 "New Jersey"
                 "Florida"
-                "City
                 "Arizona"
                 "Colorado"
                 "Illinois"
                 "Maryland"
                 "New Mexico"
                 "Oregon"
-                "Virginia"
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "decided to sell"
-                "sold"
-                "agreement to sell"
-                "preliminary agreement"
+STATUS:         "agreement to sell"
 
      SCORES for 5670
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/15)        0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/9)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.29 (2/7)	   0.09 (2/22)        0.14
+TOTAL           0.14 (1/7)	   0.08 (1/12)        0.11
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3817,37 +2823,24 @@ STATUS:         "explore alternatives"
 TEXT:           6085
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Theta Corp"
-                "150"
-                "Last week"
-                "145"
-                "Theta"
-                "Taft"
-                "Dudley Taft"
-                "Theta"
-                "150"
-                "Theta"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "agreement"
-                "rejected"
-                "offer"
-                "reject"
+STATUS:         "agreement"
 
      SCORES for 6085
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/5)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/15)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3867,28 +2860,24 @@ STATUS:         "agreed to buy"
 TEXT:           6135
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Fortune Savings Bank"
-                "Loan Association"
+ACQLOC:         ---
 DLRAMT:         "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "approved"
-                "agreed to buy"
-                "agreed"
+STATUS:         "agreed to buy"
 
      SCORES for 6135
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/0)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.25 (1/4)         0.40
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (2/4)	   0.29 (2/7)         0.36
+TOTAL           0.50 (2/4)	   1.00 (2/2)         0.67
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3909,57 +2898,25 @@ TEXT:           6340
 ACQUIRED:       ---
 ACQBUS:         ---
 ACQLOC:         "Philippines"
-                "Social Security System"
-                "eight"
-                "San Miguel Corp"
-                "SMC"
-                "SMC"
-                "Ramon del
-                "one"
-                "SMC"
-                "15"
-                "100"
-                "38"
-                "the United Coconut Planters Bank"
-                "UCPB"
-                "SMC"
-                "five"
-                "A.N.
                 "San Miguel"
-                "Rosario"
-                "Del Rosario"
-                "14"
-                "SMC"
-                "UCPB"
-                "later this week"
-                "Corazon Aquino"
-                "earlier this month"
-                "SMC"
                 "Hong Kong"
-                "Neptunia Corp"
-                "the Presidential Commission"
-                "Eduardo Cojuanco"
-                "San Miguel"
-                "UCPB"
-                "Ferdinand Marcos"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "proposed"
-                "sold"
+STATUS:         "sold"
 
      SCORES for 6340
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/34)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/3)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/2)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/5)	   0.00 (0/36)        0.00
+TOTAL           0.00 (0/5)	   0.00 (0/4)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -3979,27 +2936,24 @@ STATUS:         "agreed in principle"
 TEXT:           6695
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Micro Plus II Corp"
-                "about two"
-                "May."
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed in principle"
-                "agreed"
 
      SCORES for 6695
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/3)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.20 (1/5)         0.22
+TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4019,43 +2973,7 @@ STATUS:         ---
 TEXT:           6815
 ACQUIRED:       ---
 ACQBUS:         "holding"
-ACQLOC:         "GAMCO Investors Inc"
-                "Gabelli"
-                "annual"
-                "March 31"
-                "GAMCO
-                "Mario Gabelli"
-                "Greenmail"
-                "GenCorp"
-                "today"
-                "9.8"
-                "Gabelli"
-                "GAMCO"
-                "13"
-                "the
-                "6.5"
-                "GenCorp"
-                "GAMCO"
-                "1,462,000"
-                "13"
-                "more than five"
-                "Earlier today"
-                "General Partners"
-                "Wagner"
-                "Brown
-                "AFG Industries Inc"
-                "100 dlr"
-                "GenCorp"
-                "between 10 and
-                "GenCorp"
-                "Gabelli"
-                "GenCorp"
-                "One"
-                "Gabelli"
-                "Gabelli"
-                "annual"
-                "Akron"
-                "Ohio"
+ACQLOC:         "Akron"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -4066,13 +2984,13 @@ STATUS:         "offer"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/37)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/3)	   0.00 (0/39)        0.00
+TOTAL           0.00 (0/3)	   0.00 (0/3)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4092,12 +3010,8 @@ STATUS:         "approved"
 TEXT:           7090
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Maxcom Corp"
-                "Nevada"
+ACQLOC:         "Nevada"
                 "Delaware"
-                "Comet Corp"
-                "Maxcom USA"
-                "500,000"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -4108,13 +3022,13 @@ STATUS:         "approved"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/6)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (1/3)	   0.14 (1/7)         0.20
+TOTAL           0.33 (1/3)	   0.33 (1/3)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4134,21 +3048,7 @@ STATUS:         ---
 TEXT:           7110
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Dixons Group plc"
-                "British"
-                "54"
-                "Cyclops"
-                "three"
-                "Cyclops"
-                "W.H. Knoell"
-                "James F. Will"
-                "WIlliam D. Dickey"
-                "three"
-                "Dixons"
-                "Financial"
-                "Egon von
-                "Gerald M.N. Corbett"
-                "Jeoffrey Budd"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -4159,13 +3059,13 @@ STATUS:         "agreement"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/15)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/2)	   0.00 (0/16)        0.00
+TOTAL           0.00 (0/2)	   0.00 (0/1)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4185,46 +3085,24 @@ STATUS:         "will be acquired"
 TEXT:           7130
 ACQUIRED:       ---
 ACQBUS:         "computer"
-ACQLOC:         "Scan-Graphics Inc"
-                "Captive Venture Capital Inc"
-                "Captive
-                "Scan-Graphics Inc"
-                "Scan"
-                "Capitive Venture Capital"
-                "1.6"
-                "16"
-                "Scan-Graphics"
-                "2,649,500"
-                "Capitive Venture Capital"
-                "149,500"
-                "95,050"
-                "100,000"
-                "10"
-                "1.25"
-                "1.50"
-                "Scan-Graphics"
-                "Captive Venture Capital"
-                "Scan"
-                "Nasdaq"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "will be acquired"
-                "approved"
-                "acquired"
 
      SCORES for 7130
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/21)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.04 (1/25)        0.07
+TOTAL           0.25 (1/4)	   0.50 (1/2)         0.33
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4244,16 +3122,7 @@ STATUS:         "approved"
 TEXT:           7220
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "AmSouth Corp"
-                "the Federal
-                "First Tuskaloosa Corp"
-                "Amsouth"
-                "August"
-                "Amsouth"
-                "First Tuskaloosa"
-                "66"
-                "AmSouth"
-                "105.6"
+ACQLOC:         ---
 DLRAMT:         "105.6 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
@@ -4264,13 +3133,13 @@ STATUS:         "approved"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/10)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (2/4)	   0.17 (2/12)        0.25
+TOTAL           0.50 (2/4)	   1.00 (2/2)         0.67
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4290,62 +3159,33 @@ STATUS:         "agreed to buy"
 TEXT:           7260
 ACQUIRED:       ---
 ACQBUS:         "pharmaceutical"
-ACQLOC:         "Solar Systems"
-                "Sundance Inc"
-                "45"
-                "INKEY SA"
-                "Spain"
-                "INKEY"
-                "West German"
-                "Aids Forschung"
-                "INKEY"
-                "Eurocapital Corp"
-                "Solar Systems"
-                "45"
+ACQLOC:         "Spain"
                 "INKEY"
                 "INKEY"
-                "two"
+                "INKEY"
+                "INKEY"
                 "Inkey"
-                "30
-                "the Food and Drug
-                "Europharmaceutical"
-                "FDA"
                 "U.S."
                 "Inkey"
                 "U.S."
-                "Carlton"
-                "three years"
-                "one-year"
                 "Spain"
-                "European"
-                "Europharmaceutical"
-                "FDA"
-                "Europharmaceutical"
-                "one"
-                "Europharmaceutical"
-                "45"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "sold"
-                "approved"
-                "will sell"
-                "agreed to buy"
-                "agreed"
+STATUS:         "agreed to buy"
 
      SCORES for 7260
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/34)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/10)        0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.17 (1/6)         0.29
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   0.02 (1/41)        0.04
+TOTAL           0.17 (1/6)	   0.08 (1/12)        0.11
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4365,34 +3205,25 @@ STATUS:         "definitive agreement"
 TEXT:           7315
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Greyhound Corp"
-                "General Motors Corp's"
-                "U.S."
-                "January"
-                "GM"
-                "Canadian"
-                "Greyhound"
+ACQLOC:         "U.S."
                 "Pontiac"
-                "Michigan"
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "agreement to buy"
-                "definitive agreement"
+STATUS:         "agreement to buy"
 
      SCORES for 7315
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/9)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.15 (2/13)        0.22
+TOTAL           0.20 (1/5)	   0.25 (1/4)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4412,33 +3243,25 @@ STATUS:         "completed"
 TEXT:           735
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "International Minerals"
-                "Chemical Corp"
-                "Johnson"
-                "Johnson Co's"
-                "Pitman-Moore"
-                "Chemical"
-                "annual"
-                "Pitman-Moore"
+ACQLOC:         ---
 DLRAMT:         "45 mln dlrs"
                 "not disclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 735
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/8)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.33 (2/6)	   0.17 (2/12)        0.22
+TOTAL           0.33 (2/6)	   0.67 (2/3)         0.44
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4458,10 +3281,7 @@ STATUS:         "closed"
 TEXT:           745
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "UtiliCorp United Inc"
-                "Virginia Power"
-                "Dominion Resources Inc"
-                "about 21"
+ACQLOC:         ---
 DLRAMT:         "21 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
@@ -4472,13 +3292,13 @@ STATUS:         "announced"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/4)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.17 (1/6)         0.18
+TOTAL           0.20 (1/5)	   0.50 (1/2)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4498,46 +3318,7 @@ STATUS:         ---
 TEXT:           8115
 ACQUIRED:       ---
 ACQBUS:         "supermarket chain"
-                "supermarkets"
-ACQLOC:         "Dart Group Corp"
-                "Dart"
-                "41.75"
-                "SGL"
-                "1.62 billion dlr"
-                "March 20"
-                "Dart"
-                "SGL"
-                "about 20"
-                "one"
-                "20"
-                "Dart"
-                "SGL"
-                "SGL"
-                "Dart"
-                "just under five"
-                "SGL"
-                "SGL"
-                "Dart"
-                "5.7"
-                "SGL"
-                "Leonard Lieberman"
-                "James Dougherty"
-                "Murray Levine"
-                "three"
-                "Lieberman"
-                "Dougherty"
-                "Lieberman"
-                "Dougherty"
-                "Levine"
-                "2.6"
-                "six"
-                "more than 15"
-                "March 18"
-                "SGL"
-                "Path Mark"
-                "Rickels"
-                "SGL"
-                "Greenmail"
+ACQLOC:         "Path Mark"
 DLRAMT:         "5.7 mln dlrs"
                 "2.6 mln dlrs"
                 "six mln dlrs"
@@ -4545,26 +3326,20 @@ DLRAMT:         "5.7 mln dlrs"
                 "15 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "selling"
-                "bid"
-                "ended"
-                "agreement"
-                "offer"
-                "considering"
-                "agreed"
+STATUS:         "agreed"
 
      SCORES for 8115
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/39)        0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/1)	   0.00 (0/5)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/0)	   0.00 (0/7)         0.00
+STATUS          0.00 (0/0)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.00 (0/4)	   0.00 (0/53)        0.00
+TOTAL           0.00 (0/4)	   0.00 (0/8)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4584,33 +3359,25 @@ STATUS:         "agreed"
 TEXT:           820
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Armstrong Rubber Co"
-                "Dyneer Corp"
-                "Clinton"
+ACQLOC:         "Clinton"
                 "Tenn."
-                "Armstrong Tire Co"
-                "Armtek"
-                "the third fiscal quarter
-                "Reuter"
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "agreed to sell"
-                "agreement"
-                "agreed"
 
      SCORES for 820
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/8)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/2)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.29 (2/7)	   0.17 (2/12)        0.21
+TOTAL           0.14 (1/7)	   0.25 (1/4)         0.18
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4630,35 +3397,24 @@ STATUS:         "definitive agreement"
 TEXT:           8355
 ACQUIRED:       ---
 ACQBUS:         "supermarkets"
-ACQLOC:         "Allied Supermarkets Inc"
-                "Michigan"
-                "about 46 mln"
-                "Allied"
-                "Meadowdale Foods
-                "David Page"
-                "Lon"
-                "Allied"
-                "the Vons Cos Inc."
+ACQLOC:         "Michigan"
 DLRAMT:         "46 mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "sold"
-                "agreement to sell"
-                "definitive agreement"
+STATUS:         "agreement to sell"
 
      SCORES for 8355
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/1)         0.00
-ACQLOC          1.00 (1/1)	   0.11 (1/9)         0.20
+ACQLOC          1.00 (1/1)	   1.00 (1/1)         1.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.25 (1/4)         0.40
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.50 (3/6)	   0.20 (3/15)        0.29
+TOTAL           0.33 (2/6)	   0.50 (2/4)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4680,13 +3436,7 @@ STATUS:         "acquired"
 TEXT:           8370
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "PHH Group Inc"
-                "two"
-                "1986"
-                "two"
-                "Neville Lewis Associates of New
-                "Walker Associates Inc of L.A."
-                "15.6"
+ACQLOC:         ---
 DLRAMT:         "15.6 mln dlrs"
                 "undisclosed"
 PURCHASER:      ---
@@ -4698,13 +3448,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/2)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/2)	   0.00 (0/7)         0.00
+ACQLOC          0.00 (0/2)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.29 (2/7)	   0.20 (2/10)        0.24
+TOTAL           0.29 (2/7)	   0.67 (2/3)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4725,42 +3475,25 @@ STATUS:         "letter of intent"
 TEXT:           840
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "DataGene Scientific
-                "Milex Corp"
-                "100,000"
-                "Ventana Growth Fund"
-                "1,100,000"
+ACQLOC:         "Ventana"
                 "Ventana"
-                "400,000"
-                "one"
-                "three"
-                "about 49"
-                "4,550,00"
-                "DataGene"
-                "29"
-                "Ventana"
-                "13"
-                "nine"
-                "Milex"
-                "Norman Monson"
 DLRAMT:         "one mln dlrs"
 PURCHASER:      ---
 SELLER:         ---
 STATUS:         "letter of intent"
-                "proposed"
 
      SCORES for 840
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/2)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/18)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/1)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.05 (1/21)        0.08
+TOTAL           0.25 (1/4)	   0.25 (1/4)         0.25
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4780,41 +3513,24 @@ STATUS:         "rejecting"
 TEXT:           8685
 ACQUIRED:       ---
 ACQBUS:         "building products"
-                "holding"
-ACQLOC:         "Norcros Plc"
-                "morning"
-                "542.2"
-                "Williams Holdings Plc"
-                "Williams"
-                "1228"
-                "Norcros"
-                "418p"
-                "397p"
-                "yesterday"
-                "Williams"
-                "15p"
-                "765"
-                "Norcros"
-                "Williams"
+ACQLOC:         "418p"
 DLRAMT:         "542.2 mln stg"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "bid"
-                "offer"
-                "reject"
+STATUS:         "offer"
 
      SCORES for 8685
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
-ACQBUS          0.00 (0/1)	   0.00 (0/2)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/15)        0.00
+ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          0.00 (0/1)	   0.00 (0/3)         0.00
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.20 (1/5)	   0.05 (1/21)        0.08
+TOTAL           0.20 (1/5)	   0.25 (1/4)         0.22
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4837,30 +3553,8 @@ STATUS:         "acquired"
 TEXT:           8780
 ACQUIRED:       ---
 ACQBUS:         "natural gas"
-ACQLOC:         "J.M. Resources Inc"
-                "90"
-                "DEI Acquisition Corp"
-                "InterFirst
-                "Sam B. Myers"
-                "Neomar Resources Inc"
-                "Richard L.
-                "Dallas"
-                "10.1"
+ACQLOC:         "Dallas"
                 "J.M."
-                "three mln"
-                "10"
-                "March 20, 1997"
-                "40.7"
-                "J.M."
-                "J.M."
-                "DEI"
-                "J.M."
-                "DEI"
-                "J.M."
-                "Jack E. Manning Jr."
-                "Myers"
-                "Morgan"
-                "Myers
 DLRAMT:         "10.1 mln dlrs"
                 "three mln dlrs"
 PURCHASER:      ---
@@ -4872,13 +3566,13 @@ STATUS:         "acquired"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/24)        0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/2)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/2)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/4)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.13 (1/8)	   0.04 (1/28)        0.06
+TOTAL           0.13 (1/8)	   0.17 (1/6)         0.14
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4899,30 +3593,24 @@ STATUS:         "completed"
 TEXT:           8795
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "McCormack Resources Inc
-                "James R. Barker"
-                "Paul Tregurtha"
-                "Barker"
-                "Moore"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "announced"
-                "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 8795
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/2)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/5)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.17 (1/6)	   0.13 (1/8)         0.14
+TOTAL           0.17 (1/6)	   1.00 (1/1)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4942,12 +3630,7 @@ STATUS:         ---
 TEXT:           8830
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "French"
-                "Compagnie Francaise
-                "French"
-                "1986"
-                "75 mln"
-                "GNB"
+ACQLOC:         ---
 DLRAMT:         "75 mln dlrs"
                 "undisclosed"
 PURCHASER:      ---
@@ -4959,13 +3642,13 @@ STATUS:         ---
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          1.00 (1/1)	   0.17 (1/6)         0.29
+ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   0.50 (1/2)         0.67
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.25 (2/8)         0.31
+TOTAL           0.20 (1/5)	   0.50 (1/2)         0.29
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -4985,31 +3668,10 @@ STATUS:         ---
 TEXT:           8855
 ACQUIRED:       ---
 ACQBUS:         "holding"
-ACQLOC:         "Chrysler Corp"
-                "Italian"
-                "Automobili Lamborghini"
-                "Lamborghini"
-                "Reuters"
-                "two"
-                "Chrysler"
-                "Italian"
-                "Chrysler"
-                "Lamborghini"
-                "two"
-                "two"
-                "U.S."
-                "Chrysler"
+ACQLOC:         "U.S."
                 "Detroit"
-                "Lamborghini"
                 "Bologna"
-                "the Mimran Group"
                 "Switzerland"
-                "last year"
-                "29 billion lire"
-                "Chrysler"
-                "15"
-                "Italian"
-                "Alfieri Maserati"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
@@ -5020,13 +3682,13 @@ STATUS:         ---
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/1)         0.00
-ACQLOC          1.00 (1/1)	   0.04 (1/25)        0.08
+ACQLOC          0.00 (0/1)	   0.00 (0/4)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
 STATUS          0.00 (0/0)	   0.00 (0/0)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.04 (1/26)        0.07
+TOTAL           0.00 (0/4)	   0.00 (0/5)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -5046,11 +3708,7 @@ STATUS:         "sold"
 TEXT:           9510
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Owens-Corning Fiberglas Corp"
-                "French"
-                "Lafarege Corp"
-                "Owens-Corning"
-                "Sentuc"
+ACQLOC:         ---
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
@@ -5061,13 +3719,13 @@ STATUS:         "sold"
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/1)	   0.00 (0/0)         0.00
-ACQLOC          1.00 (1/1)	   0.20 (1/5)         0.33
+ACQLOC          0.00 (0/1)	   0.00 (0/0)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
 STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.43 (3/7)	   0.43 (3/7)         0.43
+TOTAL           0.29 (2/7)	   1.00 (2/2)         0.44
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -5087,35 +3745,24 @@ STATUS:         "letter of intent"
 TEXT:           9891
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Rio Tinto-Zinc Corp PLC"
-                "83"
-                "Newmont Mining Corp"
-                "Newmont"
-                "Rio"
-                "six weeks"
-                "June"
-                "July"
+ACQLOC:         "Newmont"
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "letter of intent"
-                "agreement"
-                "proposed"
-                "signed a letter of intent"
-                "definitive merger agreement"
+STATUS:         "signed a letter of intent"
 
      SCORES for 9891
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/8)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/1)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.20 (1/5)         0.33
+STATUS          0.00 (0/1)	   0.00 (0/1)         0.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.08 (1/13)        0.12
+TOTAL           0.00 (0/4)	   0.00 (0/2)         0.00
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -5135,31 +3782,24 @@ STATUS:         "agreed in principle"
 TEXT:           9920
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Contel Corp"
-                "Walker County Telephone Co of LaFayette"
-                "Walker"
-                "7,600"
-                "Georgia"
-                "Walker"
+ACQLOC:         "Georgia"
 DLRAMT:         "undisclosed"
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "agreement"
-                "agreed in principle"
-                "agreed"
+STATUS:         "agreed in principle"
 
      SCORES for 9920
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/1)	   0.00 (0/6)         0.00
+ACQLOC          0.00 (0/1)	   0.00 (0/1)         0.00
 DLRAMT          1.00 (1/1)	   1.00 (1/1)         1.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/0)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.33 (1/3)         0.50
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.40 (2/5)	   0.20 (2/10)        0.27
+TOTAL           0.40 (2/5)	   0.67 (2/3)         0.50
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -5179,28 +3819,24 @@ STATUS:         "completed"
 TEXT:           9925
 ACQUIRED:       ---
 ACQBUS:         ---
-ACQLOC:         "Thermo Process Services Inc"
-                "Thermo Electron Corp"
-                "2,590,000"
-                "Thermo Electron"
+ACQLOC:         ---
 DLRAMT:         ---
 PURCHASER:      ---
 SELLER:         ---
-STATUS:         "complete"
-                "completed"
+STATUS:         "completed"
 
      SCORES for 9925
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/1)	   0.00 (0/0)         0.00
 ACQBUS          0.00 (0/0)	   0.00 (0/0)         0.00
-ACQLOC          0.00 (0/0)	   0.00 (0/4)         0.00
+ACQLOC          0.00 (0/0)	   0.00 (0/0)         0.00
 DLRAMT          0.00 (0/0)	   0.00 (0/0)         0.00
 PURCHASER       0.00 (0/1)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/1)	   0.00 (0/0)         0.00
-STATUS          1.00 (1/1)	   0.50 (1/2)         0.67
+STATUS          1.00 (1/1)	   1.00 (1/1)         1.00
 --------        --------------     --------------     ----
-TOTAL           0.25 (1/4)	   0.17 (1/6)         0.20
+TOTAL           0.25 (1/4)	   1.00 (1/1)         0.40
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -5209,11 +3845,11 @@ TOTAL           0.25 (1/4)	   0.17 (1/6)         0.20
 
                 RECALL             PRECISION          F-SCORE
 ACQUIRED        0.00 (0/104)	   0.00 (0/0)         0.00
-ACQBUS          0.06 (3/47)	   0.06 (3/48)        0.06
-ACQLOC          0.54 (15/28)	   0.01 (15/1376)     0.02
+ACQBUS          0.06 (3/47)	   0.10 (3/30)        0.08
+ACQLOC          0.29 (8/28)	   0.06 (8/145)       0.09
 DLRAMT          0.72 (34/47)	   0.35 (34/96)       0.48
 PURCHASER       0.00 (0/95)	   0.00 (0/0)         0.00
 SELLER          0.00 (0/46)	   0.00 (0/0)         0.00
-STATUS          0.78 (62/80)	   0.24 (62/254)      0.37
+STATUS          0.56 (45/80)	   0.47 (45/96)       0.51
 --------        --------------     --------------     ----
-TOTAL           0.26 (114/447)	   0.06 (114/1774)    0.10
+TOTAL           0.20 (90/447)	   0.25 (90/367)      0.22

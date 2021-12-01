@@ -1,355 +1,4934 @@
-TEXT: 8496
+TEXT: 10042
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "World"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "terminate the letter of intent"
+STATUS: "announced"
+STATUS: "letter of intent"
+
+TEXT: 10066
+ACQUIRED: ---
+ACQBUS: "credit union data processing"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to withdraw"
+STATUS: "signed a letter of intent"
+STATUS: "agreed"
+STATUS: "letter of intent"
+
+TEXT: 10158
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "83 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "purchased"
+
+TEXT: 10171
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "record date"
+
+TEXT: 1029
+ACQUIRED: ---
+ACQBUS: "food services"
+ACQLOC: ---
+DLRAMT: "20 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 1032
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "sold"
+STATUS: "agreement"
+STATUS: "tentiative agreement"
+STATUS: "agreement to sell"
+
+TEXT: 10348
+ACQUIRED: ---
+ACQBUS: "vegetable oil and fats"
+ACQLOC: "Hamburg"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "selling"
+
+TEXT: 10371
+ACQUIRED: ---
+ACQBUS: "coal"
+ACQBUS: "gold"
+ACQBUS: "natural gas"
+ACQBUS: "mines"
+ACQBUS: "gold and coal mines"
+ACQBUS: "natural gas and oil fields"
+ACQLOC: "Australia"
+ACQLOC: "Canada"
+DLRAMT: "1.2 billion Belgian francs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 10473
+ACQUIRED: ---
+ACQBUS: "aerospace and defense"
+ACQBUS: "computer"
+ACQLOC: "France"
+ACQLOC: "Japan"
+ACQLOC: "U.S."
+DLRAMT: "527 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "purchased"
+STATUS: "selling"
+STATUS: "complete"
+
+TEXT: 10527
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Woodward"
+ACQLOC: "Oklahoma"
+DLRAMT: "1.5 mln dlrs"
+DLRAMT: "30 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "entered into an agreement"
+STATUS: "agreement"
+
+TEXT: 10541
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "100 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 10674
+ACQUIRED: ---
+ACQBUS: "diversified auto parts manufacturer"
+ACQBUS: "auto parts"
+ACQLOC: "Britain"
+DLRAMT: "27.22 mln dlrs"
+DLRAMT: "13.22 mln dlrs"
+DLRAMT: "202.2 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "increase its takeover offer"
+STATUS: "bid"
+
+TEXT: 10694
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQBUS: "retail chemist"
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "244 mln stg"
+DLRAMT: "29.8 mln stg"
+DLRAMT: "11.7 mln stg"
+DLRAMT: "9.9 mln stg"
+DLRAMT: "9.0 mln stg"
+DLRAMT: "115.3 mln stg"
+DLRAMT: "81.3 mln stg"
+DLRAMT: "12.26 mln stg"
+DLRAMT: "10.36 mln stg"
+DLRAMT: "202.9 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "accepted"
+STATUS: "agreed"
+STATUS: "bid"
+
+TEXT: 10714
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "151 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+STATUS: "bid"
+
+TEXT: 10721
+ACQUIRED: ---
+ACQBUS: "telecommunications"
+ACQBUS: "holding"
+ACQLOC: "Sweden"
+ACQLOC: "Ericsson"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "raised its holding"
+STATUS: "bid"
+
+TEXT: 10787
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Portland"
+ACQLOC: "Maine"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "received approval"
+STATUS: "clearance"
+
+TEXT: 10816
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 10867
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Canada"
+ACQLOC: "United States"
+ACQLOC: "Calgary"
+ACQLOC: "the United States"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "sold"
+STATUS: "offering to sell"
+STATUS: "selling"
+
+TEXT: 10872
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Henley"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: ---
+
+TEXT: 10883
+ACQUIRED: ---
+ACQBUS: "brokerage"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 10899
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Seattle"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached a non-binding agreement in principle"
+STATUS: "agreement"
+STATUS: "agreement in principle"
+
+TEXT: 10908
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "lowered their stake"
+
+TEXT: 10928
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 10961
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQBUS: "food distributor"
+ACQLOC: "Pompano Beach"
+ACQLOC: "Fla."
+ACQLOC: "Tampa"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+
+TEXT: 1099
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "the United States"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "agreed to sell"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 10994
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: ---
+DLRAMT: "30 mln Canadian dlrs"
+DLRAMT: "1.2 mln Canadian dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 11048
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "overturned"
+
+TEXT: 11051
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "unable to complete negotiations"
+STATUS: "terminated"
+STATUS: "complete"
+
+TEXT: 11086
+ACQUIRED: ---
+ACQBUS: "financial printer"
+ACQLOC: ---
+DLRAMT: "3.2 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+
+TEXT: 11113
+ACQUIRED: ---
+ACQBUS: "custom gears for industrial use"
+ACQLOC: ---
+DLRAMT: "70.5 mln dlrs"
+DLRAMT: "84 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+
+TEXT: 11161
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "completed"
+STATUS: "complete"
+STATUS: "reject"
+
+TEXT: 11192
+ACQUIRED: ---
+ACQBUS: "entertainment"
+ACQLOC: "Los Angeles"
+ACQLOC: "Shandwick"
+ACQLOC: "U.S."
+DLRAMT: "2.25 mln dlrs"
+DLRAMT: "1.5 mln dlrs"
+DLRAMT: "5.1 mln dlrs"
+DLRAMT: "1.16 mln dlrs"
+DLRAMT: "2.04 mln dlrs"
+DLRAMT: "10 mln dlrs"
+DLRAMT: "2.25 mln stg"
+DLRAMT: "1.5 mln stg"
+DLRAMT: "5.1 mln stg"
+DLRAMT: "1.16 mln stg"
+DLRAMT: "2.04 mln stg"
+DLRAMT: "10 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 11213
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "gold"
+ACQBUS: "building products"
+ACQBUS: "oil and gas interests"
+ACQLOC: "Australia"
+ACQLOC: "Delhi"
+ACQLOC: "Delhi"
+ACQLOC: "U.S."
+ACQLOC: "Australia"
+ACQLOC: "Sydney"
+ACQLOC: "Delhi"
+ACQLOC: "Australia"
+ACQLOC: "850 mln dlr"
+ACQLOC: "Delhi"
+ACQLOC: "U.S."
+ACQLOC: "Sydney"
+ACQLOC: "Delhi"
+ACQLOC: "Australia"
+DLRAMT: "a billion dlrs"
+DLRAMT: "150 mln dlrs"
+DLRAMT: "985 mln dlrs"
+DLRAMT: "300 mln dlrs"
+DLRAMT: "985 mln dlrs"
+DLRAMT: "six mln dlrs"
+DLRAMT: "three mln dlrs"
+DLRAMT: "850 mln dlrs"
+DLRAMT: "550 mln dlrs"
+DLRAMT: "591 mln dlrs"
+DLRAMT: "300 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "bought"
+STATUS: "bid"
+STATUS: "selling"
+
+TEXT: 11237
+ACQUIRED: ---
+ACQBUS: "raw sugar mills and building materials"
+ACQLOC: "Delhi"
+DLRAMT: "99.80 mln dlrs"
+DLRAMT: "219.6 mln dlrs"
+DLRAMT: "985 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "announced"
+STATUS: "will sell"
+STATUS: "will offer"
+
+TEXT: 11268
+ACQUIRED: ---
+ACQBUS: "supermarkets"
+ACQBUS: "poultry, beef and pork products"
+ACQBUS: "food distributor"
+ACQLOC: ---
+DLRAMT: "69 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "ended"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 11362
+ACQUIRED: ---
+ACQBUS: "public account and consulting"
+ACQLOC: "U.S."
+DLRAMT: "1.35 billion dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 11449
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "North Kingstown"
+ACQLOC: "R.I."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "extended his cash offer"
+STATUS: "expired"
+
+TEXT: 11468
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "plans to complete"
+STATUS: "announced"
+STATUS: "complete"
+
+TEXT: 11484
+ACQUIRED: ---
+ACQBUS: "produces and distributes videos for the home market"
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 11514
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 1153
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Dallas"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "definitive agreement"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+STATUS: "agreement"
+STATUS: "approved"
+STATUS: "complete"
+
+TEXT: 11579
+ACQUIRED: ---
+ACQBUS: "paper"
+ACQBUS: "community papers"
+ACQLOC: "Naples"
+ACQLOC: "Fort Myers"
+ACQLOC: "Fla."
+ACQLOC: "Tampa"
+ACQLOC: "St. Petersburg"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 1159
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "electronics"
+ACQBUS: "health care"
+ACQLOC: "Japan"
+ACQLOC: "Nippon"
+ACQLOC: "Nippon Lace"
+ACQLOC: "Nippon Lace"
+DLRAMT: "five mln dlrs"
+DLRAMT: "16.5 mln dlrs"
+DLRAMT: "four mln dlrs"
+DLRAMT: "20 mln dlrs"
+DLRAMT: "two mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 11722
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Lucht"
+ACQLOC: "Innovex"
+ACQLOC: "Innovex"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "bought"
+STATUS: "complete"
+
+TEXT: 11744
+ACQUIRED: ---
+ACQBUS: "brokerage"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "bought"
+
+TEXT: 11854
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "selling"
+
+TEXT: 11923
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "85 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 11968
+ACQUIRED: ---
+ACQBUS: "supermarket, combination store operator"
+ACQBUS: "supermarkets"
+ACQLOC: ---
+DLRAMT: "140 mln dlrs"
+DLRAMT: "100 mln dlrs"
+DLRAMT: "100 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+
+TEXT: 11982
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "holding"
+ACQLOC: "Mount"
+ACQLOC: "Clemens"
+ACQLOC: "Mich."
+ACQLOC: "Clinton Township"
+ACQLOC: "Macomb County"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached an agreement"
+STATUS: "agreement to buy"
+STATUS: "agreement"
+
+TEXT: 11996
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Medicontrol"
+DLRAMT: "one mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 12053
+ACQUIRED: ---
+ACQBUS: "precious metals and wholesale non-ferrous metals trading"
+ACQBUS: "precious metals and wholesale non-ferrous metals"
+ACQLOC: "New York"
+ACQLOC: "London"
+ACQLOC: "New York"
+DLRAMT: "14.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+
+TEXT: 12068
+ACQUIRED: ---
+ACQBUS: "precious metals and wholesale non-ferrous metals trading"
+ACQBUS: "precious metals and wholesale non-ferrous metals"
+ACQLOC: "New York"
+ACQLOC: "London"
+ACQLOC: "New York"
+DLRAMT: "14.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+
+TEXT: 12087
+ACQUIRED: ---
+ACQBUS: "nuclear battery technology"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 12093
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: "Chicago"
+ACQLOC: "Melrose Park"
+DLRAMT: "231 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 12173
+ACQUIRED: ---
+ACQBUS: "coal"
+ACQBUS: "mines"
+ACQBUS: "coal preparation"
+ACQBUS: "holding"
+ACQLOC: "West Virginia"
+ACQLOC: "West Va."
+ACQLOC: "Palisade"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 12191
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Phoenix"
+ACQLOC: "Ariz."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "purchased"
+
+TEXT: 12236
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQBUS: "mines"
+ACQBUS: "diamond and gold"
+ACQLOC: "Brazil"
+ACQLOC: "Brazil"
+ACQLOC: "Gammara"
+ACQLOC: "Santo Antonio"
+ACQLOC: "Brazil"
+DLRAMT: "one mln dlrs"
+DLRAMT: "9.6 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "announced"
+STATUS: "agreed"
+
+TEXT: 12344
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQLOC: "Oklahoma"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "plans to sell"
+STATUS: "bought"
+
+TEXT: 12378
+ACQUIRED: ---
+ACQBUS: "coal"
+ACQBUS: "holding"
+ACQLOC: "Newmont"
+ACQLOC: "Newmont"
+ACQLOC: "U.S."
+ACQLOC: "Newmont"
+ACQLOC: "Peabody"
+DLRAMT: "1.4 billion dlrs"
+DLRAMT: "116.8 mln dlrs"
+DLRAMT: "74.2 mln dlrs"
+DLRAMT: "100.8 mln dlrs"
+DLRAMT: "320 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 12386
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "accepted"
+STATUS: "announced"
+
+TEXT: 12492
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Aloha"
+ACQLOC: "Aloha"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "acquired"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 12504
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "4.5 billion dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 12512
+ACQUIRED: ---
+ACQBUS: "coal"
+ACQBUS: "gold"
+ACQBUS: "mines"
+ACQLOC: "Ohio"
+ACQLOC: "Henderson"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 12529
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Sarasota"
+ACQLOC: "Fla."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "letter of intent"
+STATUS: "complete"
+
+TEXT: 12532
+ACQUIRED: ---
+ACQBUS: "cosmetics and fine fragrance products"
+ACQLOC: ---
+DLRAMT: "67 mln dlrs"
+DLRAMT: "398 mln dlrs"
+DLRAMT: "33 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "acquired"
+STATUS: "decided to sell"
+
+TEXT: 12538
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "West Virginia Inc"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 12646
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+STATUS: "acquired"
+
+TEXT: 12688
+ACQUIRED: ---
+ACQBUS: "orthodontic products"
+ACQLOC: "Monrovia"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 12751
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "complete"
+
+TEXT: 12759
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "property and financial services"
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "20 mln stg"
+DLRAMT: "70 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 12822
+ACQUIRED: ---
+ACQBUS: "computer retail"
+ACQBUS: "oil and gas"
+ACQBUS: "accounting software systems"
+ACQBUS: "computer"
+ACQBUS: "micro-computer products"
+ACQLOC: "Denver"
+DLRAMT: "seven mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 12852
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "10 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 12858
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "prepared to raise its bid"
+STATUS: "bid"
+
+TEXT: 1291
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 12937
+ACQUIRED: ---
+ACQBUS: "rail operations"
+ACQBUS: "railroad"
+ACQLOC: "Minnesota"
+ACQLOC: "Wisconsin"
+ACQLOC: "Michigan"
+ACQLOC: "Illinois"
+ACQLOC: "Soo"
+DLRAMT: "15.0 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+STATUS: "bid"
+
+TEXT: 12956
+ACQUIRED: ---
+ACQBUS: "video cassette rental"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 12974
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "175 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 12996
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 13036
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive merger agreement"
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 13043
+ACQUIRED: ---
+ACQBUS: "health care"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "agreement"
+STATUS: "ended without agreement"
+
+TEXT: 13077
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Secaucus"
+ACQLOC: "N.J."
+DLRAMT: "387 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "prepared to raise its bid"
+STATUS: "bid"
+STATUS: "approved"
+STATUS: "complete"
+
+TEXT: 13189
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "raised his stake"
+STATUS: "considering"
+STATUS: "bought"
+
+TEXT: 13196
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "W. Virginia"
+DLRAMT: "16.2 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached an agreement"
+STATUS: "agreement"
+STATUS: "agreement in principle"
+
+TEXT: 13393
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "151 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "extending"
+STATUS: "bid"
+
+TEXT: 134
+ACQUIRED: ---
+ACQBUS: "pipeline and terminal operations"
+ACQLOC: ---
+DLRAMT: "12.2 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 13787
+ACQUIRED: ---
+ACQBUS: "waste management"
+ACQBUS: "hazardous waste management"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 13874
+ACQUIRED: ---
+ACQBUS: "premium coated and uncoated printing papers and technical specialty papers"
+ACQBUS: "paper"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "decided to sell"
+
+TEXT: 14099
+ACQUIRED: ---
+ACQBUS: "cable television systems"
+ACQLOC: "Wildwood"
+ACQLOC: "N.J."
+ACQLOC: "Ramapo"
+ACQLOC: "Warwick"
+ACQLOC: "N.Y."
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+
+TEXT: 14131
+ACQUIRED: ---
+ACQBUS: "brokerage"
+ACQLOC: "New York"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "increased its preferred stock"
+STATUS: "bought"
+
+TEXT: 14604
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Delaware"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+
+TEXT: 14619
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "30 mln dlrs"
+DLRAMT: "1.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "clearance"
+
+TEXT: 14679
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "gas gathering, transmission and liquids extraction"
+ACQLOC: "Santa Ana"
+ACQLOC: "Columbus"
+ACQLOC: "Oklahoma"
+ACQLOC: "Oklahoma"
+DLRAMT: "81.9 mln dlrs"
+DLRAMT: "one mln dlrs"
+DLRAMT: "30 mln dlrs"
+DLRAMT: "40 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "agreement"
+
+TEXT: 14888
+ACQUIRED: ---
+ACQBUS: "food and beverage maker"
+ACQBUS: "brewing"
+ACQBUS: "holding"
+ACQBUS: "brewery"
+ACQLOC: "Philippines"
+ACQLOC: "New York"
+ACQLOC: "Melbourne"
+ACQLOC: "Hong Kong"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "joined several other foreign bidders"
+STATUS: "interested in buying"
+STATUS: "bid"
+
+TEXT: 14907
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "London"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 14949
+ACQUIRED: ---
+ACQBUS: "computer-related information display and communications equipment"
+ACQBUS: "computer"
+ACQLOC: ---
+DLRAMT: "7.8 mln dlrs"
+DLRAMT: "153.9 mln dlrs"
+DLRAMT: "6.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "started negotiations"
+STATUS: "bid"
+
+TEXT: 15004
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQLOC: ---
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+
+TEXT: 15024
+ACQUIRED: ---
+ACQBUS: "health care"
+ACQLOC: "Salem"
+ACQLOC: "Ore."
+DLRAMT: "70 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 15031
+ACQUIRED: ---
+ACQBUS: "security services"
+ACQLOC: "Paramus"
+ACQLOC: "N.J."
+ACQLOC: "N.J."
+ACQLOC: "Hackensack"
+ACQLOC: "N.J."
+ACQLOC: "National Park"
+ACQLOC: "N.J."
+ACQLOC: "Fla."
+ACQLOC: "Myrtle Beach"
+ACQLOC: "S.C."
+ACQLOC: "Houston"
+ACQLOC: "Louisville"
+ACQLOC: "Nashville"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 1506
+ACQUIRED: ---
+ACQBUS: "convenience stores"
+ACQLOC: "Oregon"
+ACQLOC: "Washington"
+ACQLOC: "Portland"
+ACQLOC: "Seattle"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+STATUS: "tentatively agreed"
+
+TEXT: 15366
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "oil and gas interests"
+ACQLOC: "Delhi"
+ACQLOC: "Delhi"
+ACQLOC: "Seram"
+ACQLOC: "Indonesia"
+ACQLOC: "Queensland"
+ACQLOC: "Hainan Island"
+DLRAMT: "985 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 15404
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 15501
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "received a written proposal"
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "agreed"
+STATUS: "complete"
+
+TEXT: 15561
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Waccamaw"
+DLRAMT: "22.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+
+TEXT: 15591
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQBUS: "asbestos abatement"
+ACQLOC: "Spectrum"
+ACQLOC: "Spectrum"
+DLRAMT: "13 mln dlrs"
+DLRAMT: "10 mln dlrs"
+DLRAMT: "seven mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "definitive agreement"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 1577
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "raised its stake"
+STATUS: "bought"
+
+TEXT: 1584
+ACQUIRED: ---
+ACQBUS: "full-text search and retrieval software"
+ACQBUS: "computer"
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+
+TEXT: 15879
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "100 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+
+TEXT: 15918
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "13 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "agreement to sell"
+
+TEXT: 16007
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "natural gas"
+ACQLOC: ---
+DLRAMT: "22.5 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 16021
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "6.1 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 16029
+ACQUIRED: ---
+ACQBUS: "brokerage"
+ACQLOC: "New York"
+ACQLOC: "New York"
+ACQLOC: "Greenwood"
+DLRAMT: "4.9 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 16037
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "received proposals"
+
+TEXT: 16152
+ACQUIRED: ---
+ACQBUS: "polystyrene foam and container products"
+ACQBUS: "holding"
+ACQLOC: "U.K."
+DLRAMT: "16.25 mln dlrs"
+DLRAMT: "19.3 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+
+TEXT: 16176
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "natural gas"
+ACQBUS: "holding"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+ACQLOC: "Canada"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+ACQLOC: "Canada"
+ACQLOC: "Dome"
+ACQLOC: "Dome"
+DLRAMT: "4.3 billion dlrs"
+DLRAMT: "2.5 billion dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "takeover battle"
+STATUS: "announced"
+STATUS: "considering"
+STATUS: "agreement"
+STATUS: "bid"
+STATUS: "continuing talks with other possible buyers"
+
+TEXT: 16233
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "banks"
+ACQBUS: "holding"
+ACQLOC: "South Atlantic's"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 1626
+ACQUIRED: ---
+ACQBUS: "supermarkets"
+ACQLOC: "Salt Lake City
+Division"
+ACQLOC: "Utah"
+ACQLOC: "Idaho"
+ACQLOC: "Wyoming"
+DLRAMT: "350 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "agreed to sell"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 16379
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Huron"
+ACQLOC: "South Dakota"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 16398
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "agreement"
+STATUS: "studying an agreement"
+
+TEXT: 16419
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+
+TEXT: 16443
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "42 mln dlrs"
+DLRAMT: "782 mln dlrs"
+DLRAMT: "720 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "entered into a definitive mergewr agreement"
+STATUS: "will acquire"
+STATUS: "agreement"
+STATUS: "approved"
+
+TEXT: 16483
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "gold"
+ACQLOC: "Santa Barbara"
+ACQLOC: "Calif."
+ACQLOC: "Texas"
+DLRAMT: "two billion dlrs"
+DLRAMT: "two billion dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "expects to sell"
+STATUS: "sold"
+STATUS: "interested in buying"
+STATUS: "bid"
+STATUS: "complete"
+
+TEXT: 16512
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Los Angeles"
+DLRAMT: "105 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "announced"
+STATUS: "agreement"
+
+TEXT: 16583
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+
+TEXT: 1659
+ACQUIRED: ---
+ACQBUS: "computer"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 16591
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Empire"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "will acquire"
+STATUS: "approved"
+
+TEXT: 16652
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Cincinnati"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "purchased"
+
+TEXT: 16656
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "bid"
+
+TEXT: 1666
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "underwriting information services"
+ACQLOC: "Salem"
+ACQLOC: "Ore."
+ACQLOC: "Springfield"
+ACQLOC: "Va."
+DLRAMT: "two mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 16663
+ACQUIRED: ---
+ACQBUS: "foodservice distributor"
+ACQBUS: "foodservice"
+ACQLOC: "Bensenville"
+ACQLOC: "Ill."
+DLRAMT: "85 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 16833
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "paper"
+ACQLOC: "Dome"
+ACQLOC: "Canada"
+ACQLOC: "Dome"
+ACQLOC: "Canada"
+ACQLOC: "Canada"
+ACQLOC: "Chicago"
+ACQLOC: "U.S."
+DLRAMT: "4.3 billion U.S. dlrs"
+DLRAMT: "30 billion U.S. dlrs"
+DLRAMT: "7.1 billion U.S. dlrs"
+DLRAMT: "20.23 billion U.S. dlrs"
+DLRAMT: "4.3 billion Canadian dlrs"
+DLRAMT: "30 billion Canadian dlrs"
+DLRAMT: "7.1 billion Canadian dlrs"
+DLRAMT: "20.23 billion Canadian dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "announced"
+STATUS: "bid"
+
+TEXT: 16872
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Hong Kong"
+ACQLOC: "New Zealand"
+DLRAMT: "10.5 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "raised its stake"
+STATUS: "bought"
+
+TEXT: 1694
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+DLRAMT: "6.3 mln dlrs"
+DLRAMT: "6.3 mln dlrs"
+DLRAMT: "3.3 mln dlrs"
+DLRAMT: "16.8 mln dlrs"
+DLRAMT: "2.4 mln dlrs"
+DLRAMT: "50 mln dlrs"
+DLRAMT: "two mln dlrs"
+DLRAMT: "one mln dlrs"
+DLRAMT: "2.4 mln dlrs"
+DLRAMT: "16.8 mln dlrs"
+DLRAMT: "6.3 mln U.S. dlrs"
+DLRAMT: "6.3 mln U.S. dlrs"
+DLRAMT: "3.3 mln U.S. dlrs"
+DLRAMT: "16.8 mln U.S. dlrs"
+DLRAMT: "2.4 mln U.S. dlrs"
+DLRAMT: "50 mln U.S. dlrs"
+DLRAMT: "two mln U.S. dlrs"
+DLRAMT: "one mln U.S. dlrs"
+DLRAMT: "2.4 mln U.S. dlrs"
+DLRAMT: "16.8 mln U.S. dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "complete"
+STATUS: "would reduce"
+
+TEXT: 16941
+ACQUIRED: ---
+ACQBUS: "domestic carpet and upholstery cleaning"
+ACQLOC: "Nevada"
+ACQLOC: "Philadelphia"
+DLRAMT: "24.6 mln dlrs"
+DLRAMT: "2.0 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+
+TEXT: 17053
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Carling"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "announced"
+STATUS: "bid"
+STATUS: "approved"
+
+TEXT: 17151
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "plans to sell"
+
+TEXT: 17168
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "terminated"
+STATUS: "agreement"
+STATUS: "preliminary discussions"
+STATUS: "agreement in principle"
+
+TEXT: 17178
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "raised its stake"
+STATUS: "bought"
+
+TEXT: 1729
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached an agreement"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 17317
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "United States"
+DLRAMT: "6.5 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+
+TEXT: 17323
+ACQUIRED: ---
+ACQBUS: "feedstuff and grain"
+ACQLOC: "West Germany's"
+ACQLOC: "U.S."
+ACQLOC: "Becher"
+ACQLOC: "Omaha"
+ACQLOC: "Nebraska"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 17333
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Midland"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "signed an agreement"
+STATUS: "agreement"
+
+TEXT: 17488
+ACQUIRED: ---
+ACQBUS: "built-in electric products for the housing market"
+ACQBUS: "door locks and electronic security products"
+ACQLOC: "First City"
+DLRAMT: "400 mln dlrs"
+DLRAMT: "two mln dlrs"
+DLRAMT: "60 mln dlrs"
+DLRAMT: "35 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "completed"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+STATUS: "agreement"
+STATUS: "complete"
+STATUS: "agreement to sell"
+
+TEXT: 17518
+ACQUIRED: ---
+ACQBUS: "bank holding"
+ACQBUS: "holding"
+ACQLOC: "Delaware"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 17576
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "New York"
+ACQLOC: "Steinberg"
+DLRAMT: "1.75 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 17651
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: "Chester"
+ACQLOC: "Pa."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 17659
+ACQUIRED: ---
+ACQBUS: "video display and and video monitor devices"
+ACQLOC: ---
+DLRAMT: "3.92 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 17688
+ACQUIRED: ---
+ACQBUS: "collects used lubricating oils"
+ACQLOC: "Toronto"
+DLRAMT: "12 mln dlrs"
+DLRAMT: "18 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 1771
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+
+TEXT: 17728
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Santa Clara"
+ACQLOC: "Calif."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 17798
+ACQUIRED: ---
+ACQBUS: "computer terminals"
+ACQBUS: "computer"
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 17837
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+DLRAMT: "8.7 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "sold"
+STATUS: "lowered their stake"
+STATUS: "agreed"
+
+TEXT: 17847
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: "Florida"
+ACQLOC: "North Port"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 17876
+ACQUIRED: ---
+ACQBUS: "building products"
+ACQBUS: "holding"
+ACQLOC: "New Zealand"
+ACQLOC: "Monier"
+DLRAMT: "156.28 mln dlrs"
+DLRAMT: "649 mln dlrs"
+DLRAMT: "593 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+STATUS: "announced"
+STATUS: "clearance"
+STATUS: "bid"
+STATUS: "will offer"
+
+TEXT: 17907
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "travel and recreation insurance"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 17913
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQBUS: "holding"
+ACQLOC: "Australia"
+ACQLOC: "west Queensland"
+ACQLOC: "Santos"
+ACQLOC: "Santos"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 17973
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: ---
+DLRAMT: "26 mln dlrs"
+DLRAMT: "nine mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 17981
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Kansas"
+ACQLOC: "Columbia"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 17993
+ACQUIRED: ---
+ACQBUS: "mortgage and lending services"
+ACQBUS: "holding"
+ACQLOC: "Virginia"
+ACQLOC: "Virginia"
+DLRAMT: "20 mln dlrs"
+DLRAMT: "20 mln dlrs"
+DLRAMT: "700 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "acquired"
+STATUS: "agreement"
+
+TEXT: 1801
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "eight mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "offered to buy"
+
+TEXT: 18038
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "271 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 18111
+ACQUIRED: ---
+ACQBUS: "coffee"
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 18188
+ACQUIRED: ---
+ACQBUS: "computer"
+ACQLOC: "MacLean"
+DLRAMT: "25 mln dlrs"
+DLRAMT: "15 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 18229
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "revision"
+STATUS: "announced"
+
+TEXT: 1847
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "310 mln dlrs"
+DLRAMT: "260 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 18504
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New Zealand"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "sold"
+STATUS: "will sell"
+
+TEXT: 18667
+ACQUIRED: ---
+ACQBUS: "commodities, property, financial services and food"
+ACQLOC: ---
+DLRAMT: "90 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "making every possible effort to remain independent"
+STATUS: "announced"
+STATUS: "bid"
+
+TEXT: 18682
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: "U.S."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+
+TEXT: 18783
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Syracuse"
+ACQLOC: "N.Y."
+ACQLOC: "Syracuse"
+ACQLOC: "Rochester"
+ACQLOC: "Buffalo"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "terminated an agreement"
+STATUS: "terminated"
+STATUS: "agreement"
+
+TEXT: 18861
+ACQUIRED: ---
+ACQBUS: "battery charger product"
+ACQLOC: "Dallas"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "approved"
+
+TEXT: 18921
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQBUS: "holding"
+ACQLOC: "Memphis"
+DLRAMT: "2.2 billion dlrs"
+DLRAMT: "190 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "will be acquired"
+STATUS: "acquired"
+STATUS: "signed an agreement"
+STATUS: "agreement"
+
+TEXT: 18963
+ACQUIRED: ---
+ACQBUS: "railroad"
+ACQLOC: ---
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 19006
+ACQUIRED: ---
+ACQBUS: "pharmaceutical"
+ACQLOC: "Japan"
+ACQLOC: "Japan"
+DLRAMT: "40 mln dlrs"
+DLRAMT: "75 mln dlrs"
+DLRAMT: "75 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "interested in buying"
+STATUS: "not interested in buying"
+STATUS: "announced"
+STATUS: "will sell"
+STATUS: "agreement"
+STATUS: "agreement in principle"
+STATUS: "approached"
+
+TEXT: 19042
+ACQUIRED: ---
+ACQBUS: "large scale integrated circuits"
+ACQBUS: "computer"
+ACQLOC: "California"
+ACQLOC: "Japan"
+DLRAMT: "1.5 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 19137
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "expired"
+
+TEXT: 19297
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: "Dallas"
+ACQLOC: "Fort Worth Regional Airport"
+DLRAMT: "14.1 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 19343
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Santa Monica"
+ACQLOC: "Calif."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 19359
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "100 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed an agreement"
+STATUS: "agreement"
+
+TEXT: 19368
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Delaware"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "closed the sale"
+STATUS: "agreed to sell"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 19448
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Boston"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 19572
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "235 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 19663
+ACQUIRED: ---
+ACQBUS: "electric generation"
+ACQLOC: "Schuykill"
+DLRAMT: "10 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 19681
+ACQUIRED: ---
+ACQBUS: "consumer electronics specialty retailer"
+ACQBUS: "electronics"
+ACQLOC: ---
+DLRAMT: "30 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 19683
+ACQUIRED: ---
+ACQBUS: "electronics"
+ACQBUS: "holding"
+ACQBUS: "entertainment"
+ACQLOC: "Edison"
+ACQLOC: "N.J."
+ACQLOC: "Houston"
+DLRAMT: "52 mln dlrs"
+DLRAMT: "11.9 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+STATUS: "may pursue a merger"
+STATUS: "bought"
+STATUS: "bid"
+
+TEXT: 19699
+ACQUIRED: ---
+ACQBUS: "gas distribution"
+ACQLOC: "Texas"
+ACQLOC: "Kentucky"
+DLRAMT: "61.5 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 19719
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 19751
+ACQUIRED: ---
+ACQBUS: "auto parts"
+ACQBUS: "holding"
+ACQBUS: "brokerage"
+ACQLOC: "Los Angeles"
+ACQLOC: "New York"
+ACQLOC: "New York"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+
+TEXT: 19767
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "U.S."
+DLRAMT: "79 mln dlrs"
+DLRAMT: "20 mln dlrs"
+DLRAMT: "11.3 mln dlrs"
+DLRAMT: "31.5 mln dlrs"
+DLRAMT: "16.3 mln dlrs"
+DLRAMT: "five mln dlrs"
+DLRAMT: "six mln dlrs"
+DLRAMT: "seven mln dlrs"
+DLRAMT: "eight mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+STATUS: "terminated"
+STATUS: "tentatively agreed"
+STATUS: "approved"
+
+TEXT: 19912
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "22.5 mln dlrs"
+DLRAMT: "four mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+STATUS: "accepted"
+STATUS: "terminated"
+STATUS: "complete"
+
+TEXT: 19983
+ACQUIRED: ---
+ACQBUS: "leasing of fleets of cars"
+ACQLOC: "U.S."
+DLRAMT: "one billion dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+STATUS: "approved"
+
+TEXT: 2013
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+
+TEXT: 20321
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "withdrawn his proposal"
+
+TEXT: 20744
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: "New York"
+ACQLOC: "New York"
+ACQLOC: "Irving"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "reaffirmed the terms"
+STATUS: "rejected"
+STATUS: "completed"
+STATUS: "bid"
+STATUS: "complete"
+STATUS: "reject"
+
+TEXT: 20824
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQBUS: "merchant bank"
+ACQLOC: ---
+DLRAMT: "600 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "agreed"
+STATUS: "bid"
+
+TEXT: 20834
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "1.9 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "will acquire"
+STATUS: "agreement"
+
+TEXT: 2102
+ACQUIRED: ---
+ACQBUS: "repairs and rebuilds aircraft engines"
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 21041
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 21046
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Henley"
+ACQLOC: "Henley"
+ACQLOC: "Henley"
+ACQLOC: "Henley"
+DLRAMT: "one billion dlrs"
+DLRAMT: "750 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "announced"
+STATUS: "bid"
+STATUS: "ended talks"
+
+TEXT: 21129
+ACQUIRED: ---
+ACQBUS: "colorants for the plastics industry"
+ACQLOC: "Somerset"
+ACQLOC: "N.J."
+DLRAMT: "70 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "ended"
+STATUS: "announced"
+STATUS: "agreement"
+
+TEXT: 21134
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Ecuador"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 21251
+ACQUIRED: ---
+ACQBUS: "entertainment"
+ACQLOC: "Hal Roach"
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+DLRAMT: "115 mln dlrs"
+DLRAMT: "70 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "offer"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 2126
+ACQUIRED: ---
+ACQBUS: "surface science instruments"
+ACQBUS: "electronics"
+ACQLOC: "Munich"
+ACQLOC: "West
+Germany"
+ACQLOC: "Eden Prairie"
+ACQLOC: "Minn."
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 21278
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Los Angeles"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached an agreement"
+STATUS: "offer"
+STATUS: "agreement"
+STATUS: "agreement in principal"
+
+TEXT: 21319
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Hong"
+ACQLOC: "U.S."
+DLRAMT: "15 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "clearance"
+STATUS: "bought"
+
+TEXT: 21358
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Napa"
+ACQLOC: "U.S."
+ACQLOC: "Denver"
+DLRAMT: "16 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "purchased"
+STATUS: "approved"
+
+TEXT: 21376
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "62.4 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "offer"
+STATUS: "begin a cash tender offer"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 21382
+ACQUIRED: ---
+ACQBUS: "aerospace and defense"
+ACQBUS: "railroad"
+ACQLOC: ---
+DLRAMT: "1.0 billion dlrs"
+DLRAMT: "118.1 mln dlrs"
+DLRAMT: "900.5 mln dlrs"
+DLRAMT: "500 mln dlrs"
+DLRAMT: "50 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "approved"
+
+TEXT: 21454
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Ravenna"
+ACQLOC: "Italy"
+DLRAMT: "195 mln dlrs"
+DLRAMT: "370 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 21462
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Ravenna"
+ACQLOC: "Italy"
+DLRAMT: "195 mln dlrs"
+DLRAMT: "370 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 21469
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+STATUS: "revision"
+STATUS: "bid"
+STATUS: "reconsider"
+
+TEXT: 2159
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "doubled its offer"
+STATUS: "considering"
+
+TEXT: 2193
+ACQUIRED: ---
+ACQBUS: "glass manufacturer"
+ACQLOC: "Rigolleau"
+ACQLOC: "Rigolleau"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to transfer"
+STATUS: "agreed"
+STATUS: "would reduce"
+
+TEXT: 2202
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Frankfurt"
+ACQLOC: "Spain"
+ACQLOC: "West Germany"
+ACQLOC: "Spain"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+
+TEXT: 2237
+ACQUIRED: ---
+ACQBUS: "high technology equipment"
+ACQLOC: "Philadelphia"
+DLRAMT: "20 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed an agreement"
+STATUS: "agreement"
+
+TEXT: 2251
+ACQUIRED: ---
+ACQBUS: "oil field service"
+ACQLOC: "Texas"
+ACQLOC: "Texas"
+DLRAMT: "65 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "sold"
+STATUS: "under consideration"
+STATUS: "agreed"
+STATUS: "agreement"
+STATUS: "approved"
+STATUS: "complete"
+STATUS: "would reduce"
+
+TEXT: 2271
+ACQUIRED: ---
+ACQBUS: "pharmaceutical"
+ACQLOC: "Enzon Inc"
+ACQLOC: "Enzon"
+ACQLOC: "Enzon"
+ACQLOC: "Enzon"
+DLRAMT: "two mln dlrs"
+DLRAMT: "15 mln dlrs"
+DLRAMT: "two mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "complete"
+
+TEXT: 2301
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "preliminary agreement"
+STATUS: "agreement"
+
+TEXT: 2322
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "announced"
+STATUS: "agreement"
+
+TEXT: 2344
+ACQUIRED: ---
+ACQBUS: "kits for home design and remodeling projects"
+ACQBUS: "sliding and folding door hardware"
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "50 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 2434
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Portland"
+ACQLOC: "Ore."
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+
+TEXT: 2532
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "negotiate the terms"
+
+TEXT: 2546
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "filed suit"
+STATUS: "rejected"
+STATUS: "bid"
+STATUS: "reject"
+
+TEXT: 2577
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 2583
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Armonk"
+ACQLOC: "N.Y."
+DLRAMT: "60 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "purchased"
+
+TEXT: 2604
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "completed"
+STATUS: "completed all waiting period requirements"
+STATUS: "complete"
+
+TEXT: 2609
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "expired"
+STATUS: "agreement"
+
+TEXT: 2638
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "9.2 mln dlrs"
+DLRAMT: "125 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "requested a response"
+STATUS: "definitive merger agreement"
+STATUS: "agreement"
+
+TEXT: 2647
+ACQUIRED: ---
+ACQBUS: "railroad"
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "rejection"
+STATUS: "rejected"
+STATUS: "agreement"
+STATUS: "reconsider"
+STATUS: "reject"
+STATUS: "would reduce"
+
+TEXT: 2652
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: "Nordbanken"
+ACQLOC: "Fermenta"
+ACQLOC: "Fermenta"
+ACQLOC: "Nordbanken"
+ACQLOC: "Fermenta"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+STATUS: "bid"
+
+TEXT: 2699
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "expired"
+
+TEXT: 2714
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+
+TEXT: 2813
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+
+TEXT: 2818
+ACQUIRED: ---
+ACQBUS: "coal"
+ACQBUS: "oil and gas"
+ACQLOC: "Carling"
+ACQLOC: "Australia"
+DLRAMT: "57 mln dlrs"
+DLRAMT: "two mln dlrs"
+DLRAMT: "196.2 mln dlrs"
+DLRAMT: "57 mln Canadian dlrs"
+DLRAMT: "two mln Canadian dlrs"
+DLRAMT: "196.2 mln Canadian dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "agreed"
+
+TEXT: 2884
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "assumed control"
+
+TEXT: 2897
+ACQUIRED: ---
+ACQBUS: "natural gas"
+ACQLOC: "Saskatchewan"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+STATUS: "selling"
+
+TEXT: 2898
+ACQUIRED: ---
+ACQBUS: "radio station"
+ACQLOC: "Philadelphia"
+DLRAMT: "13.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+STATUS: "approved"
+
+TEXT: 2946
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+STATUS: "approved"
+
+TEXT: 2956
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: "Malaysia"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "acquired"
+STATUS: "announced"
+STATUS: "bought"
+
+TEXT: 3009
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: "Washington"
+ACQLOC: "L"
+DLRAMT: "62.5 mln dlrs"
+DLRAMT: "312.8 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "approved"
+
+TEXT: 3023
+ACQUIRED: ---
+ACQBUS: "casino hotels"
+ACQBUS: "honeymoon resorts"
+ACQBUS: "banks"
+ACQBUS: "paper"
+ACQLOC: "New York"
+ACQLOC: "Nevada"
+ACQLOC: "Pennsylvania"
+ACQLOC: "Atlantic City"
+ACQLOC: "N.J."
+ACQLOC: "New
+Jersey"
+ACQLOC: "Nevada"
+ACQLOC: "U.S."
+DLRAMT: "four mln dlrs"
+DLRAMT: "30.3 mln dlrs"
+DLRAMT: "12.6 mln dlrs"
+DLRAMT: "190.4 mln dlrs"
+DLRAMT: "163.8 mln dlrs"
+DLRAMT: "41.0 mln dlrs"
+DLRAMT: "694.4 mln dlrs"
+DLRAMT: "100 mln dlrs"
+DLRAMT: "400 mln dlrs"
+DLRAMT: "475 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "started a tender offer"
+STATUS: "clearance"
+STATUS: "record date"
+STATUS: "agreement"
+
+TEXT: 304
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "United Kingdom"
+ACQLOC: "N.M."
+DLRAMT: "one billion stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "making a tender offer"
+
+TEXT: 3168
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "500 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "agreement"
+
+TEXT: 3198
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Ontario"
+ACQLOC: "Canada"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+STATUS: "bid"
+
+TEXT: 3229
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 3241
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "757 mln dlrs"
+DLRAMT: "350 mln dlrs"
+DLRAMT: "35 mln dlrs"
+DLRAMT: "200 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "letter of intent"
+
+TEXT: 3251
+ACQUIRED: ---
+ACQBUS: "special events travel company"
+ACQBUS: "airline"
+ACQLOC: "London"
+ACQLOC: "Britain"
+DLRAMT: "12 mln Canadian dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 3264
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "announced"
+
+TEXT: 3266
+ACQUIRED: ---
+ACQBUS: "healthcare"
+ACQLOC: ---
+DLRAMT: "18 mln dlrs"
+DLRAMT: "six mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed an agreement"
+STATUS: "plans to complete"
+STATUS: "agreement"
+STATUS: "complete"
+STATUS: "agreement to sell"
+
+TEXT: 3309
+ACQUIRED: ---
+ACQBUS: "bottled water"
+ACQBUS: "holding"
+ACQLOC: "Monterey Park"
+ACQLOC: "Calif."
+ACQLOC: "California"
+ACQLOC: "Arizona"
+ACQLOC: "Texas"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 3356
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "3.4 billion dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "agreed to work together"
+STATUS: "announced"
+STATUS: "agreed"
+STATUS: "complete"
+
+TEXT: 3413
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Cincinnati"
+ACQLOC: "Ohio"
+ACQLOC: "Fort Worth"
+ACQLOC: "Texas"
+DLRAMT: "5.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "discussed"
+STATUS: "clearance"
+STATUS: "considering"
+STATUS: "agreement"
+
+TEXT: 3417
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Bahamas"
+ACQLOC: "U.K."
+ACQLOC: "Bahamas"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 3596
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "588 mln dlrs"
+DLRAMT: "640 mln dlrs"
+DLRAMT: "695 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 3607
+ACQUIRED: ---
+ACQBUS: "cement producer"
+ACQBUS: "building products"
+ACQLOC: "U.S."
+ACQLOC: "Montana City"
+ACQLOC: "West Inc"
+ACQLOC: "California"
+DLRAMT: "50.2 mln dlrs"
+DLRAMT: "250 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 3622
+ACQUIRED: ---
+ACQBUS: "patient-ready home infusion therapy products and services"
+ACQLOC: ---
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 3673
+ACQUIRED: ---
+ACQBUS: "security guard services"
+ACQLOC: "New York"
+DLRAMT: "18 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 369
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Bluffton"
+ACQLOC: "Ohio"
+ACQLOC: "Estates"
+ACQLOC: "Ill."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "seeking to sell"
+STATUS: "approved"
+
+TEXT: 379
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Chicago"
+ACQLOC: "Santa"
+ACQLOC: "Santa Barbara"
+DLRAMT: "13 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+STATUS: "agreed to purchase"
+
+TEXT: 3873
+ACQUIRED: ---
+ACQBUS: "video rental concessions"
+ACQLOC: ---
+DLRAMT: "1.5 mln dlrs"
+DLRAMT: "5.5 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreeed to acquire"
+
+TEXT: 389
+ACQUIRED: ---
+ACQBUS: "heat transfer equipment"
+ACQLOC: "U.S."
+DLRAMT: "12.5 mln dlrs"
+DLRAMT: "54.86 mln dlrs"
+DLRAMT: "1.72 mln dlrs"
+DLRAMT: "12 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached agreement"
+STATUS: "agreement"
+
+TEXT: 3961
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "announced"
+STATUS: "agreement"
+
+TEXT: 3984
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Singapore"
+DLRAMT: "10 mln dlrs"
+DLRAMT: "50 mln dlrs"
+DLRAMT: "31.7 mln dlrs"
+DLRAMT: "215.7 mln dlrs"
+DLRAMT: "34.2 mln dlrs"
+DLRAMT: "297.7 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "ended"
+STATUS: "sold"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "approved"
+STATUS: "complete"
+
+TEXT: 4033
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "decided not to accept"
+
+TEXT: 4153
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "rejection"
+STATUS: "intend to pursue"
+STATUS: "reject"
+
+TEXT: 4161
+ACQUIRED: ---
+ACQBUS: "homebuilder"
+ACQLOC: "Englewood"
+ACQLOC: "Colo."
+DLRAMT: "12 mln dlrs"
+DLRAMT: "15 mln dlrs"
+DLRAMT: "11.7 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+
+TEXT: 4167
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: "U.S."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "extending its offer"
+STATUS: "extending"
+STATUS: "announced"
+STATUS: "agreement"
+
+TEXT: 4201
+ACQUIRED: ---
+ACQBUS: "aerospace and defense"
+ACQBUS: "advanced controls"
+ACQBUS: "standard and custom engineered centrifugal pumps and mechanical seals"
+ACQLOC: "New York"
+ACQLOC: "Long
+Beach"
+ACQLOC: "California"
+DLRAMT: "240 mln dlrs"
+DLRAMT: "300 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "agreed to sell"
+STATUS: "completed"
+STATUS: "agreed"
+STATUS: "complete"
+
+TEXT: 4233
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQBUS: "paper"
+ACQLOC: "Canada"
+ACQLOC: "Canada"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "considering"
+
+TEXT: 4237
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQBUS: "publishes information about emerging technologies and their impact on business"
+ACQLOC: ---
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 4277
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "tendered"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 4323
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "filed suit"
+
+TEXT: 4339
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 4408
+ACQUIRED: ---
+ACQBUS: "cardiovascular and fibrinolytic products"
+ACQLOC: "Sweden"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 447
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: "Atlantic City"
+ACQLOC: "New Jersey"
+ACQLOC: "Golden Nugget"
+ACQLOC: "Atlantic City"
+DLRAMT: "140 mln dlrs"
+DLRAMT: "299 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 4493
+ACQUIRED: ---
+ACQBUS: "computer software"
+ACQBUS: "software products for financial institutions"
+ACQBUS: "computer"
+ACQLOC: "Malvern"
+ACQLOC: "Pa."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: ---
+
+TEXT: 4536
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: "Aloha"
+ACQLOC: "the Princeville Airport"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "agreed to terms"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 4537
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQLOC: ---
+DLRAMT: "9.8 mln dlrs"
+DLRAMT: "46 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 4622
+ACQUIRED: ---
+ACQBUS: "paper"
+ACQBUS: "holding"
+ACQLOC: "Houston"
+ACQLOC: "Toronto"
+ACQLOC: "Texas"
+ACQLOC: "California"
+ACQLOC: "San Antonio"
+ACQLOC: "Beaumont"
+ACQLOC: "Laredo"
+DLRAMT: "400 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "selling"
+
+TEXT: 4623
+ACQUIRED: ---
+ACQBUS: "salt, animal feed and seeds"
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "5.1 mln dlrs"
+DLRAMT: "30.27 mln dlrs"
+DLRAMT: "110 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+
+TEXT: 4659
+ACQUIRED: ---
+ACQBUS: "supermarket chain"
+ACQLOC: ---
+DLRAMT: "151.4 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "purchased"
+
+TEXT: 467
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Miami"
+ACQLOC: "Heinl"
+DLRAMT: "4.5 mln dlrs"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "purchased"
+
+TEXT: 4772
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "offered to buy"
+STATUS: "rejected"
+STATUS: "bid"
+STATUS: "reject"
+
+TEXT: 4812
+ACQUIRED: ---
+ACQBUS: "woven labels"
+ACQLOC: "Paterson"
+ACQLOC: "N.J."
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "completed"
+STATUS: "agreed"
+STATUS: "complete"
+
+TEXT: 4908
+ACQUIRED: ---
+ACQBUS: "oil and gas"
+ACQLOC: "Belfast"
+ACQLOC: "Northern Ireland"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "considering"
+STATUS: "raised its stake"
+STATUS: "bought"
+
+TEXT: 497
+ACQUIRED: ---
+ACQBUS: "pharmaceutical"
+ACQBUS: "pharmaceuticals"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+STATUS: "concluded its negotiations"
+
+TEXT: 5094
+ACQUIRED: ---
+ACQBUS: "cable television systems"
+ACQLOC: "California"
+ACQLOC: "Toronto"
+ACQLOC: "Los Angeles"
+DLRAMT: "100 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement to buy"
+STATUS: "entered into an agreement"
+STATUS: "agreement"
+
+TEXT: 5097
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+ACQLOC: "Long Beach"
+DLRAMT: "240 mln dlrs"
+DLRAMT: "300 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+STATUS: "approved"
+
+TEXT: 5112
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Gurnee"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 5121
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New yOrk"
+DLRAMT: "135 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "expired"
+STATUS: "bid"
+
+TEXT: 5286
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "take no action"
+STATUS: "considering"
+STATUS: "bid"
+
+TEXT: 5287
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Seattle"
+ACQLOC: "Washington"
+ACQLOC: "Washington"
+DLRAMT: "150.6 mln dlrs"
+DLRAMT: "342.9 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+
+TEXT: 5293
+ACQUIRED: ---
+ACQBUS: "paper"
+ACQLOC: "Warburg"
+ACQLOC: "Warburg"
+ACQLOC: "Warburg"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "started a tender offer"
+
+TEXT: 5299
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "acquired"
+STATUS: "bid"
+
+TEXT: 532
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Urbana"
+ACQLOC: "Md."
+DLRAMT: "one mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+
+TEXT: 5411
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Gates"
+DLRAMT: "23 mln dlrs"
+DLRAMT: "95 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "agreement"
+STATUS: "approved"
+STATUS: "agreement to sell"
+
+TEXT: 547
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "tendered"
+
+TEXT: 5477
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "terminated"
+STATUS: "agreement"
+STATUS: "agreement in principle"
+
+TEXT: 553
+ACQUIRED: ---
+ACQBUS: "heat transfer equipment"
+ACQLOC: ---
+DLRAMT: "three mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+
+TEXT: 5667
+ACQUIRED: ---
+ACQBUS: "medical development"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreement"
+STATUS: "bought"
+STATUS: "approved"
+
+TEXT: 5789
+ACQUIRED: ---
+ACQBUS: "community newspapers"
+ACQBUS: "paper"
+ACQLOC: "Houston"
+ACQLOC: "Texas"
+ACQLOC: "Wellington"
+ACQLOC: "New Zealand"
+ACQLOC: "Rhode Island"
+ACQLOC: "Houston"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "bought"
+
+TEXT: 5854
+ACQUIRED: ---
+ACQBUS: "confectionery, tobacco and newsagent"
+ACQLOC: ---
+DLRAMT: "16.9 mln stg"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "will sell"
+
+TEXT: 5934
+ACQUIRED: ---
+ACQBUS: "frozen novelty products"
+ACQLOC: "U.S."
+ACQLOC: "Canada"
+DLRAMT: "37 mln U.S. dlrs"
+DLRAMT: "28 mln U.S. dlrs"
+DLRAMT: "37 mln Canadian dlrs"
+DLRAMT: "28 mln Canadian dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+STATUS: "agreement"
+
+TEXT: 5937
+ACQUIRED: ---
+ACQBUS: "electronics"
+ACQBUS: "hermetic integrated circuit packages"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 5947
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "negotiations are continuing"
+STATUS: "announced"
+
+TEXT: 6027
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "90 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "approved"
+STATUS: "complete"
+
+TEXT: 6034
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "selling"
+
+TEXT: 6096
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "California"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+
+TEXT: 6103
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "raised its stake"
+STATUS: "bought"
+STATUS: "purchased"
+
+TEXT: 6188
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "acquired"
+STATUS: "terminated"
+
+TEXT: 6217
+ACQUIRED: ---
+ACQBUS: "foodservice"
+ACQLOC: "Allegheny Beverage"
+ACQLOC: "Allegheny Beverage's"
+DLRAMT: "1.13 billion dlrs"
+DLRAMT: "934 mln dlrs"
+DLRAMT: "8.2 mln dlrs"
+DLRAMT: "59.7 mln dlrs"
+DLRAMT: "8.1 mln dlrs"
+DLRAMT: "160 mln dlrs"
+DLRAMT: "59.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "sold"
+STATUS: "acquired"
+STATUS: "accepted"
+STATUS: "agreed"
+STATUS: "approached"
+
+TEXT: 6223
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "boosted its stake"
+STATUS: "bought"
+
+TEXT: 6276
+ACQUIRED: ---
+ACQBUS: "healthcare"
+ACQBUS: "medical complex"
+ACQLOC: "Memphis"
+DLRAMT: "50 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "agreement"
+
+TEXT: 6361
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Singapore"
+ACQLOC: "Brunei"
+ACQLOC: "Brunei"
+DLRAMT: "82 mln dlrs"
+DLRAMT: "87.3 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+
+TEXT: 6373
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "still expected"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 6402
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "U.K."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "accepted"
+STATUS: "expired"
+STATUS: "agreed"
+
+TEXT: 6422
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "15 mln dlrs"
+DLRAMT: "500 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached an agreement"
+STATUS: "agreement"
+STATUS: "agreement in principle"
+
+TEXT: 6441
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "tendered"
+
+TEXT: 6477
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: "Wawa"
+ACQLOC: "Ontario"
+DLRAMT: "nine mln dlrs"
+DLRAMT: "one mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "agreed"
+
+TEXT: 6497
+ACQUIRED: ---
+ACQBUS: "courier"
+ACQLOC: "U.S."
+ACQLOC: "May."
+DLRAMT: "54 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "signed a letter of intent"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "letter of intent"
+
+TEXT: 6499
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "approved"
+
+TEXT: 6538
+ACQUIRED: ---
+ACQBUS: "wood window and patio door manufacturer"
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+STATUS: "agreed to purchase"
+
+TEXT: 6616
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Sunrise"
+ACQLOC: "Fla."
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to sell"
+STATUS: "agreed"
+
+TEXT: 6659
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "agreement"
+STATUS: "approved"
+
+TEXT: 6689
+ACQUIRED: ---
+ACQBUS: "bank holding"
+ACQBUS: "holding"
+ACQLOC: "Rhode Island's"
+ACQLOC: "Rhode Island"
+ACQLOC: "Albany N.y"
+DLRAMT: "23 billion dlrs"
+DLRAMT: "11.7 billion dlrs"
+DLRAMT: "11.1 billion dlrs"
+DLRAMT: "25.7 mln dlrs"
+DLRAMT: "34.9 mln dlrs"
+DLRAMT: "136.7 mln dlrs"
+DLRAMT: "104.8 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "ended"
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreed"
+STATUS: "complete"
+
+TEXT: 6694
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+STATUS: "agreed to purchase"
+STATUS: "approved"
+
+TEXT: 6697
+ACQUIRED: ---
+ACQBUS: "tennis and squash racquets and accessories"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "letter of intent"
+
+TEXT: 6702
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: "Dallas"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "entered into an agreement"
+STATUS: "agreement"
+
+TEXT: 6719
+ACQUIRED: ---
+ACQBUS: "lumber"
+ACQLOC: "U.S."
+ACQLOC: "U.S."
+ACQLOC: "Washington"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "agreement"
+STATUS: "management buyout proposal"
+STATUS: "bought"
+STATUS: "bid"
+STATUS: "selling"
+
+TEXT: 6731
+ACQUIRED: ---
+ACQBUS: "heart monitor for use in diagnosing heart disorders"
+ACQLOC: ---
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+STATUS: "acquired"
+
+TEXT: 6767
+ACQUIRED: ---
+ACQBUS: "valves and marine specialty equipment"
+ACQLOC: "Houston"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 6789
+ACQUIRED: ---
+ACQBUS: "automatic control devices and power controls"
+ACQLOC: "U.K."
+ACQLOC: "U.S."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 6818
+ACQUIRED: ---
+ACQBUS: "computer-based advertising system"
+ACQBUS: "computer"
+ACQLOC: "Rockville Center"
+ACQLOC: "N.Y."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed a letter of intent"
+STATUS: "agreement"
+STATUS: "letter of intent"
+STATUS: "complete"
+
+TEXT: 6819
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "will study"
+STATUS: "started a tender offer"
+STATUS: "reject"
+
+TEXT: 6853
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "70 mln dlrs"
+DLRAMT: "70 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed to acquire"
+STATUS: "completed"
+STATUS: "agreed"
+STATUS: "complete"
+
+TEXT: 6856
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 6873
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 6886
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Dallas"
+DLRAMT: "350 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 6928
+ACQUIRED: ---
+ACQBUS: "aerospace and soft drink bottling"
+ACQBUS: "banks"
+ACQBUS: "holding"
+ACQBUS: "radio station"
+ACQLOC: "New York"
+ACQLOC: "Los Angeles"
+ACQLOC: "Akron"
+ACQLOC: "Ohio"
+DLRAMT: "2.5 billion dlrs"
+DLRAMT: "one billion dlrs"
+DLRAMT: "1.25 billion dlrs"
+DLRAMT: "387 mln dlrs"
+DLRAMT: "217 mln dlrs"
+DLRAMT: "250 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "plans to sell"
+STATUS: "complete"
+
+TEXT: 6961
+ACQUIRED: ---
+ACQBUS: "merchant bank"
+ACQLOC: "Oporto"
+ACQLOC: "Portugal"
+ACQLOC: "Oporto"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+STATUS: "bought"
+STATUS: "complete"
+
+TEXT: 7041
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQBUS: "holding"
+ACQLOC: ---
+DLRAMT: "530 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "definitive agreement"
+STATUS: "holding talks"
+STATUS: "agreement"
+
+TEXT: 706
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+DLRAMT: "53 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "bid"
+
+TEXT: 7136
+ACQUIRED: ---
+ACQBUS: "copiers and duplicators"
+ACQLOC: "U.K."
+ACQLOC: "South Africa"
+ACQLOC: "Namibia"
+ACQLOC: "South West"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 7149
+ACQUIRED: ---
+ACQBUS: "gray iron castings"
+ACQLOC: "Indiana"
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "decided to sell"
+STATUS: "complete"
+
+TEXT: 7433
+ACQUIRED: ---
+ACQBUS: "healthcare"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "preliminary merger proposal"
+
+TEXT: 7469
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "bought"
+
+TEXT: 762
+ACQUIRED: ---
+ACQBUS: "steel service centers"
+ACQLOC: "Toronto"
+ACQLOC: "Alberta"
+DLRAMT: "undisclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "finalized agreement"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "agreement to sell"
+
+TEXT: 7672
+ACQUIRED: ---
+ACQBUS: "timber"
+ACQBUS: "lumber"
+ACQLOC: "Pendleton"
+ACQLOC: "Ore."
+ACQLOC: "Portland"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "agreed"
+STATUS: "bid"
+
+TEXT: 768
+ACQUIRED: ---
+ACQBUS: "courier"
+ACQLOC: "Purolator"
+ACQLOC: "Hutton"
+ACQLOC: "Hutton"
+ACQLOC: "Hutton"
+ACQLOC: "U.S."
+ACQLOC: "Hutton"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "agreement"
+STATUS: "bid"
+
+TEXT: 7693
+ACQUIRED: ---
+ACQBUS: "computer"
+ACQLOC: "the United States Bankruptcy"
+ACQLOC: "New York"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 7729
+ACQUIRED: ---
+ACQBUS: "transports hazardous waste, sand and gravel"
+ACQLOC: ---
+DLRAMT: "12.5 mln dlrs"
+DLRAMT: "15 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+
+TEXT: 7796
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
+ACQLOC: "New York"
+ACQLOC: "Southfield"
+DLRAMT: "1.11 billion dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "took no action"
+STATUS: "agreed to buy"
+STATUS: "agreed"
+
+TEXT: 7964
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "15.5 mln dlrs"
+DLRAMT: "14.5 mln dlrs"
+DLRAMT: "one mln dlrs"
+DLRAMT: "1.5 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "reached an agreement"
+STATUS: "agreement"
+STATUS: "agreement in principle"
+
+TEXT: 7997
+ACQUIRED: ---
+ACQBUS: "insurance"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "sold"
+
+TEXT: 8327
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Dallas"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+STATUS: "bought"
+
+TEXT: 8351
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed the acquisition"
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 8359
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: "U.S."
+ACQLOC: "Atlanta"
+ACQLOC: "Atlanta"
+ACQLOC: "Amsterdam"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "not seeking to take a stake"
+STATUS: "considering"
+
+TEXT: 8367
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Denver"
+ACQLOC: "Colo."
+DLRAMT: "not disclosed"
+PURCHASER: ---
+SELLER: ---
+STATUS: "completed"
+STATUS: "complete"
+
+TEXT: 8396
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "not true"
+STATUS: "no interest in an acquisition"
+
+TEXT: 8467
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "announced"
+STATUS: "completed"
+STATUS: "agreement"
+STATUS: "complete"
+
+TEXT: 8472
+ACQUIRED: ---
+ACQBUS: "packaging materials and machinery"
+ACQLOC: "Providence"
+ACQLOC: "R.I."
+ACQLOC: "Rexham"
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "proposed"
+STATUS: "offer"
+STATUS: "will study"
+
+TEXT: 8496
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "offer"
+STATUS: "preliminary talks"
+STATUS: "rejected"
+STATUS: "considering"
+STATUS: "bid"
+STATUS: "reject"
 
 TEXT: 8518
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "Harcourt"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "no negotiations"
+STATUS: "bid"
 
 TEXT: 8544
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Oats"
-DLRAMT: ---
-PURCHASER: "Partners"
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: "Bellevue"
+ACQLOC: "Wash."
+ACQLOC: "Golden Grain Macaroni Co"
+DLRAMT: "30 mln dlrs"
+DLRAMT: "not disclosed"
+PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "acquired"
+STATUS: "purchased"
 
 TEXT: 8571
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Avalon"
 DLRAMT: ---
-PURCHASER: "Corp"
+PURCHASER: ---
 SELLER: ---
 STATUS: ---
 
 TEXT: 8628
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
-DLRAMT: ---
+ACQBUS: "insurance"
+ACQBUS: "gold"
+ACQBUS: "banks"
+ACQBUS: "brokerage"
+ACQLOC: "Tokyo"
+ACQLOC: "U.S."
+ACQLOC: "Japan"
+ACQLOC: "London"
+ACQLOC: "Japan"
+ACQLOC: "U.S."
+ACQLOC: "Japan"
+ACQLOC: "Japan"
+DLRAMT: "90.2 billion dlrs"
+DLRAMT: "538 mln dlrs"
+DLRAMT: "500 mln dlrs"
+DLRAMT: "7.33 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreement"
 
 TEXT: 8704
-ACQBUS: ---
+ACQUIRED: ---
+ACQBUS: "microwave components"
 ACQLOC: ---
-ACQUIRED: "KDI"
-DLRAMT: "mln"
-DLRAMT: "mln"
-PURCHASER: "Corp"
+DLRAMT: "eight mln dlrs"
+DLRAMT: "14 mln dlrs"
+DLRAMT: "35 mln dlrs"
+PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed in principle"
+STATUS: "agreed"
 
 TEXT: 8771
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "New York"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "intends to boost"
+STATUS: "agreed"
 
 TEXT: 8781
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "International"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: ---
 
 TEXT: 8823
-ACQBUS: ---
-ACQLOC: "Citicorp"
 ACQUIRED: ---
-DLRAMT: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: "12.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "ended"
+STATUS: "does not plan to extend the expiration date of its tender offer"
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "accepted"
 
 TEXT: 8849
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
+ACQBUS: "nursing care facilities"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "offer"
+STATUS: "complete"
 
 TEXT: 8877
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Minging"
+ACQUIRED: ---
+ACQBUS: "gold"
+ACQLOC: "Admiralty Island"
+ACQLOC: "Alaska"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed"
+STATUS: "agreed to purchase"
 
 TEXT: 8909
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Inc"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "signed a letter of intent"
+STATUS: "agreement"
+STATUS: "letter of intent"
 
 TEXT: 8947
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Conrac"
-ACQUIRED: "Inc"
 DLRAMT: ---
-PURCHASER: "Corp"
+PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "offer"
+STATUS: "will study"
+STATUS: "take no action"
 
 TEXT: 8996
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Group"
-DLRAMT: ---
+DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "purchased"
 
 TEXT: 8998
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Hayes-Albion"
+ACQUIRED: ---
+ACQBUS: "auto supplies"
+ACQLOC: "St. Louis"
+ACQLOC: "Jackson"
+ACQLOC: "Mich.-based maker"
 DLRAMT: ---
-PURCHASER: "Corp"
+PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "offer"
+STATUS: "agreement"
+STATUS: "approved"
 
 TEXT: 9027
+ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Noverco"
+ACQLOC: "Noverco"
+ACQLOC: "Sceptre"
+ACQLOC: "Noverco"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "sold"
+STATUS: "purchased"
 
 TEXT: 904
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
-DLRAMT: ---
+ACQBUS: "gold"
+ACQLOC: "Ohio"
+DLRAMT: "242 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "ended"
+STATUS: "agreed to buy"
+STATUS: "agreed"
 
 TEXT: 9102
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Aerospace"
-DLRAMT: ---
+ACQUIRED: ---
+ACQBUS: "custom power conversion systems"
+ACQLOC: "Los Angeles"
+DLRAMT: "20 mln Canadian dlrs"
+DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "ended"
+STATUS: "agreed in principle"
+STATUS: "agreed"
 
 TEXT: 9108
-ACQBUS: ---
+ACQUIRED: ---
+ACQBUS: "airline"
 ACQLOC: ---
-ACQUIRED: "Group"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
+STATUS: "agreement"
+STATUS: "approved"
+STATUS: "move up the completion date"
 
 TEXT: 9156
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
-DLRAMT: "mln"
+ACQBUS: "holding"
+ACQLOC: "Brussels"
+ACQLOC: "New York"
+DLRAMT: "630 mln dlrs"
+DLRAMT: "600 mln dlrs"
+DLRAMT: "1.6 mln dlrs"
+DLRAMT: "2.7 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "agreement reached in principle"
 
 TEXT: 9239
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Duriron Co"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
+STATUS: "completed the acquisition"
 STATUS: "completed"
+STATUS: "complete"
 
 TEXT: 932
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Plc"
-DLRAMT: ---
+ACQUIRED: ---
+ACQBUS: "airline"
+ACQLOC: "Amsterdam"
+ACQLOC: "UK"
+DLRAMT: "two mln stg"
 PURCHASER: ---
 SELLER: ---
+STATUS: "preliminary talks"
 STATUS: "agreed"
 
 TEXT: 9324
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Midland-Ross"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "proposed"
+STATUS: "terminated"
 
 TEXT: 9332
-ACQBUS: ---
+ACQUIRED: ---
+ACQBUS: "software for check processing, mortgage application processing and safe deposit box accounting"
 ACQLOC: ---
-ACQUIRED: "Systems"
 DLRAMT: "undisclosed"
 PURCHASER: ---
-SELLER: ---
-STATUS: ---
-
-TEXT: 9338
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: ---
-DLRAMT: ---
-PURCHASER: ---
-SELLER: ---
-STATUS: ---
-
-TEXT: 9431
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Synalloy"
-DLRAMT: ---
-PURCHASER: "Corp"
 SELLER: ---
 STATUS: "ended"
+STATUS: "agreed in principle"
+STATUS: "agreed"
+
+TEXT: 9338
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: "U.S."
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "signed a letter of intent"
+STATUS: "letter of intent"
+
+TEXT: 9431
+ACQUIRED: ---
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
+STATUS: "ended"
+STATUS: "agreement"
+STATUS: "ended talks"
 
 TEXT: 9432
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "C-I-L"
-DLRAMT: ---
-PURCHASER: "Inc"
+ACQUIRED: ---
+ACQBUS: "waste management"
+ACQLOC: "Ontario"
+ACQLOC: "U.S."
+DLRAMT: "91 mln dlrs"
+PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "exercise its right to acquire"
 
 TEXT: 9434
+ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Pantera's"
-DLRAMT: ---
-PURCHASER: "Corp"
+ACQLOC: "Colorado"
+ACQLOC: "Colorado"
+ACQLOC: "Denver"
+DLRAMT: "1.25 mln dlrs"
+PURCHASER: ---
 SELLER: ---
+STATUS: "agreed to buy"
 STATUS: "agreed"
+STATUS: "agreement"
 
 TEXT: 9443
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Allied-Signal"
+ACQUIRED: ---
+ACQBUS: "type and graphics composition systems"
+ACQBUS: "electronics"
+ACQLOC: "West Germany"
+ACQLOC: "Eschborn"
+ACQLOC: "West Germany"
+ACQLOC: "the United States"
+ACQLOC: "West
+Germany"
+ACQLOC: "the United Kingdom"
+DLRAMT: "200 mln dlrs"
 DLRAMT: "undisclosed"
-PURCHASER: "Inc"
+PURCHASER: ---
 SELLER: ---
+STATUS: "offer"
+STATUS: "agreed to sell"
+STATUS: "announced"
 STATUS: "agreed"
+STATUS: "agreement"
 
 TEXT: 9544
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "Oil"
+ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: "Hong Kong"
+ACQLOC: "Hongkong"
+ACQLOC: "U.S."
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "ended"
+STATUS: "shareholders to vote"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "approved"
 
 TEXT: 9557
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Resources"
-DLRAMT: "mln"
+DLRAMT: "3.5 mln dlrs"
+DLRAMT: "4.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "offer"
+STATUS: "sold"
 
 TEXT: 963
-ACQBUS: ---
+ACQUIRED: ---
+ACQBUS: "oil and gas"
 ACQLOC: ---
-ACQUIRED: "Oil"
-DLRAMT: "mln"
-DLRAMT: "mln"
+DLRAMT: "5.4 mln dlrs"
+DLRAMT: "7.27 mln dlrs"
+DLRAMT: "40.72 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "considering"
 
 TEXT: 9661
-ACQBUS: ---
+ACQUIRED: ---
+ACQBUS: "holding"
 ACQLOC: ---
-ACQUIRED: "Clabir Corp"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "agreed"
+STATUS: "called off their plans"
 
 TEXT: 9677
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Genova"
 DLRAMT: ---
-PURCHASER: "Inc"
+PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
+STATUS: "plans to complete"
+STATUS: "announced"
+STATUS: "agreement"
+STATUS: "complete"
 
 TEXT: 9733
-ACQBUS: ---
-ACQLOC: ---
-ACQUIRED: "America"
-ACQUIRED: "Petroleum"
-DLRAMT: ---
+ACQUIRED: ---
+ACQBUS: "banks"
+ACQBUS: "paper"
+ACQLOC: "New York"
+ACQLOC: "U.S. Dlr"
+ACQLOC: "Alaska"
+ACQLOC: "Prudhoe bay"
+ACQLOC: "U.S."
+DLRAMT: "7.4 billion dlrs"
+DLRAMT: "7.02 billion dlrs"
+DLRAMT: "1.08 billion dlrs"
+DLRAMT: "608 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "ended"
+STATUS: "offer"
+STATUS: "tendered"
+STATUS: "accepted"
+STATUS: "bought"
+STATUS: "intended to make a tender offer"
+STATUS: "complete"
 
 TEXT: 9809
+ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
-ACQUIRED: "Mickelberry"
 DLRAMT: "undisclosed"
-PURCHASER: "Corp"
+PURCHASER: ---
 SELLER: ---
+STATUS: "announced"
 STATUS: "completed"
+STATUS: "bought"
+STATUS: "complete"
 
 TEXT: 982
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
+ACQBUS: "breweries"
+ACQBUS: "brewing"
+ACQBUS: "banks"
+ACQBUS: "brewery"
+ACQLOC: "Dublin"
+ACQLOC: "London"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "offer"
+STATUS: "sold"
+STATUS: "interested in buying"
 
 TEXT: 9858
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
+ACQBUS: "holding"
+ACQLOC: ---
 DLRAMT: ---
-PURCHASER: "Holdings"
+PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "proposed"
+STATUS: "approved"
 
 TEXT: 9893
-ACQBUS: ---
-ACQLOC: ---
 ACQUIRED: ---
+ACQBUS: "automated assembly and test systems"
+ACQLOC: ---
+DLRAMT: "35 mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
+STATUS: "agreed to acquire"
 STATUS: "agreed"
 

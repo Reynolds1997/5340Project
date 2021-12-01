@@ -1,41 +1,25 @@
 TEXT: 10042
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Castone
-Development Corp"
-ACQLOC: "Meridian"
-ACQLOC: "Castone"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "terminate the letter of intent"
-STATUS: "announced"
-STATUS: "acquired"
-STATUS: "letter of intent"
 
 TEXT: 10066
 ACQUIRED: ---
 ACQBUS: "credit union data processing"
-ACQLOC: "Pacific Corp"
-ACQLOC: "Security"
-ACQLOC: "November"
-ACQLOC: "24-year"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed"
-STATUS: "agreed to withdraw"
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 10158
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "American Adventure Inc  "
-ACQLOC: "American"
-ACQLOC: "Chapter 11"
-ACQLOC: "American Adventure"
-ACQLOC: "more than 83 mln"
+ACQLOC: ---
 DLRAMT: "83 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -44,27 +28,16 @@ STATUS: "purchased"
 TEXT: 10171
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Viacom International Inc"
-ACQLOC: "April 6"
-ACQLOC: "Arsenal
-Holdings Inc"
-ACQLOC: "Viacom"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "record date"
 
 TEXT: 1029
 ACQUIRED: ---
 ACQBUS: "food services"
-ACQLOC: "Hospitality Inc"
-ACQLOC: "Capital Food Services Ltd"
-ACQLOC: "Scott"
-ACQLOC: "Capital Food"
-ACQLOC: "1986"
-ACQLOC: "more than 20"
-ACQLOC: "Ottawa"
+ACQLOC: ---
 DLRAMT: "20 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
@@ -74,30 +47,16 @@ STATUS: "acquired"
 TEXT: 1032
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "about five"
-ACQLOC: "the year ended February 28"
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement"
 STATUS: "agreement to sell"
-STATUS: "sold"
-STATUS: "tentiative agreement"
-STATUS: "ended"
 
 TEXT: 10348
 ACQUIRED: ---
 ACQBUS: "vegetable oil and fats"
-ACQLOC: "Henkel KGaA
- "
 ACQLOC: "Hamburg"
-ACQLOC: "Noblee"
-ACQLOC: "Oelmuehle Hamburg AG"
-ACQLOC: "Noblee"
-ACQLOC: "161 mln marks"
-ACQLOC: "last
-year"
-ACQLOC: "Noblee"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -106,22 +65,8 @@ STATUS: "selling"
 TEXT: 10371
 ACQUIRED: ---
 ACQBUS: "natural gas and oil fields"
-ACQBUS: "natural gas"
-ACQBUS: "mines"
-ACQBUS: "gold and coal mines"
-ACQBUS: "gold"
-ACQBUS: "coal"
-ACQLOC: "Union Miniere SA"
-ACQLOC: "eight"
-ACQLOC: "Pancontinental
-Mining Ltd"
-ACQLOC: "1.2 billion Belgian
-francs"
 ACQLOC: "Australia"
 ACQLOC: "Canada"
-ACQLOC: "Union Miniere"
-ACQLOC: "Societe
-Generale de Belgique"
 DLRAMT: "1.2 billion Belgian francs"
 PURCHASER: ---
 SELLER: ---
@@ -129,96 +74,23 @@ STATUS: "acquired"
 
 TEXT: 10473
 ACQUIRED: ---
-ACQBUS: "computer"
 ACQBUS: "aerospace and defense"
-ACQLOC: "Honeywell Inc"
-ACQLOC: "57.5"
-ACQLOC: "Honeywell Information
-Systems"
-ACQLOC: "Compagnie des Machines
-Bull"
 ACQLOC: "France"
-ACQLOC: "NEC Corp"
 ACQLOC: "Japan"
-ACQLOC: "527"
-ACQLOC: "Honeywell"
-ACQLOC: "last December"
-ACQLOC: "the Sperry Aerospace Group"
-ACQLOC: "Honeywell"
-ACQLOC: "Bull"
-ACQLOC: "NEC"
-ACQLOC: "Honeywell"
-ACQLOC: "Honeywell Bull"
-ACQLOC: "42.5"
-ACQLOC: "Honeywell Inc"
-ACQLOC: "42.5"
-ACQLOC: "Bull"
-ACQLOC: "15"
-ACQLOC: "NEC"
-ACQLOC: "Honeywell"
-ACQLOC: "NEC"
-ACQLOC: "42.5"
-ACQLOC: "19.9"
-ACQLOC: "the end of 1988"
-ACQLOC: "half"
-ACQLOC: "Bull"
-ACQLOC: "Honeywell"
-ACQLOC: "Honeywell"
-ACQLOC: "Edson
-Spencer"
-ACQLOC: "Honeywell"
-ACQLOC: "Spencer
-"
-ACQLOC: "Honeywell"
-ACQLOC: "Honeywell Bull's"
-ACQLOC: "Honeywell"
 ACQLOC: "U.S."
-ACQLOC: "Honeywell"
-ACQLOC: "Federal Systems Division"
-ACQLOC: "Honeywell Inc"
-ACQLOC: "Honeywell Federal Systems Inc."
-ACQLOC: "Honeywell"
-ACQLOC: "1986"
-ACQLOC: "Honeywell Bull"
-ACQLOC: "nine"
-ACQLOC: "four"
-ACQLOC: "Honeywell"
-ACQLOC: "two"
-ACQLOC: "NEC"
-ACQLOC: "today"
-ACQLOC: "Jacques Stern"
-ACQLOC: "Bull"
-ACQLOC: "Honeywell Bull's"
-ACQLOC: "Jerome Meyer"
-ACQLOC: "Honeywell Information Systems"
 DLRAMT: "527 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
-STATUS: "agreement"
-STATUS: "purchased"
-STATUS: "selling"
 
 TEXT: 10527
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "LSB Industries Inc"
-ACQLOC: "Northwest Federal Savings"
-ACQLOC: "Loan Association"
+ACQBUS: "bank"
 ACQLOC: "Woodward"
 ACQLOC: "Oklahoma"
-ACQLOC: "about 1.5"
-ACQLOC: "Northwest"
-ACQLOC: "Northwest Federal"
-ACQLOC: "less than 30"
-ACQLOC: "Northwest Federal"
-ACQLOC: "LSB"
-ACQLOC: "the Federal Home Loan Bank Board"
 DLRAMT: "1.5 mln dlrs"
 DLRAMT: "30 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement"
 STATUS: "entered into an agreement"
 

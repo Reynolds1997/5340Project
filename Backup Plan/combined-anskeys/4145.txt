@@ -1,0 +1,9 @@
+TEXT: 4145
+ACQUIRED: "Putnam Mills Corp"
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: "Pope, Evans and Robbins Inc"
+SELLER: ---
+STATUS: "repurchased"
+
