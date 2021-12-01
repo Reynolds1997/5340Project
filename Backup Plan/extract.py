@@ -63,6 +63,9 @@ def analyzeFile(filePath, outputFile):
 
     slotItems = [["ACQUIRED"],["ACQBUS"],["ACQLOC"],["DLRAMT"],["PURCHASER"],["SELLER"],["STATUS"]]
 
+    sellList = extractUtilities.fileToLineList("soldList.txt")
+    buyList = extractUtilities.fileToLineList("boughtList.txt")
+
     definitiveCount = 0
     defininiveWord = ""
     acquiredExists = False
@@ -73,8 +76,11 @@ def analyzeFile(filePath, outputFile):
     ## also remembers the position of the word for later
     for entity in nerEntityList:
         entityWord = entity[0].lower()
-        if entityWord == "sell" or entityWord == "buy" :
-            defininiveWord = entityWord
+        if entityWord in sellList :
+            defininiveWord = "sell"
+            break
+        elif entityWord in buyList :
+            defininiveWord = "buy"
             break
         definitiveCount = definitiveCount + 1
 
@@ -106,12 +112,44 @@ def spacyNER(textString):
     doc = nlp(textString)
     #print(doc.ents)
 
+    tokenCount = 0
+    entityCount = 0
+    tokenMax = 0
+    entityMax = 0
+
+    tokenList = []
+
+    # i'm not 100% sure how len() works with mixed dictionaries, so i'm not even gonna bother
+    for token in doc:
+        tokenList.append(token.text)
+        tokenMax = tokenMax + 1
+    
+    for ent in doc.ents:
+        entityMax = entityMax + 1
+
+    entList = []
+
+    while (tokenCount < tokenMax and entityCount < entityMax) :
+        ent = doc.ents[entityCount]
+        token = tokenList[tokenCount]
+
+        if ent.text == token :
+            tokenCount = tokenCount + 1
+            entityCount = entityCount + 1
+            entList.append([ent.text, ent.label_])
+        else :
+            tokenCount = tokenCount + 1
+            entList.append([token, "O"])
+
+    while tokenCount < tokenMax :
+        token = tokenList[tokenCount]
+        tokenCount = tokenCount + 1
+        entList.append([token, "O"])
+
+
     #for token in doc:
     #    print(token.text, token.lemma_, token.pos_, token.tag_, token.dep_,
     #            token.shape_, token.is_alpha, token.is_stop)
-    entList = []
-    for ent in doc.ents:
-        entList.append([ent.text, ent.label_])
 
     return entList
 
