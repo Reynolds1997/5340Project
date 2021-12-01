@@ -1,0 +1,9 @@
+TEXT: 20035
+ACQUIRED: "Morgan Grenfell Group Plc"
+ACQBUS: "merchant banking"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: "Willis Faber Plc"
+STATUS: ---
+

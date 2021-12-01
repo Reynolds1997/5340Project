@@ -5,10 +5,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "terminate the letter of intent"
-STATUS: "announced"
-STATUS: "letter of intent"
 
 TEXT: 10066
 ACQUIRED: ---
@@ -17,10 +14,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed to withdraw"
 STATUS: "signed a letter of intent"
-STATUS: "agreed"
-STATUS: "letter of intent"
 
 TEXT: 10158
 ACQUIRED: ---
@@ -38,7 +32,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "record date"
 
 TEXT: 1029
@@ -58,16 +51,12 @@ ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "sold"
-STATUS: "agreement"
-STATUS: "tentiative agreement"
 STATUS: "agreement to sell"
 
 TEXT: 10348
 ACQUIRED: ---
 ACQBUS: "vegetable oil and fats"
-ACQLOC: "Hamburg"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -75,14 +64,8 @@ STATUS: "selling"
 
 TEXT: 10371
 ACQUIRED: ---
-ACQBUS: "coal"
-ACQBUS: "gold"
-ACQBUS: "natural gas"
-ACQBUS: "mines"
-ACQBUS: "gold and coal mines"
 ACQBUS: "natural gas and oil fields"
-ACQLOC: "Australia"
-ACQLOC: "Canada"
+ACQLOC: ---
 DLRAMT: "1.2 billion Belgian francs"
 PURCHASER: ---
 SELLER: ---
@@ -91,30 +74,21 @@ STATUS: "acquired"
 TEXT: 10473
 ACQUIRED: ---
 ACQBUS: "aerospace and defense"
-ACQBUS: "computer"
-ACQLOC: "France"
-ACQLOC: "Japan"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "527 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "agreement"
-STATUS: "purchased"
-STATUS: "selling"
-STATUS: "complete"
 
 TEXT: 10527
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Woodward"
-ACQLOC: "Oklahoma"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "1.5 mln dlrs"
 DLRAMT: "30 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "entered into an agreement"
-STATUS: "agreement"
 
 TEXT: 10541
 ACQUIRED: ---
@@ -124,27 +98,21 @@ DLRAMT: "100 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 10674
 ACQUIRED: ---
 ACQBUS: "diversified auto parts manufacturer"
-ACQBUS: "auto parts"
-ACQLOC: "Britain"
+ACQLOC: ---
 DLRAMT: "27.22 mln dlrs"
 DLRAMT: "13.22 mln dlrs"
 DLRAMT: "202.2 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "increase its takeover offer"
-STATUS: "bid"
 
 TEXT: 10694
 ACQUIRED: ---
-ACQBUS: "gold"
 ACQBUS: "retail chemist"
-ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: "244 mln stg"
 DLRAMT: "29.8 mln stg"
@@ -158,44 +126,34 @@ DLRAMT: "10.36 mln stg"
 DLRAMT: "202.9 mln stg"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "accepted"
 STATUS: "agreed"
-STATUS: "bid"
 
 TEXT: 10714
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: "151 mln stg"
 PURCHASER: ---
 SELLER: ---
 STATUS: "bought"
-STATUS: "bid"
 
 TEXT: 10721
 ACQUIRED: ---
-ACQBUS: "telecommunications"
 ACQBUS: "holding"
 ACQLOC: "Sweden"
-ACQLOC: "Ericsson"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "raised its holding"
-STATUS: "bid"
 
 TEXT: 10787
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Portland"
-ACQLOC: "Maine"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "received approval"
-STATUS: "clearance"
 
 TEXT: 10816
 ACQUIRED: ---
@@ -209,22 +167,16 @@ STATUS: "acquired"
 TEXT: 10867
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Canada"
-ACQLOC: "United States"
-ACQLOC: "Calgary"
-ACQLOC: "the United States"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "sold"
 STATUS: "offering to sell"
-STATUS: "selling"
 
 TEXT: 10872
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Henley"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -238,63 +190,51 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 10899
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Seattle"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "reached a non-binding agreement in principle"
-STATUS: "agreement"
-STATUS: "agreement in principle"
 
 TEXT: 10908
 ACQUIRED: ---
-ACQBUS: "insurance"
+ACQBUS: "oil"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "sold"
 STATUS: "lowered their stake"
 
 TEXT: 10928
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 10961
 ACQUIRED: ---
-ACQBUS: "gold"
 ACQBUS: "food distributor"
-ACQLOC: "Pompano Beach"
-ACQLOC: "Fla."
-ACQLOC: "Tampa"
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 1099
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "the United States"
+ACQBUS: "mining"
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
-SELLER: ---
-STATUS: "sold"
+SELLER: "Norton"
 STATUS: "agreed to sell"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 10994
 ACQUIRED: ---
@@ -305,17 +245,15 @@ DLRAMT: "1.2 mln Canadian dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 11048
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "proposed"
-STATUS: "overturned"
 
 TEXT: 11051
 ACQUIRED: ---
@@ -325,8 +263,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "unable to complete negotiations"
-STATUS: "terminated"
-STATUS: "complete"
 
 TEXT: 11086
 ACQUIRED: ---
@@ -336,7 +272,6 @@ DLRAMT: "3.2 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
 
 TEXT: 11113
 ACQUIRED: ---
@@ -354,19 +289,13 @@ ACQBUS: ---
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
-SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
+SELLER: "Gencorp"
 STATUS: "completed"
-STATUS: "complete"
-STATUS: "reject"
 
 TEXT: 11192
 ACQUIRED: ---
 ACQBUS: "entertainment"
-ACQLOC: "Los Angeles"
-ACQLOC: "Shandwick"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "2.25 mln dlrs"
 DLRAMT: "1.5 mln dlrs"
 DLRAMT: "5.1 mln dlrs"
@@ -382,28 +311,11 @@ DLRAMT: "10 mln stg"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
 
 TEXT: 11213
 ACQUIRED: ---
-ACQBUS: "oil and gas"
-ACQBUS: "gold"
-ACQBUS: "building products"
 ACQBUS: "oil and gas interests"
-ACQLOC: "Australia"
-ACQLOC: "Delhi"
-ACQLOC: "Delhi"
-ACQLOC: "U.S."
-ACQLOC: "Australia"
-ACQLOC: "Sydney"
-ACQLOC: "Delhi"
-ACQLOC: "Australia"
-ACQLOC: "850 mln dlr"
-ACQLOC: "Delhi"
-ACQLOC: "U.S."
-ACQLOC: "Sydney"
-ACQLOC: "Delhi"
-ACQLOC: "Australia"
+ACQLOC: ---
 DLRAMT: "a billion dlrs"
 DLRAMT: "150 mln dlrs"
 DLRAMT: "985 mln dlrs"
@@ -418,64 +330,45 @@ DLRAMT: "300 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "bought"
-STATUS: "bid"
-STATUS: "selling"
 
 TEXT: 11237
 ACQUIRED: ---
 ACQBUS: "raw sugar mills and building materials"
-ACQLOC: "Delhi"
+ACQLOC: ---
 DLRAMT: "99.80 mln dlrs"
 DLRAMT: "219.6 mln dlrs"
 DLRAMT: "985 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "announced"
 STATUS: "will sell"
-STATUS: "will offer"
 
 TEXT: 11268
 ACQUIRED: ---
-ACQBUS: "supermarkets"
 ACQBUS: "poultry, beef and pork products"
-ACQBUS: "food distributor"
 ACQLOC: ---
 DLRAMT: "69 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
-STATUS: "ended"
 STATUS: "agreed in principle"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 11362
 ACQUIRED: ---
 ACQBUS: "public account and consulting"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "1.35 billion dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 11449
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "North Kingstown"
-ACQLOC: "R.I."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
-STATUS: "tendered"
 STATUS: "extended his cash offer"
-STATUS: "expired"
 
 TEXT: 11468
 ACQUIRED: ---
@@ -485,8 +378,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "plans to complete"
-STATUS: "announced"
-STATUS: "complete"
 
 TEXT: 11484
 ACQUIRED: ---
@@ -504,48 +395,30 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 1153
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Dallas"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "definitive agreement"
 STATUS: "agreed in principle"
-STATUS: "agreed"
-STATUS: "agreement"
-STATUS: "approved"
-STATUS: "complete"
 
 TEXT: 11579
 ACQUIRED: ---
-ACQBUS: "paper"
 ACQBUS: "community papers"
-ACQLOC: "Naples"
-ACQLOC: "Fort Myers"
-ACQLOC: "Fla."
-ACQLOC: "Tampa"
-ACQLOC: "St. Petersburg"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "closed"
 
 TEXT: 1159
 ACQUIRED: ---
-ACQBUS: "insurance"
-ACQBUS: "electronics"
 ACQBUS: "health care"
-ACQLOC: "Japan"
-ACQLOC: "Nippon"
-ACQLOC: "Nippon Lace"
-ACQLOC: "Nippon Lace"
+ACQLOC: ---
 DLRAMT: "five mln dlrs"
 DLRAMT: "16.5 mln dlrs"
 DLRAMT: "four mln dlrs"
@@ -554,20 +427,15 @@ DLRAMT: "two mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
 
 TEXT: 11722
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Lucht"
-ACQLOC: "Innovex"
-ACQLOC: "Innovex"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "bought"
-STATUS: "complete"
 
 TEXT: 11744
 ACQUIRED: ---
@@ -577,7 +445,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "bought"
 
 TEXT: 11854
 ACQUIRED: ---
@@ -586,23 +453,20 @@ ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "selling"
+STATUS: "closed"
 
 TEXT: 11923
 ACQUIRED: ---
-ACQBUS: "insurance"
 ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: "85 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 11968
 ACQUIRED: ---
 ACQBUS: "supermarket, combination store operator"
-ACQBUS: "supermarkets"
 ACQLOC: ---
 DLRAMT: "140 mln dlrs"
 DLRAMT: "100 mln dlrs"
@@ -610,28 +474,20 @@ DLRAMT: "100 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "proposed"
-STATUS: "offer"
 
 TEXT: 11982
 ACQUIRED: ---
-ACQBUS: "insurance"
 ACQBUS: "holding"
-ACQLOC: "Mount"
-ACQLOC: "Clemens"
-ACQLOC: "Mich."
-ACQLOC: "Clinton Township"
-ACQLOC: "Macomb County"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "reached an agreement"
-STATUS: "agreement to buy"
-STATUS: "agreement"
 
 TEXT: 11996
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Medicontrol"
+ACQLOC: ---
 DLRAMT: "one mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -640,10 +496,7 @@ STATUS: ---
 TEXT: 12053
 ACQUIRED: ---
 ACQBUS: "precious metals and wholesale non-ferrous metals trading"
-ACQBUS: "precious metals and wholesale non-ferrous metals"
-ACQLOC: "New York"
-ACQLOC: "London"
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: "14.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -652,10 +505,7 @@ STATUS: "announced"
 TEXT: 12068
 ACQUIRED: ---
 ACQBUS: "precious metals and wholesale non-ferrous metals trading"
-ACQBUS: "precious metals and wholesale non-ferrous metals"
-ACQLOC: "New York"
-ACQLOC: "London"
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: "14.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -669,86 +519,58 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 12093
 ACQUIRED: ---
-ACQBUS: "banks"
-ACQLOC: "Chicago"
-ACQLOC: "Melrose Park"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "231 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 12173
 ACQUIRED: ---
-ACQBUS: "coal"
-ACQBUS: "mines"
 ACQBUS: "coal preparation"
-ACQBUS: "holding"
-ACQLOC: "West Virginia"
-ACQLOC: "West Va."
-ACQLOC: "Palisade"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 12191
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Phoenix"
-ACQLOC: "Ariz."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "purchased"
 
 TEXT: 12236
 ACQUIRED: ---
-ACQBUS: "gold"
-ACQBUS: "mines"
 ACQBUS: "diamond and gold"
-ACQLOC: "Brazil"
-ACQLOC: "Brazil"
-ACQLOC: "Gammara"
-ACQLOC: "Santo Antonio"
-ACQLOC: "Brazil"
+ACQLOC: ---
 DLRAMT: "one mln dlrs"
 DLRAMT: "9.6 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "announced"
-STATUS: "agreed"
 
 TEXT: 12344
 ACQUIRED: ---
 ACQBUS: "oil and gas"
-ACQLOC: "Oklahoma"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "plans to sell"
-STATUS: "bought"
 
 TEXT: 12378
 ACQUIRED: ---
-ACQBUS: "coal"
 ACQBUS: "holding"
-ACQLOC: "Newmont"
-ACQLOC: "Newmont"
-ACQLOC: "U.S."
-ACQLOC: "Newmont"
-ACQLOC: "Peabody"
+ACQLOC: ---
 DLRAMT: "1.4 billion dlrs"
 DLRAMT: "116.8 mln dlrs"
 DLRAMT: "74.2 mln dlrs"
@@ -756,10 +578,7 @@ DLRAMT: "100.8 mln dlrs"
 DLRAMT: "320 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 12386
 ACQUIRED: ---
@@ -769,21 +588,15 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "offer"
-STATUS: "accepted"
-STATUS: "announced"
 
 TEXT: 12492
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Aloha"
-ACQLOC: "Aloha"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "acquired"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 12504
 ACQUIRED: ---
@@ -794,36 +607,24 @@ DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 12512
 ACQUIRED: ---
-ACQBUS: "coal"
 ACQBUS: "gold"
-ACQBUS: "mines"
-ACQLOC: "Ohio"
-ACQLOC: "Henderson"
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "announced"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 12529
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Sarasota"
-ACQLOC: "Fla."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
-STATUS: "completed"
-STATUS: "agreement"
 STATUS: "letter of intent"
-STATUS: "complete"
 
 TEXT: 12532
 ACQUIRED: ---
@@ -834,20 +635,16 @@ DLRAMT: "398 mln dlrs"
 DLRAMT: "33 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "acquired"
 STATUS: "decided to sell"
 
 TEXT: 12538
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "West Virginia Inc"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 12646
 ACQUIRED: ---
@@ -856,22 +653,16 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "offer"
 STATUS: "acquired"
 
 TEXT: 12688
 ACQUIRED: ---
 ACQBUS: "orthodontic products"
-ACQLOC: "Monrovia"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "announced"
-STATUS: "completed"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 12751
 ACQUIRED: ---
@@ -880,14 +671,11 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "complete"
 
 TEXT: 12759
 ACQUIRED: ---
-ACQBUS: "insurance"
 ACQBUS: "property and financial services"
-ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: "20 mln stg"
 DLRAMT: "70 mln stg"
@@ -897,21 +685,16 @@ STATUS: ---
 
 TEXT: 12822
 ACQUIRED: ---
-ACQBUS: "computer retail"
 ACQBUS: "oil and gas"
-ACQBUS: "accounting software systems"
-ACQBUS: "computer"
-ACQBUS: "micro-computer products"
-ACQLOC: "Denver"
+ACQLOC: ---
 DLRAMT: "seven mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 12852
-ACQUIRED: ---
+ACQUIRED: "Canrad"
 ACQBUS: ---
 ACQLOC: ---
 DLRAMT: "10 mln dlrs"
@@ -927,9 +710,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "prepared to raise its bid"
-STATUS: "bid"
 
 TEXT: 1291
 ACQUIRED: ---
@@ -943,18 +724,11 @@ STATUS: "sold"
 TEXT: 12937
 ACQUIRED: ---
 ACQBUS: "rail operations"
-ACQBUS: "railroad"
-ACQLOC: "Minnesota"
-ACQLOC: "Wisconsin"
-ACQLOC: "Michigan"
-ACQLOC: "Illinois"
-ACQLOC: "Soo"
+ACQLOC: ---
 DLRAMT: "15.0 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
-STATUS: "bid"
 
 TEXT: 12956
 ACQUIRED: ---
@@ -964,7 +738,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 12974
 ACQUIRED: ---
@@ -973,19 +746,16 @@ ACQLOC: ---
 DLRAMT: "175 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 12996
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Chicago"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 13036
 ACQUIRED: ---
@@ -995,10 +765,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive merger agreement"
-STATUS: "announced"
-STATUS: "completed"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 13043
 ACQUIRED: ---
@@ -1007,44 +773,33 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "agreement"
 STATUS: "ended without agreement"
 
 TEXT: 13077
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Secaucus"
-ACQLOC: "N.J."
+ACQLOC: ---
 DLRAMT: "387 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "completed"
 STATUS: "prepared to raise its bid"
-STATUS: "bid"
-STATUS: "approved"
-STATUS: "complete"
 
 TEXT: 13189
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Chicago"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "raised his stake"
-STATUS: "considering"
-STATUS: "bought"
 
 TEXT: 13196
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "W. Virginia"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "16.2 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "reached an agreement"
-STATUS: "agreement"
 STATUS: "agreement in principle"
 
 TEXT: 13393
@@ -1055,8 +810,6 @@ DLRAMT: "151 mln stg"
 PURCHASER: ---
 SELLER: ---
 STATUS: "offer"
-STATUS: "extending"
-STATUS: "bid"
 
 TEXT: 134
 ACQUIRED: ---
@@ -1069,19 +822,16 @@ STATUS: "sold"
 
 TEXT: 13787
 ACQUIRED: ---
-ACQBUS: "waste management"
 ACQBUS: "hazardous waste management"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
 
 TEXT: 13874
 ACQUIRED: ---
 ACQBUS: "premium coated and uncoated printing papers and technical specialty papers"
-ACQBUS: "paper"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
@@ -1091,32 +841,25 @@ STATUS: "decided to sell"
 TEXT: 14099
 ACQUIRED: ---
 ACQBUS: "cable television systems"
-ACQLOC: "Wildwood"
-ACQLOC: "N.J."
-ACQLOC: "Ramapo"
-ACQLOC: "Warwick"
-ACQLOC: "N.Y."
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 14131
 ACQUIRED: ---
 ACQBUS: "brokerage"
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "increased its preferred stock"
-STATUS: "bought"
 
 TEXT: 14604
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Delaware"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -1134,12 +877,8 @@ STATUS: "clearance"
 
 TEXT: 14679
 ACQUIRED: ---
-ACQBUS: "oil and gas"
 ACQBUS: "gas gathering, transmission and liquids extraction"
-ACQLOC: "Santa Ana"
-ACQLOC: "Columbus"
-ACQLOC: "Oklahoma"
-ACQLOC: "Oklahoma"
+ACQLOC: ---
 DLRAMT: "81.9 mln dlrs"
 DLRAMT: "one mln dlrs"
 DLRAMT: "30 mln dlrs"
@@ -1147,30 +886,20 @@ DLRAMT: "40 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "agreement"
 
 TEXT: 14888
 ACQUIRED: ---
 ACQBUS: "food and beverage maker"
-ACQBUS: "brewing"
-ACQBUS: "holding"
-ACQBUS: "brewery"
-ACQLOC: "Philippines"
-ACQLOC: "New York"
-ACQLOC: "Melbourne"
-ACQLOC: "Hong Kong"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "joined several other foreign bidders"
-STATUS: "interested in buying"
-STATUS: "bid"
 
 TEXT: 14907
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "London"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -1179,7 +908,6 @@ STATUS: ---
 TEXT: 14949
 ACQUIRED: ---
 ACQBUS: "computer-related information display and communications equipment"
-ACQBUS: "computer"
 ACQLOC: ---
 DLRAMT: "7.8 mln dlrs"
 DLRAMT: "153.9 mln dlrs"
@@ -1187,7 +915,6 @@ DLRAMT: "6.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "started negotiations"
-STATUS: "bid"
 
 TEXT: 15004
 ACQUIRED: ---
@@ -1201,35 +928,20 @@ STATUS: "agreed"
 TEXT: 15024
 ACQUIRED: ---
 ACQBUS: "health care"
-ACQLOC: "Salem"
-ACQLOC: "Ore."
+ACQLOC: ---
 DLRAMT: "70 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 15031
 ACQUIRED: ---
 ACQBUS: "security services"
-ACQLOC: "Paramus"
-ACQLOC: "N.J."
-ACQLOC: "N.J."
-ACQLOC: "Hackensack"
-ACQLOC: "N.J."
-ACQLOC: "National Park"
-ACQLOC: "N.J."
-ACQLOC: "Fla."
-ACQLOC: "Myrtle Beach"
-ACQLOC: "S.C."
-ACQLOC: "Houston"
-ACQLOC: "Louisville"
-ACQLOC: "Nashville"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 1506
 ACQUIRED: ---
@@ -1242,19 +954,11 @@ DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
-STATUS: "tentatively agreed"
 
 TEXT: 15366
 ACQUIRED: ---
-ACQBUS: "oil and gas"
 ACQBUS: "oil and gas interests"
 ACQLOC: "Delhi"
-ACQLOC: "Delhi"
-ACQLOC: "Seram"
-ACQLOC: "Indonesia"
-ACQLOC: "Queensland"
-ACQLOC: "Hainan Island"
 DLRAMT: "985 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -1271,44 +975,32 @@ STATUS: "sold"
 
 TEXT: 15501
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "received a written proposal"
-STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "agreed"
-STATUS: "complete"
 
 TEXT: 15561
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Waccamaw"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "22.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
 
 TEXT: 15591
 ACQUIRED: ---
-ACQBUS: "holding"
 ACQBUS: "asbestos abatement"
-ACQLOC: "Spectrum"
-ACQLOC: "Spectrum"
+ACQLOC: ---
 DLRAMT: "13 mln dlrs"
 DLRAMT: "10 mln dlrs"
 DLRAMT: "seven mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "definitive agreement"
 STATUS: "agreed in principle"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 1577
 ACQUIRED: ---
@@ -1318,18 +1010,15 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "raised its stake"
-STATUS: "bought"
 
 TEXT: 1584
 ACQUIRED: ---
 ACQBUS: "full-text search and retrieval software"
-ACQBUS: "computer"
 ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 15879
 ACQUIRED: ---
@@ -1340,27 +1029,24 @@ DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
 
 TEXT: 15918
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: "13 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement"
 STATUS: "agreement to sell"
 
 TEXT: 16007
 ACQUIRED: ---
 ACQBUS: "oil and gas"
-ACQBUS: "natural gas"
 ACQLOC: ---
 DLRAMT: "22.5 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "closed"
 
 TEXT: 16021
 ACQUIRED: ---
@@ -1369,21 +1055,16 @@ ACQLOC: ---
 DLRAMT: "6.1 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 16029
 ACQUIRED: ---
 ACQBUS: "brokerage"
-ACQLOC: "New York"
-ACQLOC: "New York"
-ACQLOC: "Greenwood"
+ACQLOC: ---
 DLRAMT: "4.9 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 16037
 ACQUIRED: ---
@@ -1392,98 +1073,63 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "received proposals"
 
 TEXT: 16152
 ACQUIRED: ---
 ACQBUS: "polystyrene foam and container products"
-ACQBUS: "holding"
-ACQLOC: "U.K."
+ACQLOC: ---
 DLRAMT: "16.25 mln dlrs"
 DLRAMT: "19.3 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
 
 TEXT: 16176
 ACQUIRED: ---
 ACQBUS: "oil and gas"
-ACQBUS: "natural gas"
-ACQBUS: "holding"
-ACQLOC: "Dome"
-ACQLOC: "Dome"
-ACQLOC: "Canada"
-ACQLOC: "Dome"
-ACQLOC: "Dome"
-ACQLOC: "Canada"
-ACQLOC: "Dome"
-ACQLOC: "Dome"
+ACQLOC: ---
 DLRAMT: "4.3 billion dlrs"
 DLRAMT: "2.5 billion dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "takeover battle"
-STATUS: "announced"
-STATUS: "considering"
-STATUS: "agreement"
-STATUS: "bid"
 STATUS: "continuing talks with other possible buyers"
 
 TEXT: 16233
 ACQUIRED: ---
-ACQBUS: "insurance"
-ACQBUS: "banks"
 ACQBUS: "holding"
-ACQLOC: "South Atlantic's"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
 STATUS: "agreed in principle"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 1626
 ACQUIRED: ---
-ACQBUS: "supermarkets"
-ACQLOC: "Salt Lake City
-Division"
-ACQLOC: "Utah"
-ACQLOC: "Idaho"
-ACQLOC: "Wyoming"
+ACQBUS: "supermarket"
+ACQLOC: ---
 DLRAMT: "350 mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "agreed to sell"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 16379
 ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: "Huron"
-ACQLOC: "South Dakota"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 16398
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Chicago"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "agreement"
 STATUS: "studying an agreement"
 
 TEXT: 16419
@@ -1504,40 +1150,26 @@ DLRAMT: "782 mln dlrs"
 DLRAMT: "720 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
 STATUS: "entered into a definitive mergewr agreement"
-STATUS: "will acquire"
-STATUS: "agreement"
-STATUS: "approved"
 
 TEXT: 16483
 ACQUIRED: ---
 ACQBUS: "oil and gas"
-ACQBUS: "gold"
-ACQLOC: "Santa Barbara"
-ACQLOC: "Calif."
-ACQLOC: "Texas"
+ACQLOC: ---
 DLRAMT: "two billion dlrs"
 DLRAMT: "two billion dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "expects to sell"
-STATUS: "sold"
 STATUS: "interested in buying"
-STATUS: "bid"
-STATUS: "complete"
 
 TEXT: 16512
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Los Angeles"
+ACQLOC: ---
 DLRAMT: "105 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "announced"
-STATUS: "agreement"
 
 TEXT: 16583
 ACQUIRED: ---
@@ -1555,24 +1187,21 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 16591
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Empire"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "will acquire"
-STATUS: "approved"
 
 TEXT: 16652
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Cincinnati"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -1585,17 +1214,12 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "bid"
+STATUS: "closed"
 
 TEXT: 1666
 ACQUIRED: ---
-ACQBUS: "insurance"
 ACQBUS: "underwriting information services"
-ACQLOC: "Salem"
-ACQLOC: "Ore."
-ACQLOC: "Springfield"
-ACQLOC: "Va."
+ACQLOC: ---
 DLRAMT: "two mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
@@ -1605,27 +1229,16 @@ STATUS: "acquired"
 TEXT: 16663
 ACQUIRED: ---
 ACQBUS: "foodservice distributor"
-ACQBUS: "foodservice"
-ACQLOC: "Bensenville"
-ACQLOC: "Ill."
+ACQLOC: ---
 DLRAMT: "85 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 16833
 ACQUIRED: ---
 ACQBUS: "oil and gas"
-ACQBUS: "paper"
-ACQLOC: "Dome"
-ACQLOC: "Canada"
-ACQLOC: "Dome"
-ACQLOC: "Canada"
-ACQLOC: "Canada"
-ACQLOC: "Chicago"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "4.3 billion U.S. dlrs"
 DLRAMT: "30 billion U.S. dlrs"
 DLRAMT: "7.1 billion U.S. dlrs"
@@ -1637,29 +1250,20 @@ DLRAMT: "20.23 billion Canadian dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "offer"
-STATUS: "announced"
-STATUS: "bid"
 
 TEXT: 16872
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Hong Kong"
-ACQLOC: "New Zealand"
+ACQLOC: ---
 DLRAMT: "10.5 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "raised its stake"
-STATUS: "bought"
 
 TEXT: 1694
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "6.3 mln dlrs"
 DLRAMT: "6.3 mln dlrs"
 DLRAMT: "3.3 mln dlrs"
@@ -1682,32 +1286,25 @@ DLRAMT: "2.4 mln U.S. dlrs"
 DLRAMT: "16.8 mln U.S. dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement"
-STATUS: "complete"
 STATUS: "would reduce"
 
 TEXT: 16941
 ACQUIRED: ---
 ACQBUS: "domestic carpet and upholstery cleaning"
-ACQLOC: "Nevada"
-ACQLOC: "Philadelphia"
+ACQLOC: ---
 DLRAMT: "24.6 mln dlrs"
 DLRAMT: "2.0 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
 
 TEXT: 17053
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Carling"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "announced"
-STATUS: "bid"
 STATUS: "approved"
 
 TEXT: 17151
@@ -1726,20 +1323,16 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "terminated"
-STATUS: "agreement"
-STATUS: "preliminary discussions"
 STATUS: "agreement in principle"
 
 TEXT: 17178
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "raised its stake"
-STATUS: "bought"
 
 TEXT: 1729
 ACQUIRED: ---
@@ -1749,13 +1342,11 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "reached an agreement"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 17317
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "United States"
+ACQLOC: ---
 DLRAMT: "6.5 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -1764,11 +1355,7 @@ STATUS: "ended"
 TEXT: 17323
 ACQUIRED: ---
 ACQBUS: "feedstuff and grain"
-ACQLOC: "West Germany's"
-ACQLOC: "U.S."
-ACQLOC: "Becher"
-ACQLOC: "Omaha"
-ACQLOC: "Nebraska"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -1777,55 +1364,41 @@ STATUS: ---
 TEXT: 17333
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Midland"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "sold"
 STATUS: "signed an agreement"
-STATUS: "agreement"
 
 TEXT: 17488
 ACQUIRED: ---
 ACQBUS: "built-in electric products for the housing market"
-ACQBUS: "door locks and electronic security products"
-ACQLOC: "First City"
+ACQLOC: ---
 DLRAMT: "400 mln dlrs"
 DLRAMT: "two mln dlrs"
 DLRAMT: "60 mln dlrs"
 DLRAMT: "35 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
-STATUS: "completed"
 STATUS: "agreed to buy"
-STATUS: "agreed"
-STATUS: "agreement"
-STATUS: "complete"
-STATUS: "agreement to sell"
 
 TEXT: 17518
 ACQUIRED: ---
 ACQBUS: "bank holding"
-ACQBUS: "holding"
 ACQLOC: "Delaware"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 17576
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "New York"
-ACQLOC: "Steinberg"
+ACQLOC: ---
 DLRAMT: "1.75 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 17651
 ACQUIRED: ---
@@ -1836,7 +1409,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 17659
 ACQUIRED: ---
@@ -1846,20 +1418,16 @@ DLRAMT: "3.92 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 17688
 ACQUIRED: ---
 ACQBUS: "collects used lubricating oils"
-ACQLOC: "Toronto"
+ACQLOC: ---
 DLRAMT: "12 mln dlrs"
 DLRAMT: "18 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 1771
 ACQUIRED: ---
@@ -1873,8 +1441,7 @@ STATUS: "offer"
 TEXT: 17728
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Santa Clara"
-ACQLOC: "Calif."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -1883,59 +1450,43 @@ STATUS: ---
 TEXT: 17798
 ACQUIRED: ---
 ACQBUS: "computer terminals"
-ACQBUS: "computer"
 ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 17837
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: "8.7 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "sold"
 STATUS: "lowered their stake"
-STATUS: "agreed"
 
 TEXT: 17847
 ACQUIRED: ---
-ACQBUS: "banks"
-ACQLOC: "Florida"
-ACQLOC: "North Port"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 17876
 ACQUIRED: ---
 ACQBUS: "building products"
-ACQBUS: "holding"
-ACQLOC: "New Zealand"
-ACQLOC: "Monier"
+ACQLOC: ---
 DLRAMT: "156.28 mln dlrs"
 DLRAMT: "649 mln dlrs"
 DLRAMT: "593 mln dlrs"
 PURCHASER: ---
-SELLER: ---
-STATUS: "proposed"
-STATUS: "offer"
-STATUS: "announced"
-STATUS: "clearance"
-STATUS: "bid"
+SELLER: "ETL"
 STATUS: "will offer"
 
 TEXT: 17907
 ACQUIRED: ---
-ACQBUS: "insurance"
 ACQBUS: "travel and recreation insurance"
 ACQLOC: ---
 DLRAMT: ---
@@ -1946,52 +1497,41 @@ STATUS: ---
 TEXT: 17913
 ACQUIRED: ---
 ACQBUS: "oil and gas"
-ACQBUS: "holding"
-ACQLOC: "Australia"
-ACQLOC: "west Queensland"
-ACQLOC: "Santos"
-ACQLOC: "Santos"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: ---
+STATUS: "closed"
 
 TEXT: 17973
 ACQUIRED: ---
-ACQBUS: "banks"
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: "26 mln dlrs"
 DLRAMT: "nine mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 17981
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Kansas"
-ACQLOC: "Columbia"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 17993
 ACQUIRED: ---
 ACQBUS: "mortgage and lending services"
-ACQBUS: "holding"
-ACQLOC: "Virginia"
-ACQLOC: "Virginia"
+ACQLOC: ---
 DLRAMT: "20 mln dlrs"
 DLRAMT: "20 mln dlrs"
 DLRAMT: "700 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "acquired"
-STATUS: "agreement"
 
 TEXT: 1801
 ACQUIRED: ---
@@ -1999,20 +1539,17 @@ ACQBUS: ---
 ACQLOC: ---
 DLRAMT: "eight mln dlrs"
 PURCHASER: ---
-SELLER: ---
-STATUS: "offer"
+SELLER: "Clayton"
 STATUS: "offered to buy"
 
 TEXT: 18038
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: "271 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 18111
 ACQUIRED: ---
@@ -2024,9 +1561,9 @@ SELLER: ---
 STATUS: "sold"
 
 TEXT: 18188
-ACQUIRED: ---
+ACQUIRED: "PacifiCorp"
 ACQBUS: "computer"
-ACQLOC: "MacLean"
+ACQLOC: ---
 DLRAMT: "25 mln dlrs"
 DLRAMT: "15 mln dlrs"
 PURCHASER: ---
@@ -2040,35 +1577,25 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "revision"
-STATUS: "announced"
+STATUS: "closed"
 
 TEXT: 1847
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: "310 mln dlrs"
 DLRAMT: "260 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
-STATUS: "tendered"
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 18504
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "New Zealand"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "sold"
 STATUS: "will sell"
 
 TEXT: 18667
@@ -2078,15 +1605,12 @@ ACQLOC: ---
 DLRAMT: "90 mln stg"
 PURCHASER: ---
 SELLER: ---
-STATUS: "sold"
 STATUS: "making every possible effort to remain independent"
-STATUS: "announced"
-STATUS: "bid"
 
 TEXT: 18682
 ACQUIRED: ---
 ACQBUS: "airline"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -2095,42 +1619,31 @@ STATUS: "proposed"
 TEXT: 18783
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Syracuse"
-ACQLOC: "N.Y."
-ACQLOC: "Syracuse"
-ACQLOC: "Rochester"
-ACQLOC: "Buffalo"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "terminated an agreement"
-STATUS: "terminated"
-STATUS: "agreement"
 
 TEXT: 18861
 ACQUIRED: ---
 ACQBUS: "battery charger product"
-ACQLOC: "Dallas"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement"
 STATUS: "approved"
 
 TEXT: 18921
 ACQUIRED: ---
-ACQBUS: "banks"
 ACQBUS: "holding"
-ACQLOC: "Memphis"
+ACQLOC: ---
 DLRAMT: "2.2 billion dlrs"
 DLRAMT: "190 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "will be acquired"
-STATUS: "acquired"
-STATUS: "signed an agreement"
-STATUS: "agreement"
 
 TEXT: 18963
 ACQUIRED: ---
@@ -2144,27 +1657,18 @@ STATUS: "sold"
 TEXT: 19006
 ACQUIRED: ---
 ACQBUS: "pharmaceutical"
-ACQLOC: "Japan"
-ACQLOC: "Japan"
+ACQLOC: ---
 DLRAMT: "40 mln dlrs"
 DLRAMT: "75 mln dlrs"
 DLRAMT: "75 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "interested in buying"
 STATUS: "not interested in buying"
-STATUS: "announced"
-STATUS: "will sell"
-STATUS: "agreement"
-STATUS: "agreement in principle"
-STATUS: "approached"
 
 TEXT: 19042
 ACQUIRED: ---
 ACQBUS: "large scale integrated circuits"
-ACQBUS: "computer"
-ACQLOC: "California"
-ACQLOC: "Japan"
+ACQLOC: ---
 DLRAMT: "1.5 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -2178,25 +1682,20 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "ended"
-STATUS: "offer"
-STATUS: "expired"
 
 TEXT: 19297
 ACQUIRED: ---
 ACQBUS: "airline"
-ACQLOC: "Dallas"
-ACQLOC: "Fort Worth Regional Airport"
+ACQLOC: ---
 DLRAMT: "14.1 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 19343
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Santa Monica"
-ACQLOC: "Calif."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -2210,19 +1709,15 @@ DLRAMT: "100 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed an agreement"
-STATUS: "agreement"
 
 TEXT: 19368
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Delaware"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "closed the sale"
 STATUS: "agreed to sell"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 19448
 ACQUIRED: ---
@@ -2240,25 +1735,20 @@ ACQLOC: ---
 DLRAMT: "235 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 19663
 ACQUIRED: ---
 ACQBUS: "electric generation"
-ACQLOC: "Schuykill"
+ACQLOC: ---
 DLRAMT: "10 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "sold"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 19681
 ACQUIRED: ---
 ACQBUS: "consumer electronics specialty retailer"
-ACQBUS: "electronics"
 ACQLOC: ---
 DLRAMT: "30 mln dlrs"
 DLRAMT: "not disclosed"
@@ -2268,32 +1758,22 @@ STATUS: "acquired"
 
 TEXT: 19683
 ACQUIRED: ---
-ACQBUS: "electronics"
 ACQBUS: "holding"
-ACQBUS: "entertainment"
-ACQLOC: "Edison"
-ACQLOC: "N.J."
-ACQLOC: "Houston"
+ACQLOC: ---
 DLRAMT: "52 mln dlrs"
 DLRAMT: "11.9 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "offer"
 STATUS: "may pursue a merger"
-STATUS: "bought"
-STATUS: "bid"
 
 TEXT: 19699
 ACQUIRED: ---
 ACQBUS: "gas distribution"
-ACQLOC: "Texas"
-ACQLOC: "Kentucky"
+ACQLOC: ---
 DLRAMT: "61.5 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 19719
 ACQUIRED: ---
@@ -2303,25 +1783,20 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 19751
 ACQUIRED: ---
 ACQBUS: "auto parts"
-ACQBUS: "holding"
-ACQBUS: "brokerage"
-ACQLOC: "Los Angeles"
-ACQLOC: "New York"
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
+STATUS: "closed"
 
 TEXT: 19767
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "79 mln dlrs"
 DLRAMT: "20 mln dlrs"
 DLRAMT: "11.3 mln dlrs"
@@ -2334,10 +1809,6 @@ DLRAMT: "eight mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
-STATUS: "terminated"
-STATUS: "tentatively agreed"
-STATUS: "approved"
 
 TEXT: 19912
 ACQUIRED: ---
@@ -2347,23 +1818,17 @@ DLRAMT: "22.5 mln dlrs"
 DLRAMT: "four mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "offer"
-STATUS: "accepted"
 STATUS: "terminated"
-STATUS: "complete"
 
 TEXT: 19983
 ACQUIRED: ---
 ACQBUS: "leasing of fleets of cars"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "one billion dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
-STATUS: "approved"
 
 TEXT: 2013
 ACQUIRED: ---
@@ -2385,42 +1850,30 @@ STATUS: "withdrawn his proposal"
 
 TEXT: 20744
 ACQUIRED: ---
-ACQBUS: "banks"
-ACQLOC: "New York"
-ACQLOC: "New York"
-ACQLOC: "Irving"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "reaffirmed the terms"
-STATUS: "rejected"
-STATUS: "completed"
-STATUS: "bid"
-STATUS: "complete"
-STATUS: "reject"
 
 TEXT: 20824
 ACQUIRED: ---
-ACQBUS: "airline"
-ACQBUS: "merchant bank"
+ACQBUS: "merchant banking"
 ACQLOC: ---
 DLRAMT: "600 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "agreed"
-STATUS: "bid"
 
 TEXT: 20834
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: "1.9 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "will acquire"
-STATUS: "agreement"
 
 TEXT: 2102
 ACQUIRED: ---
@@ -2439,41 +1892,30 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 21046
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Henley"
-ACQLOC: "Henley"
-ACQLOC: "Henley"
-ACQLOC: "Henley"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "one billion dlrs"
 DLRAMT: "750 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "announced"
-STATUS: "bid"
 STATUS: "ended talks"
 
 TEXT: 21129
 ACQUIRED: ---
 ACQBUS: "colorants for the plastics industry"
-ACQLOC: "Somerset"
-ACQLOC: "N.J."
+ACQLOC: ---
 DLRAMT: "70 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "ended"
-STATUS: "announced"
-STATUS: "agreement"
 
 TEXT: 21134
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Ecuador"
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
@@ -2482,30 +1924,17 @@ STATUS: "acquired"
 TEXT: 21251
 ACQUIRED: ---
 ACQBUS: "entertainment"
-ACQLOC: "Hal Roach"
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "115 mln dlrs"
 DLRAMT: "70 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "offer"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 2126
 ACQUIRED: ---
 ACQBUS: "surface science instruments"
-ACQBUS: "electronics"
-ACQLOC: "Munich"
-ACQLOC: "West
-Germany"
-ACQLOC: "Eden Prairie"
-ACQLOC: "Minn."
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
@@ -2514,37 +1943,28 @@ STATUS: "acquired"
 TEXT: 21278
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Los Angeles"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "reached an agreement"
-STATUS: "offer"
-STATUS: "agreement"
 STATUS: "agreement in principal"
 
 TEXT: 21319
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "oil"
 ACQLOC: "Hong"
-ACQLOC: "U.S."
 DLRAMT: "15 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "clearance"
-STATUS: "bought"
 
 TEXT: 21358
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Napa"
-ACQLOC: "U.S."
-ACQLOC: "Denver"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "16 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "purchased"
 STATUS: "approved"
 
 TEXT: 21376
@@ -2554,16 +1974,11 @@ ACQLOC: ---
 DLRAMT: "62.4 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
-STATUS: "offer"
 STATUS: "begin a cash tender offer"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 21382
 ACQUIRED: ---
 ACQBUS: "aerospace and defense"
-ACQBUS: "railroad"
 ACQLOC: ---
 DLRAMT: "1.0 billion dlrs"
 DLRAMT: "118.1 mln dlrs"
@@ -2577,32 +1992,22 @@ STATUS: "approved"
 TEXT: 21454
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Ravenna"
-ACQLOC: "Italy"
+ACQLOC: ---
 DLRAMT: "195 mln dlrs"
 DLRAMT: "370 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 21462
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Ravenna"
-ACQLOC: "Italy"
+ACQLOC: ---
 DLRAMT: "195 mln dlrs"
 DLRAMT: "370 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 21469
 ACQUIRED: ---
@@ -2612,116 +2017,86 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "proposed"
-STATUS: "offer"
-STATUS: "revision"
-STATUS: "bid"
-STATUS: "reconsider"
 
 TEXT: 2159
 ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
 DLRAMT: ---
-PURCHASER: ---
-SELLER: ---
-STATUS: "offer"
+PURCHASER: "Bell"
+SELLER: "Bell"
+SELLER: "Regal"
 STATUS: "doubled its offer"
-STATUS: "considering"
 
 TEXT: 2193
 ACQUIRED: ---
 ACQBUS: "glass manufacturer"
-ACQLOC: "Rigolleau"
-ACQLOC: "Rigolleau"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to transfer"
-STATUS: "agreed"
-STATUS: "would reduce"
 
 TEXT: 2202
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Frankfurt"
-ACQLOC: "Spain"
-ACQLOC: "West Germany"
-ACQLOC: "Spain"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 2237
 ACQUIRED: ---
 ACQBUS: "high technology equipment"
-ACQLOC: "Philadelphia"
+ACQLOC: ---
 DLRAMT: "20 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed an agreement"
-STATUS: "agreement"
 
 TEXT: 2251
 ACQUIRED: ---
 ACQBUS: "oil field service"
-ACQLOC: "Texas"
-ACQLOC: "Texas"
+ACQLOC: ---
 DLRAMT: "65 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "sold"
 STATUS: "under consideration"
-STATUS: "agreed"
-STATUS: "agreement"
-STATUS: "approved"
-STATUS: "complete"
-STATUS: "would reduce"
 
 TEXT: 2271
 ACQUIRED: ---
 ACQBUS: "pharmaceutical"
-ACQLOC: "Enzon Inc"
-ACQLOC: "Enzon"
-ACQLOC: "Enzon"
-ACQLOC: "Enzon"
+ACQLOC: ---
 DLRAMT: "two mln dlrs"
 DLRAMT: "15 mln dlrs"
 DLRAMT: "two mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "complete"
 
 TEXT: 2301
 ACQUIRED: ---
-ACQBUS: "banks"
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "preliminary agreement"
-STATUS: "agreement"
 
 TEXT: 2322
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "announced"
-STATUS: "agreement"
 
 TEXT: 2344
 ACQUIRED: ---
 ACQBUS: "kits for home design and remodeling projects"
-ACQBUS: "sliding and folding door hardware"
-ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: "50 mln dlrs"
 DLRAMT: "not disclosed"
@@ -2732,13 +2107,11 @@ STATUS: "acquired"
 TEXT: 2434
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Portland"
-ACQLOC: "Ore."
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
 
 TEXT: 2532
 ACQUIRED: ---
@@ -2747,8 +2120,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "negotiate the terms"
+STATUS: "offered to acquire"
 
 TEXT: 2546
 ACQUIRED: ---
@@ -2757,11 +2129,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "filed suit"
-STATUS: "rejected"
-STATUS: "bid"
-STATUS: "reject"
 
 TEXT: 2577
 ACQUIRED: ---
@@ -2775,8 +2143,7 @@ STATUS: ---
 TEXT: 2583
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Armonk"
-ACQLOC: "N.Y."
+ACQLOC: ---
 DLRAMT: "60 mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
@@ -2790,10 +2157,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "completed"
 STATUS: "completed all waiting period requirements"
-STATUS: "complete"
 
 TEXT: 2609
 ACQUIRED: ---
@@ -2802,62 +2166,44 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "expired"
 STATUS: "agreement"
 
 TEXT: 2638
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "broadcast"
 ACQLOC: ---
 DLRAMT: "9.2 mln dlrs"
 DLRAMT: "125 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "requested a response"
-STATUS: "definitive merger agreement"
-STATUS: "agreement"
 
 TEXT: 2647
 ACQUIRED: ---
-ACQBUS: "railroad"
 ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "rejection"
-STATUS: "rejected"
-STATUS: "agreement"
-STATUS: "reconsider"
-STATUS: "reject"
 STATUS: "would reduce"
 
 TEXT: 2652
 ACQUIRED: ---
-ACQBUS: "banks"
-ACQLOC: "Nordbanken"
-ACQLOC: "Fermenta"
-ACQLOC: "Fermenta"
-ACQLOC: "Nordbanken"
-ACQLOC: "Fermenta"
-DLRAMT: ---
-PURCHASER: ---
-SELLER: ---
-STATUS: "agreed"
-STATUS: "bid"
-
-TEXT: 2699
-ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
+STATUS: "agreed"
+
+TEXT: 2699
+ACQUIRED: ---
+ACQBUS: "bank"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
 STATUS: "tendered"
-STATUS: "expired"
 
 TEXT: 2714
 ACQUIRED: ---
@@ -2879,10 +2225,8 @@ STATUS: "announced"
 
 TEXT: 2818
 ACQUIRED: ---
-ACQBUS: "coal"
 ACQBUS: "oil and gas"
-ACQLOC: "Carling"
-ACQLOC: "Australia"
+ACQLOC: ---
 DLRAMT: "57 mln dlrs"
 DLRAMT: "two mln dlrs"
 DLRAMT: "196.2 mln dlrs"
@@ -2892,7 +2236,6 @@ DLRAMT: "196.2 mln Canadian dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "agreed"
 
 TEXT: 2884
 ACQUIRED: ---
@@ -2911,17 +2254,14 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
-STATUS: "selling"
 
 TEXT: 2898
 ACQUIRED: ---
 ACQBUS: "radio station"
-ACQLOC: "Philadelphia"
+ACQLOC: ---
 DLRAMT: "13.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "bought"
 STATUS: "approved"
 
 TEXT: 2946
@@ -2932,49 +2272,31 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
-STATUS: "approved"
 
 TEXT: 2956
 ACQUIRED: ---
-ACQBUS: "banks"
+ACQBUS: "bank"
 ACQLOC: "Malaysia"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "acquired"
-STATUS: "announced"
-STATUS: "bought"
 
 TEXT: 3009
 ACQUIRED: ---
-ACQBUS: "insurance"
-ACQLOC: "Washington"
-ACQLOC: "L"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "62.5 mln dlrs"
 DLRAMT: "312.8 mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "approved"
 
 TEXT: 3023
 ACQUIRED: ---
 ACQBUS: "casino hotels"
-ACQBUS: "honeymoon resorts"
-ACQBUS: "banks"
-ACQBUS: "paper"
-ACQLOC: "New York"
-ACQLOC: "Nevada"
-ACQLOC: "Pennsylvania"
-ACQLOC: "Atlantic City"
-ACQLOC: "N.J."
-ACQLOC: "New
-Jersey"
-ACQLOC: "Nevada"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "four mln dlrs"
 DLRAMT: "30.3 mln dlrs"
 DLRAMT: "12.6 mln dlrs"
@@ -2987,55 +2309,43 @@ DLRAMT: "400 mln dlrs"
 DLRAMT: "475 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
 STATUS: "started a tender offer"
-STATUS: "clearance"
-STATUS: "record date"
-STATUS: "agreement"
 
 TEXT: 304
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "United Kingdom"
-ACQLOC: "N.M."
+ACQLOC: ---
 DLRAMT: "one billion stg"
 PURCHASER: ---
-SELLER: ---
-STATUS: "offer"
+SELLER: "SHV"
 STATUS: "making a tender offer"
 
 TEXT: 3168
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "consumer products"
 ACQLOC: ---
 DLRAMT: "500 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "agreement"
 
 TEXT: 3198
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Ontario"
-ACQLOC: "Canada"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "proposed"
-STATUS: "offer"
-STATUS: "bid"
 
 TEXT: 3229
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Chicago"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 3241
 ACQUIRED: ---
@@ -3047,15 +2357,12 @@ DLRAMT: "35 mln dlrs"
 DLRAMT: "200 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "letter of intent"
 
 TEXT: 3251
 ACQUIRED: ---
 ACQBUS: "special events travel company"
-ACQBUS: "airline"
-ACQLOC: "London"
-ACQLOC: "Britain"
+ACQLOC: ---
 DLRAMT: "12 mln Canadian dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
@@ -3070,7 +2377,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "offer"
-STATUS: "announced"
 
 TEXT: 3266
 ACQUIRED: ---
@@ -3081,20 +2387,11 @@ DLRAMT: "six mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed an agreement"
-STATUS: "plans to complete"
-STATUS: "agreement"
-STATUS: "complete"
-STATUS: "agreement to sell"
 
 TEXT: 3309
 ACQUIRED: ---
 ACQBUS: "bottled water"
-ACQBUS: "holding"
-ACQLOC: "Monterey Park"
-ACQLOC: "Calif."
-ACQLOC: "California"
-ACQLOC: "Arizona"
-ACQLOC: "Texas"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -3107,26 +2404,15 @@ ACQLOC: ---
 DLRAMT: "3.4 billion dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "agreed to work together"
-STATUS: "announced"
-STATUS: "agreed"
-STATUS: "complete"
 
 TEXT: 3413
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Cincinnati"
-ACQLOC: "Ohio"
-ACQLOC: "Fort Worth"
-ACQLOC: "Texas"
+ACQBUS: "broadcast"
+ACQLOC: ---
 DLRAMT: "5.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "discussed"
-STATUS: "clearance"
-STATUS: "considering"
 STATUS: "agreement"
 
 TEXT: 3417
@@ -3139,7 +2425,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 3596
 ACQUIRED: ---
@@ -3150,25 +2435,17 @@ DLRAMT: "640 mln dlrs"
 DLRAMT: "695 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 3607
 ACQUIRED: ---
-ACQBUS: "cement producer"
 ACQBUS: "building products"
 ACQLOC: "U.S."
-ACQLOC: "Montana City"
-ACQLOC: "West Inc"
-ACQLOC: "California"
 DLRAMT: "50.2 mln dlrs"
 DLRAMT: "250 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 3622
 ACQUIRED: ---
@@ -3182,39 +2459,30 @@ STATUS: "acquired"
 TEXT: 3673
 ACQUIRED: ---
 ACQBUS: "security guard services"
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: "18 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 369
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Bluffton"
-ACQLOC: "Ohio"
-ACQLOC: "Estates"
-ACQLOC: "Ill."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "seeking to sell"
-STATUS: "approved"
 
 TEXT: 379
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Chicago"
-ACQLOC: "Santa"
-ACQLOC: "Santa Barbara"
+ACQLOC: ---
 DLRAMT: "13 mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed"
 STATUS: "agreed to purchase"
 
 TEXT: 3873
@@ -3230,7 +2498,7 @@ STATUS: "agreeed to acquire"
 TEXT: 389
 ACQUIRED: ---
 ACQBUS: "heat transfer equipment"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "12.5 mln dlrs"
 DLRAMT: "54.86 mln dlrs"
 DLRAMT: "1.72 mln dlrs"
@@ -3238,7 +2506,6 @@ DLRAMT: "12 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "reached agreement"
-STATUS: "agreement"
 
 TEXT: 3961
 ACQUIRED: ---
@@ -3247,14 +2514,12 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "announced"
 STATUS: "agreement"
 
 TEXT: 3984
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Singapore"
+ACQBUS: "oil"
+ACQLOC: ---
 DLRAMT: "10 mln dlrs"
 DLRAMT: "50 mln dlrs"
 DLRAMT: "31.7 mln dlrs"
@@ -3263,13 +2528,7 @@ DLRAMT: "34.2 mln dlrs"
 DLRAMT: "297.7 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "ended"
-STATUS: "sold"
 STATUS: "completed"
-STATUS: "agreement"
-STATUS: "approved"
-STATUS: "complete"
 
 TEXT: 4033
 ACQUIRED: ---
@@ -3278,74 +2537,51 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "decided not to accept"
 
 TEXT: 4153
 ACQUIRED: ---
-ACQBUS: "gold"
+ACQBUS: "broadcast"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "rejection"
 STATUS: "intend to pursue"
-STATUS: "reject"
 
 TEXT: 4161
 ACQUIRED: ---
 ACQBUS: "homebuilder"
-ACQLOC: "Englewood"
-ACQLOC: "Colo."
+ACQLOC: ---
 DLRAMT: "12 mln dlrs"
 DLRAMT: "15 mln dlrs"
 DLRAMT: "11.7 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 4167
 ACQUIRED: ---
 ACQBUS: "airline"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "tendered"
 STATUS: "extending its offer"
-STATUS: "extending"
-STATUS: "announced"
-STATUS: "agreement"
 
 TEXT: 4201
 ACQUIRED: ---
-ACQBUS: "aerospace and defense"
-ACQBUS: "advanced controls"
 ACQBUS: "standard and custom engineered centrifugal pumps and mechanical seals"
-ACQLOC: "New York"
-ACQLOC: "Long
-Beach"
-ACQLOC: "California"
+ACQLOC: ---
 DLRAMT: "240 mln dlrs"
 DLRAMT: "300 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "agreed to sell"
-STATUS: "completed"
-STATUS: "agreed"
-STATUS: "complete"
 
 TEXT: 4233
 ACQUIRED: ---
-ACQBUS: "banks"
-ACQBUS: "paper"
-ACQLOC: "Canada"
-ACQLOC: "Canada"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -3353,14 +2589,12 @@ STATUS: "considering"
 
 TEXT: 4237
 ACQUIRED: ---
-ACQBUS: "gold"
 ACQBUS: "publishes information about emerging technologies and their impact on business"
 ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
 
 TEXT: 4277
 ACQUIRED: ---
@@ -3369,10 +2603,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "tendered"
 STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 4323
 ACQUIRED: ---
@@ -3381,7 +2612,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "filed suit"
 
 TEXT: 4339
@@ -3396,7 +2626,7 @@ STATUS: "acquired"
 TEXT: 4408
 ACQUIRED: ---
 ACQBUS: "cardiovascular and fibrinolytic products"
-ACQLOC: "Sweden"
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
@@ -3405,26 +2635,17 @@ STATUS: "acquired"
 TEXT: 447
 ACQUIRED: ---
 ACQBUS: "gold"
-ACQLOC: "Atlantic City"
-ACQLOC: "New Jersey"
-ACQLOC: "Golden Nugget"
-ACQLOC: "Atlantic City"
+ACQLOC: ---
 DLRAMT: "140 mln dlrs"
 DLRAMT: "299 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 4493
 ACQUIRED: ---
-ACQBUS: "computer software"
 ACQBUS: "software products for financial institutions"
-ACQBUS: "computer"
-ACQLOC: "Malvern"
-ACQLOC: "Pa."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -3433,38 +2654,26 @@ STATUS: ---
 TEXT: 4536
 ACQUIRED: ---
 ACQBUS: "airline"
-ACQLOC: "Aloha"
-ACQLOC: "the Princeville Airport"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "agreed to terms"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 4537
 ACQUIRED: ---
-ACQBUS: "banks"
+ACQBUS: "bank"
 ACQLOC: ---
 DLRAMT: "9.8 mln dlrs"
 DLRAMT: "46 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
 
 TEXT: 4622
 ACQUIRED: ---
-ACQBUS: "paper"
 ACQBUS: "holding"
-ACQLOC: "Houston"
-ACQLOC: "Toronto"
-ACQLOC: "Texas"
-ACQLOC: "California"
-ACQLOC: "San Antonio"
-ACQLOC: "Beaumont"
-ACQLOC: "Laredo"
+ACQLOC: ---
 DLRAMT: "400 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -3473,7 +2682,6 @@ STATUS: "selling"
 TEXT: 4623
 ACQUIRED: ---
 ACQBUS: "salt, animal feed and seeds"
-ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: "5.1 mln dlrs"
 DLRAMT: "30.27 mln dlrs"
@@ -3481,7 +2689,6 @@ DLRAMT: "110 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "proposed"
-STATUS: "offer"
 
 TEXT: 4659
 ACQUIRED: ---
@@ -3490,14 +2697,12 @@ ACQLOC: ---
 DLRAMT: "151.4 mln stg"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "purchased"
 
 TEXT: 467
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Miami"
-ACQLOC: "Heinl"
+ACQLOC: ---
 DLRAMT: "4.5 mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
@@ -3511,98 +2716,71 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
 STATUS: "offered to buy"
-STATUS: "rejected"
-STATUS: "bid"
-STATUS: "reject"
 
 TEXT: 4812
 ACQUIRED: ---
 ACQBUS: "woven labels"
-ACQLOC: "Paterson"
-ACQLOC: "N.J."
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "completed"
-STATUS: "agreed"
-STATUS: "complete"
 
 TEXT: 4908
 ACQUIRED: ---
 ACQBUS: "oil and gas"
-ACQLOC: "Belfast"
-ACQLOC: "Northern Ireland"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "considering"
 STATUS: "raised its stake"
-STATUS: "bought"
 
 TEXT: 497
 ACQUIRED: ---
-ACQBUS: "pharmaceutical"
 ACQBUS: "pharmaceuticals"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
-STATUS: "concluded its negotiations"
 
 TEXT: 5094
 ACQUIRED: ---
 ACQBUS: "cable television systems"
-ACQLOC: "California"
-ACQLOC: "Toronto"
-ACQLOC: "Los Angeles"
+ACQLOC: ---
 DLRAMT: "100 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement to buy"
 STATUS: "entered into an agreement"
-STATUS: "agreement"
 
 TEXT: 5097
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New York"
-ACQLOC: "Long Beach"
+ACQLOC: ---
 DLRAMT: "240 mln dlrs"
 DLRAMT: "300 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
-STATUS: "approved"
 
 TEXT: 5112
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Gurnee"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 5121
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New yOrk"
+ACQLOC: ---
 DLRAMT: "135 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "tendered"
-STATUS: "expired"
-STATUS: "bid"
 
 TEXT: 5286
 ACQUIRED: ---
@@ -3611,17 +2789,12 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "take no action"
-STATUS: "considering"
-STATUS: "bid"
 
 TEXT: 5287
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Seattle"
-ACQLOC: "Washington"
-ACQLOC: "Washington"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "150.6 mln dlrs"
 DLRAMT: "342.9 mln dlrs"
 PURCHASER: ---
@@ -3632,13 +2805,9 @@ TEXT: 5293
 ACQUIRED: ---
 ACQBUS: "paper"
 ACQLOC: "Warburg"
-ACQLOC: "Warburg"
-ACQLOC: "Warburg"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
 STATUS: "started a tender offer"
 
 TEXT: 5299
@@ -3649,31 +2818,24 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "acquired"
-STATUS: "bid"
 
 TEXT: 532
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Urbana"
-ACQLOC: "Md."
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "one mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
 
 TEXT: 5411
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Gates"
+ACQLOC: ---
 DLRAMT: "23 mln dlrs"
 DLRAMT: "95 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "agreement"
-STATUS: "approved"
 STATUS: "agreement to sell"
 
 TEXT: 547
@@ -3683,8 +2845,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "tendered"
+STATUS: "closed"
 
 TEXT: 5477
 ACQUIRED: ---
@@ -3693,9 +2854,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
-STATUS: "terminated"
-STATUS: "agreement"
 STATUS: "agreement in principle"
 
 TEXT: 553
@@ -3706,7 +2864,6 @@ DLRAMT: "three mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
 
 TEXT: 5667
 ACQUIRED: ---
@@ -3715,25 +2872,17 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreement"
-STATUS: "bought"
 STATUS: "approved"
 
 TEXT: 5789
 ACQUIRED: ---
 ACQBUS: "community newspapers"
-ACQBUS: "paper"
 ACQLOC: "Houston"
 ACQLOC: "Texas"
-ACQLOC: "Wellington"
-ACQLOC: "New Zealand"
-ACQLOC: "Rhode Island"
-ACQLOC: "Houston"
 DLRAMT: "undisclosed"
-PURCHASER: ---
+PURCHASER: "INL"
 SELLER: ---
-STATUS: "offer"
-STATUS: "bought"
+STATUS: "closed"
 
 TEXT: 5854
 ACQUIRED: ---
@@ -3742,14 +2891,12 @@ ACQLOC: ---
 DLRAMT: "16.9 mln stg"
 PURCHASER: ---
 SELLER: ---
-STATUS: "acquired"
 STATUS: "will sell"
 
 TEXT: 5934
 ACQUIRED: ---
 ACQBUS: "frozen novelty products"
-ACQLOC: "U.S."
-ACQLOC: "Canada"
+ACQLOC: ---
 DLRAMT: "37 mln U.S. dlrs"
 DLRAMT: "28 mln U.S. dlrs"
 DLRAMT: "37 mln Canadian dlrs"
@@ -3757,12 +2904,9 @@ DLRAMT: "28 mln Canadian dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 5937
 ACQUIRED: ---
-ACQBUS: "electronics"
 ACQBUS: "hermetic integrated circuit packages"
 ACQLOC: ---
 DLRAMT: ---
@@ -3778,7 +2922,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "negotiations are continuing"
-STATUS: "announced"
 
 TEXT: 6027
 ACQUIRED: ---
@@ -3788,8 +2931,6 @@ DLRAMT: "90 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "approved"
-STATUS: "complete"
 
 TEXT: 6034
 ACQUIRED: ---
@@ -3799,12 +2940,11 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "ended"
-STATUS: "selling"
 
 TEXT: 6096
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "California"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -3818,8 +2958,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "raised its stake"
-STATUS: "bought"
-STATUS: "purchased"
 
 TEXT: 6188
 ACQUIRED: ---
@@ -3828,15 +2966,12 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "acquired"
 STATUS: "terminated"
 
 TEXT: 6217
 ACQUIRED: ---
 ACQBUS: "foodservice"
-ACQLOC: "Allegheny Beverage"
-ACQLOC: "Allegheny Beverage's"
+ACQLOC: ---
 DLRAMT: "1.13 billion dlrs"
 DLRAMT: "934 mln dlrs"
 DLRAMT: "8.2 mln dlrs"
@@ -3846,68 +2981,52 @@ DLRAMT: "160 mln dlrs"
 DLRAMT: "59.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "sold"
-STATUS: "acquired"
-STATUS: "accepted"
-STATUS: "agreed"
-STATUS: "approached"
 
 TEXT: 6223
-ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "New York"
-DLRAMT: ---
-PURCHASER: ---
-SELLER: ---
-STATUS: "boosted its stake"
-STATUS: "bought"
-
-TEXT: 6276
-ACQUIRED: ---
-ACQBUS: "healthcare"
-ACQBUS: "medical complex"
-ACQLOC: "Memphis"
-DLRAMT: "50 mln dlrs"
-PURCHASER: ---
-SELLER: ---
-STATUS: "acquired"
-STATUS: "agreement"
-
-TEXT: 6361
-ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "Singapore"
-ACQLOC: "Brunei"
-ACQLOC: "Brunei"
-DLRAMT: "82 mln dlrs"
-DLRAMT: "87.3 mln dlrs"
-PURCHASER: ---
-SELLER: ---
-STATUS: "ended"
-
-TEXT: 6373
 ACQUIRED: ---
 ACQBUS: ---
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
+STATUS: "boosted its stake"
+
+TEXT: 6276
+ACQUIRED: "Healthvest"
+ACQBUS: "medical complex"
+ACQLOC: "Memphis"
+DLRAMT: "50 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "acquired"
+
+TEXT: 6361
+ACQUIRED: ---
+ACQBUS: "bank"
+ACQLOC: "Singapore"
+DLRAMT: "82 mln dlrs"
+DLRAMT: "87.3 mln dlrs"
+PURCHASER: ---
+SELLER: ---
+STATUS: "closed"
+
+TEXT: 6373
+ACQUIRED: ---
+ACQBUS: "bank"
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: ---
+SELLER: ---
 STATUS: "still expected"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 6402
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "U.K."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "tendered"
-STATUS: "accepted"
-STATUS: "expired"
 STATUS: "agreed"
 
 TEXT: 6422
@@ -3918,8 +3037,6 @@ DLRAMT: "15 mln dlrs"
 DLRAMT: "500 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "reached an agreement"
-STATUS: "agreement"
 STATUS: "agreement in principle"
 
 TEXT: 6441
@@ -3930,34 +3047,25 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "ended"
-STATUS: "offer"
-STATUS: "tendered"
 
 TEXT: 6477
 ACQUIRED: ---
 ACQBUS: "gold"
-ACQLOC: "Wawa"
-ACQLOC: "Ontario"
+ACQLOC: ---
 DLRAMT: "nine mln dlrs"
 DLRAMT: "one mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
 
 TEXT: 6497
 ACQUIRED: ---
 ACQBUS: "courier"
-ACQLOC: "U.S."
-ACQLOC: "May."
+ACQLOC: ---
 DLRAMT: "54 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
 STATUS: "signed a letter of intent"
-STATUS: "announced"
-STATUS: "agreement"
-STATUS: "letter of intent"
 
 TEXT: 6499
 ACQUIRED: ---
@@ -3975,19 +3083,16 @@ ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed"
 STATUS: "agreed to purchase"
 
 TEXT: 6616
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Sunrise"
-ACQLOC: "Fla."
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to sell"
-STATUS: "agreed"
 
 TEXT: 6659
 ACQUIRED: ---
@@ -3997,16 +3102,11 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "agreement"
-STATUS: "approved"
 
 TEXT: 6689
 ACQUIRED: ---
 ACQBUS: "bank holding"
-ACQBUS: "holding"
-ACQLOC: "Rhode Island's"
-ACQLOC: "Rhode Island"
-ACQLOC: "Albany N.y"
+ACQLOC: ---
 DLRAMT: "23 billion dlrs"
 DLRAMT: "11.7 billion dlrs"
 DLRAMT: "11.1 billion dlrs"
@@ -4016,12 +3116,7 @@ DLRAMT: "136.7 mln dlrs"
 DLRAMT: "104.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "ended"
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "agreed"
-STATUS: "complete"
 
 TEXT: 6694
 ACQUIRED: ---
@@ -4030,9 +3125,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed"
 STATUS: "agreed to purchase"
-STATUS: "approved"
 
 TEXT: 6697
 ACQUIRED: ---
@@ -4046,28 +3139,20 @@ STATUS: "letter of intent"
 TEXT: 6702
 ACQUIRED: ---
 ACQBUS: "insurance"
-ACQLOC: "Dallas"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "entered into an agreement"
-STATUS: "agreement"
 
 TEXT: 6719
 ACQUIRED: ---
 ACQBUS: "lumber"
-ACQLOC: "U.S."
-ACQLOC: "U.S."
-ACQLOC: "Washington"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "agreement"
 STATUS: "management buyout proposal"
-STATUS: "bought"
-STATUS: "bid"
-STATUS: "selling"
 
 TEXT: 6731
 ACQUIRED: ---
@@ -4077,43 +3162,33 @@ DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "acquired"
 
 TEXT: 6767
 ACQUIRED: ---
 ACQBUS: "valves and marine specialty equipment"
-ACQLOC: "Houston"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 6789
 ACQUIRED: ---
 ACQBUS: "automatic control devices and power controls"
 ACQLOC: "U.K."
-ACQLOC: "U.S."
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 6818
 ACQUIRED: ---
 ACQBUS: "computer-based advertising system"
-ACQBUS: "computer"
-ACQLOC: "Rockville Center"
-ACQLOC: "N.Y."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "agreement"
-STATUS: "letter of intent"
-STATUS: "complete"
 
 TEXT: 6819
 ACQUIRED: ---
@@ -4122,10 +3197,7 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "will study"
 STATUS: "started a tender offer"
-STATUS: "reject"
 
 TEXT: 6853
 ACQUIRED: ---
@@ -4136,13 +3208,10 @@ DLRAMT: "70 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "completed"
-STATUS: "agreed"
-STATUS: "complete"
 
 TEXT: 6856
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "oil"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
@@ -4151,7 +3220,7 @@ STATUS: "sold"
 
 TEXT: 6873
 ACQUIRED: ---
-ACQBUS: ---
+ACQBUS: "oil"
 ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
@@ -4161,23 +3230,16 @@ STATUS: "acquired"
 TEXT: 6886
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Dallas"
+ACQLOC: ---
 DLRAMT: "350 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 6928
 ACQUIRED: ---
 ACQBUS: "aerospace and soft drink bottling"
-ACQBUS: "banks"
-ACQBUS: "holding"
-ACQBUS: "radio station"
-ACQLOC: "New York"
-ACQLOC: "Los Angeles"
-ACQLOC: "Akron"
-ACQLOC: "Ohio"
+ACQLOC: ---
 DLRAMT: "2.5 billion dlrs"
 DLRAMT: "one billion dlrs"
 DLRAMT: "1.25 billion dlrs"
@@ -4185,72 +3247,53 @@ DLRAMT: "387 mln dlrs"
 DLRAMT: "217 mln dlrs"
 DLRAMT: "250 mln dlrs"
 PURCHASER: ---
-SELLER: ---
-STATUS: "offer"
+SELLER: "Wagner"
 STATUS: "plans to sell"
-STATUS: "complete"
 
 TEXT: 6961
 ACQUIRED: ---
 ACQBUS: "merchant bank"
-ACQLOC: "Oporto"
-ACQLOC: "Portugal"
-ACQLOC: "Oporto"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "completed"
 STATUS: "agreed to buy"
-STATUS: "agreed"
-STATUS: "bought"
-STATUS: "complete"
 
 TEXT: 7041
 ACQUIRED: ---
-ACQBUS: "insurance"
 ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: "530 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "definitive agreement"
-STATUS: "holding talks"
-STATUS: "agreement"
 
 TEXT: 706
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: "53 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "ended"
-STATUS: "offer"
-STATUS: "bid"
 
 TEXT: 7136
 ACQUIRED: ---
 ACQBUS: "copiers and duplicators"
-ACQLOC: "U.K."
-ACQLOC: "South Africa"
-ACQLOC: "Namibia"
-ACQLOC: "South West"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 7149
 ACQUIRED: ---
 ACQBUS: "gray iron castings"
-ACQLOC: "Indiana"
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "completed"
 STATUS: "decided to sell"
-STATUS: "complete"
 
 TEXT: 7433
 ACQUIRED: ---
@@ -4264,7 +3307,7 @@ STATUS: "preliminary merger proposal"
 TEXT: 7469
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
@@ -4273,58 +3316,38 @@ STATUS: "bought"
 TEXT: 762
 ACQUIRED: ---
 ACQBUS: "steel service centers"
-ACQLOC: "Toronto"
-ACQLOC: "Alberta"
+ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "finalized agreement"
-STATUS: "announced"
-STATUS: "agreement"
 STATUS: "agreement to sell"
 
 TEXT: 7672
 ACQUIRED: ---
 ACQBUS: "timber"
-ACQBUS: "lumber"
-ACQLOC: "Pendleton"
-ACQLOC: "Ore."
-ACQLOC: "Portland"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed"
-STATUS: "bid"
 
 TEXT: 768
 ACQUIRED: ---
 ACQBUS: "courier"
-ACQLOC: "Purolator"
-ACQLOC: "Hutton"
-ACQLOC: "Hutton"
-ACQLOC: "Hutton"
-ACQLOC: "U.S."
-ACQLOC: "Hutton"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "tendered"
 STATUS: "agreement"
-STATUS: "bid"
 
 TEXT: 7693
 ACQUIRED: ---
-ACQBUS: "computer"
-ACQLOC: "the United States Bankruptcy"
-ACQLOC: "New York"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "announced"
 STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 7729
 ACQUIRED: ---
@@ -4334,22 +3357,16 @@ DLRAMT: "12.5 mln dlrs"
 DLRAMT: "15 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 7796
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "New York"
-ACQLOC: "New York"
-ACQLOC: "Southfield"
+ACQLOC: ---
 DLRAMT: "1.11 billion dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "took no action"
 STATUS: "agreed to buy"
-STATUS: "agreed"
 
 TEXT: 7964
 ACQUIRED: ---
@@ -4361,8 +3378,6 @@ DLRAMT: "one mln dlrs"
 DLRAMT: "1.5 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "reached an agreement"
-STATUS: "agreement"
 STATUS: "agreement in principle"
 
 TEXT: 7997
@@ -4382,7 +3397,6 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "bought"
 
 TEXT: 8351
 ACQUIRED: ---
@@ -4392,32 +3406,24 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 8359
 ACQUIRED: ---
 ACQBUS: "airline"
-ACQLOC: "U.S."
-ACQLOC: "Atlanta"
-ACQLOC: "Atlanta"
-ACQLOC: "Amsterdam"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "not seeking to take a stake"
-STATUS: "considering"
 
 TEXT: 8367
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Denver"
-ACQLOC: "Colo."
+ACQLOC: ---
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 8396
 ACQUIRED: ---
@@ -4426,7 +3432,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "not true"
 STATUS: "no interest in an acquisition"
 
 TEXT: 8467
@@ -4436,22 +3441,15 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 8472
 ACQUIRED: ---
 ACQBUS: "packaging materials and machinery"
-ACQLOC: "Providence"
-ACQLOC: "R.I."
-ACQLOC: "Rexham"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
-STATUS: "offer"
 STATUS: "will study"
 
 TEXT: 8496
@@ -4461,35 +3459,26 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "preliminary talks"
-STATUS: "rejected"
-STATUS: "considering"
-STATUS: "bid"
-STATUS: "reject"
 
 TEXT: 8518
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Harcourt"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "no negotiations"
-STATUS: "bid"
 
 TEXT: 8544
 ACQUIRED: ---
 ACQBUS: "gold"
-ACQLOC: "Bellevue"
-ACQLOC: "Wash."
-ACQLOC: "Golden Grain Macaroni Co"
+ACQLOC: ---
 DLRAMT: "30 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "acquired"
-STATUS: "purchased"
 
 TEXT: 8571
 ACQUIRED: ---
@@ -4502,18 +3491,8 @@ STATUS: ---
 
 TEXT: 8628
 ACQUIRED: ---
-ACQBUS: "insurance"
-ACQBUS: "gold"
-ACQBUS: "banks"
 ACQBUS: "brokerage"
-ACQLOC: "Tokyo"
-ACQLOC: "U.S."
-ACQLOC: "Japan"
-ACQLOC: "London"
-ACQLOC: "Japan"
-ACQLOC: "U.S."
-ACQLOC: "Japan"
-ACQLOC: "Japan"
+ACQLOC: ---
 DLRAMT: "90.2 billion dlrs"
 DLRAMT: "538 mln dlrs"
 DLRAMT: "500 mln dlrs"
@@ -4532,17 +3511,15 @@ DLRAMT: "35 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 8771
 ACQUIRED: ---
-ACQBUS: ---
-ACQLOC: "New York"
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "intends to boost"
-STATUS: "agreed"
 
 TEXT: 8781
 ACQUIRED: ---
@@ -4560,11 +3537,7 @@ ACQLOC: ---
 DLRAMT: "12.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "does not plan to extend the expiration date of its tender offer"
-STATUS: "offer"
-STATUS: "tendered"
-STATUS: "accepted"
 
 TEXT: 8849
 ACQUIRED: ---
@@ -4574,17 +3547,14 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "offer"
-STATUS: "complete"
 
 TEXT: 8877
 ACQUIRED: ---
 ACQBUS: "gold"
-ACQLOC: "Admiralty Island"
-ACQLOC: "Alaska"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed"
 STATUS: "agreed to purchase"
 
 TEXT: 8909
@@ -4595,8 +3565,6 @@ DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "agreement"
-STATUS: "letter of intent"
 
 TEXT: 8947
 ACQUIRED: ---
@@ -4605,8 +3573,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "will study"
 STATUS: "take no action"
 
 TEXT: 8996
@@ -4621,50 +3587,39 @@ STATUS: "purchased"
 TEXT: 8998
 ACQUIRED: ---
 ACQBUS: "auto supplies"
-ACQLOC: "St. Louis"
-ACQLOC: "Jackson"
-ACQLOC: "Mich.-based maker"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "agreement"
 STATUS: "approved"
 
 TEXT: 9027
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "Noverco"
-ACQLOC: "Sceptre"
-ACQLOC: "Noverco"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "sold"
-STATUS: "purchased"
 
 TEXT: 904
 ACQUIRED: ---
 ACQBUS: "gold"
-ACQLOC: "Ohio"
+ACQLOC: ---
 DLRAMT: "242 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "agreed to buy"
-STATUS: "agreed"
 
 TEXT: 9102
 ACQUIRED: ---
 ACQBUS: "custom power conversion systems"
-ACQLOC: "Los Angeles"
+ACQLOC: ---
 DLRAMT: "20 mln Canadian dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 9108
 ACQUIRED: ---
@@ -4673,24 +3628,18 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed"
-STATUS: "agreement"
-STATUS: "approved"
 STATUS: "move up the completion date"
 
 TEXT: 9156
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Brussels"
-ACQLOC: "New York"
+ACQLOC: ---
 DLRAMT: "630 mln dlrs"
 DLRAMT: "600 mln dlrs"
 DLRAMT: "1.6 mln dlrs"
 DLRAMT: "2.7 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
-STATUS: "agreement"
 STATUS: "agreement reached in principle"
 
 TEXT: 9239
@@ -4701,19 +3650,15 @@ DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "completed the acquisition"
-STATUS: "completed"
-STATUS: "complete"
 
 TEXT: 932
 ACQUIRED: ---
 ACQBUS: "airline"
-ACQLOC: "Amsterdam"
-ACQLOC: "UK"
+ACQLOC: ---
 DLRAMT: "two mln stg"
 PURCHASER: ---
 SELLER: ---
 STATUS: "preliminary talks"
-STATUS: "agreed"
 
 TEXT: 9324
 ACQUIRED: ---
@@ -4722,7 +3667,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "terminated"
 
 TEXT: 9332
@@ -4732,19 +3676,16 @@ ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "agreed in principle"
-STATUS: "agreed"
 
 TEXT: 9338
 ACQUIRED: ---
 ACQBUS: ---
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "signed a letter of intent"
-STATUS: "letter of intent"
 
 TEXT: 9431
 ACQUIRED: ---
@@ -4753,15 +3694,12 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "agreement"
 STATUS: "ended talks"
 
 TEXT: 9432
 ACQUIRED: ---
 ACQBUS: "waste management"
-ACQLOC: "Ontario"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: "91 mln dlrs"
 PURCHASER: ---
 SELLER: ---
@@ -4774,47 +3712,28 @@ ACQLOC: "Colorado"
 ACQLOC: "Colorado"
 ACQLOC: "Denver"
 DLRAMT: "1.25 mln dlrs"
-PURCHASER: ---
+PURCHASER: "Corp"
 SELLER: ---
 STATUS: "agreed to buy"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 9443
 ACQUIRED: ---
 ACQBUS: "type and graphics composition systems"
-ACQBUS: "electronics"
-ACQLOC: "West Germany"
-ACQLOC: "Eschborn"
-ACQLOC: "West Germany"
-ACQLOC: "the United States"
-ACQLOC: "West
-Germany"
-ACQLOC: "the United Kingdom"
+ACQLOC: ---
 DLRAMT: "200 mln dlrs"
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "agreed to sell"
-STATUS: "announced"
-STATUS: "agreed"
-STATUS: "agreement"
 
 TEXT: 9544
 ACQUIRED: ---
 ACQBUS: "holding"
-ACQLOC: "Hong Kong"
-ACQLOC: "Hongkong"
-ACQLOC: "U.S."
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
 STATUS: "shareholders to vote"
-STATUS: "announced"
-STATUS: "agreement"
-STATUS: "approved"
 
 TEXT: 9557
 ACQUIRED: ---
@@ -4824,7 +3743,6 @@ DLRAMT: "3.5 mln dlrs"
 DLRAMT: "4.8 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
 STATUS: "sold"
 
 TEXT: 963
@@ -4845,7 +3763,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "agreed"
 STATUS: "called off their plans"
 
 TEXT: 9677
@@ -4855,34 +3772,19 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "definitive agreement"
 STATUS: "plans to complete"
-STATUS: "announced"
-STATUS: "agreement"
-STATUS: "complete"
 
 TEXT: 9733
 ACQUIRED: ---
-ACQBUS: "banks"
-ACQBUS: "paper"
-ACQLOC: "New York"
-ACQLOC: "U.S. Dlr"
-ACQLOC: "Alaska"
-ACQLOC: "Prudhoe bay"
-ACQLOC: "U.S."
+ACQBUS: "bank"
+ACQLOC: ---
 DLRAMT: "7.4 billion dlrs"
 DLRAMT: "7.02 billion dlrs"
 DLRAMT: "1.08 billion dlrs"
 DLRAMT: "608 mln dlrs"
 PURCHASER: ---
 SELLER: ---
-STATUS: "ended"
-STATUS: "offer"
-STATUS: "tendered"
-STATUS: "accepted"
-STATUS: "bought"
 STATUS: "intended to make a tender offer"
-STATUS: "complete"
 
 TEXT: 9809
 ACQUIRED: ---
@@ -4891,24 +3793,15 @@ ACQLOC: ---
 DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
-STATUS: "announced"
 STATUS: "completed"
-STATUS: "bought"
-STATUS: "complete"
 
 TEXT: 982
 ACQUIRED: ---
 ACQBUS: "breweries"
-ACQBUS: "brewing"
-ACQBUS: "banks"
-ACQBUS: "brewery"
-ACQLOC: "Dublin"
-ACQLOC: "London"
+ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "offer"
-STATUS: "sold"
 STATUS: "interested in buying"
 
 TEXT: 9858
@@ -4918,7 +3811,6 @@ ACQLOC: ---
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
-STATUS: "proposed"
 STATUS: "approved"
 
 TEXT: 9893
@@ -4930,5 +3822,4 @@ DLRAMT: "undisclosed"
 PURCHASER: ---
 SELLER: ---
 STATUS: "agreed to acquire"
-STATUS: "agreed"
 

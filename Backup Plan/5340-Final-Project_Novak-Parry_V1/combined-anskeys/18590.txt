@@ -1,0 +1,9 @@
+TEXT: 18590
+ACQUIRED: "Research-Cottrell Inc"
+ACQBUS: ---
+ACQLOC: ---
+DLRAMT: ---
+PURCHASER: "Halcyon Investments"
+SELLER: ---
+STATUS: ---
+
