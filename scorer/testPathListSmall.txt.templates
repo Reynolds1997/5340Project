@@ -1,14 +1,17 @@
 TEXT: 10042
-ACQUIRED: ---
+ACQUIRED: "Castone Development Corp"
+ACQUIRED: "Meridian"
+ACQUIRED: "Castone"
 ACQBUS: ---
-ACQLOC: ---
+ACQLOC: "Meridian"
 DLRAMT: ---
 PURCHASER: ---
 SELLER: ---
 STATUS: "terminate the letter of intent"
 
 TEXT: 10066
-ACQUIRED: ---
+ACQUIRED: "Pacific Corp"
+ACQUIRED: "Security"
 ACQBUS: "credit union data processing"
 ACQLOC: ---
 DLRAMT: ---
@@ -17,16 +20,20 @@ SELLER: ---
 STATUS: "signed a letter of intent"
 
 TEXT: 10158
-ACQUIRED: ---
+ACQUIRED: "American Adventure Inc"
+ACQUIRED: "American"
+ACQUIRED: "American Adventure"
 ACQBUS: ---
-ACQLOC: ---
+ACQLOC: "American"
 DLRAMT: "83 mln dlrs"
 PURCHASER: ---
 SELLER: ---
 STATUS: "purchased"
 
 TEXT: 10171
-ACQUIRED: ---
+ACQUIRED: "Viacom International Inc"
+ACQUIRED: "Arsenal Holdings Inc"
+ACQUIRED: "Viacom"
 ACQBUS: "holding"
 ACQLOC: ---
 DLRAMT: ---
@@ -35,9 +42,13 @@ SELLER: ---
 STATUS: "record date"
 
 TEXT: 1029
-ACQUIRED: ---
+ACQUIRED: "Hospitality Inc"
+ACQUIRED: "Capital Food Services Ltd"
+ACQUIRED: "Scott"
+ACQUIRED: "Capital Food"
+ACQUIRED: "Ottawa"
 ACQBUS: "food services"
-ACQLOC: ---
+ACQLOC: "Ottawa"
 DLRAMT: "20 mln dlrs"
 DLRAMT: "not disclosed"
 PURCHASER: ---
@@ -54,7 +65,12 @@ SELLER: ---
 STATUS: "agreement to sell"
 
 TEXT: 10348
-ACQUIRED: ---
+ACQUIRED: "Henkel KGaA"
+ACQUIRED: "Hamburg"
+ACQUIRED: "Noblee"
+ACQUIRED: "Oelmuehle Hamburg AG"
+ACQUIRED: "Noblee"
+ACQUIRED: "Noblee"
 ACQBUS: "vegetable oil and fats"
 ACQLOC: "Hamburg"
 DLRAMT: ---
@@ -63,7 +79,12 @@ SELLER: ---
 STATUS: "selling"
 
 TEXT: 10371
-ACQUIRED: ---
+ACQUIRED: "Union Miniere SA"
+ACQUIRED: "Pancontinental Mining Ltd"
+ACQUIRED: "Australia"
+ACQUIRED: "Canada"
+ACQUIRED: "Union Miniere"
+ACQUIRED: "Societe Generale de Belgique"
 ACQBUS: "natural gas and oil fields"
 ACQLOC: "Australia"
 ACQLOC: "Canada"
@@ -73,7 +94,47 @@ SELLER: ---
 STATUS: "acquired"
 
 TEXT: 10473
-ACQUIRED: ---
+ACQUIRED: "Honeywell Inc"
+ACQUIRED: "Honeywell Information Systems"
+ACQUIRED: "Compagnie des Machines Bull"
+ACQUIRED: "France"
+ACQUIRED: "NEC Corp"
+ACQUIRED: "Japan"
+ACQUIRED: "Honeywell"
+ACQUIRED: "the Sperry Aerospace Group"
+ACQUIRED: "Honeywell"
+ACQUIRED: "Bull"
+ACQUIRED: "NEC"
+ACQUIRED: "Honeywell"
+ACQUIRED: "Honeywell Bull"
+ACQUIRED: "Honeywell Inc"
+ACQUIRED: "Bull"
+ACQUIRED: "NEC"
+ACQUIRED: "Honeywell"
+ACQUIRED: "NEC"
+ACQUIRED: "Bull"
+ACQUIRED: "Honeywell"
+ACQUIRED: "Honeywell"
+ACQUIRED: "Edson Spencer"
+ACQUIRED: "Honeywell"
+ACQUIRED: "Spencer"
+ACQUIRED: "Honeywell"
+ACQUIRED: "Honeywell Bull's"
+ACQUIRED: "Honeywell"
+ACQUIRED: "U.S."
+ACQUIRED: "Honeywell"
+ACQUIRED: "Federal Systems Division"
+ACQUIRED: "Honeywell Inc"
+ACQUIRED: "Honeywell Federal Systems Inc."
+ACQUIRED: "Honeywell"
+ACQUIRED: "Honeywell Bull"
+ACQUIRED: "Honeywell"
+ACQUIRED: "NEC"
+ACQUIRED: "Jacques Stern"
+ACQUIRED: "Bull"
+ACQUIRED: "Honeywell Bull's"
+ACQUIRED: "Jerome Meyer"
+ACQUIRED: "Honeywell Information Systems"
 ACQBUS: "aerospace and defense"
 ACQLOC: "France"
 ACQLOC: "Japan"
@@ -84,10 +145,20 @@ SELLER: ---
 STATUS: "completed"
 
 TEXT: 10527
-ACQUIRED: ---
+ACQUIRED: "LSB Industries Inc"
+ACQUIRED: "Northwest Federal Savings"
+ACQUIRED: "Loan Association"
+ACQUIRED: "Woodward"
+ACQUIRED: "Oklahoma"
+ACQUIRED: "Northwest"
+ACQUIRED: "Northwest Federal"
+ACQUIRED: "Northwest Federal"
+ACQUIRED: "LSB"
+ACQUIRED: "the Federal Home Loan Bank Board"
 ACQBUS: "bank"
 ACQLOC: "Woodward"
 ACQLOC: "Oklahoma"
+ACQLOC: "Northwest Federal"
 DLRAMT: "1.5 mln dlrs"
 DLRAMT: "30 mln dlrs"
 PURCHASER: ---
